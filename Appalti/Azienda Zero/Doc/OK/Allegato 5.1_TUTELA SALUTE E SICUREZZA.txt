@@ -1,0 +1,446 @@
+
+
+
+
+
+I N D I C E
+1 GENERALITÀ ED OBBLIGHI	3
+2 RISCHI SPECIFICI PRESENTI NELLE AREE SANITARIE	5
+3 PERSONALE PER L'ESECUZIONE DEI LAVORI ELETTRICI	8
+4 RESPONSABILITÀ PER LAVORI ELETTRICI	9
+4.1 Lavori su impianti complessi	9
+4.2 Deleghe per lavori su impianti complessi	10
+4.3 Lavori su impianti non complessi	10
+4.4 Lavori su impianti speciali di sicurezza e di comunicazione	10
+5 ORGANIZZAZIONE DEL LAVORO PER LAVORI ELETTRICI	11
+5.1 Pianificazione del lavoro	11
+5.2 Lavoro elettrico fuori tensione	11
+5.3 Lavoro elettrico sotto tensione a contatto	12
+5.4 Lavoro elettrico sotto tensione a distanza	13
+5.5 Lavoro elettrico in prossimità	14
+6 MISURE DI RIDUZIONE DEL RISCHIO DI ASPERGILLOSI DERIVANTE DA
+CANTIERI OSPEDALIERI	15
+6.1 Generalità	15
+6.2 Scopo	16
+6.3 Campo di applicazione	17
+6.4 Riferimenti normativi e legislativi	17
+6.5 Glossario e Acronimi	17
+6.6 Classificazione dei Pazienti a Rischio	18
+6.7 Modalità operative	19
+6.8 Misure di controllo della trasmissione di infezioni da Aspergillus	19
+6.9 Norme comportamentali per gli addetti ai lavori	22
+
+
+
+1 GENERALITÀ ED OBBLIGHI
+
+      Il presente documento è da intendersi come parte integrante del documento di valutazione dei rischi previsto dall'art 26, comma 3 del D.Lgs 81/2008 e s.m.i.. Ogni Azienda Sanitaria aderente alla Convenzione dovrà comunque fornire all'Appaltatore, ai sensi del citato articolo, tutte le informazioni circa i rischi interferenziali presenti nelle aree interessate. Analogamente, l'Appaltatore dovrà informare l'Azienda Sanitaria circa i rischi derivanti dalla propria attività per i pazienti, per il personale sanitario, per il personale di altre aziende terze operanti nelle strutture.
+      L'Appaltatore assume con la propria organizzazione la gestione per il compimento dei servizi richiesti, a proprio rischio e necessaria autonomia, come stabilito dall'art. 1655 del Codice Civile, rimane strettamente a carico dello stesso il rispetto delle normative poste a tutelare la sicurezza e salute dei lavoratori presenti nei luoghi interessati.
+      Questa esigenza diviene imperativa considerando la presenza nei luoghi interessati dalle attività oggetto del Servizio o in vicinanza degli stessi, dei visitatori, dei degenti, dei fruitori dei servizi e dei lavoratori dell'Azienda Sanitaria.
+      A tutti questi soggetti, qualora si trovino a transitare, operare o sostare nelle aree eventualmente interessate dai lavori, l'Appaltatore è tenuto a garantire i medesimi livelli di sicurezza e tutela della salute previsti per i propri lavoratori, in relazione ai rischi di natura infortunistica o di igiene del lavoro.
+      L'Appaltatore è tenuto a presentare prima dell'inizio del Servizio un piano di lavoro contenente il programma delle attività, le responsabilità, le interferenze e le principali indicazioni circa i rischi specifici e le misure di prevenzione.
+      Tali documenti, da trasmettere all'Azienda Sanitaria prima dell'inizio del Servizio e comunque non oltre trenta giorni dalla consegna dello stesso, dovranno inoltre comprendere l'analisi dei rischi presenti connessi all'esecuzione dei lavori in genere, con la valutazione delle eventuali interferenze con le comuni attività sanitarie e l'individuazione dei provvedimenti e delle misure da adottare.
+      Prima dell'inizio del Servizio l'Appaltatore dovrà concordate con i servizi tecnici e con il Servizio di Prevenzione e Protezione delle Aziende Sanitarie per ricevere le informazioni sui principali rischi presenti nell'Azienda Sanitaria e le indicazioni integrative di tipo preventivo per le Imprese appaltatrici o lavoratori autonomi che operano all'interno delle stesse in merito ai rischi specifici esistenti nell'ambito ospedaliero e sanitario in genere in cui è destinato ad operare e sulle misure di prevenzione e di emergenza adottate in relazione alla propria attività, ai sensi dell'art. 26 del D.Lgs 81/2008 e s.m.i.
+L'Appaltatore è tenuto a comunicare tali informazioni ai propri dipendenti
+      Tale obbligo si estende a tutti i sub-appaltatori e alle imprese specializzate comunque impiegate nel corso del Servizio.
+      Si precisa che i rischi attinenti le attività oggetto del Servizio sono da considerarsi come "rischi specifici propri dell'attività delle imprese appaltatrici o dei singoli lavoratori autonomi" (art. 26, comma 3 del D.Lgs 81/2008).
+Prima dell'inizio del Servizio l'Appaltatore e tenuto a trasmettere all'Azienda Sanitaria:
+
+
+* certificato di iscrizione alla CCIAA riportante dati circa l'idoneità tecnico- professionale in relazione ai lavori affidati;
+* dichiarazione dell'organico medio annuo, distinto per qualifica, corredata dagli estremi delle denunce dei lavoratori effettuate all'INPS, all'INAIL e alle Casse Edili, nonché una dichiarazione relativa la contratto di lavoro collettivo applicato ai lavoratori dipendenti.
+      A sovrintendere le attività presso i luoghi oggetto dei lavori e dei servizi sarà il Responsabile Tecnico nominato dal Legale Rappresentante dell'Appaltatore, e, eventualmente, una adeguata struttura gerarchica, che dovrà essere descritta in un apposito organigramma.
+Il Responsabile Tecnico avrà in particolare i seguenti obblighi:
+* disporre, esigere e verificare che siano adottate le misure di sicurezza previste dalle disposizioni di legge e dal piano di lavoro;
+* programmare gli interventi in relazione alle misure di sicurezza da adottare per l'attuazione del piano;
+* rendere edotti i lavoratori dei rischi specifici cui sono esposti nell'esecuzione del servizio, prima dell'inizio di ogni fase di lavoro;
+* mettere a disposizione dei lavoratori i mezzi personali di protezioni necessari in relazione ai rischi previsti;
+* controllare, all'inizio di ogni fase di lavoro sia i mezzi personali di protezione dati in consegna al personale, sia le opere di prevenzione, al fine di accertare l'idoneità delle stesse a prevenire i rischi previsti;
+* controllare la idoneità all'impiego delle attrezzature di lavoro necessarie;
+* mettere a disposizione dei lavoratori i presidi di pronto soccorso;
+* segnalare immediatamente al Amministrazione la presenza di eventuali rischi non previsti nel piano di sicurezza e la eventuale impossibilità di attuazione delle misure di prevenzione previste dal piano, sospendendo i lavori in atto, in attesa di istruzioni;
+      Il Responsabile Tecnico è diretto ed unico responsabile dell'adozione di quelle opere e di quegli accorgimenti richiesti da leggi e regolamenti vigenti, nonché suggeriti dalla pratica atti ad evitare danni o sinistri a chi lavora e a terzi.
+      L'Appaltatore deve inoltre aver adempiuto agli obblighi posti dal D.Lgs. 81/2008 ed è tenuto a produrre all'Azienda Sanitaria le copie delle comunicazioni, come trasmesse agli organi di vigilanza nelle quali viene individuato il Responsabile del Servizio di Prevenzione e Protezione, (RSPP), complete di curriculum.
+      Unitamente alle predette comunicazioni dovranno essere trasmesse le nomine del Medico Competente e del Rappresentante dei Lavoratori per la Sicurezza o Rappresentante per la Sicurezza (RLS).
+      L'Appaltatore è tenuto a presentare la documentazione circa i requisiti tecnico professionali richiesti da DPR 462/01.
+
+
+      L'Appaltatore è informato che esistono all'interno delle aree oggetto del Servizio rischi caratteristici dell'ambiente ospedaliero di tipo biologico, chimico, fisico ed impiantistico.
+      Inoltre, l'Appaltatore è informato che esistono all'interno delle aree manufatti che potrebbero contenere amianto, suoi derivati o minerali simili.
+
+2 RISCHI SPECIFICI PRESENTI NELLE AREE SANITARIE
+
+      Le attività si svolgeranno presso i locali tecnici, le centrali tecnologiche, le cabine elettriche, i locali quadri elettrici e i reparti dell'Azienda Sanitaria.
+      Qualsiasi attività che prevede l'utilizzo di fiamme libere, l'utilizzo di gas infiammabile e/o comburente, il deposito di materiale combustibile o infiammabile, presso l'edifico interessato dai lavori dovrà essere concordato preventivamente ed autorizzato dal Responsabile del SPP dell'Azienda Sanitaria.
+      Nessuno dei percorsi d'esodo degli edifici o delle aree di pertinenza dell'Azienda Sanitaria potrà essere modificato in termini di agibilità, lunghezza larghezza ed altezza, senza previa approvazione dell'Amministrazione.
+      In parte dell'area nella quale possono aver luogo i lavori vi può essere presenza di radiazioni ionizzanti. Normalmente queste zone sono delimitate da pareti o porte indicate dalla segnaletica qui di seguito riportata.
+
+
+      Qualora le aree di lavoro interessino zone così delimitate le modalità di attraversamento o le precauzioni da adottarsi dovranno essere concordate con il Responsabile SPP dell'Azienda per la sicurezza e con i referenti per la sicurezza dell'edificio interessato dai lavori.
+      Normalmente tutti i rifiuti presenti nell'area, che potenzialmente potrebbero comportare rischio biologico sono di norma contenuti in recipienti appositi che portano il seguente contrassegno indicante il rischio biologico:
+
+
+
+      In ogni caso, poiché non si può escludere la presenza nell'area di siringhe, rifiuti o quant'altro da cui possa discendere un qualche rischio di natura biologica, si informa
+
+
+l'Appaltatore di tale eventualità, che potrà anche essere presente negli impianti fognari, materiali depositati etc.
+      L'Appaltatore è informato che nelle aree ove si svolge il Servizio potranno essere presenti agenti chimici fonti di rischio. Il rischio chimico è individuabile per la presenza, nei contenitori, negli strumenti, nei macchinari o in genere nei locali, di pittogrammi di pericolo specifici di normi conformi alla standardizzazione europea in materia (ad esempio nel Regolamento (CE) n. 1272/2008).
+
+
+
+      Conseguentemente devono essere adottati a cura dell'Appaltatore tutti quei provvedimenti per la protezione contro i rischi prevedibili di danni per gli addetti ai lavori, dandone anche notizia al proprio medico competente, in base ai rischi specifici precedentemente indicati, associati anche con la presenza e localizzazione dei sottoservizi o la natura o attività svolta nei luoghi ove le attività possono aver luogo.
+      Qualora elementi delle reti di distribuzione di elettricità, gas, acqua, vapore, gas medicali, telefoniche e simili o della rete fognaria o canali sotterranei possono costituire pericolo per i lavori di costruzione e dei servizi correlati, devono essere presi immediati accordi con gli uffici tecnici dell'Azienda e/o le Società, Aziende, Enti o privati esercenti tali reti, al fine di mettere in atto le misure di sicurezza prima dell'inizio dei lavori.
+      Nelle strutture ospedaliere, ove possono avvenire i lavori o nelle aree di loro pertinenza, vi possono essere impianti di trasporto e distribuzione o deposito di azoto liquido e protossido di azoto allo stato gassoso.
+      I contatti con gli enti o privati dovranno essere presi prima dell'inizio dei lavori al fine di realizzare una mappatura completa dei servizi tecnici e, quindi, poter mettere in atto le necessarie misure di sicurezza.
+      Si dovrà verificare le attività aeree previste, la reale presenza di eventuali servizi o sottoservizi all'interno o confinante con l'area interessata dai lavori, potendo essere non sufficienti o aggiornate allo stato di fatto le indicazioni riportate in questa sede.
+      I numeri utili in caso di emergenza dovranno essere indicati nei documenti di sicurezza comunicati a tutti i dipendenti dell'Appaltatore secondo il seguente schema:
+
+
+SERVIZIO DI PRONTO INTERVENTO TECNICO DELL'AZIENDA
+...
+ULSS ...
+...
+SPISAL
+...
+ARPAV
+...
+POLIZIA
+113
+
+
+
+CARABINIERI
+112
+VIGILI DEL FUOCO
+115
+PRONTO SOCCORSO
+118
+
+
+
+
+3 PERSONALE PER L'ESECUZIONE DEI LAVORI ELETTRICI
+
+      I lavori elettrici devono essere eseguiti da persone addestrate nel significato indicato dalla norma CEI 64-8: persona avente conoscenze tecniche o esperienza (persona istruita), o che ha ricevuto istruzioni specifiche sufficienti per permetterle di prevenire i pericoli dell'elettricità, in relazione a determinate operazioni condotte in condizioni specificate (persona avvertita).
+Il termine addestrato è pertanto un attributo relativo:
+* al tipo di operazione;
+* al tipo di impianto sul quale, o in vicinanza del quale, si deve operare;
+* alle condizioni ambientali, contingenti e di supervisione da parte di personale più preparato.
+      Da questa definizione discende che una persona può essere addestrata per effettuare un certo lavoro elettrico, ad esempio fuori tensione, ma non un altro tipo di lavoro elettrico più impegnativo, ad esempio un lavoro elettrico sotto tensione a contatto o un lavoro in prossimità mediante distanza con sorveglianza.
+      Nel nostro Paese non esistono autorizzazioni, o patentini, che abilitano le persone a svolgere lavori elettrici; spetta al datore di lavoro, o a chi per lui, giudicare se una persona, in base all'addestramento ricevuto e/o all'esperienza svolta, è idonea per eseguire un determinato lavoro elettrico. Le Norme prevedono però che i lavori elettrici sotto tensione in BT possano essere eseguiti solo da personale in possesso di attestato di idoneità (rilasciato dal Datore di Lavoro) che ne certifichi l'idoneità ad una determinata tipologia di lavoro e l'appartenenza ad una categoria di lavoratori così definite dalla Norma:
+Persona esperta (PES)
+      Persona con istruzione, conoscenza ed esperienza rilevanti tali da consentirle di analizzare i rischi e di evitare i pericoli che l'elettricità può creare.
+Persona avvertita (PAV)
+      Persona adeguatamente avvisata da persone esperte per metterla in grado di evitare i pericoli che l'elettricità può creare.
+Persona comune (PEC)
+Persona che non è esperta e non è avvertita.
+      L'attribuzione della condizione di PES o PAV, accompagnata dall'indicazione della o delle tipologie di lavoro a cui si riferisce, è di esclusiva competenza dei datori di lavoro. Per i lavoratori autonomi è prevista l'autocertificazione, per la quale la Norma raccomanda che sia basata su idonea documentazione.
+      Se allo stesso lavoro elettrico sono addette più persone, deve essere nominato il preposto ai lavori, il quale ha la responsabilità della sicurezza nell'esecuzione dei lavori; in particolare deve:
+* individuare la zona di lavoro,
+
+
+* informare gli addetti sui compiti da svolgere e le procedure da seguire,
+* verificare l'efficienza delle attrezzature e dei dispositivi di protezione individuali da utilizzare,
+* autorizzare l'inizio dei lavori.
+
+      Per ogni operaio presente, contestualmente alla presentazione dei documenti dell'Appaltatore al fine di stabilire l'esatta posizione contributiva, dovrà essere comunicato la condizione di Persona Esperta (PES) o Persona Avvertita (PAV) per i lavori elettrici in conformità alla norma CEI 11-27:2005. La comunicazione dovrà avvenire tramite l'autocertificazione da parte del datore di lavoro di cui al punto 5.3.1.2 della noma.
+      L'autocertificazione potrà essere accompagnata dalla documentazione informativa di cui allo stesso punto della norma.
+      Le squadre di operai che opereranno nei vari ambienti dell'area ospedaliera e negli edifici dell'Azienda Sanitaria dovranno essere costituite da un minimo di 2 persone di cui almeno una con competenze di Persona Esperta (PES).
+      Non potranno essere costituite squadre composte esclusivamente da Persone Avvertite (PAV) o esclusivamente da operai che abbiano un inquadramento professionale equiparabile al 3° livello secondo il contratto dei metalmeccanici.
+
+4 RESPONSABILITÀ PER LAVORI ELETTRICI
+
+      Nelle normali attività di manutenzione, anche straordinaria, che coinvolga impianti o sottoinsiemi impiantistici dell'Azienda Sanitaria, i lavori svolti potranno essere di tipo ordinario o complesso.
+Gli impianti o parti di impianto, che sono considerati complessi sono, sinteticamente:
+* cabine elettriche consegna e/o trasformazione di MT/BT;
+* gruppi di continuità assoluta, raddrizzatori/carica batterie;
+* gruppi elettrogeni;
+* impianti in sale operatorie, terapie intensive, ecc;
+* altri impianti di particolare complessità che verranno individuati di volta in volta.
+
+4.1 Lavori su impianti complessi
+
+
+
+sono:
+
+Nel caso di lavori su impianti complessi le figure e le responsabilità coinvolte nel lavoro
+
+* Responsabile dell'Impianto (RI): il responsabile degli impianti elettrici dell'Azienda Sanitaria o un suo delegato tra i tecnici dell'Amministrazione o il Responsabile Tecnico dell'Aggiudicatario per le responsabilità di cui al paragrafo seguente (2.15.3).
+
+
+* Preposto ai Lavori (PL): il Responsabile Tecnico dell'Aggiudicatario per le responsabilità circa la pianificazione del lavoro e delle misure di sicurezza da intraprendere e il Capo Cantiere o Capo Squadra per l'esecuzione del lavoro e le altre responsabilità definite nel punto 6.2 della norma CEI 11-27:2005.
+      Per ogni lavoro complesso dovrà essere redatto il Piano di Lavoro (PdL) e il Piano di Intervento (PdI).
+      La consegna/riconsegna dell'impianto sarà effettuata tra il RI o uno dei tecnici dell'Amministrazione delegati e il PL nella persona del Responsabile Tecnico dell'Aggiudicatario o il Capo Cantiere/Capo Squadra.
+
+4.2 Deleghe per lavori su impianti complessi
+
+      E' stabilito sin da ora che il responsabile degli impianti elettrici dell'Azienda Sanitaria delega il Responsabile Tecnico dell'Aggiudicatario per le responsabilità qui elencate:
+* pianificazione e programmazione del lavoro;
+* redazione del PdL;
+* per lavori fuori tensione, l'esecuzione dei sezionamenti, dei provvedimenti per evitare richiusure intempestive, della realizzazione di eventuali terre di sezionamento e dell'apposizione dei cartelli monitori;
+* del trasferimento al PL delle informazioni sugli eventuali rischi ambientali ed elettrici specifici dell'impianto oggetto dei lavori;
+      cioè, per le responsabilità di cui alle lettere a), b), d), f) del punto 6.1 della norma CEI 11- 27:2005.
+      Il PdL dovrà comunque essere valutato in accordo con la DL e con i tecnici dell'Amministrazione e dovrà essere controfirmato da uno dei tecnici dell'Amministrazione delegati.
+      Con le prescrizioni del presente paragrafo si intende assolto l'obbligo di delega per iscritto richiesta dal punto 10 della norma CEI 11-27:2005.
+
+4.3 Lavori su impianti non complessi
+
+      Nel caso di lavori su impianti non complessi, la delega di RI al PL nella persona del Responsabile Tecnico dell'Aggiudicatario o il Capo Cantiere/Capo Squadra è automatica ai sensi del punto 10 della norma CEI 11-27:2005.
+
+4.4 Lavori su impianti speciali di sicurezza e di comunicazione
+
+      Se i lavori dovessero richiedere di intervenire con modifiche, integrazioni, sostituzioni, manomissioni, regolazioni di apparecchiature relative a impianti speciali di sicurezza e di comunicazione quali:
+
+
+* impianti di amplificazione, antenna TV e SAT e TV-CC con qualifica per assistenza e riparazione su apparati radio TV e PA;
+* impianti rivelazione incendi;
+* impianti antintrusione e controllo accessi.
+* sarà necessaria la presenza di personale tecnico specializzato per la verifica e la manutenzione straordinaria di tali impianti.
+      L'Aggiudicatario e il personale tecnico specializzato di cui sopra saranno responsabili della tenuta del Registro di Impianto, se esistente, per gli impianti di rivelazione incendi e gas, antintrusione e illuminazione di emergenza e sicurezza e dovrà invece predisporlo e renderlo operativo, in conformità agli standard dell'Azienda Sanitaria, in caso di nuova installazione.
+
+5 ORGANIZZAZIONE DEL LAVORO PER LAVORI ELETTRICI
+
+5.1 Pianificazione del lavoro
+
+      Il lavoro deve sempre essere pianificato ponendo particolare attenzione alla raccolta di informazioni e della documentazione, all'individuazione dei rischi e delle misure di protezione ed alla corretta e completa predisposizione dei Piani di Lavoro: questo è un documento che individua l'assetto che l'impianto deve assumere e mantenere durante i lavori per la riduzione del rischio elettrico in dipendenza delle modalità operative e delle misure di prevenzione adottate.
+      Quando il lavoro è complesso deve essere compilato anche il Piano di Intervento, cioè il documento che riporta le modalità di organizzazione ed esecuzione del lavoro; il Piano di Lavoro deve invece contenere tutte le informazioni per l'univoca individuazione del lavoro da eseguire e per la completa illustrazione della sua esecuzione ai fini della riduzione dei rischi.
+
+5.2 Lavoro elettrico fuori tensione
+
+      Prima di eseguire un lavoro elettrico fuori tensione si devono compiere le seguenti operazioni, nell'ordine indicato, al fine di mettere fuori tensione e in sicurezza le parti attive sulle quali si opera:
+* Individuare la zona di lavoro, cioè la zona entro la quale gli addetti devono operare e nella quale possono muoversi senza cautele.
+* Sezionare i circuiti relativi alle parti attive che distano meno della distanza D V dal confine della zona di lavoro.
+* Chiudere a chiave i dispositivi di sezionamento, oppure il quadro, o il locale in cui sono installati; apporre il cartello "lavori in corso, non effettuare manovre".
+* Verificare l'assenza di tensione.
+* Mettere a terra e in cortocircuito le parti attive su cui si opera (sempre in alta tensione, solo in casi particolari in bassa tensione).
+
+
+      In bassa tensione, il sezionamento può essere effettuato con i dispositivi di sezionamento indicati nella norma CEI 64-8. Come noto, in alta tensione si deve utilizzare un sezionatore o un interruttore di manovra-sezionatore, comunemente detto sezionatore sotto carico. La messa a terra e in cortocircuito delle parti su cui si opera deve essere sempre effettuata in alta tensione, mediante un sezionatore di terra, oppure mediante dispositivi di messa a terra mobili (vedi Figura 1).
+
+
+Figura 1
+In bassa tensione la messa a terra e in cortocircuito è richiesta in caso di:
+* pericolo di tensioni indotte da fenomeni atmosferici o da altre linee elettriche vicine;
+* incertezza nella messa fuori tensione e in sicurezza di tutte le possibili fonti di energia, ad esempio per la presenza di un gruppo elettrogeno non sezionabile in modo affidabile.
+
+5.3 Lavoro elettrico sotto tensione a contatto
+
+      Nel lavoro elettrico sotto tensione a contatto, l'operatore entra nella zona di guardia con una parte del corpo o con un oggetto. Questo tipo di lavoro è ammesso soltanto in bassa tensione,
+
+
+salvo le deroghe previste per le imprese aventi determinati requisiti (DM 9/6/80 e DM 13/7/90 n. 442) di cui, fino ad ora, si è avvalso solo l'Enel.
+      L'operatore deve essere protetto nei confronti delle parti attive con una doppia protezione:
+* guanti isolanti e attrezzi isolati, oppure
+* guanti isolanti e tappetino isolante, oppure
+* guanti isolanti e tronchetti isolanti.
+      Tale protezione riguarda soltanto le parti attive sulle quali si opera, poste cioè nella zona di intervento.
+      Se sono presenti altre parti attive poste a una distanza inferiore a Dv dal confine della zona di lavoro si configura contemporaneamente un lavoro elettrico in prossimità (vedi Figura 2).
+      L'operatore deve inoltre indossare l'elmetto con visiera e vestiario idoneo al fine di proteggersi, per quanto possibile, contro gli effetti di un eventuale arco elettrico.
+
+Figura 2
+
+5.4 Lavoro elettrico sotto tensione a distanza
+
+      L'operatore rimane con il corpo fuori dalla zona prossima e con un asta isolante entra nella zona di guardia (vedi Figura 3).
+      L'operatore deve indossare i guanti isolanti, l'elmetto isolante, con visiera oppure occhiali, e il vestiario deve ricoprire il tronco, le braccia e le gambe. Non sono necessari altri provvedimenti ai fini della sicurezza.
+
+
+      Il lavoro elettrico sotto tensione a distanza è ammesso soltanto in bassa tensione, salvo le deroghe previste per le imprese aventi determinati requisiti, DM 9/6/80 e DM 13/7/90 n. 442.
+      Secondo quest'ultimo decreto la manovra di un sezionatore con fioretto non è da considerare un lavoro elettrico.
+
+
+Figura 3
+
+5.5 Lavoro elettrico in prossimità
+
+      Si ha un lavoro elettrico in prossimità quando l'operatore entra con una parte del corpo, o con un oggetto, nella zona prossima, ma non nella zona di guardia (vedi Figura 4).
+Il lavoro elettrico in prossimità è ammesso sia in bassa, sia in alta tensione.
+      La sicurezza si consegue mediante barriere che schermano le parti attive, oppure mediante distanza con sorveglianza. In questo secondo caso, l'operatore deve porre la massima attenzione in modo da non entrare nella zona di guardia delle parti attive.
+      In alta tensione è necessaria la presenza di una seconda persona che svolga tale sorveglianza; in bassa tensione è ragionevole prevedere la seconda persona soltanto se le parti attive sono dietro o a fianco dell'operatore1.
+
+
+
+
+
+
+
+
+
+1	La norma CEI 11-48 richiede una seconda persona "quando necessario". Secondo il DPR 547/55, art. 347, deve essere presente anche un'altra persona nei lavori "in condizioni di particolare pericolo" su macchine, apparecchi o conduttori elettrici in alta tensione.
+
+
+
+
+
+Figura 4
+
+
+
+6 MISURE DI RIDUZIONE DEL RISCHIO DI ASPERGILLOSI DERIVANTE DA CANTIERI OSPEDALIERI
+
+6.1 Generalità
+
+      La premessa fondamentale alle attività di riduzione del rischio di aspergillosi derivante da cantieri ospedalieri è che le ditte aggiudicatarie di interventi edili siano informate dei problemi sanitari potenziali connessi con la contaminazione dell'aria da funghi e dell'importanza della progettazione ed esecuzione dei lavori con metodologie idonee a minimizzare l'accumulazione, l'amplificazione e la diffusione dei microrganismi nel microclima ospedaliero.
+
+
+      In considerazione dell'elevato numero di genotipi di Aspergillus spp e della sua ubiquità nell'ambiente, è molto difficile documentare un nesso causale tra l'infezione da Aspergillus nei pazienti ricoverati e l'eventuale presenza di Aspergillus nell'ambiente.
+      Diversi studi hanno tuttavia evidenziato che le attività edilizie possono rappresentare potenziali cause di epidemie nosocomiali di Aspergillus spp. poichè un incremento della quantità di spore fungine nell'ambiente rappresenta un aumento del rischio di infezioni nei pazienti a rischio.
+      Il gruppo di lavoro si è basato sulle principali Linee Guida internazionali (ad es. Center for Diseases Control and Prevention di Atlanta) e sulla recente letteratura, ai fini di elaborare un documento per gli operatori (dipendenti o appartenenti a ditte) che a vario titolo lavorano in Ospedale al fine di mettere in atto interventi per la prevenzione dell'aspergillosi nei pazienti a rischio durante le esecuzioni di opere edili.
+      L'Aspergillo si diffonde tramite spore (conidi) a forma di sfera di piccolo diametro (2.5- 3.5 µm) che si depositano molto lentamente (0.03 cm al secondo) e possono rimanere in sospensione nell'aria per lunghi periodi e facilmente trasportate dall'aria. Per questo motivo le spore possono facilmente essere inalate o contaminare superfici di ogni ambiente.
+      Le spore rimangono per mesi sulle superfici contaminate e, in condizioni di temperatura e umidità favorevoli, proliferano e si disperdono nell'aria ad opera di fattori fisici: quali correnti di ventilazione e attività generatrici polvere.
+      Le spore facilmente inalabili possono colonizzare i seni paranasali, l'orecchio, le vie aeree e con minore frequenza altri organi.
+      Poco o nulla si conosce del periodo di incubazione, né della persistenza dell'Aspergillus, quale agente colonizzante, in soggetti immunocompetenti e immunodepressi.
+      A causa dell'ampia diffusione ambientale, le spore di Aspergillus vengono facilmente trasportate dall'aria ed entrano nei reparti ospedalieri dove raggiungono livelli minimi in inverno e massimi per tutto il periodo della primavera fini all'inizio dell'autunno.
+      Aspergillus Fumigatus, Aspergillus Flavus e Niger sono le specie più comunemente isolate in pazienti con aspergillosi documentata, anche se molte altre specie sono correlate alla malattia nell'uomo.
+
+6.2 Scopo
+
+      Sebbene il rischio di contrarre l'infezione da aspergillosi nei pazienti immunodepressi, non possa essere interamente eliminato, alcune misure preventive possono ridurre significativamente il rischio associato alla presenza di lavori edili. Scopo del presente capitolo è quello di fornire indicazioni per:
+* Condurre una valutazione del rischio dei progetti di cantiere per identificare aree dove possono essere presenti soggetti particolarmente a rischio.
+* Sensibilizzare i Responsabili della Ditta Appaltatrice e del Cantiere (coinvolgendo il Servizio Prevenzione e Protezione) sui problemi sanitari potenziali connessi con la contaminazione dell'aria da funghi.
+
+
+* Attuare le misure di prevenzione e controllo della trasmissione delle spore di Aspergillus durante i processi di opere edili (ristrutturazione, scavo, costruzione, demolizione, manutenzione, ecc.).
+
+6.3 Campo di applicazione
+
+      Il seguente documento si applica ai cantieri edili che svolgono interventi in strutture dell'Azienda Sanitaria, sia in AREE ESTERNE agli edifici, che in AREE INTERNE agli edifici dell'ospedale (reparti, zone di collegamento tra le strutture interne, ecc.)
+
+6.4 Riferimenti normativi e legislativi
+
+* Decreto Legislativo n 81 del 2008.
+* Delibera Giunta Regione Veneto n° 1831 del 1.07.2008 "Adozione del sistema organizzativo per la gestione della sicurezza del paziente nel Sistema Socio Sanitario della Regione Veneto L.R. 16.08.2002"
+
+6.5 Glossario e Acronimi
+
+* Ambiente a pressione negativa: spazio confinato in cui la pressione provoca un flusso d'aria verso l'interno (entrante).
+* Ambiente a pressione positiva: spazio confinato in cui la pressione provoca un flusso d'aria verso l'esterno (uscente).
+* Aspergillus: L'Aspergillus è un fungo dalla struttura filamentosa e in natura è praticamente ubiquitario. Un genere che comprende circa 200 muffe, ed è stato isolato da aria non filtrata, sistemi di ventilazione, polvere contaminata sollevata durante ristrutturazioni, costruzioni e demolizioni ospedaliere, superfici orizzontali, cibi e piante ornamentali.
+* Aspergillus spp.: Le specie di Aspergillus.
+* Aspergillosi: Alcune specie di Aspergillus, in particolare Aspergillus fumigatus e Aspergillus flavus, possono produrre infezioni nell'uomo, note con il nome di aspergillosi. Queste infezioni colpiscono tipicamente l'apparato respiratorio, dal quale, in casi particolari, possono estendersi ad altri organi. L'aspergillosi nosocomiale rappresenta una causa sempre più frequentemente riconosciuta di malattie gravi e di mortalità nei pazienti con elevato grado di immunocompromissione.
+* Bioaerosol: Particelle aerodisperse composte da organismi viventi o loro derivati. Comprendono microrganismi e loro frammenti, tossine e prodotti di rifiuto in forma particellare prodotti da qualsiasi specie vivente.
+* DMO: Direzione Medica Ospedaliera
+* Filtri HEPA (High Efficiency Particulate Air): filtri che prevengono la contaminazione particellare costituiti da fogli di microfibre di vetro ripiegati più
+
+
+volte per aumentare la superficie filtrante; l'efficienza è la capacità di trattenere particelle di 0,3 micron di diametro e deve essere compresa tra 99.97% e 99.99%.
+* Immunodepressione o immunocompromissione: Condizione di un soggetto che si trovi ad avere ridotte difese immunologiche per cause differenti, ad esempio per immunodeficienza congenita o acquisita in corso di infezioni anergizzanti, neoplasie, trattamenti chemioterapici antitumorali, terapie antirigetto, sindrome nefrosica, ecc.
+* FFP2:  Facciale filtrante con efficienza filtrante minima pari al 92%
+* FFP3:  Facciale filtrante con efficienza filtrante minima pari al 98%
+* Pazienti a rischio: Pazienti con una prolungata e severa granulocitopenia PMN < 500/mm3 per 2 settimane o < 100 mm3 per una settimana, pazienti con trapianto di midollo osseo, pazienti in chemioterapia quando severamente neutropenici, e pazienti in terapia steroidea ad alte dosi.
+* UU.OO.: Unità Operative operanti presso l'Azienda Sanitaria
+
+6.6 Classificazione dei Pazienti a Rischio
+
+Gruppo 1 - Nessuna evidenza di rischio: operatori sanitari, fornitori dei servizi in generale, tutti i pazienti non compresi nei gruppi da 2 a 4.
+
+Gruppo 2 - Rischio aumentato:
+* pazienti sottoposti ad alti dosaggi di cortisone per lunghi periodi
+* pazienti affetti da grave immunodeficienza da AIDS
+* pazienti sottoposti a ventilazione meccanica
+* pazienti in chemioterapia non neutropenici
+* pazienti in dialisi
+Gruppo 3 -Alto rischio:
+* pazienti in chemioterapia, che presentano una neutropenia per un periodo inferiore a 14 giorni
+* leucemia acuta linfoblastica dell'adulto sottoposto a terapia corticosteroidea ad alte dosi
+* paziente sottoposto a trapianto di organo solido
+* malattia granulomatosa cronica dell'infanzia
+* neonati in terapia intensiva
+Gruppo 4 - Altissimo rischio:
+* pazienti sottoposti a trapianto di midollo allogenico: durante il periodo neutropenico
+o con sindrome da rigetto al trapianto
+* pazienti sottoposti a trapianto autologo nel periodo neutropenico
+* pazienti sottoposti a trapianto periferico di cellule staminali nel periodo neutropenico
+* pazienti sottoposti a trapianto non mieloablativo
+* bambini con grave sindrome da immunodeficienza (SCIDS)
+* pazienti con prolungata neutropenia superiore ai 14 giorni conseguante a chemioterapia o terapia immunosopressiva
+
+
+* pazienti in anemia aplastica
+
+6.7 Modalità operative
+
+      Prima dell'avvio degli interventi di costruzione o ristrutturazione nella struttura sanitaria è opportuno valutare la probabilità che i pazienti a rischio aumentato, alto ed altissimo vengano esposti ad aria contente cariche elevate di Aspergillus spp. e seguire modalità operative che proteggano dalla diffusione di polvere e di bioaerosol correlati alle opere edilizie.
+      Pertanto il Servizio Tecnico e le Direzione Medica Ospedaliera interessata, in base alla eventuale pianificazione di lavori edili in aree con pazienti a rischio (gruppi 2-3 e 4), valuteranno la necessità di far attuare dalle ditte dei lavori edili quanto presente nel seguente documento.
+      In situazioni particolari si raccomanda di valutare, inoltre, l'eventualità e/o possibilità di trasferire pazienti ad alto ed altissimo rischio in altra sede non interessata dai lavori.
+      A tale scopo è necessario identificare le popolazioni di pazienti da trasferire in base alla valutazione di rischio ed organizzare anticipatamente il trasferimento attuando tutte le misure protettive del caso (per esempio facendo indossare ai pazienti durante il trasferimento filtranti facciali FFP2 di protezione per le polveri).
+
+6.8 Misure di controllo della trasmissione di infezioni da Aspergillus
+
+      Le seguenti misure preventive e di controllo sono valide per qualsiasi tipologia di lavoro che può produrre polvere all'esterno e all'interno di strutture ove sono ospitati pazienti a rischio aumentato, alto ed altissimo.
+* Lavori in aree esterne, in prossimità di aree che ospitano pazienti a rischio
+> Nel posizionamento del cantiere dovrà essere valutata la vicinanza a prese d'aria di impianti di condizionamento o a finestre di reparti in cui vi siano degenti pazienti ad elevato rischio.
+> In tal caso, raccomandare di tenere le finestre chiuse e se possibile, valutare soluzioni alternative (in collaborazione con il Servizio Tecnico).
+* Protezione del luogo
+      Le aree esterne del cantiere dovrebbero essere delimitate con adeguati sistemi di contenimento/barriere verticali: l'area del cantiere dovrebbe essere completamente circoscritta; tali barriere (di plastica o pannelli a secco) non infiammabili, fino all'altezza di 2 metri e lungo i ponteggi/impalcature, devono essere utilizzate per controllare la disseminazione di polvere e sporco e per separare i siti di costruzione dalle altre zone dell'ospedale.
+* Filtri dell'impianto aria dove sono presenti i pazienti
+      Accertarsi che i filtri siano installati correttamente; sostituire frequentemente i pre-filtri per evitare accumulo di polvere su filtri di alta efficienza (a cura del Servizio Tecnico).
+* Polveri generate
+      Bagnare spesso la zona con acqua mantenendo una condizione di umidità sufficiente a ridurre la dispersione di polvere prodotta.
+
+
+* Interventi di pulizia
+      Al termine della giornata lavorativa, è raccomandata la copertura (con teli impermeabili) del materiale posizionato a terra (cumuli di sabbia, laterizi, impastatrici e altre apparecchiature o utensili visibilmente sporchi di polveri), in particolare in quelle aree che permettono l'accesso in Ospedale o che sono in vicinanza di reparti a rischio.
+      Nelle manovre di allontanamento dei detriti, si raccomanda di inumidirli abbondantemente per evitare il sollevamento delle polveri
+      Si raccomanda di considerare interventi di pulizia straordinaria delle aree ospedaliere visibilmente contaminate a causa dei lavori, anche quando quest'ultimi coinvolgono aree esterne.
+Lavori nelle aree interne:
+Si raccomanda di:
+* Erigere appropriate barriere di contenimento:
+* Quando possibile, costruire barriere impermeabili efficaci (di plastica o pannelli a secco o per progetti continui di lunga durata barriere rigida durevoli) non infiammabili, a tenuta, che si estendono dal pavimento al soffitto per controllare la disseminazione di polvere e sporco e per separare i siti di costruzione dalle aree di assistenza dei pazienti, dalla farmacia, e dalle aree dove è immagazzinato il materiale sterile.
+* Se possibile creare delle zone filtro per l'entrata e uscita nelle aree di cantiere dove le tute e le scarpe del personale alla fine del turno di lavoro possono essere tolte.
+* Stabilire percorsi per gli operai alternativi a quelli dedicati al personale, i pazienti, gli ospiti:
+* Rispettare le indicazioni fornite per il traffico delle squadre di lavoratori addetti alle costruzioni, per evitare di diffondere lo sporco e polvere all'interno dell'ospedale e quindi ridurre il rischio di esposizione agli agenti infettivi. Se possibile, la movimentazione dei lavoratori edili dovrebbe avvenire attraverso percorsi riservati, possibilmente collegati direttamente con l'esterno.
+* Definire la tempistica di attività del cantiere, definendo la durata delle lavorazioni che aumentano la produzione di polveri (ad es. demolizioni)
+* Utilizzare le zone d'uso designate al flusso degli operai (es. corridoi, ascensori, entrate/uscite).
+* Quando possibile, non utilizzare gli ascensori dedicati ai pazienti.
+      Queste azioni vengono stabilite in fase di programmazione dei lavori da parte del Servizio Tecnico, della Direzione Medica Ospedaliera, SI Logistica e Servizi Alberghieri, in accordo con il capo cantiere, e le UU.OO. interessate dai lavori).
+Rischi e segnaletica di avvertimento:
+* Fornire chiare informazioni, anche mediante adeguata cartellonistica, in merito al divieto di transito dei pedoni (personale, pazienti, visitatori) nelle aree coinvolte dai lavori, anche per prevenire il trasporto della polvere e dello sporco nei reparti.
+* Individuare e segnalare i percorsi alternativi in modo da limitare al massimo l'apertura o chiusura di porte o altre barriere.
+
+
+* Contrassegnare le deviazioni di percorso per dirigere il passaggio delle persone provenienti dalle zone di lavoro lontano dalle aree di degenza.
+      Queste azioni vengono stabilite in fase di programmazione dei lavori da parte del Servizio Tecnico, della Direzione Medica Ospedaliera, SI Logistica e Servizi Alberghieri, in accordo con il capo cantiere, e le UU.OO. interessate dai lavori.
+Stabilire la ventilazione adeguata delle aree con pazienti a rischio:
+* Tutte le finestre, le porte, i le bocchette degli impianti di condizionamento, e ogni altra potenziale fonte di comunicazione d'aria con il luogo dei lavori, dovrebbero essere sigillate nelle aree dell'ospedale che ospitano i pazienti maggiormente suscettibili al rischio (dal gruppo 2 al 4), se si presume che le opere edili possano causare l'ingresso in tali aree di aria contaminata da Aspergillus. Se l'area interessata è priva di impianto di condizionamento queste misure precauzionali possono portare alla creazione di condizioni ambientali inaccettabili all'interno dell'area interessata, per cui è opportuno valutarne di volta in volta l'applicabilità.
+* Utilizzare attrezzature di lavoro dotate di sistemi di aspirazione, assicurandosi che l'espulsione dell'aria all'esterno avvenga lontano dalle bocchette di ripresa degli impianti destinati alle zone di degenza.
+* Qualora presenti, verificare il corretto funzionamento dei dispositivi di controllo del flusso d'aria dei sistemi di ventilazione.
+* Controllare temperatura, ed i livelli di umidità (umidità < 65%).
+* Per aree con pazienti ad altissimo rischio: se un'area è collegata a un impianto di condizionamento centralizzato, ove l'aria introdotta viene filtrata attraverso filtri HEPA, è importante che prima dell'avvio dei lavori, sia fatto un controllo approfondito dell'impianto e siano controllati regolarmente i sistemi di filtrazione dell'aria (azione svolta dal Servizio Tecnico).
+Gestione controllata dei detriti/rifiuti:
+* Il materiale di risulta deve essere rimosso dall'area di cantiere, possibilmente alla fine di ogni giorno, evitando la dispersione di polvere, preferibilmente attraverso finestre con apposita apertura o comunque attraverso un percorso predeterminato, preferibilmente non usando percorsi ospedalieri. Per lavori che sono ubicati al di sopra del piano terra dovrebbero essere utilizzati degli scivoli/verricelli chiusi, utilizzati per lo scarico degli inerti. Si raccomanda, anche per area di raccolta a terra degli scarichi l'utilizzo di un sistema che eviti quanto più possibile la dispersione delle polveri.
+* Mantenere umidi e coperti i contenitori di eliminazione dei detriti durante il trasporto.
+* Programmare la rimozione dei detriti in momenti in cui l'esposizione del paziente alla polvere è minima (in collaborazione con l'Unità Operativa).
+Controllare la polvere:
+* Lavorare mantenendo una condizione di umidità sufficiente a ridurre la dispersione delle polveri. Dovrebbero essere usate tecniche di riduzione della produzione della polvere nei momenti di taglio e di perforazioni delle strutture.
+
+
+* Alle misure rivolte alla riduzione delle polveri è necessario associare un incremento degli interventi di pulizia, rispetto agli interventi routinari, per prevenire l'accumulo di polvere sulle superfici, sui soffitti, e sulle griglie dei condotti dell'aria. Eseguire l'aspirazione delle polveri e lavaggio quotidiano dei luoghi di lavoro e delle aree adiacenti (intervento a carico della ditta delle pulizie che dovrà ricevere precise indicazioni, allegato A).
+* Appropriati metodi di spolveratura e sanificazione ambientale, al fine di evitare la dispersione delle polveri, sono rappresentati dalla pulizia a umido con l'utilizzo di disinfettanti. Non utilizzare metodi a secco che possono determinare la caduta di polvere.
+* Qualora presente una zona filtro, le tute protettive degli operatori edili dovrebbero essere tolte all'interno dell'area di uscita prima di entrare in zone pulite, ed eventualmente aspirate prima della loro rimozione.
+* Utilizzare stuoie adesive/tappeti/teli bagnati, all'interno dell'area di uscita (zona filtro) del cantiere e nelle aree di cura dei pazienti per intrappolare la polvere presente sotto le scarpe dei lavoratori. Tale tappeto dovrebbe essere aspirato e/o cambiato almeno giornalmente oppure con maggiore frequenza se visibilmente sporco.
+* Per cantieri di lunga durata fornire servizi essenziali provvisori (per es. toilette) nella zona in costruzione.
+* Pulire gli attrezzi se rimossi dalla zona in costruzione o lasciati nella zona.
+* Accertarsi che le barriere rimangano sigillate bene.
+Al termine dei lavori:
+* Alla fine dei lavori, pulire la zona in costruzione prima che le barriere vengano rimosse ed effettuare pulizie approfondite prima di consentire l'accesso al personale e ai pazienti.
+* Controllare la presenza di muffe visibili e rimuoverle.
+* Verificare i parametri adatti di ventilazione per la nuova zona, se necessario.
+* Pulire e sostituire i filtri seguendo le procedure adeguate di contenimento della polvere.
+      L'Appaltatore potrà individuare, in sostituzione ai provvedimenti sopra riportati, soluzioni tecniche alternative equivalenti che saranno proposte alla Direzione Medica dell'Azienda Sanitaria.
+
+6.9 Norme comportamentali per gli addetti ai lavori
+
+* Il personale, che opera nei cantieri esterni alle Strutture ospitanti pazienti non può avere accesso, in abiti da lavoro, alle zone interne della Struttura Sanitaria utilizzate da ricoverati o personale di assistenza (per esempio: bar).
+
+
+* Il personale, che opera nei cantieri interni alle Strutture ospitanti pazienti, deve limitare quanto più possibile l'accesso alle zone interne dell'Ospedale con abiti da lavoro visibilmente sporchi/contaminati.
+* Prima dell'inizio dei lavori è necessario effettuare una breve formazione al personale edile su quanto precedentemente indicato.
+
+
+
+
+
+

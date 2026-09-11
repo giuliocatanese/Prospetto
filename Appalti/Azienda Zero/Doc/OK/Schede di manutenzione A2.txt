@@ -1,0 +1,162 @@
+
+InsiemeCodice famigliaCodice tipo
+Attività
+PeriodicitàCentrali frigorifereA2.11Verifica assenza perdite impianto6MCentrali frigorifereA2.12Rimuovare gli eventuali materiali in deposito non attinenti agl impianti ed eseguire la
+pulizia del localeACentrali frigorifereA2.13Verificare la presenza dei dispositivi di protezione individuali e di estinzione incendiACentrali frigorifereA2.14Verifica della documentazione di impiantoACentrali frigorifereA2.15Verificare la presenza dei cartelli monitori di impiantoAGruppi frigoriferi centrifughiA2.21Compressore/sistema di lubrificazione - Controllo temperatura della linea dell'olioMGruppi frigoriferi centrifughiA2.22Compressore/sistema di lubrificazione - Controllo del livello dell'olio e dell'aspetto ed
+eventuale rabbocco o sostituzione3MGruppi frigoriferi centrifughiA2.23Compressore/sistema di lubrificazione - Cambio del filtro olio6MGruppi frigoriferi centrifughiA2.24valutazioni prestazioni Compressore/Motore - Misura la resistenza dell'isolamento
+degli avvolgimenti6MGruppi frigoriferi centrifughiA2.25valutazioni prestazioni Compressore/Motore - Bilanciamento della corrente (entro
+10%)6MGruppi frigoriferi centrifughiA2.26valutazioni prestazioni Compressore/Motore - Verifica dei terminale (serraggio
+connessioni, pulizia )della basetta isolante e dei terminali)6MGruppi frigoriferi centrifughiA2.27valutazioni prestazioni Compressore/Motore - Raffreddamento del motore6M
+Gruppi frigoriferi centrifughi
+A2.2
+8Test funzionamento palette deflettrici aspirazione - Test compressore a pieno carico, registrazione corrente assorbita
+6M
+Gruppi frigoriferi centrifughi
+A2.2
+9Test funzionamento palette deflettrici aspirazione - Test compressore a carico ridotto, registrazione corrente assorbita
+6MGruppi frigoriferi centrifughiA2.210Test funzionamento palette deflettrici aspirazione - Controllo temperatura acqua e
+registrare corrente6MGruppi frigoriferi centrifughiA2.211Test funzionamento palette deflettrici aspirazione - Controllo interno compressore6MGruppi frigoriferi centrifughiA2.212Test funzionamento palette deflettrici aspirazione - Confrontare il set point dell'acqua
+con la temperatura di funzionamento6MGruppi frigoriferi centrifughiA2.213Test funzionamento palette deflettrici aspirazione - Verificare che il pannello elettrico
+sia pulito ed asciutto6MGruppi frigoriferi centrifughiA2.214Test funzionamento palette deflettrici aspirazione - Verificare la taratura dei relais di
+sovraccarico6MGruppi frigoriferi centrifughiA2.215Test funzionamento palette deflettrici aspirazione - Verificare che i terminali elettrici
+siano serrati6MGruppi frigoriferi centrifughiA2.216Test funzionamento palette deflettrici aspirazione - Verificare i contatti dei contattori
+(se necessario sostituirli)6MGruppi frigoriferi centrifughiA2.217Verificare la funzionalità del sistema di regolazione - Verifica operatività controlli6MGruppi frigoriferi centrifughiA2.218Verificare la funzionalità del sistema di regolazione - Controllo tarature ed operatività6MGruppi frigoriferi centrifughiA2.219Verificare la funzionalità del sistema di regolazione - Controllo tarature palette
+deflettrici ed operatività6MGruppi frigoriferi centrifughiA2.220Verificare la funzionalità del sistema di regolazione - Verifica limitazione carico
+motore6MGruppi frigoriferi centrifughiA2.221Verificare la funzionalità del sistema di regolazione - Controllo contattore pompa olio6MGruppi frigoriferi centrifughiA2.222Controlli di protezione (test di funzionamento) - Controllo su relè d'allarme (se
+connesso)6MGruppi frigoriferi centrifughiA2.223Controlli di protezione (test di funzionamento) - Controllo su interblocchi pompe6MGruppi frigoriferi centrifughiA2.224Controlli di protezione (test di funzionamento) - Controllo su pressostato di alta
+pressione6MGruppi frigoriferi centrifughiA2.225Controlli di protezione (test di funzionamento) - Controllo stato verniciatura6MGruppi frigoriferi centrifughiA2.226Controlli di protezione (test di funzionamento) - Verifica dell'isolamento del gruppo6MGruppi frigoriferi centrifughiA2.227Controlli di protezione (test di funzionamento) - Verifica operativa del by-pass caldo
+(dove presente)6MGruppi frigoriferi centrifughiA2.228Controlli di protezione (test di funzionamento) - Verifica del sistema di iniezione del
+liquido (dove presente)6MGruppi frigoriferi centrifughiA2.229Condensatore - valutazione della potenzialità (inclusa la perdita di carico dell'acqua)6MGruppi frigoriferi centrifughiA2.230Condensatore - test della qualità dell'acqua6MGruppi frigoriferi centrifughiA2.231Condensatore - pulizia dei tubi del condensatore6MGruppi frigoriferi centrifughiA2.232Condensatore - test spessore pareti tubi6MGruppi frigoriferi centrifughiA2.233Condensatore -protezione stagionale6MGruppi frigoriferi centrifughiA2.234Evaporatore - valutazione della potenzialità (inclusa la perdita di
+carico dell'acqua)6MGruppi frigoriferi centrifughiA2.235Evaporatore - test della qualità dell'acqua6MGruppi frigoriferi centrifughiA2.236Evaporatore - pulizia dei tubi del condensatore6MGruppi frigoriferi centrifughiA2.237Evaporatore - test spessore pareti tubi6MGruppi frigoriferi centrifughiA2.238Evaporatore - protezione stagionale6MGruppi frigoriferi centrifughiA2.239Evaporatore - Valutazione della funzionalità delle valvole di espansione (osservare il
+surriscaldamento)6MGruppi frigoriferi centrifughiA2.240Evaporatore - Valutazione della potenzialità del gruppo frigo6MGruppi frigoriferi centrifughiA2.241Test di fuga del refrigerante - connessioni al compressore e terminali6MGruppi frigoriferi centrifughiA2.242Test di fuga del refrigerante - connessioni alle tubazioni6MGruppi frigoriferi centrifughiA2.243Test di fuga del refrigerante - connessioni alla linea della pompa dell'olio6MGruppi frigoriferi centrifughiA2.244Test di fuga del refrigerante - valvola di sicurezza scambiatori6MGruppi frigoriferi centrifughiA2.245Test di fuga del refrigerante - verifica della spie del liquido e delle perdite di carico
+attraverso i filtri6MGruppi frigoriferi centrifughiA2.246Test di fuga del refrigerante - Esame dei contattori (fisico e di funzionamento)
+avviatori6MGruppi frigoriferi centrifughiA2.247Test di fuga del refrigerante - Verifica della taratura e dell'intervento dei relè di
+sovraccarico avviatori6MGruppi frigoriferi centrifughiA2.248Test di fuga del refrigerante - Test connessioni elettriche6MGruppi frigoriferi centrifughiA2.249Test di fuga del refrigerante - Verifica del corretto funzionamernto e ritaratura
+flussostato6MTorri evaporative e condensatori evaporativiA2.31Controllo degli ugelli diffusori e pacco di scambio3MTorri evaporative e condensatori evaporativiA2.32Pulizia generale. verifica presena e successiva eliminazione di fenomeni di
+corrosione o di insudiciamento6MTorri evaporative e condensatori evaporativiA2.33Pulizia generale: Verifica sviluppo e/o presenza di alghe nei bacini di raccolta e
+successiva eliminazione6M
+Torri evaporative e condensatori evaporativi
+A2.3
+4Sviluppo dei batteri: verifica sviluppo e/o presenza di alghe nei bacini di raccolta e successiva eliminazione (seguire le istruzioni specifiche inerenti la prevenzione della
+legionella pneumophila)
+6MTorri evaporative e condensatori evaporativiA2.35Verifica che la girante ruoti liberamente e non urti o strisci contro la chiocciola od altri
+eventuali oggetti in essa penetranti6MTorri evaporative e condensatori evaporativiA2.36Verificare che il senso di rotazione sia corretto6M
+
+
+Torri evaporative e condensatori evaporativi
+
+A2.3
+
+7Provvedere alla revisione generale smontando il ventilatore, controllandone lo stato della girante e provvedendo alla pulizia ed alla lubrificazione dei cuscinetti secondo le istruzioni del costruttore possibilmente prello l'officina dello stesso costruttore.
+Sostituire i cuscinetti in presenza di rumorosità o vibrazioni eccessive (o comunque
+ogni 10000/12000 ore di effettivo funzionamento)
+
+6M
+Torri evaporative e condensatori evaporativi
+A2.3
+8Misurare la pressione all'aspirazione ed alla mandata nonché la loro conformità ai valori di progetto (cosa che denuncia ostruzioni o aperture nel circuito o
+l'alterazionedella regolazione di eventuali serrande o danni alla girante)
+6MTorri evaporative e condensatori evaporativiA2.39Smontaggio, rimozione incrostazioni e sostituzione degli ugelli usuratiACentrale di trattamento ariaA2.41Verifica assenza perdite impiantoMCentrale di trattamento ariaA2.42Rimuovare gli eventuali materiali in deposito non attinenti agl impianti ed eseguire la
+pulizia del locale6MCentrale di trattamento ariaA2.43Verificare la presenza dei dispositivi di protezione individuali e di estinzione incendi6MCentrale di trattamento ariaA2.44Verifica della documentazione di impianto6MCentrale di trattamento ariaA2.45Verificare la presenza dei cartelli monitori di impianto6MQuadri elettrici di bordo macchinaA2.51Pulizia delle apparecchiature elettriche, delle
+morsettiere ed in particolare dei contatti elettrici6MQuadri elettrici di bordo macchinaA2.52Controllo dello stato dei contatti mobili6MQuadri elettrici di bordo macchinaA2.53Controllo della integrità dei conduttori6MQuadri elettrici di bordo macchinaA2.54Controllo del serraggio dei morsetti6M
+Quadri elettrici di bordo macchina
+A2.5
+5Controllo del funzionamento e della corretta taratura di tutti gli apparecchi di protezione provocandone l'intervento e misurandone il tempo necessario per
+l'intervento stesso
+6MQuadri elettrici di bordo macchinaA2.56Controllo del corretto funzionamento degli apparecchi indicatori (voltmetri,
+amperometri)6MQuadri elettrici di bordo macchinaA2.57Controllo del corretto funzionamento delle lampade
+spia6MQuadri elettrici di bordo macchinaA2.58Assicurarsi della messa a terra di tutte le masse
+metalliche e di tutti gli apparecchi elettrici6MQuadri elettrici di bordo macchinaA2.59Verificare la resistenza degli isola menti degli
+apparecchi funzionanti a tensione di rete6MUnità di trattamento ariaA2.61Controllo scambi termici dei circuiti aria- acqua tramite lettura dei termometri e
+trascrizione su apposito registro d'impiantoMUnità di trattamento ariaA2.62Controllo valvole di regolazione e saracinischeMUnità di trattamento ariaA2.63Sezione filtrante: pulizia filtri piani2M
+Unità di trattamento aria
+A2.6
+4Con ventilatore fermo - Controllo strumentale con riga metallica dell'allineamento della puleggia motore con la puleggia del ventilatore e relativo intervento di
+allineamento
+3MUnità di trattamento ariaA2.65Con ventilatore fermo - Controllo del parallelismo degli alberi del motre e del
+ventilatore e relativo intervento di allineamento3MUnità di trattamento ariaA2.66Con ventilatore fermo - Verifica strumentale con dinamometro della tensione della
+cinghia e relativo intervento di allineamento3MUnità di trattamento ariaA2.67Con ventilatore fermo - Controllo visivo usura cinghia e relativa sostituzione se
+necessario3MUnità di trattamento ariaA2.68Con ventilatore fermo - Controllo della centratura della girante sull'albero3MUnità di trattamento ariaA2.69Con ventilatore fermo - Controllo visivo fissaggio pulegge e relativo intervento di
+serraggio bulloni3MUnità di trattamento ariaA2.610Con ventilatore fermo - Controllo visivo condizioni della girante e relativo intervento di
+disincrostazione e pulizia o sostituzione della stessa4MUnità di trattamento ariaA2.611Con ventilatore fermo - Controllo visivo dei cuscinetti dell'albero, lubrificazione degli
+stessi e relativa sostituzione se necessario4MUnità di trattamento ariaA2.612Con ventilatore fermo - Controllo della rotazione della girante (a mano) in assenza di
+sfregamenti contro la coclea4MUnità di trattamento ariaA2.613Con ventilatore fermo - Controllo della posizione del carter di protezione delle cinghie4MUnità di trattamento ariaA2.614Con ventilatore fermo - Controllo delle molle ammortizzatrici sulla base del gruppo
+motoventilante4MUnità di trattamento ariaA2.615Con ventilatore fermo - Controllo di flessibilità e tenuta dell'attacco antivibrante tra
+bocca del ventilatore e bocca della centrale o dell'attacco del canale4MUnità di trattamento ariaA2.616Con ventilatore funzionante - Controllo vibrazioni o rumori insoliti4MUnità di trattamento ariaA2.617Con ventilatore funzionante - Controllo della tenuta del giunto antivibrante4MUnità di trattamento ariaA2.618Con ventilatore funzionante - Misua della velocità di rotazione del ventilatore4MUnità di trattamento ariaA2.619Umidificazione - Umidificatore a pacco: controllo visiso intasamento pacco e relativo
+intervento i pulizia o sostituzione se necessariiìo3MUnità di trattamento ariaA2.620Umidificazione - Umidificatore a lavatore: controllo visivo del funzionamento degli
+ugelli3MUnità di trattamento ariaA2.621Umidificazione - Pulizia della vasca di raccolta3MUnità di trattamento ariaA2.622Umidificazione - Pulizia del filtro dell'acqua3MUnità di trattamento ariaA2.623Umidificazione - Controllo visivo dell livello dell'acqua3MUnità di trattamento ariaA2.624Umidificazione - Sezione filtrante: sostituzione filtri piani6MUnità di trattamento ariaA2.625Umidificazione - Sezione filtrante: sostituzione filtri a tasche6M
+Unità di trattamento aria
+A2.6
+26Sezione di batterie di scambio termico - Controllo visivo pulizia pacco e relativo intervento di pulizia o sostituzione se necessario della sezione di batterie di scambio
+termico
+6MUnità di trattamento ariaA2.627Sezione di batterie di scambio termico - Controllo visivo della vasca di raccolta
+condensa6MUnità di trattamento ariaA2.628Sezione di batterie di scambio termico - Pulizia e disinfezione di tutte le batterieAUnità di trattamento ariaA2.629Sezione di batterie di scambio termico - Verifica del buon funzionamento delle valvole
+motorizzate sulle batterie3MUnità di trattamento ariaA2.630Sezione di batterie di scambio termico - Verifica del buon funzionamento delle
+serrande motorizzate (se presenti) e/o coniugate3M
+Unità di trattamento aria
+A2.6
+31Sezione di batterie di scambio termico - Sezione filtrante: verifica strumentale con manometro dello stato dei filtri e relativo intervento di pulizia o sostituzione se
+necessario dei filtri assoluti
+AUnità di trattamento ariaA2.632Sezione di batterie di scambio termico - Controllo serraggio connessioni elettriche3MUnità di trattamento ariaA2.633Sezione di batterie di scambio termico - Controllo visivo sistema di messa a terra3MUnità di trattamento ariaA2.634Sezione di batterie di scambio termico - Verifica dei collegamenti elettrici delle valvole
+e serrande3MUnità di trattamento ariaA2.635Sezione di batterie di scambio termico - Misura delle correnti assorbite sulle tre fasi
+del motore4MUnità di trattamento ariaA2.636Sezione di batterie di scambio termico - Rilievo parametri e temperature funzionali
+UTA e riporto su registro manutenzioneM
+Circuiti aeraulici
+A2.7
+1Canalizzazioni - controllo dello stato delle canalizzazioni allo scopo di individuare eventuali corrosioni e fughe d'aria, queste ultime denunciate da annerimenti delle
+pareti in prossimità delle fughe stesse
+6MCircuiti aerauliciA2.72Canalizzazioni - Controllo della stabilità dei sostegni6MCircuiti aerauliciA2.73Canalizzazioni - Controllo del regolare funzionamento delle serrande di regolazione6MCircuiti aerauliciA2.74Canalizzazioni - Controllo dell'entrata in funzione di eventuali serrande tagliafuoco
+alla temperatura prevista6M
+Circuiti aerauliciA2.75Rivestimenti isolanti - Verifica dello stato di conservazione dei rivestimenti isolanti6MCircuiti aerauliciA2.76Rivestimenti isolanti - Ripristino dei rivestimenti isolanti deteriorati6MCircuiti aerauliciA2.77Elementi terminali aria e serrande - Pulizia della griglia di presa aria esterna e verifica
+dell'integrità della rete antivolatile6MCircuiti aerauliciA2.78Elementi terminali aria e serrande - Eventuale taratura della serranda di taratura P .A.
+E.6MCircuiti aerauliciA2.79Elementi terminali aria e serrande - Verifica e taratura delle serrande di taratura
+all'interno dei canali di distribuzione6M
+Circuiti aeraulici
+A2.7
+10Elementi terminali aria e serrande - Verifica del buon funzionamento delle serrande tagliafuoco comprese le connessioni elettriche
+6MCircuiti aerauliciA2.711Elementi terminali aria e serrande - Pulizia delle bocchette e dei diffusori di mandata3M
+Circuiti aeraulici
+A2.7
+12Elementi terminali aria e serrande - Pulizia e regolazione delle serrande di regolazione
+delle bocchette e dei diffusori di mandata e dei
+relativi deflettori
+3MCircuiti aerauliciA2.713Elementi terminali aria e serrande - Pulizia delle griglie di ripresa in ambiente3MCircuiti aerauliciA2.714Impianti di ventilazione/estrazione - Verifica buon funzionamento dei torrini di
+estrazione3MCircuiti aerauliciA2.715Impianti di ventilazione/estrazione - Recuperatore a flussi incrociati, pulizia e lavaggioACircuiti idroniciA2.81Tubazioni - Controllo dello stato degli eventuali dilatatori e di eventuali giunti elastici
+prowedendo, se deteriorati, alla loro sostituzioneACircuiti idroniciA2.82Tubazioni - Verifica della tenuta delle congiunzioni a flangiaACircuiti idroniciA2.83Tubazioni - Controllo del regolare funzionamento delle serrande
+di regolazioneACircuiti idroniciA2.84Tubazioni - Verifica della stabilità dei sostegni e degli eventuali
+giunti fissiA
+Circuiti idronici
+A2.8
+5Tubazioni - Verifica deii tubi che alle massime temperature non presentino inflessioni a causa di dilatazioni termiche ostacolate e non compensate o per effetto
+dell'eccessiva distanza tra i sostegni
+AVentilconvettoriA2.91Con batterie alettate - Pulizia tra le alette di tutti i corpi scaldanti6MVentilconvettoriA2.92Senza batterie alettate - Ripresa della verniciatura ove necessita, soprattutto in locali
+umidi e per apparecchi in lamiera suscettibili di corrosione esterna6MVentilconvettoriA2.93Senza batterie alettate - Pulizia dei filtri3MVentilconvettoriA2.94Senza batterie alettate - Verifica della tenuta di tutti i corpi scaldanti specialmente nei
+locali non occupati6M
+Ventilconvettori
+A2.9
+5Senza batterie alettate - Verifica e eliminazione di qualsiasi perdita che si dovesse verificare alle valvole, ai detentori, agli attacchi tra gli elementi (compreso lo scarico
+della condensa)
+6MVentilconvettoriA2.96Senza batterie alettate - Verifica degli apparati di controllo6MVentilconvettoriA2.97Senza batterie alettate - Manovra di tutti gli organi di intercettazione di regolazione
+onde prevenirne il blocco6M
+Ventilconvettori
+A2.9
+8Sistemi di regolazione automatica ambientale: verifica del comando di arresto o chiusura alla temperatura prefissata, con tolleranza di + / - 1 o C riferita alla temperatura ambiente, e di quello di marcia o apertura con un differenziale non
+superiore a quello prescritto
+6MVentilconvettoriA2.99Senza batterie alettate - Verifica del corretto funzionamento di motore/ventilatore6MVentilconvettoriA2.910Senza batterie alettate - Verifica ed eventuale ripristino del mantello (carrozzeria)6MUnità autonome split e multi-splitA2.101Pulizia del filtro e bacinella condensa6MUnità autonome split e multi-splitA2.102Pulizia della griglia di ripresa6MUnità autonome split e multi-splitA2.103Pulizia della batteria di scambio6MUnità autonome split e multi-splitA2.104Pulizia del ventilatore6M
+Unità autonome split e multi-split
+A2.10
+5Controllare che non vi siano perdite in corrispondenza agli attacchi.
+In caso di accertamento di perdite regolare il serraggio e se insufficiente sostituire gli attacchi
+6MUnità autonome split e multi-splitA2.106Unità esterna - Pulizia del condensatore6MUnità autonome split e multi-splitA2.107Unità esterna - Pulizia delle griglie di passaggio aria6M
+Unità autonome split e multi-split
+A2.10
+8Unità esterna - Controllare che non vi siano perdite in corrispondenza agli attacchi. In caso di accertamento di perdite regolare il serraggio e se insufficiente sostituire gli
+attacchi
+6MUnità autonome split e multi-splitA2.109Unità esterna - Controllare il buon funzionamento del termostato, degli Interruttori e
+dei collegamenti di terra6MUnità autonome split e multi-splitA2.1010Unità esterna - Controllo carica refrigerante. In assenza di gas sufficiente creare il
+vuoto e fare ricarica del gas6MUnità autonome split e multi-splitA2.1011Unità esterna - Verifica taratura pressostati, termostati e sicurezze6MGruppi frigoriferi autonomiA2.111Controllo della qualità dell'acqua di raffredamentoSGruppi frigoriferi autonomiA2.112Controllo presenza umidità nel refrigeranteSGruppi frigoriferi autonomiA2.113Controllo pressioni e temperature dei fluidi (olio e refrigerante)SGruppi frigoriferi autonomiA2.114Eventuale rabbocco del gas frigorigeno e olioSGruppi frigoriferi autonomiA2.115Controllo ermeticità del circuito frigoriferoMGruppi frigoriferi autonomiA2.116Controllo del sistema di recupero olioMGruppi frigoriferi autonomiA2.117Controllo resistenze di riscaldamento oilo e relativo termostatoMGruppi frigoriferi autonomiA2.118Controllo perdite di carico dei fluidi attraverso i relativi scambiatoriMGruppi frigoriferi autonomiA2.119Verifica del grado di pulizia degli scambiatori con il metodo delle temperatureMGruppi frigoriferi autonomiA2.1110Verifica funzionalità dei flussostatiMGruppi frigoriferi autonomiA2.1111Controllo dei trasduttori e sensori di temperatura e procedura di autodiagnosi del
+microprocessoreMGruppi frigoriferi autonomiA2.1112Controllo degli assorbimenti elettrici e trascrizione sul libretto di manutenzioneMGruppi frigoriferi autonomiA2.1113Pulizia del pannello di controlloMGruppi frigoriferi autonomiA2.1114Verifica del filtro olio, con sostituzione se necessarioMGruppi frigoriferi autonomiA2.1115Verifica delle viti di fissaggio del motoreMGruppi frigoriferi autonomiA2.1116Messa a punto e taratura delle apparecchiature di sicurezza tra i quali i pressostati e
+termostatiMGruppi frigoriferi autonomiA2.1117Controllo e allineamento accoppiamento motore-compressore e motore-turbinaMGruppi frigoriferi autonomiA2.1118Ingrassaggio generale dei cuscinetti e/o sostituzione se necessarioMGruppi frigoriferi autonomiA2.1119Pulizia interna delle vasche di raccolta condensaMGruppi frigoriferi autonomiA2.1120Ingrassaggio e lubrificazione motore ventilatoriMGruppi frigoriferi autonomiA2.1121Controllo ed equilibratura della ventolaMGruppi frigoriferi autonomiA2.1122Pulizia batteria condensatori aria3MGruppi frigoriferi autonomiA2.1123Sostituzione filtro essicatore sul gruppo di spurgo3MGruppi frigoriferi autonomiA2.1124Controllo sul microprocessore del sensore di prossimità e temperatura dei reggispinta
+albero di alta velocità3MGruppi frigoriferi autonomiA2.1125Controllo del motore e dei levismi di movimento delle alette di prerotazioneAGruppi frigoriferi autonomiA2.1126Controllo del grado di acidità dell'olio lubrificanteAGruppi frigoriferi autonomiA2.1127Sostituzione olio e filtro olioAGruppi frigoriferi autonomiA2.1128Sostituzione del liquido inibitore del circuito di raffredamentoAGruppi frigoriferi autonomiA2.1129Controllo della corrente di spunto e del tempo di commutazione stella/triangoloAGruppi frigoriferi autonomiA2.1130Controllo del segnale di limitazione di correnteA
+Batterie di post-riscaldamento/condizionamento di zonaA2.121Ispezione e verifica dello stato di conservazione6MBatterie di post-riscaldamento/condizionamento di zonaA2.122Verifica ed eventuale riparazione dei raccordi6MBatterie di post-riscaldamento/condizionamento di zonaA2.123Verifica della regolazione automatica, valvolame, termostati, ecc.6MBatterie di post-riscaldamento/condizionamento di zonaA2.124Pulizia delle batterie e delle sezioni di contenimento con spazzolatura, aspirazioni
+polveri ed impurità in sufflaggio aria compressaABatterie di post-riscaldamento/condizionamento di zonaA2.125Controllo serraggio bocchettoni e flange di collegamento ai circuiti idrauliciABatterie di post-riscaldamento/condizionamento di zonaA2.126Eventuale sostituzione di guarnizione seccate e danneggiateABatterie di post-riscaldamento/condizionamento di zonaA2.127Verifica della tenuta della valvola a 2-3-4 vie con eliminazione di eventuali trafilamenti6MBatterie di post-riscaldamento/condizionamento di zonaA2.128Controllo potenza assorbita6MBatterie di post-riscaldamento/condizionamento di zonaA2.129Controllo resistenza di isolamentoABatterie di post-riscaldamento/condizionamento di zonaA2.1210Controllo serraggio morsetti, portafusibili, verifica messa a terraAOrgani di taratura e sondeA2.131Pulizia dei contatti elettrici e serraggio morsettiereAOrgani di taratura e sondeA2.132Pulizia esternaMOrgani di taratura e sondeA2.133Verifica del funzionamento con ritaratura6MOrgani di taratura e sondeA2.134Verifica del funzionamento di spie e indicatoriMOrgani di taratura e sondeA2.135Verifica di funzionamento con variazione manuale del set-pointMOrgani di taratura e sondeA2.136Eliminazione eventuali perditeM

@@ -1,0 +1,1720 @@
+
+
+PROCEDURA APERTA TELEMATICA PER LA GESTIONE VETTORI ENERGETICI (G.V.E.)
+
+
+
+
+
+
+
+Allegato 8
+
+
+
+
+
+Modello offerta economica
+
+Allegato 8- Modello offerta economica
+
+
+
+Modello offerta economica Lotto 1
+
+
+1 Prezzi dei servizi e canone annuo convenzionale
+
+
+1
+234567
+8
+Px
+Elemento di prezzoPrezzo unitario a base d'astaPrezzo unitario offertoQ.tàQ.tà
+Totale
+Punteggio massimo
+
+A Servizio di climatizzazione invernale
+
+
+PA1
+Riscaldamento invernale
+0,00108
+€/(m3·GG)
+€/(m3·GG)
+611.274	m3
+2.383	GG
+-  €
+PA2
+Condizionamento invernale
+0,00265
+€/(m3·GG)
+€/(m3·GG)
+364.288	m3
+2.383	GG
+-  €
+B Servizio di climatizzazione estiva
+
+
+PB1Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+0,01332
+€/(m3·gg)
+€/(m3·gg)
+559.857
+m3
+183
+gg
+-  €
+PB1Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+0,01332
+€/(m3·gg)
+€/(m3·gg)
+19.906
+m3
+130
+gg
+-  €
+PB2Condizionamento estivo con impianti di ricambio dell'aria
+0,02541
+€/(m3·gg)
+€/(m3·gg)
+332.777
+m3
+183
+gg
+-  €
+PB2Condizionamento estivo con impianti di ricambio dell'aria
+0,02541
+€/(m3·gg)
+€/(m3·gg)
+31.512
+m3
+150
+gg
+-  €
+C Altri servizi termici
+
+
+PC1Impianto di acqua calda sanitaria e da altre utenze termiche
+0,99658
+€/m2
+€/m2
+258.528
+m2
+-  €
+DServizio di gestione degli impianti idrico sanitari e reti fognarie
+PD1Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e
+smaltimento reflui e reti fognari
+3,06101
+€/m2
+€/m2
+264.838
+m2
+-  €
+PD2Impianti di smaltimento delle acque meteoriche
+0,29539
+€/m2
+€/m2
+1.686.434
+m2
+-  €
+PD3Punti di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)
+150,00000
+€/Cad.
+€/Cad
+720
+m2
+€
+E
+Servizio energia impianti elettrici
+PE1Impianto elettrico nelle strutture ad alta intensità di cura
+24,01798
+€/m2
+€/m2
+265.201
+m2
+-  €
+PE2Impianto elettrico nelle strutture a media e bassa intensità di cura e in altre strutture
+11,18536
+€/m2
+€/m2
+58.663
+m2
+-  €
+PE3
+Impianti di illuminazione esterna
+0,61108
+€/m2
+€/m2
+115.604
+m2
+-  €
+PE4Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+1.920,61312
+€/cad.
+€/cad.
+121
+cad.
+-  €
+PE5Apparecchiature diagnostiche e per terapia fisse
+2,56422
+€/cad.
+€/cad.
+110.015
+cad.
+-  €
+FServizio di gestione degli impianti speciali di sicurezza e di comunicazione
+PF1Impianti speciali di sicurezza e di comunicazione
+1,45058
+€/m2
+€/m2
+273.941
+m2
+-  €
+PF2
+Impianti televisivi a circuito chiuso
+196,41392
+€/cad.
+€/cad.
+401
+cad.
+€
+GServizio di gestione di impianti e sistemi antincendio
+PG1
+Impianti e sistemi di protezione antincendio
+0,46946
+€/m2
+€/m2
+265.715
+m2
+-  €
+PG2
+Impianti di spegnimento automatico
+5,63880
+€/m2
+€/m2
+24.624
+m2
+-  €
+HServizio di gestione di impianti elevatori e di trasporto verticale e orizzontale
+PH1
+Impianti elevatori (fino a 5 fermate)
+851,68084
+€/cad.
+€/cad.
+79
+cad.
+-  €
+PH2
+Impianti elevatori (oltre 5 fermate)
+1.237,05533
+€/cad.
+€/cad.
+96
+cad.
+-  €
+PH3
+Servoscala e montascale
+341,99949
+€/cad.
+€/cad.
+2
+cad.
+-  €
+PH4
+Scale mobili e maciapiedi mobili
+1.091,74933
+€/cad.
+€/cad.
+0
+cad.
+-  €
+JServizio di gestione di altri impianti tecnologici
+0
+PJ1Porte automatiche, sbarre e cancelli automatizzati
+370,78428
+€/cad.
+€/cad.
+1.154	cad.
+-  €
+PJ2
+Sistemi di prevenzione della legionellosi
+0,44309
+€/m2
+€/m2
+258.715
+m2
+-  €
+PJ4
+Impianti di irrigazione
+0,69628
+€/m2
+€/m2
+21.330
+m2
+-  €
+PJ5
+Pozzi di prelievo acqua di falda
+158,69354
+€/cad.
+€/cad.
+7
+cad.
+-  €
+PJ6
+Elisuperfici
+5.744,72734
+€/cad.
+€/cad.
+1
+cad.
+-  €
+PJ7
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+170,98919
+€/cad.
+€/cad.
+7
+cad.
+-  €
+PJ8
+Vasche terapeutiche
+1.136,72788
+€/cad.
+€/cad.
+2
+cad.
+-  €
+PJ9Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+114,34797
+€/cad.
+€/cad.
+1.233	cad.
+-  €
+PJ10Cappe chimiche, biologiche e a flusso laminare
+361,84871
+€/cad.
+€/cad.
+271
+cad.
+-  €
+PJ11
+Impianti di posta pneumatica
+1.682,93750
+€/cad.
+€/cad.
+52
+cad.
+-  €
+PJ12
+Lavapadelle
+411,55352
+€/cad.
+€/cad.
+187
+cad.
+-  €
+PJ13
+Elettrodomestici vari
+31,22705
+€/cad.
+€/cad.
+482
+cad.
+-  €
+LPersonale aggiuntivo e squadra antincendio
+PL1
+Servizio di presidio giornaliero specializzato
+66.768,11953
+n°
+n°
+6
+n°
+-  €
+PL2
+Squadra di pronto intervento antincendio
+107.787,58411
+n°
+n°
+6
+n°
+-  €
+
+
+
+Nota: tutti i prezzi si intendono IVA esclusa
+
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+
+
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+
+RIBASSO (RP)
+
+
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+
+
+
+
+Modello offerta economica Lotto 2
+
+
+1 Prezzi dei servizi e canone annuo convenzionale
+
+12345678PxElemento di prezzoPrezzo unitario a base d'astaPrezzo unitario offertoQ.tàQ.tàTotalePunteggio massimo
+A Servizio di climatizzazione invernale
+
+PA1Riscaldamento invernale0,00108
+€/(m3·GG)
+€/(m3·GG)
+442.623	m32.468	GG-  €PA2Condizionamento invernale0,00265
+€/(m3·GG)
+€/(m3·GG)
+1.213.788	m32.468	GG-  €
+B Servizio di climatizzazione estiva
+
+PB1Condizionamento estivo senza presenza di impianti di ricambio dell'aria0,01332
+€/(m3·gg)
+€/(m3·gg)
+129.398	m3130	gg-  €PB2Condizionamento estivo con impianti di ricambio dell'aria0,02541
+€/(m3·gg)
+€/(m3·gg)
+1.162.290	m3150	gg-  €
+C Altri servizi termici
+
+PC1Impianto di acqua calda sanitaria e da altre utenze termiche0,99658
+€/m2
+€/m2444.492
+m2-  €DServizio di gestione degli impianti idrico sanitari e reti fognarie
+PD1Impianti idrico-sanitari e di trattamento
+dell'acqua e impianti di trattamento e smaltimento reflui e reti fognari
+3,06101
+€/m2
+€/m2
+444.492
+m2
+-  €PD2Impianti di smaltimento delle acque meteoriche0,29539
+€/m2
+€/m2117.315m2-  €PD3Punti di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)150,00000
+€/Cad
+€/Cad
+6.500	m2-  €EServizio energia impianti elettriciPE1Impianto elettrico nelle strutture ad alta intensità di cura24,01798
+€/m2
+€/m2444.492
+m2-  €PE2Impianto elettrico nelle strutture a media e bassa intensità di cura e in altre strutture11,18536
+€/m2
+€/m263.370
+m2-  €PE3Impianti di illuminazione esterna0,61108
+€/m2
+€/m2182.315
+m2-  €PE4Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill1.920,61312
+€/cad.
+€/cad.
+cad.-  €PE5Apparecchiature diagnostiche e per terapia fisse2,56422
+€/cad.
+€/cad.
+cad.-  €
+FServizio di gestione degli impianti speciali di sicurezza e di comunicazionePF1Impianti speciali di sicurezza e di comunicazione1,45058
+€/m2
+€/m2381.122
+m2-  €PF2Impianti televisivi a circuito chiuso196,41392
+€/cad.
+€/cad.512
+cad.-  €GServizio di gestione di impianti e sistemi antincendioPG1Impianti e sistemi di protezione antincendio0,46946
+€/m2
+€/m2449.725
+m2-  €PG2Impianti di spegnimento automatico5,63880
+€/m2
+€/m215.344
+m2-  €
+HServizio di gestione di impianti elevatori e di trasporto verticale e orizzontalePH1Impianti elevatori (fino a 5 fermate)851,68084
+€/cad.
+€/cad.100
+cad.-  €PH2Impianti elevatori (oltre 5 fermate)1.237,05533
+€/cad.
+€/cad.75
+cad.-  €PH3Servoscala e montascale341,99949
+€/cad.
+€/cad.1
+cad.-  €PH4Scale mobili e maciapiedi mobili1.091,74933
+€/cad.
+€/cad.0
+cad.-  €JServizio di gestione di altri impianti tecnologiciPJ1Porte automatiche, sbarre e cancelli automatizzati370,78428
+€/cad.
+€/cad.464
+cad.-  €PJ2Sistemi di prevenzione della legionellosi0,44309
+€/m2
+€/m2164.370
+m2-  €PJ4Impianti di irrigazione0,69628
+€/m2
+€/m26
+m2-  €PJ5Pozzi di prelievo acqua di falda158,69354
+€/cad.
+€/cad.0
+cad.-  €PJ6Elisuperfici5.744,72734
+€/cad.
+€/cad.2
+cad.-  €PJ7Impianti SOV (Sorveglianza Ostacoli al Volo)170,98919
+€/cad.
+€/cad.11
+cad.-  €PJ8Vasche terapeutiche1.136,72788
+€/cad.
+€/cad.
+cad.-  €PJ9Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere114,34797
+€/cad.
+€/cad.
+cad.-  €PJ10Cappe chimiche, biologiche e a flusso laminare361,84871
+€/cad.
+€/cad.
+cad.-  €PJ11Impianti di posta pneumatica1.682,93750
+€/cad.
+€/cad.132
+cad.-  €PJ12Lavapadelle411,55352
+€/cad.
+€/cad.
+cad.-  €PJ13Elettrodomestici vari31,22705
+€/cad.
+€/cad.
+cad.-  €LPersonale aggiuntivo e squadra antincendioPL1Servizio di presidio giornaliero specializzato66.768,11953
+n°
+n°1
+n°-  €PL2Squadra di pronto intervento antincendio107.787,58411
+n°
+n°6
+n°-  €
+
+
+
+Nota: tutti i prezzi si intendono IVA esclusa
+
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+
+
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+
+RIBASSO (RP)
+
+
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+
+
+
+
+
+
+
+Modello offerta economica Lotto 3
+
+
+1 Prezzi dei servizi e canone annuo convenzionale
+
+
+1
+234567
+8
+Px
+Elemento di prezzoPrezzo unitario a base d'astaPrezzo unitario offertoQ.tàQ.tà
+Totale
+Punteggio massimo
+A Servizio di climatizzazione invernale
+
+
+PA1
+Riscaldamento invernale
+0,00108
+€/(m3·GG)
+€/(m3·GG)
+425.496	m3
+2.383	GG
+-  €
+PA2
+Condizionamento invernale
+0,00265
+€/(m3·GG)
+€/(m3·GG)
+316.673	m3
+2.383	GG
+-  €
+B Servizio di climatizzazione estiva
+
+
+PB1Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+0,01332
+€/(m3·gg)
+€/(m3·gg)
+425.496	m3
+183	gg
+-  €
+PB2Condizionamento estivo con impianti di ricambio dell'aria
+0,02541
+€/(m3·gg)
+€/(m3·gg)
+316.673	m3
+183	gg
+-  €
+C Altri servizi termici
+
+
+PC1Impianto di acqua calda sanitaria e da altre utenze termiche
+0,99658	€/m2
+€/m2
+21.925	m2
+-  €D Servizio di gestione degli impianti idrico sanitari e reti fognarie
+
+PD1Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e
+smaltimento reflui e reti fognari
+3,06101
+€/m2
+€/m2
+43.851
+m2
+-  €
+PD2Impianti di smaltimento delle acque meteoriche
+0,29539
+€/m2
+€/m2
+54.813
+m2
+-  €
+PD3Punti di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)
+150,00000
+€/cad.
+€/Cad
+m2
+-  €
+E Servizio energia impianti elettrici
+
+
+PE1Impianto elettrico nelle strutture ad alta intensità di cura
+24,01798
+€/m2
+€/m2
+18.377
+m2
+-  €
+PE2Impianto elettrico nelle strutture a media e bassa intensità di cura e in altre strutture
+11,18536
+€/m2
+€/m2
+200.876
+m2
+-  €
+PE3
+Impianti di illuminazione esterna
+0,61108
+€/m2
+€/m2
+21.925
+m2
+-  €
+PE4Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+1.920,61312
+€/cad.
+€/cad.
+6
+cad.
+-  €
+PE5Apparecchiature diagnostiche e per terapia fisse
+2,56422
+€/cad.
+€/cad.
+cad.
+-  €F Servizio di gestione degli impianti speciali di sicurezza e di comunicazione
+
+PF1Impianti speciali di sicurezza e di comunicazione
+1,45058
+€/m2
+€/m2
+109.627
+m2
+-  €
+PF2
+Impianti televisivi a circuito chiuso
+196,41392
+€/cad.
+€/cad.
+850
+cad.
+-  €G Servizio di gestione di impianti e sistemi antincendio
+
+PG1
+Impianti e sistemi di protezione antincendio
+0,46946	€/m2
+€/m2
+109.627	m2
+-  €
+PG2
+Impianti di spegnimento automatico
+5,63880	€/m2
+€/m2
+200	m2
+-  €H Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale
+
+PH1
+Impianti elevatori (fino a 5 fermate)
+851,68084
+€/cad.
+€/cad.
+153
+cad.
+-  €
+PH2
+Impianti elevatori (oltre 5 fermate)
+1.237,05533
+€/cad.
+€/cad.
+37
+cad.
+-  €
+PH3
+Servoscala e montascale
+341,99949
+€/cad.
+€/cad.
+1
+cad.
+-  €
+PH4
+Scale mobili e maciapiedi mobili
+1.091,74933
+€/cad.
+€/cad.
+0
+cad.
+-  €J  Servizio di gestione di altri impianti tecnologici
+
+PJ1Porte automatiche, sbarre e cancelli automatizzati
+370,78428
+€/cad.
+€/cad.
+200
+cad.
+-  €
+PJ2
+Sistemi di prevenzione della legionellosi
+0,44309
+€/m2
+€/m2
+43.851
+m2
+-  €
+PJ4
+Impianti di irrigazione
+0,69628
+€/m2
+€/m2
+724
+m2
+-  €
+PJ5
+Pozzi di prelievo acqua di falda
+158,69354
+€/cad.
+€/cad.
+0
+cad.
+-  €
+PJ6
+Elisuperfici
+5.744,72734
+€/cad.
+€/cad.
+1
+cad.
+-  €
+PJ7
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+170,98919
+€/cad.
+€/cad.
+1
+cad.
+-  €
+PJ8
+Vasche terapeutiche
+1.136,72788
+€/cad.
+€/cad.
+1
+cad.
+-  €
+PJ9Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+114,34797
+€/cad.
+€/cad.
+318
+cad.
+-  €
+PJ10Cappe chimiche, biologiche e a flusso laminare
+361,84871
+€/cad.
+€/cad.
+27
+cad.
+-  €
+PJ11
+Impianti di posta pneumatica
+1.682,93750
+€/cad.
+€/cad.
+3
+cad.
+-  €
+PJ12
+Lavapadelle
+411,55352
+€/cad.
+€/cad.
+77
+cad.
+-  €
+PJ13
+Elettrodomestici vari
+31,22705
+€/cad.
+€/cad.
+cad.
+-  €L  Personale aggiuntivo e squadra antincendio
+
+PL1
+Servizio di presidio giornaliero specializzato
+66.768,11953	n°
+n°
+25	n°
+-  €
+PL2
+Squadra di pronto intervento antincendio
+107.787,58411	n°
+n°
+0	n°
+-  €
+
+
+Nota: tutti i prezzi si intendono IVA esclusa
+
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+
+
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+
+
+RIBASSO (RP)
+
+
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+
+
+
+
+
+
+
+Modello offerta economica Lotto 4
+
+
+1 Prezzi dei servizi e canone annuo convenzionale
+
+
+1
+2
+3
+4
+5
+6
+7
+8Px
+Elemento di prezzoPrezzo unitario a base d'asta
+Prezzo unitario offerto
+Q.tà
+Q.tà
+Totale
+Punteggio massimo
+A Servizio di climatizzazione invernale
+
+PA1
+Riscaldamento invernale
+0,00108
+€/(m3·GG)
+€/(m3·GG)
+175.185m3
+2.473	GG
+-  €PA1
+Riscaldamento invernale
+0,00108
+€/(m3·GG)
+€/(m3·GG)
+62.417m3
+4.163	GG
+-  €PA2
+Condizionamento invernale
+0,00265
+€/(m3·GG)
+€/(m3·GG)
+381.976m3
+2.473	GG
+-  €PA2
+Condizionamento invernale
+0,00265
+€/(m3·GG)
+€/(m3·GG)
+63.904m3
+4.163	GG
+-  €
+B Servizio di climatizzazione estiva	-
+
+PB1Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+0,01332
+€/(m3·gg)
+€/(m3·gg)
+60.814	m3
+130	gg
+-  €PB2Condizionamento estivo con impianti di ricambio dell'aria
+0,02541
+€/(m3·gg)
+€/(m3·gg)
+408.470	m3
+150	gg
+-  €
+C Altri servizi termici
+
+PC1Impianto di acqua calda sanitaria e da altre utenze termiche
+0,99658	€/m2
+€/m2
+213.276	m2
+-  €Servizio di gestione degli impianti idrico
+sanitari e reti fognarie	-
+
+PD1Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e
+smaltimento reflui e reti fognari
+3,06101
+€/m2
+€/m2
+213.276
+m2
+-  €PD2Impianti di smaltimento delle acque meteoriche
+0,29539
+€/m2
+€/m2
+163.776m2
+-  €PD3Punti di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)
+150,00000
+€/cad.
+€/cad.
+12m2
+-  €
+E  Servizio energia impianti elettrici	-
+
+PE1Impianto elettrico nelle strutture ad alta intensità di cura
+24,01798
+€/m2
+€/m2
+9.536	m2
+-  €PE2Impianto elettrico nelle strutture a media e bassa intensità di cura e in altre strutture
+11,18536
+€/m2
+€/m2
+225.240m2
+-  €PE3
+Impianti di illuminazione esterna
+0,61108
+€/m2
+€/m2
+54.000m2
+-  €PE4Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+1.920,61312
+€/cad.
+€/cad.
+0
+cad.
+-  €PE5Apparecchiature diagnostiche e per terapia fisse
+2,56422
+€/cad.
+€/cad.
+22
+cad.
+-  €
+Servizio di gestione degli impianti
+speciali di sicurezza e di comunicazione	-
+PF1Impianti speciali di sicurezza e di comunicazione
+1,45058
+€/m2
+€/m2
+184.729m2
+-  €PF2
+Impianti televisivi a circuito chiuso
+196,41392
+€/cad.
+€/cad.
+290
+cad.
+-  €Servizio di gestione di impianti e sistemi
+antincendio	-
+PG1
+Impianti e sistemi di protezione antincendio
+0,46946	€/m2
+€/m2
+228.776	m2
+-  €PG2
+Impianti di spegnimento automatico
+5,63880	€/m2
+€/m2
+16.930	m2
+-  €Servizio di gestione di impianti elevatori
+e di trasporto verticale e orizzontale	-
+PH1
+Impianti elevatori (fino a 5 fermate)
+851,68084
+€/cad.
+€/cad.
+43
+cad.
+-  €PH2
+Impianti elevatori (oltre 5 fermate)
+1.237,05533
+€/cad.
+€/cad.
+39
+cad.
+-  €PH3
+Servoscala e montascale
+341,99949
+€/cad.
+€/cad.
+2
+cad.
+-  €PH4
+Scale mobili e maciapiedi mobili
+1.091,74933
+€/cad.
+€/cad.
+0
+cad.
+-  €Servizio di gestione di altri impianti
+tecnologici	-
+PJ1Porte automatiche, sbarre e cancelli automatizzati
+370,78428
+€/cad.
+€/cad.
+89
+cad.
+-  €PJ2
+Sistemi di prevenzione della legionellosi
+0,44309
+€/m2
+€/m2
+67.553m2
+-  €PJ4
+Impianti di irrigazione
+0,69628
+€/m2
+€/m2
+500m2
+-  €PJ5
+Pozzi di prelievo acqua di falda
+158,69354
+€/cad.
+€/cad.
+0
+cad.
+-  €PJ6
+Elisuperfici
+5.744,72734
+€/cad.
+€/cad.
+1
+cad.
+-  €PJ7Impianti SOV (Sorveglianza Ostacoli al Volo)
+170,98919
+€/cad.
+€/cad.
+1
+cad.
+-  €PJ8
+Vasche terapeutiche
+1.136,72788
+€/cad.
+€/cad.
+4
+cad.
+-  €PJ9Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+114,34797
+€/cad.
+€/cad.
+475
+cad.
+-  €PJ10Cappe chimiche, biologiche e a flusso laminare
+361,84871
+€/cad.
+€/cad.
+17
+cad.
+-  €PJ11
+Impianti di posta pneumatica
+1.682,93750
+€/cad.
+€/cad.
+1
+cad.
+-  €PJ12
+Lavapadelle
+411,55352
+€/cad.
+€/cad.
+93
+cad.
+-  €PJ13
+Elettrodomestici vari
+31,22705
+€/cad.
+€/cad.
+500
+cad.
+-  €Personale aggiuntivo e squadra
+antincendio	-
+PL1
+Servizio di presidio giornaliero specializzato
+66.768,11953	n°
+n°
+17	n°
+-  €PL2
+Squadra di pronto intervento antincendio
+107.787,58411	n°
+n°
+0	n°
+-  €
+
+Nota: tutti i prezzi si intendono IVA esclusa
+
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+
+
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+
+
+RIBASSO (RP)
+
+
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+
+
+
+
+
+
+
+Modello offerta economica Lotto 5
+
+
+1 Prezzi dei servizi e canone annuo convenzionale
+
+
+1
+234567
+8
+Px
+Elemento di prezzoPrezzo unitario a base d'astaPrezzo unitario offertoQ.tàQ.tà
+Totale
+Punteggio massimo
+A Servizio di climatizzazione invernale
+
+
+PA1
+Riscaldamento invernale
+0,00108
+€/(m3·GG)
+€/(m3·GG)
+1.121.342	m3
+2.371	GG
+-  €
+PA2
+Condizionamento invernale
+0,00265
+€/(m3·GG)
+€/(m3·GG)
+663.879	m3
+2.371	GG
+-  €
+B Servizio di climatizzazione estiva
+
+
+PB1Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+0,01332
+€/(m3·gg)
+€/(m3·gg)
+331.213	m3
+130	gg
+-  €
+PB2Condizionamento estivo con impianti di ricambio dell'aria
+0,02541
+€/(m3·gg)
+€/(m3·gg)
+646.518	m3
+150	gg
+-  €
+C Altri servizi termici
+
+
+PC1Impianto di acqua calda sanitaria e da altre utenze termiche
+0,99658	€/m2
+€/m2
+346.942	m2
+-  €D Servizio di gestione degli impianti idrico sanitari e reti fognarie
+
+PD1Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e
+smaltimento reflui e reti fognari
+3,06101
+€/m2
+€/m2
+330.350
+m2
+-  €
+PD2Impianti di smaltimento delle acque meteoriche
+0,29539
+€/m2
+€/m2
+300.728
+m2
+-  €
+PD3Punti di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)
+150,00000
+€/Cad
+€/Cad
+120
+m2
+-  €
+E Servizio energia impianti elettrici
+
+
+PE1Impianto elettrico nelle strutture ad alta intensità di cura
+24,01798
+€/m2
+€/m2
+347.361
+m2
+-  €
+PE2Impianto elettrico nelle strutture a media e bassa intensità di cura e in altre strutture
+11,18536
+€/m2
+€/m2
+180.311
+m2
+-  €
+PE3
+Impianti di illuminazione esterna
+0,61108
+€/m2
+€/m2
+300.728
+m2
+-  €
+PE4Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+1.920,61312
+€/cad.
+€/cad.
+96
+cad.
+-  €
+PE5Apparecchiature diagnostiche e per terapia fisse
+2,56422
+€/cad.
+€/cad.
+18
+cad.
+-  €F Servizio di gestione degli impianti speciali di sicurezza e di comunicazione
+
+PF1Impianti speciali di sicurezza e di comunicazione
+1,45058
+€/m2
+€/m2
+165.273
+m2
+-  €
+PF2
+Impianti televisivi a circuito chiuso
+196,41392
+€/cad.
+€/cad.
+406
+cad.
+-  €G Servizio di gestione di impianti e sistemi antincendio
+
+PG1
+Impianti e sistemi di protezione antincendio
+0,46946	€/m2
+€/m2
+347.481	m2
+-  €
+PG2
+Impianti di spegnimento automatico
+5,63880	€/m2
+€/m2
+4.215	m2
+-  €H Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale
+
+PH1
+Impianti elevatori (fino a 5 fermate)
+851,68084
+€/cad.
+€/cad.
+124
+cad.
+-  €
+PH2
+Impianti elevatori (oltre 5 fermate)
+1.237,05533
+€/cad.
+€/cad.
+61
+cad.
+-  €
+PH3
+Servoscala e montascale
+341,99949
+€/cad.
+€/cad.
+5
+cad.
+-  €
+PH4
+Scale mobili e maciapiedi mobili
+1.091,74933
+€/cad.
+€/cad.
+3
+cad.
+-  €J  Servizio di gestione di altri impianti tecnologici
+
+PJ1Porte automatiche, sbarre e cancelli automatizzati
+370,78428
+€/cad.
+€/cad.
+425
+cad.
+-  €
+PJ2
+Sistemi di prevenzione della legionellosi
+0,44309
+€/m2
+€/m2
+213.343
+m2
+-  €
+PJ4
+Impianti di irrigazione
+0,69628
+€/m2
+€/m2
+7.463	m2
+-  €
+PJ5
+Pozzi di prelievo acqua di falda
+158,69354
+€/cad.
+€/cad.
+2
+cad.
+-  €
+PJ6
+Elisuperfici
+5.744,72734
+€/cad.
+€/cad.
+3
+cad.
+-  €
+PJ7
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+170,98919
+€/cad.
+€/cad.
+0
+cad.
+-  €
+PJ8
+Vasche terapeutiche
+1.136,72788
+€/cad.
+€/cad.
+1
+cad.
+-  €
+PJ9Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+114,34797
+€/cad.
+€/cad.
+278
+cad.
+-  €
+PJ10Cappe chimiche, biologiche e a flusso laminare
+361,84871
+€/cad.
+€/cad.
+27
+cad.
+-  €
+PJ11
+Impianti di posta pneumatica
+1.682,93750
+€/cad.
+€/cad.
+94
+cad.
+-  €
+PJ12
+Lavapadelle
+411,55352
+€/cad.
+€/cad.
+108
+cad.
+-  €
+PJ13
+Elettrodomestici vari
+31,22705
+€/cad.
+€/cad.
+382
+cad.
+-  €L  Personale aggiuntivo e squadra antincendio
+
+PL1
+Servizio di presidio giornaliero specializzato
+66.768,11953	n°
+n°
+42	n°
+-  €
+PL2
+Squadra di pronto intervento antincendio
+107.787,58411	n°
+n°
+11	n°
+-  €
+
+
+Nota: tutti i prezzi si intendono IVA esclusa
+
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+
+
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+
+
+RIBASSO (RP)
+
+
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+
+
+
+
+
+
+
+Modello offerta economica Lotto 6
+
+
+1 Prezzi dei servizi e canone annuo convenzionale
+
+
+1
+234567
+8
+Px
+Elemento di prezzoPrezzo unitario a base d'astaPrezzo unitario offertoQ.tàQ.tà
+Totale
+Punteggio massimo
+A Servizio di climatizzazione invernale
+
+
+PA1
+Riscaldamento invernale
+0,00108
+€/(m3·GG)
+€/(m3·GG)
+714.482	m3
+2.468	GG
+-  €
+PA2
+Condizionamento invernale
+0,00265
+€/(m3·GG)
+€/(m3·GG)
+596.907	m3
+2.468	GG
+-  €
+B Servizio di climatizzazione estiva
+
+
+PB1Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+0,01332
+€/(m3·gg)
+€/(m3·gg)
+270.624	m3
+130	gg
+-  €
+PB2Condizionamento estivo con impianti di ricambio dell'aria
+0,02541
+€/(m3·gg)
+€/(m3·gg)
+771.232	m3
+150	gg
+-  €
+C Altri servizi termici
+
+
+PC1Impianto di acqua calda sanitaria e da altre utenze termiche
+0,99658	€/m2
+€/m2
+312.388	m2
+-  €D Servizio di gestione degli impianti idrico sanitari e reti fognarie
+
+PD1Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e
+smaltimento reflui e reti fognari
+3,06101
+€/m2
+€/m2
+318.450
+m2
+-  €
+PD2Impianti di smaltimento delle acque meteoriche
+0,29539
+€/m2
+€/m2
+110.067
+m2
+-  €
+PD3Punti di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)
+150,00000
+€/Cad
+€/Cad
+0
+m2
+-  €
+E Servizio energia impianti elettrici
+
+
+PE1Impianto elettrico nelle strutture ad alta intensità di cura
+24,01798
+€/m2
+€/m2
+153.650
+m2
+-  €
+PE2Impianto elettrico nelle strutture a media e bassa intensità di cura e in altre strutture
+11,18536
+€/m2
+€/m2
+227.282
+m2
+-  €
+PE3
+Impianti di illuminazione esterna
+0,61108
+€/m2
+€/m2
+268.219
+m2
+-  €
+PE4Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+1.920,61312
+€/cad.
+€/cad.
+73
+cad.
+-  €
+PE5Apparecchiature diagnostiche e per terapia fisse
+2,56422
+€/cad.
+€/cad.
+65.299
+cad.
+-  €F Servizio di gestione degli impianti speciali di sicurezza e di comunicazione
+
+PF1Impianti speciali di sicurezza e di comunicazione
+1,45058
+€/m2
+€/m2
+380.932
+m2
+€
+PF2
+Impianti televisivi a circuito chiuso
+196,41392
+€/cad.
+€/cad.
+349
+cad.
+-  €G Servizio di gestione di impianti e sistemi antincendio
+
+PG1
+Impianti e sistemi di protezione antincendio
+0,46946	€/m2
+€/m2
+0	m2
+-  €
+PG2
+Impianti di spegnimento automatico
+5,63880	€/m2
+€/m2
+400	m2
+-  €H Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale
+
+PH1
+Impianti elevatori (fino a 5 fermate)
+851,68084
+€/cad.
+€/cad.
+110
+cad.
+-  €
+PH2
+Impianti elevatori (oltre 5 fermate)
+1.237,05533
+€/cad.
+€/cad.
+60
+cad.
+-  €
+PH3
+Servoscala e montascale
+341,99949
+€/cad.
+€/cad.
+1
+cad.
+-  €
+PH4
+Scale mobili e maciapiedi mobili
+1.091,74933
+€/cad.
+€/cad.
+4
+cad.
+-  €J  Servizio di gestione di altri impianti tecnologici
+
+PJ1Porte automatiche, sbarre e cancelli automatizzati
+370,78428
+€/cad.
+€/cad.
+392
+cad.
+-  €
+PJ2
+Sistemi di prevenzione della legionellosi
+0,44309
+€/m2
+€/m2
+136.041
+m2
+-  €
+PJ4
+Impianti di irrigazione
+0,69628
+€/m2
+€/m2
+21.740
+m2
+-  €
+PJ5
+Pozzi di prelievo acqua di falda
+158,69354
+€/cad.
+€/cad.
+9
+cad.
+-  €
+PJ6
+Elisuperfici
+5.744,72734
+€/cad.
+€/cad.
+5
+cad.
+-  €
+PJ7
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+170,98919
+€/cad.
+€/cad.
+3
+cad.
+-  €
+PJ8
+Vasche terapeutiche
+1.136,72788
+€/cad.
+€/cad.
+3
+cad.
+-  €
+PJ9Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+114,34797
+€/cad.
+€/cad.
+504
+cad.
+-  €
+PJ10Cappe chimiche, biologiche e a flusso laminare
+361,84871
+€/cad.
+€/cad.
+55
+cad.
+-  €
+PJ11
+Impianti di posta pneumatica
+1.682,93750
+€/cad.
+€/cad.
+2
+cad.
+-  €
+PJ12
+Lavapadelle
+411,55352
+€/cad.
+€/cad.
+106
+cad.
+-  €
+PJ13
+Elettrodomestici vari
+31,22705
+€/cad.
+€/cad.
+cad.
+-  €L  Personale aggiuntivo e squadra antincendio
+
+PL1
+Servizio di presidio giornaliero specializzato
+66.768,11953	n°
+n°
+10	n°
+-  €
+PL2
+Squadra di pronto intervento antincendio
+107.787,58411	n°
+n°
+20	n°
+-  €
+
+
+Nota: tutti i prezzi si intendono IVA esclusa
+
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+
+
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+
+
+RIBASSO (RP)
+
+
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+
+
+
+
+
+

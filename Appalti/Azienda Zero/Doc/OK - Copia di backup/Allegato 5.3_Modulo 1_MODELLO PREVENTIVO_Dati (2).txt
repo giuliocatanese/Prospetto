@@ -1,0 +1,25 @@
+Richiesta di Preventivo
+Dati riepilogativi delle sedi aziendali e dei servizi richiesti
+
+Azienda SanitariaDenominazione sedeCodiceIndirizzoCAPProvinciaCittàNumero di edificiTipologia di combustibile utilizzato dagli impianti termiciVolume lordo presunto [m3]Attestati di Prestazione Energetica esistentiSuperificie lorda interna presunta [m2]
+
+Servizi in convenzione
+AdesioneData presunta di
+attivazione del servizio (gg/mm/aaa)A Servizio di climatizzazione invernale
+A1Riscaldamento invernaleObbligatoriaA2Condizionamento invernaleObbligatoriaB Servizio di climatizzazione estiva
+B1Condizionamento estivo senza presenza di impianti di ricambio dell'ariaObbligatoriaB2Condizionamento estivo con impianti di ricambio dell'ariaObbligatoriaC Altri servizi termici
+C1Impianto di acqua calda sanitaria e da altre utenze termicheObbligatoriaD Servizio di gestione degli impianti idrico sanitari e reti fognarie
+D1Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e smaltimento reflui e reti fognarieObbligatoriaD2Impianti di smaltimento delle acque meteoriche e reti fognarieObbligatoriaD3Punti distali di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)ObbligatoriaD4Punti distali di erogazione acqua potabile calda e fredda SENZA filtro 0,2 micron (antilegionella)ObbligatoriaE Servizio energia impianti elettrici
+PE1Impianto elettrico nelle strutture ad alta intensità di curaObbligatoriaPE2Impianto elettrico nelle strutture a media e bassa intensità di curaObbligatoriaPE3Impianti di illuminazione esternaObbligatoriaPE4Apparecchiature per la rigenerazione dei pasti in sistemi cook and chillObbligatoriaPE5Apparecchiature diagnostiche e per terapia fisseObbligatoriaF Servizio di gestione degli impianti speciali di sicurezza e di comunicazione
+F1Impianti speciali di sicurezza e di comunicazioneObbligatoriaF2Impianti televisivi a circuito chiusoObbligatoriaG Servizio di gestione di impianti e sistemi antincendio
+
+
+G1Impianti e sistemi di protezione antincendioObbligatoriaG2Impianti di spegnimento automaticoObbligatoriaHServizio di gestione di impianti elevatori e di trasporto verticale e orizzontaleH1Impianti elevatori (fino a 5 fermate)Sì/NoH2Impianti elevatori (oltre 5 fermate)Sì/NoH3Servoscala e montascaleSì/NoH4Scale mobili e maciapiedi mobiliSì/NoJServizio di gestione di altri impianti tecnologiciJ1Porte automatiche, sbarre e cancelli automatizzatiSì/NoJ2Sistemi di prevenzione della legionellosiSì/NoJ3Numero di utenza idriche protette da filtri per la prevenzione della legionellosiSì/NoJ4Impianti di irrigazioneSì/NoJ5Pozzi di prelievo acqua di faldaSì/NoJ6ElisuperficiSì/NoJ7Impianti SOV (Sorveglianza Ostacoli al Volo)Sì/NoJ8Vasche terapeuticheSì/NoJ9Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifereSì/NoJ10Cappe chimiche, biologiche e a flusso laminareSì/NoJ11Impianti di posta pneumaticaSì/NoJ12LavapadelleSì/NoJ13Elettrodomestici variSì/NoLPersonale aggiuntivo e squadra antincendioL1Servizio di presidio giornaliero specializzatoSì/NoL2Squadra di pronto intervento antincendioSì/NoServizio di presidio giornaliero specializzatoPresenzaNumeroL1.1Operaio specializzato, con esperienza nel settore dell'impiantistica elettrica
+ospedaliera (ad esempio di almeno cinque anni) giornaliero8h x 5gg
+L1.2Operaio specializzato, con esperienza nel settore dell'impiantistica
+termotecnica e idraulica ospedaliera (ad esempio di almeno cinque anni) giornaliero
+8h x 5ggSquadra di pronto intervento tecnico e antincendioPresenzaNumeroL2.1Squadra di pronto intervento antincendio (24h x 7gg)24h x 7gg
+
+
+
+

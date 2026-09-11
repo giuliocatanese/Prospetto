@@ -1,0 +1,868 @@
+
+InsiemeCodice
+famigliaCodice
+tipoAttivitàPeriodicità
+
+
+Impianto di diffusione sonora per annunci
+C2.1
+1
+Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora : pulizia carpenteria interna ed involucro esterno, ripristino guarnizioni danneggiate o rimosse, verifica del serraggio delle morsettiere, controllo isolamento e grado protezione ip
+6M
+
+Impianto di diffusione sonora per annunci
+C2.1
+2
+Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora : controllo e prove di efficienza, verifica trasmissione messaggi d'allarme, controllo toni
+6M
+
+Impianto di diffusione sonora per annunci
+C2.1
+3
+Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora : verifica funzionamento gemme spia ed indicatore di tensione, verifica funzionamento led autodiagnosi
+6M
+Impianto di diffusione sonora per annunciC2.14Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora : verifica
+presenza e posizione dei vari indicatori di allarme e segnalazione6M
+
+
+Impianto di diffusione sonora per annunci
+
+C2.1
+
+5
+Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora : verifica dell'alimentazione elettrica in particolare dello stato di eventuali alimentatori dotati di batterie, dello stato delle condutture e delle apparecchiature di protezione. parziale scarica batterie tampone
+
+6M
+Impianto di diffusione sonora per annunciC2.16Operazioni connesse al controllo periodico - altoparlanti per diffusione sonora : verifica funzionamento
+altoparlante a diffusione sonora mediante forzatura sulla centralina6M
+
+Impianto di diffusione sonora per annunci
+C2.1
+7Operazioni connesse al controllo periodico - altoparlanti per diffusione sonora : pulizia esterna dell'altoparlante, controllo dello staffaggio alla parete, rimozione d'eventuali ostacoli alla diffusione,
+registrazione orientamento cono di diffusione
+6M
+
+
+Impianto di diffusione sonora per annunci
+
+C2.1
+
+8
+Operazioni connesse al controllo periodico - altoparlanti per diffusione sonora : pulizia interna carter altoparlante con spurgo foratura, serraggio e pulizia contatti elettrici e schede elettroniche con spray, trattamento calotta interna con spray a protezione dall'umidità
+
+6M
+Impianto di diffusione sonora per annunciC2.19Operazioni connesse al controllo periodico - controllo assorbimenti elettrici : controllo livelli di
+emissione altoparlanti a diffusione sonora6M
+
+
+
+
+
+Impianto di diffusione sonora per annunci
+
+
+C2.1
+
+
+10
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+
+Sistema di richiesta udienza
+C2.2
+1Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora: prova impianto di richiesta udienza, verifica segnalazione visiva/sonora, prova tasto chiamata, tacitazione
+avviso
+A
+
+
+Sistema di richiesta udienza
+
+C2.2
+
+2
+Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora: verifica tensioni di alimentazione, prova sovratensioni, controllo fusibili e connessioni con serraggio morsetti centralina e terminali. controllo carica batterie, se presenti, e parziale scarica
+
+A
+
+Sistema di richiesta udienza
+C2.2
+3Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora: pulizia interna centralina e apparecchi terminali, pulizia con spray su circuiti elettronici, pulizia
+altoparlanti/cicalini e carter interni, pulizia segnalazioni luminose
+A
+Sistema di richiesta udienzaC2.24Operazioni connesse al controllo periodico - centralina di amplificazione / diffusione sonora: controllo
+livelli di emissione segnali sonoriA
+
+
+
+
+
+Sistema di richiesta udienza
+
+
+C2.2
+
+
+5
+Altre manutenzioni e controlli : in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+
+Impianto citofonico
+C2.3
+1Operazioni connesse al controllo periodico : pulizia carpenteria interna ed involucro esterno unità interna, ripristino guarnizioni danneggiate o rimosse, verifica serraggio morsettiere, controllo
+isolamento e grado protezione ip
+6M
+
+Impianto citofonico
+C2.3
+2Operazioni connesse al controllo periodico : pulizia carpenteria interna ed involucro esterno unità esterna, pulizia obiettivo telecamere, controllo guarnizioni e grado di protezione ip. verifica corretto
+indirizzamento segnale di chiamata
+6M
+
+Impianto citofonico
+C2.3
+3
+Operazioni connesse al controllo periodico : controllo e prove di efficienza, verifica funzionamento microfoni, altoparlanti, telecamera e luci esterne. eventuali correzioni d'orientamento telecamera
+3M
+Impianto citofonicoC2.34Operazioni connesse al controllo periodico : verifica funzionamento eventuali gemme spia
+(apparecchiature per non udenti)M
+
+Impianto citofonico
+C2.3
+5Operazioni connesse al controllo periodico : verifica dell'alimentazione elettrica in particolare dello stato di eventuali alimentatori dotati di batteria, dello stato delle condutture e delle apparecchiature di
+protezione.
+6M
+
+
+
+
+
+Impianto citofonico
+
+
+C2.3
+
+
+6
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+Impianto di videosorveglianza TVCCC2.41Operazioni connesse al controllo periodico - postazione di supervisiore e registrazione : pulizia superfici
+monitorM
+
+Impianto di videosorveglianza TVCC
+C2.4
+2
+Operazioni connesse al controllo periodico - postazione di supervisiore e registrazione : controllo della corretta trasmissione del segnale e verifica della corretta visualizzazione delle immagini.
+M
+
+Impianto di videosorveglianza TVCC
+C2.4
+3Operazioni connesse al controllo periodico - postazione di supervisiore e registrazione : esame visivo del corretto stato di attivazione della centrale e di tutti i dispositivi di impianto (telecamere,
+registratori, monitor, convertitori video, alimentatori, ecc.)
+M
+Impianto di videosorveglianza TVCCC2.44Operazioni connesse al controllo periodico - postazione di supervisiore e registrazione : controllo
+funzionamento monitor, apparati audio, matrici e video registratoriM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Impianto di videosorveglianza TVCC
+
+
+
+
+
+
+
+C2.4
+
+
+
+
+
+
+
+5
+Operazioni connesse al controllo periodico - postazione di supervisiore e registrazione - controllo dei sistemi di memorizzazione e videoregistrazione, verificando in particolare:
+- l'area coperta dall'impianto;
+- che le esigenze di copertura, zona per zona, siano ancora valide e che siano quelle citate nelle procedure;
+- se le modalità di raccolta delle informazioni sono esatte;
+- che i tempi di risposta o memorizzazione siano quelli programmati;
+- le condizioni di tutti gli apparati ed il loro stato;
+- se vi sono eventi non conformi e non stabiliti nelle procedure di funzionamento;
+- il database storico degli avvenimenti nei dvr;
+- la capacità dell'hard disk e la disponibilità dello stesso;
+- la possibilità di estrapolazione delle immagini;
+- la conoscenza degli operatori incaricati alla gestione degli apparati delle giuste procedure ed istruirli;
+
+
+
+
+
+
+
+M
+
+Impianto di videosorveglianza TVCC
+C2.4
+6Operazioni connesse al controllo periodico - postazione di supervisiore e registrazione : assistenza al tecnico incaricato della stazione appaltante nel caso di visualizzazione, ricerca ed estrapolazione dei
+filmati.
+M
+
+Impianto di videosorveglianza TVCC
+C2.4
+7Operazioni connesse al controllo periodico - telecamere :pulizia carpenteria interna ed involucro esterno unità dicontrollo, ripristino guarnizioni danneggiate o rimosse, verifica serraggi morsettiere,
+controllo isolamento e grado protezione ip
+3M
+
+
+
+
+Impianto di videosorveglianza TVCC
+
+C2.4
+
+8Operazioni connesse al controllo periodico - telecamere : pulizia carpenteria interna ed involucro esterno unità periferiche, pulizia obiettivo telecamere, controllo guarnizioni e grado di protezione ip, lubrificazione organi in movimento, controllo staffaggi. verifica corretto indirizzamento segnale di
+chiamata
+
+3M
+Impianto di videosorveglianza TVCCC2.49Operazioni connesse al controllo periodico - telecamere : controllo sequenza telecamere e brandeggio
+delle stesse, correzione orientamenti e fine corsa2M
+Impianto di videosorveglianza TVCCC2.410Operazioni connesse al controllo periodico - telecamere : verifica funzionamento eventuali led
+autodiagnosi2M
+
+Impianto di videosorveglianza TVCC
+C2.4
+11Operazioni connesse al controllo periodico - telecamere : verifica dell'alimentazione elettrica in particolare dello stato di eventuali alimentatori dotati di batteria, dello stato delle condutture e delle
+apparecchiature di protezione. parziale scarica batterie tampone
+2M
+
+
+
+
+
+Impianto di videosorveglianza TVCC
+
+
+C2.4
+
+
+12
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+
+Impianti di chiamata stanze
+C2.5
+1
+Operazioni connesse al controllo periodico : prova impianto di chiamata stanze, verifica segnalazione visiva/sonora, prova tasto o cordoncino di chiamata e tacitazione di avviso ricevuto
+3M
+
+Impianti di chiamata stanze
+C2.5
+2Operazioni connesse al controllo periodico : verifica tensioni di alimentazione, prova sovratensioni, controllo fusibili e connessioni con serraggio morsetti centralina e terminali. controllo carica batterie,
+se presenti, e parziale scarica
+6M
+
+Impianti di chiamata stanze
+C2.5
+3Operazioni connesse al controllo periodico : pulizia interna centralina e apparecchi terminali, pulizia con spray su circuiti elettronici, pulizia altoparlanti/cicalini e carter interni, pulizia segnalazioni
+luminose
+6M
+Impianti di chiamata stanzeC2.54Operazioni connesse al controllo periodico : controllo livelli di emissione segnali sonori e verifica del
+corretto indirizzamento6M
+
+
+
+
+
+Impianti di chiamata stanze
+
+
+C2.5
+
+
+5
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+Passi carrabiliC2.61Operazioni connesse al controllo periodico - quadri ed alimentazione elettrica : verifica e pulizia del
+quadro elettrico3M
+Passi carrabiliC2.62Operazioni connesse al controllo periodico - quadri ed alimentazione elettrica : verifica degli organi di
+comando e protezione e dei collegamenti di terra3M
+Passi carrabiliC2.63Operazioni connesse al controllo periodico - quadri ed alimentazione elettrica : verifica delle tensioni in
+entrata ed in uscita3M
+Passi carrabiliC2.64Operazioni connesse al controllo periodico - quadri ed alimentazione elettrica : verifica eventuale
+alimentazione ausiliaria3M
+Passi carrabiliC2.65Operazioni connesse al controllo periodico - quadri ed alimentazione elettrica : verifica e pulizia del
+quadro elettronico3M
+Passi carrabiliC2.66Operazioni connesse al controllo periodico - quadri ed alimentazione elettrica : verifica del buon
+funzionamento degli apparati elettronici e degli apparecchi ausiliari3M
+Passi carrabiliC2.67Operazioni connesse al controllo periodico - quadri ed alimentazione elettrica : verifica dello stato delle
+condutture di alimentazione3M
+Passi carrabiliC2.68Operazioni connesse al controllo periodico - gruppo motore : verifica e pulizia del gruppo motore ed
+eventuale rabbocco o sostituzione dell'olio3M
+Passi carrabiliC2.69Operazioni connesse al controllo periodico - gruppo motore : asta metallica e sostegni
+verifica del buon funzionamento automatico e manuale3MPassi carrabiliC2.610Operazioni connesse al controllo periodico - gruppo motore : eventuali ritocchi di vernice3M
+Passi carrabiliC2.611
+Operazioni connesse al controllo periodico - sicurezza : verifica di tutti gli accessori di sicurezza3M
+
+Passi carrabili
+C2.6
+12Operazioni connesse al controllo periodico - organi di comando : verifica di funzionamento di tutti gli apparati di comando:
+interruttore a chiave, combinatore numerico, radiocomandi, ecc.
+3M
+
+
+
+
+
+Passi carrabili
+
+
+C2.6
+
+
+13
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SNAccessi pedonali esterni e/o interni motorizzatiC2.71Operazioni connesse al controllo periodico - gruppo motore : verifica del gruppo motore3M
+Accessi pedonali esterni e/o interni motorizzatiC2.72Operazioni connesse al controllo periodico - ante scorrevoli : verifica del buon funzionamento
+automatico e manuale3M
+Accessi pedonali esterni e/o interni motorizzatiC2.73
+Operazioni connesse al controllo periodico - sicurezza : verifica di tutti gli accessori di sicurezza3M
+
+Accessi pedonali esterni e/o interni motorizzati
+C2.7
+4Operazioni connesse al controllo periodico - organi di comando - verifica di funzionamento di tutti gli apparati di comando:
+fotocellule,interruttore a chiave, combinatore numerico, ecc.
+3M
+
+
+
+
+
+Accessi pedonali esterni e/o interni motorizzati
+
+
+C2.7
+
+
+5
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+
+Impianti antitrusione
+C2.8
+1Operazioni connesse al controllo periodico - centrali antintrusione : analogiche/a microprocessore a zone pulizia circuiti centralina con spray, serraggio morsetti e verifica stato manutentivo cavi, controllo
+eventuali fusibili
+6M
+Impianti antitrusioneC2.82Operazioni connesse al controllo periodico - centrali antintrusione : prova della centralina mediante
+forzature dei dati in ingresso e verifica correttezza out-putM
+
+Impianti antitrusione
+C2.8
+3Operazioni connesse al controllo periodico - centrali antintrusione : verifica dell'ancoraggio della centralina al quadro o al pannello di comando e controllo, verifica stato guarnizioni e grado di
+protezione ip
+3M
+Impianti antitrusioneC2.84Operazioni connesse al controllo periodico - centrali antintrusione : verifica tensioni di alimentazione,
+prova sovratensioni6M
+Impianti antitrusioneC2.85Operazioni connesse al controllo periodico - centrali antintrusione : verifica tensioni di alimentazione,
+prova sovratensioni6M
+
+Impianti antitrusione
+C2.8
+6
+Operazioni connesse al controllo periodico - rilevatori superficiali/inerziali : verifica del corretto funzionamento dei sensori inerziali, controllo tecnologia bimorph, verifica circuito asic
+3M
+Impianti antitrusioneC2.87Operazioni connesse al controllo periodico - rilevatori superficiali/inerziali : pulizia esterna del sensore
+e della relativa protezione superficiale, controllo staffaggio a pareteM
+
+Impianti antitrusione
+C2.8
+8
+Operazioni connesse al controllo periodico - rilevatori superficiali/inerziali : prova di separazione del segnale d'allarme fra movimento provocato e movimenti dettati dalle vibrazioni sonore nell'aria
+M
+
+Impianti antitrusione
+C2.8
+9Operazioni connesse al controllo periodico - rilevatori superficiali/inerziali : controllo soglia di
+rilevazione ed eventuale ritaratura secondo i parametri di progetto o i parametri richiesti dall'amministrazione
+3M
+Impianti antitrusioneC2.810Operazioni connesse al controllo periodico - rilevatori superficiali/inerziali : verifica corretto isolamento
+dalle interferenze emc secondo le direttive delle norme comunitarie3M
+Impianti antitrusioneC2.811Operazioni connesse al controllo periodico - rilevatori superficiali/inerziali : verifica corretto isolamento
+dalle interferenze emc secondo le direttive delle norme comunitarie3M
+
+
+
+Impianti antitrusione
+C2.8
+12Operazioni connesse al controllo periodico - rilevatori superficiali/inerziali : pulizia contatti elettrici, serraggio morsetti e misura tensioni d'assorbimento, verifica stato di carica della batteria e parziale
+scarica
+3M
+
+
+Impianti antitrusione
+
+C2.8
+
+13Operazioni connesse al controllo periodico - rilevatori volumetrici, infrarosso, ecc. : pulizia carpenteria interna ed involucro esterno unità periferiche, pulizia filtro anteriore, controllo guarnizioni e grado di protezione ip, lubrificazione organi in movimento, controllo staffaggi. verifica corretto indirizzamento
+segnale di chiamata
+
+3M
+Impianti antitrusioneC2.814Operazioni connesse al controllo periodico - rilevatori volumetrici, infrarosso, ecc. : prova di
+funzionamento rilevazione presenze nei locali controllati3M
+Impianti antitrusioneC2.815Operazioni connesse al controllo periodico - rilevatori volumetrici, infrarosso, ecc. : verifica
+funzionamento eventuali led autodiagnosi3M
+
+
+Impianti antitrusione
+
+C2.8
+
+16
+Operazioni connesse al controllo periodico - rilevatori volumetrici, infrarosso, ecc. : verifica dell'alimentazione elettrica in particolare dello stato di eventuali alimentatori dotati di batteria, dello stato delle condutture e delle apparecchiature di protezione. parziale scarica batterie tampone
+
+3M
+Impianti antitrusioneC2.817Operazioni connesse al controllo periodico - rilevatori lineari/contatto elettromeccanico, ecc. : prova di
+funzionamento di effrazione sui serramenti controllati3M
+Impianti antitrusioneC2.818Operazioni connesse al controllo periodico - rilevatori lineari/contatto elettromeccanico, ecc. : verifica
+funzionamento eventuali led autodiagnosi3M
+
+
+Impianti antitrusione
+
+C2.8
+
+19
+Operazioni connesse al controllo periodico - rilevatori lineari/contatto elettromeccanico, ecc. : verifica dell'alimentazione elettrica in particolare dello stato di eventuali alimentatori dotati di batteria, dello stato delle condutture e delle apparecchiature di protezione. parziale scarica batterie tampone
+
+3M
+
+
+
+
+
+Impianti antitrusione
+
+
+C2.8
+
+
+20
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+Impianti SOV (segnalazioni ostacoli al volo)C2.91
+Operazioni connesse al controllo periodico - quadro elettrico : verifica e pulizia del quadro elettrico6M
+Impianti SOV (segnalazioni ostacoli al volo)C2.92Operazioni connesse al controllo periodico - quadro elettrico : verifica degli organi di comando e
+protezione e dei collegamenti di terra6M
+Impianti SOV (segnalazioni ostacoli al volo)C2.93Operazioni connesse al controllo periodico - quadro elettrico : verifica delle tensioni in entrata ed in
+uscita6MImpianti SOV (segnalazioni ostacoli al volo)C2.94Verifica dello stato delle condutture di alimentazione6MImpianti SOV (segnalazioni ostacoli al volo)C2.95Controllo morsetteria e serraggio connessioni varie
+Impianti SOV (segnalazioni ostacoli al volo)C2.96Operazioni connesse al controllo periodico - corpi illuminanti : verifica integrità corpo lampada (per
+ogni tipologia di lampada)M
+Impianti SOV (segnalazioni ostacoli al volo)C2.97Operazioni connesse al controllo periodico - corpi illuminanti : verifica di funzionamento ed eventuale
+sostituzione lampade segnalazione ostacoliM
+Impianti SOV (segnalazioni ostacoli al volo)C2.98Operazioni connesse al controllo periodico - corpi illuminanti : verifica di funzionamento ed eventuale
+sostituzione lampade perimetrali piazzola elisuperficeM
+Impianti SOV (segnalazioni ostacoli al volo)C2.99Operazioni connesse al controllo periodico - corpi illuminanti : verifica di funzionamento ed eventuale
+sostituzione lampade proittori a luce radente piazzola elisuperficeM
+Impianti SOV (segnalazioni ostacoli al volo)C2.910Operazioni connesse al controllo periodico - corpi illuminanti : verifica di funzionamento ed eventuale
+sostituzione sentiero di avvicinamento piazzola elisuperficeM
+
+Impianti SOV (segnalazioni ostacoli al volo)
+C2.9
+11Operazioni connesse al controllo periodico - indicatore angolo di planata : verifica integrità e stato di
+conservazione del proittore con ripristino della pitturazione poliuretanica su sottofondo poliestere (arancio ral 2004);
+M
+Impianti SOV (segnalazioni ostacoli al volo)C2.912Operazioni connesse al controllo periodico - indicatore angolo di planata : verifica emissione del fascio
+di luce tricromatico nel piano verticale (giallo, verde, rosso)M
+Impianti SOV (segnalazioni ostacoli al volo)C2.913Operazioni connesse al controllo periodico - indicatore angolo di planata : verifica impostazione angolo
+di elevazioneM
+Impianti SOV (segnalazioni ostacoli al volo)C2.914Operazioni connesse al controllo periodico - manica a vento : verifica integrità sacca e struttura di
+sostegnoM
+Impianti SOV (segnalazioni ostacoli al volo)C2.915Operazioni connesse al controllo periodico - manica a vento : verifica integrità proiettore per
+illuminazione della saccaM
+
+Impianti SOV (segnalazioni ostacoli al volo)
+C2.9
+16
+Operazioni connesse al controllo periodico - manica a vento : controllo della funzionalità e
+dell'efficienza del sistema d'illuminazione della sacca con eventuale sostituzione della lampada
+MImpianti SOV (segnalazioni ostacoli al volo)C2.917Operazioni connesse al controllo periodico - manica a vento : verifica ancoraggiM
+Impianti SOV (segnalazioni ostacoli al volo)C2.918Operazioni connesse al controllo periodico - manica a vento : verifica snodo girevole e stato dei
+contatti elettrici strisciantiM
+
+Impianti SOV (segnalazioni ostacoli al volo)
+C2.9
+19Operazioni connesse al controllo periodico - manica a vento : verifica stato di conservazione della struttura in acciaio zincato con ripristino della pitturazione poliuretanica su sottofondo poliestere
+(arancio ral 2004);
+Impianti SOV (segnalazioni ostacoli al volo)C2.920Operazioni connesse al controllo periodico - alimentazione ausiliaria: verifica dello stato dell'eventuale
+alimentazione ausiliariaM
+
+
+
+
+
+Impianti SOV (segnalazioni ostacoli al volo)
+
+
+C2.9
+
+
+21
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+Impianto tv satellitare e terrestreC2.101Operazioni connesse al controllo periodico - a seguito di guasto o intervento, l'impresa dovrà
+ripristinare la situazione originaria degli impianti, qualora sia stata alterata
+Impianto tv satellitare e terrestreC2.102Operazioni connesse al controllo periodico : verifica del buon collegamento elettrico, della connessione
+all'impianto di terra, delle spine e dei fusibili del centralino di antennaA
+Impianto tv satellitare e terrestreC2.103
+Operazioni connesse al controllo periodico : verifica dello stato dell'antenna e dei suoi amarriA
+Impianto tv satellitare e terrestreC2.104Operazioni connesse al controllo periodico : controllo ed eventuale sostituzione di prese o altri
+componenti danneggiatiA
+Impianto tv satellitare e terrestreC2.105Operazioni connesse al controllo periodico : verifica integrità e stato di conservazione di tutti i
+componenti di impianto e, in particolare, in relazione al luogo di installazioneA
+Impianto tv satellitare e terrestreC2.106
+Operazioni connesse al controllo periodico : verifica funzionale dei vari componenti d'impiantoAImpianto tv satellitare e terrestreC2.107Operazioni connesse al controllo periodico : misura dell'attenuazione delle prese tvA
+Impianto tv satellitare e terrestreC2.108Operazioni connesse al controllo periodico : verifica conservazione e sostituzione, se necessario, di
+tratti di cavo terminale (al punto presa o diffusore)AImpianto tv satellitare e terrestreC2.109Operazioni connesse al controllo periodico : pulizia in base alle istruzioni del costruttoreA
+
+
+
+
+
+Impianto tv satellitare e terrestre
+
+
+C2.10
+
+
+10
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+
+
+
+
+Impianto controllo accesi
+
+C2.11
+
+1Operazioni connesse al controllo periodico : se durante l'esecuzione delle prove venisse meno la funzionalità degli impianti di controllo accessi, l'impresa dovrà mettere in atto tutte le misure alternative atte a garantire il servizio (es. con personale proprio).
+a seguito di guasto o intervento, l'impresa dovrà ripristinare la situazione originaria, qualora sia stata
+alterata.
+
+S
+Impianto controllo accesiC2.112Operazioni connesse al controllo periodico : controllare e mantenere efficienti i sistemi ed effettuare
+periodicamente prove di funzionamento e le ritarature dei varchi controllatiS
+Impianto controllo accesiC2.113Operazioni connesse al controllo periodico : verificare la meccanica del serramento in relazione
+all'allineamento dei magneti e dei sistemi di apertura e chiusura.S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Impianto controllo accesi
+
+
+
+
+
+
+C2.11
+
+
+
+
+
+
+4Operazioni connesse al controllo periodico : eseguire le attività di sorveglianza, controllo, pulizia, revisione e collaudo di tutti i componenti costituenti le singole tipologie impiantistiche del sistema controllo accessi:
+- controllori di varco;
+- contatti magnetici e serrature elettriche (compresa la lubrificazione dei componenti meccanici delle elettroserrature);
+- identificatori (lettori di badge);
+- terminali (dispositivo che riceve un segnale digitale da un identificatore e che può concedere o negare l'accesso);
+- chiavi elettroniche;
+- combinatori telefonici;
+- trasponder di prossimità;
+- tastiere, radiocomandi;
+- ecc.
+
+
+
+
+
+
+S
+Impianto controllo accesiC2.115Operazioni connesse al controllo periodico : verificare la carica degli eventuali accumulatori/batterie
+con rilevazione della tensione in uscitaS
+
+
+Impianto controllo accesi
+
+C2.11
+
+6
+Operazioni connesse al controllo periodico : verificare e controllare periodicamente l'integrità delle linee costituenti l'intera rete di gestione del controllo accessi afferente allo specifico server, ivi comprese le prove di verifica della continuità di connessione delle linee al server medesimo
+
+S
+
+Impianto controllo accesi
+C2.11
+7Operazioni connesse al controllo periodico : riprogrammazione del sistema secondo le esigenze della
+stazione appaltante (abilitazione e/o disabilitazione dei badge secondo esigenze della stazione appaltante)
+SN
+
+Impianto controllo accesi
+C2.11
+8
+Operazioni connesse al controllo periodico : manutenzione del software di gestione del sistema di controllo accessi che consente di definire le regole di accesso da assegnare agli utenti nei vari varchi.
+S
+
+
+
+
+
+Impianto controllo accesi
+
+
+C2.11
+
+
+9
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SNImpianto orologiC2.121Operazioni connesse al controllo periodico : verifica della funzionalità dell'orologio pilotaM
+Impianto orologiC2.122
+Operazioni connesse al controllo periodico : verifica della funzionalità degli orologi derivatiM
+Impianto orologiC2.123
+Operazioni connesse al controllo periodico : verifica della funzionalità degli orologi sale operatorieM
+Impianto orologiC2.124Operazioni connesse al controllo periodico : verifica uintegrità e stato di conservazione di tutti i
+componenti di impiantoMImpianto orologiC2.125Operazioni connesse al controllo periodico : pulizia interna ed esterna di tutti gli orologi6M
+Impianto orologiC2.126
+Operazioni connesse al controllo periodico : verifica dello stato di carica delle eventuali batterie6M
+Impianto orologiC2.127Operazioni connesse al controllo periodico : verifica funzionale dei vari componenti d'impianto
+(ripetitori di segnale, ecc...)6MImpianto orologiC2.128Operazioni connesse al controllo periodico : verifica dello stato dei collegamenti elettriciAImpianto orologiC2.129Operazioni connesse al controllo periodico : pulizia in base alle istruzioni del costruttoreA
+Impianto orologiC2.1210Operazioni connesse al controllo periodico : controllo, regolazione e verifica dell'orario e del cambio
+orario legale/solare (quest'ultimo quando necessario)SN
+
+
+
+
+
+Impianto orologi
+
+
+C2.12
+
+
+11
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+Impianto interfonicoC2.131Operazioni connesse al controllo periodico : a seguito di guasto o intervento, l'impresa dovrà
+ripristinare la situazione originaria degli impianti, qualora sia stata alterata
+
+Impianto interfonico
+C2.13
+2Operazioni connesse al controllo periodico : esame visivo dello stato di conservazione di tutte le apparecchiature di impianto (postazioni interne, esterne, alimentatori, distributori, schede, lampade,
+interfacce, tastiere, software di supervisione, ecc.)
+3M
+Impianto interfonicoC2.133Operazioni connesse al controllo periodico : verifica integrità e stato di conservazione di tutti i
+componenti di impianto e, in particolare, in relazione al luogo di installazione.6M
+Impianto interfonicoC2.134Operazioni connesse al controllo periodico : verifica accessibilità locale della centrale, con eventuale
+spostamento degli elementi di ostacolo (armadi, arredi, ecc.)6MImpianto interfonicoC2.135Operazioni connesse al controllo periodico : verifica dello stato di carica delle batterie6M
+Impianto interfonicoC2.136
+Operazioni connesse al controllo periodico : verifica funzionale dei vari componenti dell'impianto6MImpianto interfonicoC2.137Operazioni connesse al controllo periodico : controllo del sistema parla ascolta6MImpianto interfonicoC2.138Operazioni connesse al controllo periodico : prova circuiti e verifica funzionalità interfoniAImpianto interfonicoC2.139Operazioni connesse al controllo periodico : pulizia in base alle istruzioni del costruttoreAImpianto interfonicoC2.1310Operazioni connesse al controllo periodico : prova circuiti e verifica funzionalità interfoniA
+
+
+
+
+
+Impianto interfonico
+
+
+C2.13
+
+
+11
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN
+Impianto eliminacodeC2.141Operazioni connesse al controllo periodico : verifica integrità strutturale delle apparecchiature e delle
+parti passiveA
+Impianto eliminacodeC2.142Operazioni connesse al controllo periodico : verifica presenza e corretta targhettatura linee, prese,
+apparati ed eventuale integrazione necessarieA
+Impianto eliminacodeC2.143Operazioni connesse al controllo periodico : prove su campione significativo del regolare
+funzionamento delle apparecchiature e parti passiveA
+Impianto eliminacodeC2.144Operazioni connesse al controllo periodico : verifica visiva delle dello stato dei componenti, delle
+connessioni e dei caviA
+Impianto eliminacodeC2.145Operazioni connesse al controllo periodico : pulizia generale interna ed esterna della carpenteria e
+degli elementi in essa contenutiAImpianto eliminacodeC2.146Operazioni connesse al controllo periodico : verifica della temperaturainterna all'armadioAImpianto eliminacodeC2.147Operazioni connesse al controllo periodico : pulizia in base alle istruzioni del costruttoreA
+
+
+
+
+
+Impianto eliminacode
+
+
+C2.14
+
+
+8
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SNImpianti e apparecchiature sala convegni e regiaC2.151Operazioni connesse al controllo periodico : verifica dell'integrità delle apparecchiatureMImpianti e apparecchiature sala convegni e regiaC2.152Operazioni connesse al controllo periodico : controllo visivo di eventuali danneggiamentiM
+Impianti e apparecchiature sala convegni e regiaC2.153Operazioni connesse al controllo periodico : verifica del corretto funzionamento delle apparecchiature
+in campoM
+Impianti e apparecchiature sala convegni e regiaC2.154Operazioni connesse al controllo periodico : verifica del corretto funzionamento delle apparecchiature
+mobiliMImpianti e apparecchiature sala convegni e regiaC2.155Operazioni connesse al controllo periodico : verifica della presenza dei manuali d'uso6MImpianti e apparecchiature sala convegni e regiaC2.156Operazioni connesse al controllo periodico : pulizia in base alle istruzioni del costruttore6M
+Impianti e apparecchiature sala convegni e regiaC2.157Operazioni connesse al controllo periodico : dare assistenza, quando richiesto, alla messa a punto e
+preparazione delle apparecchiature prima e durante i convegniNA
+
+
+
+
+
+
+
+Impianti e apparecchiature sala convegni e regia
+
+
+C2.15
+
+
+8
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SNImpianto di mini trasportoC2.161Operazioni connesse al controllo periodico : controllo visivo di eventuali danneggiamentiImpianto di mini trasportoC2.162Operazioni connesse al controllo periodico : controllo dei rulli di guida2M
+Impianto di mini trasportoC2.163
+Operazioni connesse al controllo periodico : controllo funzionalità e stato della ruota di frizione2M
+Impianto di mini trasportoC2.164
+Operazioni connesse al controllo periodico : controllo delle spazzole di alimentazione dei carrelli2MImpianto di mini trasportoC2.165Operazioni connesse al controllo periodico : controllo delle funzioni di comando2MImpianto di mini trasportoC2.166Operazioni connesse al controllo periodico : controllo dei contatti di tallonamento2M
+Impianto di mini trasportoC2.167Operazioni connesse al controllo periodico : controllo dei contatti di apertura coperchio contenitori
+asportabili2M
+Impianto di mini trasportoC2.168Operazioni connesse al controllo periodico : controllo della pressione e del diametro della ruota di
+frizione2MImpianto di mini trasportoC2.169Operazioni connesse al controllo periodico : controllo della ruota dentata6MImpianto di mini trasportoC2.1610Operazioni connesse al controllo periodico : controllo spazzole del carrello6MImpianto di mini trasportoC2.1611Operazioni connesse al controllo periodico : controllo carboncini del collettore del motore6M
+Impianto di mini trasportoC2.1612
+Operazioni connesse al controllo periodico : verifica dell'assorbimento dei motori a pieno carico6MImpianto di mini trasportoC2.1613Operazioni connesse al controllo periodico : controllo dei contatti di relè6MImpianto di mini trasportoC2.1614Operazioni connesse al controllo periodico : verifica degli accoppiamenti6M
+Impianto di mini trasportoC2.1615
+Operazioni connesse al controllo periodico : controllo della pressione della molla del freno6M
+Impianto di mini trasportoC2.1616Operazioni connesse al controllo periodico : controllo del serraggio di viti e bulloni ed eventuale
+intervento di fissaggio6M
+Impianto di mini trasportoC2.1617
+Operazioni connesse al controllo periodico : controllo della posizione di fine corsa degli scambi6M
+Impianto di mini trasportoC2.1618
+Operazioni connesse al controllo periodico : controllo dell'allineamento delle tratte di rotaia scambi6M
+Impianto di mini trasportoC2.1619
+Operazioni connesse al controllo periodico : verifica dell'assorbimento dei motori degli scambi6M
+Impianto di mini trasportoC2.1620
+Operazioni connesse al controllo periodico : verifica della scheda e dei cavi del comando scambi6M
+Impianto di mini trasportoC2.1621Operazioni connesse al controllo periodico : verifica della scorrevolezza delle porte tagliafuoco e dei
+relativi contrappesi6M
+Impianto di mini trasportoC2.1622
+Operazioni connesse al controllo periodico : controllo funzionamento degli alimentatori a 40a6M
+Impianto di mini trasportoC2.1623Operazioni connesse al controllo periodico : controllo funzionamento degli alimentatori a tastiera ed il
+funzionamento delle tastiere6M
+Impianto di mini trasportoC2.1624
+Operazioni connesse al controllo periodico : controllo dell'allineamento delle tratte di canale di guida6M
+Impianto di mini trasportoC2.1625
+Operazioni connesse al controllo periodico : controllo posizione della cremagliera nei canali6MImpianto di mini trasportoC2.1626Operazioni connesse al controllo periodico : verifica dell'integrità delle rotaie di contatto6M
+Impianto di mini trasportoC2.1627
+Operazioni connesse al controllo periodico : verifica dell'allineamento delle curve e spostamenti6M
+Impianto di mini trasportoC2.1628Operazioni connesse al controllo periodico : controllare il corretto funzionamento della scheda di
+comando6MImpianto di mini trasportoC2.1629Operazioni connesse al controllo periodico : controllo delle spazzole del motore6M
+Impianto di mini trasportoC2.1630Operazioni connesse al controllo periodico : lubrificazione e ingrassaggio di tutte le parti e
+apparecchiature che ne fabbisognano6M
+
+
+
+
+
+Impianto di mini trasporto
+
+
+C2.16
+
+
+31
+Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+
+SN

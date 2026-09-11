@@ -1,0 +1,776 @@
+104825-2024 - Gara
+
+See the notice on TED website
+
+
+Italia - Servizi di gestione energia - Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto (G.V.E.)
+OJ S 36/2024 20/02/2024
+Bando di gara o di concessione - regime ordinario - Avviso di rettifica Servizi
+
+1. Committente
+
+1.1. Committente
+Nome ufficiale: Azienda Zero - Passaggio Gaudenzio 1 - Padova Forma giuridica del committente: Autorità regionale
+Attività dell'amministrazione aggiudicatrice: Salute
+
+2. Procedura
+
+2.1. Procedura
+Titolo: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto (G.V.E.)
+Descrizione: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto nello specifico: ? Azienda Ulss 6 Euganea, Azienda Ulss 7 Pedemontana, Azienda Ulss 8 Berica, Azienda Ulss 9 Scaligera, Azienda Ospedaliera Universitaria Integrata di Verona, Azienda Ospedaliera di Padova, Azienda Zero; ? l'I.R.C.C.S. Istituto Oncologico Veneto (IOV).
+Identificativo della procedura: 070f8b4b-9e19-4eb9-86f0-be9ddeb05718 Tipo di procedura: Aperta
+2.1.1. Finalità
+Natura dell'appalto: Servizi
+Classificazione principale (cpv): 71314200 Servizi di gestione energia
+
+2.1.3. Valore
+Valore stimato al netto dell'IVA: 751 746 353,41 EUR
+
+2.1.4. Informazioni generali
+Informazioni supplementari: La documentazione ufficiale di gara è disponibile in formato elettronico scaricabile dal sito https://salute.regione.veneto.it/web/aziendazero/bandi-di-gara-e- contratti. Poiché la procedura di gara è gestita con il Sistema telematico denominato Sintel, i candidati potranno estrarre i documenti di gara anche consultando la piattaforma SinTel all' indirizzo: www.arca.regione.lombardia.it. È onere dei concorrenti visitare le pagine internet predette prima della scadenza dei termini per la presentazione delle offerte, al fine di verificare la presenza di eventuali note integrative o esplicative. Le comunicazioni e gli scambi di informazioni tra l'UOC- CRAV e gli offerenti avverranno, ai sensi dell'art. 29, del D.Lgs. 36
+/2023, mediante la piattaforma SinTel. Eventuali chiarimenti possono essere richiesti all'UOC - CRAV tramite la piattaforma SinTel, entro e non oltre il quattordicesimo giorno (14 gg) antecedente la scadenza delle termine per la presentazione delle offerte indicato nel bando di gara. In tal senso farà fede la data di ricezione della comunicazione in piattaforma SinTel da parte dell'UOC - CRAV. Le richieste dovranno riportare l'oggetto della gara seguito dalla dicitura: Richiesta chiarimenti, entro 6 giorni antecedenti la scadenza del termine per la presentazione delle offerte, l'UOC - CRAV procederà a pubblicare sulla piattaforma SinTel,
+
+oltre che sul profilo del committente, le risposte ai quesiti che siano stati richiesti in tempo utile. Nel suddetto sito, oltre che sul profilo del committente, verrà altresì pubblicato l'esito della gara ad aggiudicazione definitiva avvenuta. Al presente affidamento si applicano le clausole pattizie di cui al Protocollo di legalità sottoscritto dalla Regione del Veneto in data 23.7.2014 (e rinnovato in data 07/09/2015), ai fini della prevenzione dei tentativi di infiltrazione della criminalità organizzata nel settore dei contratti pubblici di lavori, servizi e forniture, consultabile sul sito della Giunta Regionale: http://www.regione.veneto.it/web/lavori-pubblici
+/protocollo-di-legalita. Il bando G.U.U.E. sarà pubblicato per estratto su due quotidiani a diffusione nazionale e su due quotidiani a maggiore diffusione locale. Le spese per la pubblicazione nei termini di legge saranno rimborsate alla Stazione Appaltante dalle ditte aggiudicatarie. Il Responsabile del procedimento è la dott.ssa Sandra Zuzzi. Avviso: il termine di scadenza, precedentemente previsto per il 31/01/2024, è stato posticipato, in via provvisoria, in attesa del provvedimento definitivo, di modifica atti di gara, il quale indicherà il congruo termine, definitivo, di presentazione delle offerte per gli Operatori Economici interessati.
+Base giuridica:
+Direttiva 2014/24/UE
+
+2.1.5. Condizioni di appalto
+Modalità di presentazione:
+Numero massimo di lotti per i quali un offerente può presentare offerte: 6 Condizioni contrattuali:
+Numero massimo di lotti per i quali può essere aggiudicato un appalto a un offerente: 1
+
+2.1.6. Motivi di esclusione:
+Motivi di esclusione previsti esclusivamente dalla legislazione nazionale
+
+5. Lotto
+
+5.1. Lotto: LOT-0001
+Titolo: Lotto 1
+Descrizione: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto. Lotto n.1 : Azienda Ospedaliera di Padova (AOP) e Istituto Oncologico Veneto (IOV)
+Identificativo interno: Lotto 1
+
+5.1.1. Finalità
+Natura dell'appalto: Servizi
+Classificazione principale (cpv): 71314200 Servizi di gestione energia Classificazione aggiuntiva (cpv): 71314200 Servizi di gestione energia Opzioni:
+Descrizione delle opzioni: Come previsto dal Disciplinare di Gara ai sensi dell'art. 120 comma 9 del D.Lgs 36/2023 si prevede la possibilità, qualora si renda necessario, prevedere un aumento o una diminuzione delle prestazioni fino alla concorrenza di un quinto dell'importo del contratto. la stazione appaltante può imporre all'appaltatore l'esecuzione alle condizioni originariamente previste. In tal caso l'appaltatore non può fare valere il diritto alla risoluzione del contratto. Il contratto può essere prorogato, ai sensi dell'art. 120 comma 10 del D.Lgs 36
+/2023, ai prezzi, patti e condizioni stabiliti nel contratto o, in alternativa alle condizioni di mercato ove più favorevoli per la stazione appaltante per una durata pari a 1 anno, per un importo presunto pari a € 24.940.114,34 al netto di Iva e/o di altre imposte e contributi di legge, nonché degli oneri per la sicurezza dovuti a rischi da interferenze. L' esercizio di tale
+
+
+
+
+
+
+
+
+5.1.2. 
+
+
+5.1.3. 
+
+
+5.1.5.
+
+
+5.1.6.
+
+
+
+5.1.9.
+
+
+
+
+
+
+
+5.1.10.
+
+
+
+5.1.11.
+
+
+5.1.12.
+
+facoltà è comunicato all'appaltatore almeno 30 giorni prima della scadenza del contratto. In casi eccezionali, il contratto in corso di esecuzione può essere prorogato per il tempo strettamente necessario alla conclusione della procedura di individuazione del nuovo contraente se si verificano le condizioni indicate all'art. 120 comma 11. In tal caso il contraente è tenuto all'esecuzione delle prestazioni oggetto del contratto agli stessi prezzi, patti e condizioni previsti nel contratto.
+Luogo di esecuzione
+Ovunque
+
+Durata stimata
+Durata: 48 Mese
+
+Valore
+Valore stimato al netto dell'IVA: 119 712 544,99 EUR
+
+Informazioni generali
+Partecipazione riservata: La partecipazione non è riservata. Progetto di appalto non finanziato con fondi UE
+Criteri di selezione
+Criterio:
+Tipo: Abilitazione all'esercizio dell'attività professionale Descrizione: Criteri di selezione indicati nei documenti di gara Uso del criterio: Applicato
+Informazioni sulla seconda fase di una procedura in due fasi:
+Numero minimo di candidati da invitare alla seconda fase della procedura: 0
+
+Criteri di aggiudicazione
+Criterio:
+Tipo: Qualità
+
+Documenti di gara
+Indirizzo dei documenti di gara: https://www.azero.veneto.it/
+
+Condizioni di appalto
+Modalità di presentazione:
+Presentazione elettronica delle offerte: Consentita
+Indirizzo per la presentazione: https://www.sintel.regione.lombardia.it/fwep
+Lingue in cui possono essere presentate le offerte o le domande di partecipazione: italiano Catalogo elettronico: Consentita
+Varianti: Non consentita
+Termine per il ricevimento delle offerte: 14/03/2024 15:00:00 (UTC+1) Termine entro il quale l'offerta deve rimanere valida: 12 Mese Informazioni sull'apertura pubblica delle offerte:
+Data di apertura: 19/03/2024 10:00:00 (UTC+1)
+Luogo: Articolo 20 Disciplinare :l'apertura delle buste telematiche contenenti la documentazione amministrativa, tecnica ed economica nonché il download della relativa documentazione avverrà in sedute riservate anche ad opera del personale della U.O.C. CRAV. I verbali redatti per documentare le operazioni di gara verranno pubblicati sulla piattaforma Sintel e sul sito istituzionale della S.A.
+Condizioni contrattuali:
+Fatturazione elettronica: Non consentita
+
+Informazioni sui termini per il riesame: vedasi documentazione di gara
+
+5.1.15. Tecniche
+Accordo quadro: Nessun accordo quadro
+Informazioni sul sistema dinamico di acquisizione: Nessun sistema dinamico di acquisizione
+
+5.1.16. Ulteriori informazioni, mediazione e ricorsi
+Organizzazione di mediazione: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione competente per i ricorsi: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto
+: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+5.1. Lotto: LOT-0002
+Titolo: Lotto 2
+Descrizione: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto. Lotto n.2 : Azienda Ospedaliera Universitaria Integrata di Verona (AOUI-VR)
+Identificativo interno: Lotto 2
+
+5.1.1. Finalità
+Natura dell'appalto: Servizi
+Classificazione principale (cpv): 71314200 Servizi di gestione energia Classificazione aggiuntiva (cpv): 71314200 Servizi di gestione energia Opzioni:
+Descrizione delle opzioni: Come previsto dal Disciplinare di Gara ai sensi dell'art. 120 comma 9 del D.Lgs 36/2023 si prevede la possibilità, qualora si renda necessario, prevedere un aumento o una diminuzione delle prestazioni fino alla concorrenza di un quinto dell'importo del contratto. la stazione appaltante può imporre all'appaltatore l'esecuzione alle condizioni originariamente previste. In tal caso l'appaltatore non può fare valere il diritto alla risoluzione del contratto. Il contratto può essere prorogato, ai sensi dell'art. 120 comma 10 del D.Lgs 36
+/2023, ai prezzi, patti e condizioni stabiliti nel contratto o, in alternativa alle condizioni di mercato ove più favorevoli per la stazione appaltante per una durata pari a 1 anno, per un importo presunto pari a € 39.534.651,89 al netto di Iva e/o di altre imposte e contributi di legge, nonché degli oneri per la sicurezza dovuti a rischi da interferenze. L' esercizio di tale facoltà è comunicato all'appaltatore almeno 30 giorni prima della scadenza del contratto. In casi eccezionali, il contratto in corso di esecuzione può essere prorogato per il tempo strettamente necessario alla conclusione della procedura di individuazione del nuovo contraente se si verificano le condizioni indicate all'art. 120 comma 11. In tal caso il contraente è tenuto all'esecuzione delle prestazioni oggetto del contratto agli stessi prezzi, patti e condizioni previsti nel contratto.
+5.1.2. Luogo di esecuzione
+Ovunque
+
+5.1.3. Durata stimata
+Durata: 48 Mese
+
+5.1.5. Valore
+Valore stimato al netto dell'IVA: 189 766 329,07 EUR
+
+5.1.6. Informazioni generali
+
+
+
+
+5.1.9.
+
+
+
+
+
+
+
+5.1.10.
+
+
+
+5.1.11.
+
+
+5.1.12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.15.
+
+
+
+5.1.16.
+
+
+
+
+
+
+
+5.1.
+
+Partecipazione riservata: La partecipazione non è riservata. Progetto di appalto non finanziato con fondi UE
+Criteri di selezione
+Criterio:
+Tipo: Abilitazione all'esercizio dell'attività professionale Descrizione: Criteri di selezione indicati nei documenti di gara Uso del criterio: Applicato
+Informazioni sulla seconda fase di una procedura in due fasi:
+Numero minimo di candidati da invitare alla seconda fase della procedura: 0
+
+Criteri di aggiudicazione
+Criterio:
+Tipo: Qualità
+
+Documenti di gara
+Indirizzo dei documenti di gara: https://www.azero.veneto.it/
+
+Condizioni di appalto
+Modalità di presentazione:
+Presentazione elettronica delle offerte: Consentita
+Indirizzo per la presentazione: https://www.sintel.regione.lombardia.it/fwep
+Lingue in cui possono essere presentate le offerte o le domande di partecipazione: italiano Catalogo elettronico: Consentita
+Varianti: Non consentita
+Termine per il ricevimento delle offerte: 14/03/2024 15:00:00 (UTC+1) Termine entro il quale l'offerta deve rimanere valida: 12 Mese Informazioni sull'apertura pubblica delle offerte:
+Data di apertura: 19/03/2024 10:00:00 (UTC+1)
+Luogo: Articolo 20 Disciplinare :l'apertura delle buste telematiche contenenti la documentazione amministrativa, tecnica ed economica nonché il download della relativa documentazione avverrà in sedute riservate anche ad opera del personale della U.O.C. CRAV. I verbali redatti per documentare le operazioni di gara verranno pubblicati sulla piattaforma Sintel e sul sito istituzionale della S.A.
+Condizioni contrattuali:
+Fatturazione elettronica: Non consentita
+Informazioni sui termini per il riesame: vedasi documentazione di gara
+
+Tecniche
+Accordo quadro: Nessun accordo quadro
+Informazioni sul sistema dinamico di acquisizione: Nessun sistema dinamico di acquisizione
+
+Ulteriori informazioni, mediazione e ricorsi
+Organizzazione di mediazione: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione competente per i ricorsi: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto
+: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Lotto: LOT-0003
+Titolo: Lotto 3
+
+
+
+
+
+
+5.1.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.2.
+
+
+5.1.3.
+
+
+5.1.5.
+
+
+5.1.6.
+
+
+
+5.1.9.
+
+
+
+
+
+
+
+5.1.10.
+
+
+
+5.1.11.
+
+Descrizione: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto. Lotto n.3 : Azienda ULSS 6 Euganea e Azienda Zero
+Identificativo interno: Lotto 3
+
+Finalità
+Natura dell'appalto: Servizi
+Classificazione principale (cpv): 71314200 Servizi di gestione energia Classificazione aggiuntiva (cpv): 71314200 Servizi di gestione energia Opzioni:
+Descrizione delle opzioni: Come previsto dal Disciplinare di Gara ai sensi dell'art. 120 comma 9 del D.Lgs 36/2023 si prevede la possibilità, qualora si renda necessario, prevedere un aumento o una diminuzione delle prestazioni fino alla concorrenza di un quinto dell'importo del contratto. la stazione appaltante può imporre all'appaltatore l'esecuzione alle condizioni originariamente previste. In tal caso l'appaltatore non può fare valere il diritto alla risoluzione del contratto. Il contratto può essere prorogato, ai sensi dell'art. 120 comma 10 del D.Lgs 36
+/2023, ai prezzi, patti e condizioni stabiliti nel contratto o, in alternativa alle condizioni di mercato ove più favorevoli per la stazione appaltante per una durata pari a 1 anno, per un importo presunto pari a € 14.167.295,11 al netto di Iva e/o di altre imposte e contributi di legge, nonché degli oneri per la sicurezza dovuti a rischi da interferenze. L' esercizio di tale facoltà è comunicato all'appaltatore almeno 30 giorni prima della scadenza del contratto. In casi eccezionali, il contratto in corso di esecuzione può essere prorogato per il tempo strettamente necessario alla conclusione della procedura di individuazione del nuovo contraente se si verificano le condizioni indicate all'art. 120 comma 11. In tal caso il contraente è tenuto all'esecuzione delle prestazioni oggetto del contratto agli stessi prezzi, patti e condizioni previsti nel contratto.
+Luogo di esecuzione
+Ovunque
+
+Durata stimata
+Durata: 48 Mese
+
+Valore
+Valore stimato al netto dell'IVA: 68 003 016,52 EUR
+
+Informazioni generali
+Partecipazione riservata: La partecipazione non è riservata. Progetto di appalto non finanziato con fondi UE
+Criteri di selezione
+Criterio:
+Tipo: Abilitazione all'esercizio dell'attività professionale Descrizione: Criteri di selezione indicati nei documenti di gara Uso del criterio: Applicato
+Informazioni sulla seconda fase di una procedura in due fasi:
+Numero minimo di candidati da invitare alla seconda fase della procedura: 0
+
+Criteri di aggiudicazione
+Criterio:
+Tipo: Qualità
+
+Documenti di gara
+
+
+
+5.1.12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.15.
+
+
+
+5.1.16.
+
+
+
+
+
+
+
+5.1.
+
+
+
+
+
+
+5.1.1.
+
+Indirizzo dei documenti di gara: https://www.azero.veneto.it/
+
+Condizioni di appalto
+Modalità di presentazione:
+Presentazione elettronica delle offerte: Consentita
+Indirizzo per la presentazione: https://www.sintel.regione.lombardia.it/fwep
+Lingue in cui possono essere presentate le offerte o le domande di partecipazione: italiano Catalogo elettronico: Consentita
+Varianti: Non consentita
+Termine per il ricevimento delle offerte: 14/03/2024 15:00:00 (UTC+1) Termine entro il quale l'offerta deve rimanere valida: 12 Mese Informazioni sull'apertura pubblica delle offerte:
+Data di apertura: 19/03/2024 10:00:00 (UTC+1)
+Luogo: Articolo 20 Disciplinare :l'apertura delle buste telematiche contenenti la documentazione amministrativa, tecnica ed economica nonché il download della relativa documentazione avverrà in sedute riservate anche ad opera del personale della U.O.C. CRAV. I verbali redatti per documentare le operazioni di gara verranno pubblicati sulla piattaforma Sintel e sul sito istituzionale della S.A.
+Condizioni contrattuali:
+Fatturazione elettronica: Non consentita
+Informazioni sui termini per il riesame: vedasi documentazione di gara
+
+Tecniche
+Accordo quadro: Nessun accordo quadro
+Informazioni sul sistema dinamico di acquisizione: Nessun sistema dinamico di acquisizione
+
+Ulteriori informazioni, mediazione e ricorsi
+Organizzazione di mediazione: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione competente per i ricorsi: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto
+: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Lotto: LOT-0004
+Titolo: Lotto 4
+Descrizione: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto. Lotto n.4 : Azienda ULSS 7 Pedemontana
+Identificativo interno: Lotto 4
+
+Finalità
+Natura dell'appalto: Servizi
+Classificazione principale (cpv): 71314200 Servizi di gestione energia Classificazione aggiuntiva (cpv): 71314200 Servizi di gestione energia Opzioni:
+Descrizione delle opzioni: Come previsto dal Disciplinare di Gara ai sensi dell'art. 120 comma 9 del D.Lgs 36/2023 si prevede la possibilità, qualora si renda necessario, prevedere un aumento o una diminuzione delle prestazioni fino alla concorrenza di un quinto dell'importo del contratto. la stazione appaltante può imporre all'appaltatore l'esecuzione alle condizioni originariamente previste. In tal caso l'appaltatore non può fare valere il diritto alla risoluzione
+del contratto. Il contratto può essere prorogato, ai sensi dell'art. 120 comma 10 del D.Lgs 36
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.2.
+
+
+5.1.3.
+
+
+5.1.5.
+
+
+5.1.6.
+
+
+
+5.1.9.
+
+
+
+
+
+
+
+5.1.10.
+
+
+
+
+5.1.11.
+
+
+5.1.12.
+
+/2023, ai prezzi, patti e condizioni stabiliti nel contratto o, in alternativa alle condizioni di mercato ove più favorevoli per la stazione appaltante per una durata pari a 1 anno, per un importo presunto pari a € 14.632.986,88 al netto di Iva e/o di altre imposte e contributi di legge, nonché degli oneri per la sicurezza dovuti a rischi da interferenze. L' esercizio di tale facoltà è comunicato all'appaltatore almeno 30 giorni prima della scadenza del contratto. In casi eccezionali, il contratto in corso di esecuzione può essere prorogato per il tempo strettamente necessario alla conclusione della procedura di individuazione del nuovo contraente se si verificano le condizioni indicate all'art. 120 comma 11. In tal caso il contraente è tenuto all'esecuzione delle prestazioni oggetto del contratto agli stessi prezzi, patti e condizioni previsti nel contratto.
+Luogo di esecuzione
+Ovunque
+
+Durata stimata
+Durata: 48 Mese
+
+Valore
+Valore stimato al netto dell'IVA: 70 238 337,04 EUR
+
+Informazioni generali
+Partecipazione riservata: La partecipazione non è riservata. Progetto di appalto non finanziato con fondi UE
+Criteri di selezione
+Criterio:
+Tipo: Abilitazione all'esercizio dell'attività professionale Descrizione: Criteri di selezione indicati nei documenti di gara Uso del criterio: Applicato
+Informazioni sulla seconda fase di una procedura in due fasi:
+Numero minimo di candidati da invitare alla seconda fase della procedura: 0
+
+Criteri di aggiudicazione
+Criterio:
+Tipo: Qualità
+Descrizione: Qualità/Prezzo
+
+Documenti di gara
+Indirizzo dei documenti di gara: https://www.azero.veneto.it/
+
+Condizioni di appalto
+Modalità di presentazione:
+Presentazione elettronica delle offerte: Consentita
+Indirizzo per la presentazione: https://www.sintel.regione.lombardia.it/fwep
+Lingue in cui possono essere presentate le offerte o le domande di partecipazione: italiano Catalogo elettronico: Consentita
+Varianti: Non consentita
+Termine per il ricevimento delle offerte: 14/03/2024 15:00:00 (UTC+1) Termine entro il quale l'offerta deve rimanere valida: 12 Mese Informazioni sull'apertura pubblica delle offerte:
+Data di apertura: 19/03/2024 10:00:00 (UTC+1)
+Luogo: Articolo 20 Disciplinare :l'apertura delle buste telematiche contenenti la documentazione amministrativa, tecnica ed economica nonché il download della relativa
+
+documentazione avverrà in sedute riservate anche ad opera del personale della U.O.C. CRAV. I verbali redatti per documentare le operazioni di gara verranno pubblicati sulla piattaforma Sintel e sul sito istituzionale della S.A.
+Condizioni contrattuali:
+Fatturazione elettronica: Non consentita
+Informazioni sui termini per il riesame: vedasi documentazione di gara
+
+5.1.15. Tecniche
+Accordo quadro: Nessun accordo quadro
+Informazioni sul sistema dinamico di acquisizione: Nessun sistema dinamico di acquisizione
+
+5.1.16. Ulteriori informazioni, mediazione e ricorsi
+Organizzazione di mediazione: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione competente per i ricorsi: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto
+: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+5.1. Lotto: LOT-0005
+Titolo: Lotto 5
+Descrizione: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto. Lotto n.5 : Azienda ULSS 8 Berica Identificativo interno: Lotto 5
+5.1.1. Finalità
+Natura dell'appalto: Servizi
+Classificazione principale (cpv): 71314200 Servizi di gestione energia Classificazione aggiuntiva (cpv): 71314200 Servizi di gestione energia Opzioni:
+Descrizione delle opzioni: Come previsto dal Disciplinare di Gara ai sensi dell'art. 120 comma 9 del D.Lgs 36/2023 si prevede la possibilità, qualora si renda necessario, prevedere un aumento o una diminuzione delle prestazioni fino alla concorrenza di un quinto dell'importo del contratto. la stazione appaltante può imporre all'appaltatore l'esecuzione alle condizioni originariamente previste. In tal caso l'appaltatore non può fare valere il diritto alla risoluzione del contratto. Il contratto può essere prorogato, ai sensi dell'art. 120 comma 10 del D.Lgs 36
+/2023, ai prezzi, patti e condizioni stabiliti nel contratto o, in alternativa alle condizioni di mercato ove più favorevoli per la stazione appaltante per una durata pari a 1 anno, per un importo presunto pari a € 35.729.677,89 al netto di Iva e/o di altre imposte e contributi di legge, nonché degli oneri per la sicurezza dovuti a rischi da interferenze. L' esercizio di tale facoltà è comunicato all'appaltatore almeno 30 giorni prima della scadenza del contratto. In casi eccezionali, il contratto in corso di esecuzione può essere prorogato per il tempo strettamente necessario alla conclusione della procedura di individuazione del nuovo contraente se si verificano le condizioni indicate all'art. 120 comma 11. In tal caso il contraente è tenuto all'esecuzione delle prestazioni oggetto del contratto agli stessi prezzi, patti e condizioni previsti nel contratto.
+5.1.2. Luogo di esecuzione
+Ovunque
+
+5.1.3. Durata stimata
+Durata: 48 Mese
+
+5.1.5. Valore
+Valore stimato al netto dell'IVA: 171 502 453,89 EUR
+
+
+5.1.6.
+
+
+
+5.1.9.
+
+
+
+
+
+
+
+5.1.10.
+
+
+
+
+5.1.11.
+
+
+5.1.12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.15.
+
+
+
+5.1.16.
+
+Informazioni generali
+Partecipazione riservata: La partecipazione non è riservata. Progetto di appalto non finanziato con fondi UE
+Criteri di selezione
+Criterio:
+Tipo: Abilitazione all'esercizio dell'attività professionale Descrizione: Criteri di selezione indicati nei documenti di gara Uso del criterio: Applicato
+Informazioni sulla seconda fase di una procedura in due fasi:
+Numero minimo di candidati da invitare alla seconda fase della procedura: 0
+
+Criteri di aggiudicazione
+Criterio:
+Tipo: Qualità Descrizione: 70/30
+Documenti di gara
+Indirizzo dei documenti di gara: https://www.azero.veneto.it/
+
+Condizioni di appalto
+Modalità di presentazione:
+Presentazione elettronica delle offerte: Consentita
+Indirizzo per la presentazione: https://www.sintel.regione.lombardia.it/fwep
+Lingue in cui possono essere presentate le offerte o le domande di partecipazione: italiano Catalogo elettronico: Consentita
+Varianti: Non consentita
+Termine per il ricevimento delle offerte: 14/03/2024 15:00:00 (UTC+1) Termine entro il quale l'offerta deve rimanere valida: 12 Mese Informazioni sull'apertura pubblica delle offerte:
+Data di apertura: 19/03/2024 10:00:00 (UTC+1)
+Luogo: Articolo 20 Disciplinare :l'apertura delle buste telematiche contenenti la documentazione amministrativa, tecnica ed economica nonché il download della relativa documentazione avverrà in sedute riservate anche ad opera del personale della U.O.C. CRAV. I verbali redatti per documentare le operazioni di gara verranno pubblicati sulla piattaforma Sintel e sul sito istituzionale della S.A.
+Condizioni contrattuali:
+Fatturazione elettronica: Non consentita
+Informazioni sui termini per il riesame: vedasi documentazione di gara
+
+Tecniche
+Accordo quadro: Nessun accordo quadro
+Informazioni sul sistema dinamico di acquisizione: Nessun sistema dinamico di acquisizione
+
+Ulteriori informazioni, mediazione e ricorsi
+Organizzazione di mediazione: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione competente per i ricorsi: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto
+: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+
+
+
+
+5.1.
+
+
+
+
+
+
+5.1.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.2.
+
+
+5.1.3.
+
+
+5.1.5.
+
+
+5.1.6.
+
+
+
+5.1.9.
+
+Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Lotto: LOT-0006
+Titolo: Lotto 6
+Descrizione: Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto. Lotto n. : Azienda ULSS 9 Scaligera
+Identificativo interno: Lotto 6
+
+Finalità
+Natura dell'appalto: Servizi
+Classificazione principale (cpv): 71314200 Servizi di gestione energia Classificazione aggiuntiva (cpv): 71314200 Servizi di gestione energia Opzioni:
+Descrizione delle opzioni: Come previsto dal Disciplinare di Gara ai sensi dell'art. 120 comma 9 del D.Lgs 36/2023 si prevede la possibilità, qualora si renda necessario, prevedere un aumento o una diminuzione delle prestazioni fino alla concorrenza di un quinto dell'importo del contratto. la stazione appaltante può imporre all'appaltatore l'esecuzione alle condizioni originariamente previste. In tal caso l'appaltatore non può fare valere il diritto alla risoluzione del contratto. Il contratto può essere prorogato, ai sensi dell'art. 120 comma 10 del D.Lgs 36
+/2023, ai prezzi, patti e condizioni stabiliti nel contratto o, in alternativa alle condizioni di mercato ove più favorevoli per la stazione appaltante per una durata pari a 1 anno, per un importo presunto pari a € 27.609.098,31 al netto di Iva e/o di altre imposte e contributi di legge, nonché degli oneri per la sicurezza dovuti a rischi da interferenze. L' esercizio di tale facoltà è comunicato all'appaltatore almeno 30 giorni prima della scadenza del contratto. In casi eccezionali, il contratto in corso di esecuzione può essere prorogato per il tempo strettamente necessario alla conclusione della procedura di individuazione del nuovo contraente se si verificano le condizioni indicate all'art. 120 comma 11. In tal caso il contraente è tenuto all'esecuzione delle prestazioni oggetto del contratto agli stessi prezzi, patti e condizioni previsti nel contratto.
+Luogo di esecuzione
+Ovunque
+
+Durata stimata
+Durata: 48 Mese
+
+Valore
+Valore stimato al netto dell'IVA: 132 523 671,89 EUR
+
+Informazioni generali
+Partecipazione riservata: La partecipazione non è riservata. Progetto di appalto non finanziato con fondi UE
+Criteri di selezione
+Criterio:
+Tipo: Abilitazione all'esercizio dell'attività professionale Descrizione: Criteri di selezione indicati nei documenti di gara Uso del criterio: Applicato
+Informazioni sulla seconda fase di una procedura in due fasi:
+Numero minimo di candidati da invitare alla seconda fase della procedura: 0
+
+5.1.10. Criteri di aggiudicazione
+Criterio:
+Tipo: Qualità Descrizione: 70/30
+
+5.1.11.
+
+
+5.1.12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1.15.
+
+
+
+5.1.16.
+
+Documenti di gara
+Indirizzo dei documenti di gara: https://www.azero.veneto.it/
+
+Condizioni di appalto
+Modalità di presentazione:
+Presentazione elettronica delle offerte: Consentita
+Indirizzo per la presentazione: https://www.sintel.regione.lombardia.it/fwep
+Lingue in cui possono essere presentate le offerte o le domande di partecipazione: italiano Catalogo elettronico: Consentita
+Varianti: Non consentita
+Termine per il ricevimento delle offerte: 14/03/2024 15:00:00 (UTC+1) Termine entro il quale l'offerta deve rimanere valida: 12 Mese Informazioni sull'apertura pubblica delle offerte:
+Data di apertura: 19/03/2024 10:00:00 (UTC+1)
+Luogo: Articolo 20 Disciplinare :l'apertura delle buste telematiche contenenti la documentazione amministrativa, tecnica ed economica nonché il download della relativa documentazione avverrà in sedute riservate anche ad opera del personale della U.O.C. CRAV. I verbali redatti per documentare le operazioni di gara verranno pubblicati sulla piattaforma Sintel e sul sito istituzionale della S.A.
+Condizioni contrattuali:
+Fatturazione elettronica: Non consentita
+Informazioni sui termini per il riesame: vedasi documentazione di gara
+
+Tecniche
+Accordo quadro: Nessun accordo quadro
+Informazioni sul sistema dinamico di acquisizione: Nessun sistema dinamico di acquisizione
+
+Ulteriori informazioni, mediazione e ricorsi
+Organizzazione di mediazione: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione competente per i ricorsi: Azienda Zero - Passaggio Gaudenzio 1 - Padova Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto
+: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso: Azienda Zero - Passaggio Gaudenzio 1 - Padova
+
+
+8. Organizzazioni
+
+8.1. ORG-0001
+Nome ufficiale: Azienda Zero - Passaggio Gaudenzio 1 - Padova Numero di registrazione: (ORG-0001)
+Indirizzo postale: Passaggio Gaudenzio 1 Località: Padova
+Codice postale: 35131
+Suddivisione del paese (NUTS): Padova (ITH36) Paese: Italia
+Referente: U.O.C. CRAV
+
+E-mail: protocollo.azero@pecveneto.it Telefono: +39 0498778286
+Indirizzo internet: https://www.azero.veneto.it/ Profilo del committente: https://www.azero.veneto.it/ Ruoli di questa organizzazione:
+Committente
+Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto Organizzazione competente per i ricorsi
+Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso Organizzazione di mediazione
+
+10. Modifica
+
+Versione dell'avviso precedente da modificare: 732370-2023 Motivo principale della modifica: Aggiornamento informazioni
+Descrizione: Avviso: il termine di scadenza, precedentemente previsto per il 31/01/2024, è stato posticipato, in via provvisoria, in attesa del provvedimento definitivo, di modifica atti di gara, il quale indicherà il congruo termine, definitivo, di presentazione delle offerte per gli Operatori Economici interessati
+
+11. Informazioni sull'avviso
+
+11.1. Informazioni sull'avviso
+Identificativo/versione dell'avviso: dda0b370-b701-47d5-a68e-7759bf5e282e - 01 Tipo di formulario: Gara
+Tipo di avviso: Bando di gara o di concessione - regime ordinario Data di trasmissione dell'avviso: 19/02/2024 11:44:57 (UTC) Lingue in cui il presente avviso è ufficialmente disponibile: italiano
+11.2. Informazioni sulla pubblicazione
+Numero di pubblicazione dell'avviso: 104825-2024 Numero dell'edizione della GU S: 36/2024
+Data di pubblicazione: 20/02/2024
+
+

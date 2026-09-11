@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+ELENCO DELLE STRUTTURE AD ALTA INTENSITÀ DI CURA
+
+
+Azienda Sanitaria
+Struttura ospedaliera
+Indirizzo
+Classificazione [1]
+Superificie [m2]
+[2]
+Azienda Ospedaliera di Padova
+Azienda Ospedaliera di Padova
+via N. Giustiniani, 2 35128 Padova
+Hub a valenza nazionale e regionale
+207.937
+Azienda Ospedaliera di Padova
+Ospedale Sant'Antonio di Padova
+via J. Facciolati, 71 35127 Padova
+Presidio ospedalierio di rete
+- Spoke
+26.593
+Istituto Oncologico Veneto IOV - IRCCS
+Ospedale Busonera
+via Gattamelata, 64
+35128 Padova
+Hub a valenza nazionale e regionale
+23.885
+Azienda Ospedaliera Universitaria Integrata di Verona
+Ospedale di Borgo Roma
+p.le L.A. Scuro, 10 37134 Verona
+Hub a valenza nazionale e regionale
+394.171
+
+Ospedale di Borgo Trento
+p.le A. Stefani, 1 37126 Verona
+Hub a valenza nazionale e regionale
+
+Azienda ULSS 6 Euganea
+Ospedale Immacolata Concezione
+via San Rocco 8 35028 Piove di Sacco (PD)
+Presidio ospedaliero di rete
+- Spoke
+45.942
+Azienda ULSS 7 Pedemontana
+Ospedale San Bassano di Bassano
+via dei Lotti, 40
+36061 Bassano del Grappa (VI)
+Presidio ospedalierio di rete
+- Spoke
+93.575
+Azienda ULSS 8 Berica
+Ospedale San Bortolo di Vicenza
+v.le Rodolfi, 37
+36100 Vicenza
+Hub a valenza provinciale
+151.608
+Azienda ULSS 8 Berica
+Ospedale Cazzavillan di Arzignano
+via del Parco, 1 36071 Arzignano (VI)
+Presidio ospedalierio di rete
+- Spoke
+23.966
+
+Ospedale Vittorio Emanuele III di Montecchio Maggiore
+via Ca' Rotte, 9
+36075 Montecchio Maggiore (VI)
+Presidio ospedalierio di rete
+- Spoke
+34.467
+Azienda ULSS 9 Scaligera
+Ospedale Fracastoro di San Bonifacio
+via Circonvallazione, 1 37047 San Bonifacio (VR)
+Presidio ospedalierio di rete
+- Spoke
+63.116
+Azienda ULSS 9 Scaligera
+Ospedale Mater Salutis di Legnago
+via Gianella, 1
+37045 Legnago (VR)
+Presidio ospedalierio di rete
+- Spoke
+69.000
+Azienda ULSS 9 Scaligera
+Ospedale Magalini di Villafranca
+via Ospedale, 2
+37069 Villafranca di Verona (VR)
+Presidio ospedalierio di base
+21.534
+
+
+
+
+
+Note
+[1] Le strutture sono classificate dalla programmazione regionale come Ospedali di riferimento provinciale, Presidi ospedalieri di rete o Ospedali nodi di rete.
+[2] Superficie netta delle strutture ad alta intensità di cura servite da impianti di illuminazione interna e da punti di utilizzo di forza motrice; si intende il maggiore tra la superficie interna calpestabile dei locali attivi compresa tra le murature e la superficie lorda di ogni piano abitabile del fabbricato ridotto del 15%. Per locale attivo si intende ogni vano in cui si svolge attività sanitaria o istituzionale, i luoghi di lavoro e quelli con presenza di personale, degenti e familiari, utenti, ecc., e tutti i locali di servizio collegati, anche tecnici, e le vie di collegamento. Sono esclusi quindi i vani nei quali è comunque precluso l'acceso alle persone per qualunque attività e quelli non utilizzati abitualmente con caratteritiche dimensionali che non li rendono idonei all'abitabilità.
+
+
+
+

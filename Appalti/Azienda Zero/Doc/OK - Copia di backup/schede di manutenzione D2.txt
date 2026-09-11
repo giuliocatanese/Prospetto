@@ -1,0 +1,166 @@
+
+InsiemeCodice
+famigliaCodice
+tipoAttivitàPeriodicitàCentrale idricaD2.11Giro di ispezione generaleSCentrale idricaD2.12Ispezione di collettori, termometri, isolamento ed apparecchiSCentrale idricaD2.13Rilievo consumi e registrazione datiM
+Centrale idricaD2.14Serbatoi di riseva idrica: verifica integrità e stato di conservazione serbatoi e
+coibentazioni con eventuale ripristinoM
+Centrale idricaD2.15Serbatoi di riseva idrica: controllo della funzionalità ed eventuale messa a punto dei
+regolatori di livello a galeggianteMCentrale idricaD2.16Serbatoi di riseva idrica: controllo di tenuta valvole di ritegnoM
+Centrale idricaD2.17
+Gruppi di pressurizzazione: controllo compressori d'aria (olio, filtro, sicurezze)MCentrale idricaD2.18Gruppi di pressurizzazione: ispezione condizioni generaliMCentrale idricaD2.19Gruppi di pressurizzazione: controllo valvola di reintegroMCentrale idricaD2.110Gruppi di pressurizzazione: verifica elementi di tenutaMCentrale idricaD2.111Gruppi di pressurizzazione: controllo pressioni3MCentrale idricaD2.112Gruppi di pressurizzazione: verifica collegamenti elettrici3MCentrale idricaD2.113Gruppi di pressurizzazione: verifica serraggio basamento delle elettropompe3M
+Centrale idricaD2.114Valvolame, saracinesche e filtri: prova di funzionalità, verifica di tenuta e lavaggio
+cartucce interneM
+Centrale idricaD2.115Valvolame, saracinesche e filtri: verifica dell'assenza di perdite ed eventuale eliminazione
+delle stesse3M
+Centrale idricaD2.116Valvolame, saracinesche e filtri: controllo serraggio premistroppa ed eventuale
+rifacimento3M
+Centrale idricaD2.117Valvolame, saracinesche e filtri: eventuale sostituzione o sistemazione parti diffettose del
+funzionamento3M
+Centrale idricaD2.118
+Autoclavi montaliquidi : prova di funzionalità, verifica di tenuta e verifica pressioniM
+Centrale idricaD2.119Autoclavi montaliquidi : verifica dell'assenza di perdite ed eventuale eliminazione delle
+stesse3M
+Centrale idricaD2.120
+Autoclavi montaliquidi : controllo serraggio premistroppa ed eventuale rifacimento3M
+Centrale idricaD2.121Autoclavi montaliquidi : eventuale sostituzione o sistemazione parti diffettose del
+funzionamento e della coibentazione esterna3MImpianto di adduzione acquaD2.21Valvolame e saracinesche: prova di funzionalità e verifica di tenuta3M
+Impianto di adduzione acquaD2.22Valvolame e saracinesche: verifica dell'assenza di perdite ed eventuale eliminazione delle
+stesse3MImpianto di adduzione acquaD2.23Controllo serraggio premistroppa ed eventuale rifacimento3MImpianto di adduzione acquaD2.24Eventuale sostituzione o sistemazione parti diffettose del funzionamento3MImpianto di addolcimentoD2.31Verifica della durezza totale dell'acquaSImpianto di addolcimentoD2.32Controllo pressione di alimentazioneSImpianto di addolcimentoD2.33Controllo livello del sale ed eventuale reintegroSImpianto di addolcimentoD2.34Controllo del funzionamento idroelettrico di tutti gli impiantiMImpianto di addolcimentoD2.35Controllo dei cicli di rigenerazione degli addolcitoriMImpianto di addolcimentoD2.36Controllo del ciclo di lavaggio filtriMImpianto di addolcimentoD2.37Svuotamento e pulizia contenitore del sale6MImpianto di addolcimentoD2.38Verifica efficienza resine ed eventuale sostituzioneSNTubazioni rete primariaD2.41Tubazioni : verifica la tenuta delle congiunzioni a flangia2A
+Tubazioni rete primariaD2.42Tubazioni : verificare la stabilità dei sostegni e degli eventuali
+giunti fissi2A
+Tubazioni rete primariaD2.43Tubazioni : verificare che i tubi non presentino inflessioni a causa
+dell'eccessiva distanza tra i sostegni2A
+
+
+
+
+Tubazioni rete primaria
+
+D2.4
+
+4Rivestimenti isolanti : isolanti effettuare una ispezione visiva onde verificare lo stato di conservazione dei rivestimenti isolanti delle
+tubazioni e degli apparecchi che ne sono provvisti,
+nella centrale idrica e fuori di essa, inclusi i vasi di espansione
+
+2ATubazioni rete primariaD2.45Rivestimenti isolanti : ripristino dei rivestimenti isolanti deteriorati2A
+Utenze terminali impianto idrico-sanitarioD2.51Scaldabagni elttrici: controllo del funzionamento e verifica della presenza di depositi sulla
+serpentina3MUtenze terminali impianto idrico-sanitarioD2.52Scaldabagni elttrici: eventuale pulizia della serpentina3M
+Utenze terminali impianto idrico-sanitarioD2.53Apparecchi sanitari:vaso igienico a cacciata / alla turca / orinatoio: verifica ed eventuale
+sistemazione degli ancoraggi dei vasi di qualsiasi tipo3M
+Utenze terminali impianto idrico-sanitarioD2.54Apparecchi sanitari:vaso igienico a cacciata / alla turca / orinatoio: verifica ed eventuale
+sistemazione dei collegamenti con le condutture di scarico3M
+
+Utenze terminali impianto idrico-sanitario
+D2.5
+5
+Apparecchi sanitari:vaso igienico a cacciata / alla turca / orinatoio: verifica e sistemazione dei dispositivi di scarico di qualsiasi tipo con sostituzione delle parti non più riparabili
+3M
+Utenze terminali impianto idrico-sanitarioD2.56Apparecchi sanitari:vaso igienico a cacciata / alla turca / orinatoio: verifica ed eventuale
+sostituzione dei raccordi flesibili della cassetta di scarico3M
+Utenze terminali impianto idrico-sanitarioD2.57Apparecchi sanitari:vaso igienico a cacciata / alla turca / orinatoio: verifica ed eventuale
+sostituzione del coprivaso3M
+Utenze terminali impianto idrico-sanitarioD2.58Apparecchi sanitari: lavabo / lavello / vasca lavatoio: controllo funzionalità scarichi con
+eventuale disostruzione e/o puliza sifoni3M
+Utenze terminali impianto idrico-sanitarioD2.59Apparecchi sanitari: lavabo / lavello / vasca lavatoio: eventuale sostituzione delle
+guarnizioni dei sifoni3M
+Utenze terminali impianto idrico-sanitarioD2.510Apparecchi sanitari: lavabo / lavello / vasca lavatoio: rimozione del calcare dei lavabi di
+qualsisi tipo e forma3M
+Utenze terminali impianto idrico-sanitarioD2.511Apparecchi sanitari: lavabo / lavello / vasca lavatoio: riparazione ed eventuale
+sostituzione dei raccordi esterni di scarico3M
+Utenze terminali impianto idrico-sanitarioD2.512Apparecchi sanitari: lavabo / lavello / vasca lavatoio: sostituzione di tutti i raccordi
+flessibili di scarico3M
+Utenze terminali impianto idrico-sanitarioD2.513
+Apparecchi sanitari: lavabo / lavello / vasca lavatoio: verifica della rubinetteria3M
+
+
+Utenze terminali impianto idrico-sanitarioD2.514Apparecchi sanitari: lavabo / lavello / vasca lavatoio: controllo integrità porcellane con
+segnalazione di rotture3M
+Utenze terminali impianto idrico-sanitarioD2.515Apparecchi sanitari: lavabo / lavello / vasca lavatoio: controllo staffaggio e/o ingrassaggio
+con eventuale ripristino3M
+Utenze terminali impianto idrico-sanitarioD2.516Apparecchi sanitari:lavabo / lavello / vasca lavatoio: eventuale sostituzione delle
+guarnizioni delle rubinetterie3M
+Utenze terminali impianto idrico-sanitarioD2.517Apparecchi sanitari:lavabo / lavello / vasca lavatoio: verifica dei tappi di tenuta di
+qualsiasi tipo e forma3M
+Utenze terminali impianto idrico-sanitarioD2.518
+Apparecchi sanitari:lavabo / lavello / vasca lavatoio: pulizia dei pozzetti sifonati3M
+Utenze terminali impianto idrico-sanitarioD2.519Valvolame e saracinesche e rubinetterie : controllo tenuta e funzionalità, con eventuale
+sostituzione o sistemazione parti difettose3M
+Utenze terminali impianto idrico-sanitarioD2.520Dispositivo ammortizzatore colpi ariete/antivibrante : controllo tenuta e funzionalità, con
+eventuale sostituzione o sistemazione parti difettoseA
+
+
+
+
+Rete fognaria, acque bianche e nere
+
+D2.6
+
+1
+Pozzetti: scoperchiatura dei pozzetti, che dovrà essere effettuata con le attrezzature d'uso idonee e con ogni cura per non danneggiare i chiusuni stessi, i telai o la zona di pavimentazione circostante (durante l'intervento dovranno essere poste idonee
+protezioni e segnalazione in modo da evitare indicenti o danni a persone e cose
+
+6M
+
+
+Rete fognaria, acque bianche e nere
+
+D2.6
+
+2
+Pozzetti: spurgo e lavaggio dei pozzetti di ispezione compresi i raccordi di immissione ai pozzetti stradali e delle bocchette di lupo mediante getto di acqua a forte pressione e aspirazione contemporanea del materiale melmoso
+
+6M
+
+
+
+
+
+Rete fognaria, acque bianche e nere
+
+
+D2.6
+
+
+3Rete fognaria : pulizia della rete fognaria orrizontale, che dovrà essere effettuata sia a mezzo di immissione d'acqua a forte pressione, siam con strumenti idonei per l'asportazione di ogni incrostazione o residuo, e dovrà estendersi fino all'imbocco dei condotti delle fognature comunali esterne alla zona di pertinenza dell'ospedale, ponendo particolare attenzione in prossimità di sifoni, gomiti e raccordi speciali per evitari danni
+all'impianto
+
+
+6M
+
+Rete fognaria, acque bianche e nere
+D2.6
+4Rete fognaria : verifica accurata per controllare l'efficienza dei manufatti di canalizzazione orizzontale per lo smaltimento delle acque meteoriche, verifica di assenza
+di infiltrazioni verso l'esterno e pulizia degli stessi
+6M
+Rete fognaria, acque bianche e nereD2.65Rete fognaria : verifica e sistemazione dei dispositivi di scarico di qualsiasi tipo con
+sostituzione delle parti non più riparabili6M
+
+Rete fognaria, acque bianche e nere
+D2.6
+6Rete fognaria : verifica delle mensole, dei rinfianchi e dei muri per il
+sostegno della rete fognaria esistente nei cunicoli,a llo scopo di controllarne la stabilità e la funzionalità ed eventuali opere di ripristino
+6M
+Rete fognaria, acque bianche e nereD2.67Rete fognaria : rimozione e conferimento a centri specializzati di residui impianti
+depurazione e sgrigliaturaSN
+Impianto di sollevamentoD2.71
+Esame generale dell'impianto allo scopo di verificare lo stato di tutti i componenti3MImpianto di sollevamentoD2.72Prova di avviamento automatico e funzionamento delle pompe3MImpianto di sollevamentoD2.73Controllo di tutti i componenti elettrici3MFossa di sollevamento acque nereD2.81Controllo generale impiantiGFossa di sollevamento acque nereD2.82Prova inserimento pompe in automaticoSFossa di sollevamento acque nereD2.83Verifica livello fossaSFossa di sollevamento acque nereD2.84Controllo del funzionamento estrattoreMFossa di sollevamento acque nereD2.85Controllo del funzionamento delle valvole di non ritorinoMFossa di sollevamento acque nereD2.86Verifica di funzionamento del phmetroMFossa di sollevamento acque nereD2.87Controllo assorbimento motori elettrici6M
+Fossa di sollevamento acque nereD2.88Controllo generale delle pompe di sollevamento, smontando la pompa controllando lo
+stato della girante, ecc.A/SNCondensa GrassiD2.91Controllo generale impiantoGCondensa GrassiD2.92Prova inserimento pompe in automaticoSCondensa GrassiD2.93Verifica livello vascaSCondensa GrassiD2.94Controllo del funzionamento dei gallegiantiMCondensa GrassiD2.95Controllo del funzionamento della pompa sommersaMCondensa GrassiD2.96Controllo del funzionamento della pompa agitatriceMCondensa GrassiD2.97Controllo assorbimento motori elettrici6MCondensa GrassiD2.98Spurgo vascaSNBollitoreD2.101Controllo tenuta flange ed eventuale serraggioM
+BollitoreD2.102
+Verifica alla strumentazione di controllo e regolazione della temperatura e pressioneMBollitoreD2.103Controllo funzionalità valvole e verifica dello sfiato delle valvole di sicurezzaMBollitoreD2.104Controllo e verifica organi di sicurezza e di regolazioneMBollitoreD2.105Controllo elettropompe di circolazioneMBollitoreD2.106Pulizia e disincrostazione fasci tubieriMBollitoreD2.107Verifica della resa6MBollitoreD2.108Verifica e ripristino della coibentazioneA
+
+Servizi igienici al pubblico
+D2.11
+1
+Controllo generale degli apparecchi sanitari con verifica del sistema di ancoraggio, sistema di scarico con eliminazione di eventuali perdite e verifica della rubinetteria
+S
+Attività legionellaD2.121Attività di innalzamento della temperatura dell'acqua calda sanitaria con spurgo forzato
+dai terminaliSAttività legionellaD2.122Analisi acqua di rete (rif. capitolato tecnico)3MAttività legionellaD2.123Verifica della pulizia delle bocche d'erogazione acqua3M
+Attività legionellaD2.124
+Sostituzione dei diffusori dell'acqua dei rubinetti con sistemi idonei senza filtro3MAttività legionellaD2.125Controllo e pulizia dei filtri acqua6M
+Attività legionellaD2.126
+Controllo e funzionamento impianto di dosaggio ed eventuale regolazione - se presente6M
+Attività legionellaD2.127Controllo e pulizia sistema di comando iniezione prodotti (elettrovalvole e/o tarature) -
+se presente6MAttività legionellaD2.128Controllo e pulizia valvole salamoia - se presente6MAttività legionellaD2.129Analisi di durezza a monte e a valle impianto6M
+
+Attività legionellaD2.1210Controllo funzionalità pompe dosatrici6MAttività legionellaD2.1211Caricamento reagenti nei serbatoi6MAttività legionellaD2.1212Analisi acqua per determinazione batterio legionella6M

@@ -1,0 +1,1745 @@
+
+
+Allegato 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEMA DI CONVENZIONE
+
+INDICE
+
+Articolo 1	Valore delle premesse e norme regolatrici	5
+Articolo 2	Definizioni	5
+Articolo 3	Disciplina applicabile e criterio di prevalenza	6
+Articolo 4	Oggetto della Convenzione	7
+Articolo 5	Modifiche contrattuali	9
+Articolo 6	Cauzione definitiva	9
+Articolo 7	Durata e utilizzo della Convenzione	10
+Articolo 8	Modalità di adesione al Servizio	11
+Articolo 8.1	Preventivo	12
+Articolo 8.2	Sopralluoghi preliminari	13
+Articolo 8.3	Progetto Specifico del Servizio	13
+Articolo 8.4	Progetti di interventi di riqualificazione energetico-ambientale (Rif.to criteri CAM 5.1.5.6 e 5.3.5.6)
+13
+Articolo 8.5	Ordinativo di Fornitura	14
+Articolo 8.6	Verbale di Presa in Consegna	14
+Articolo 8.7	Atti aggiuntivi all'Ordinativo di Fornitura	15
+Articolo 8.8	Riconsegna degli impianti e collaudo finale	15
+Articolo 9	Condizioni del servizio	16
+Articolo 10	Termini di esecuzione del servizio e inadempimento	17
+Articolo 11	Controlli sulle prestazioni	17
+Articolo 12	Attività di monitoraggio di Azienda Zero	18
+Articolo 13	Responsabilità Civile e Polizza assicurativa	18
+Articolo 14	Clausola sociale	20
+Articolo 15	Personale dell'Appaltatore	20
+Articolo 16	Responsabile del Servizio (per l'Appaltatore)	20
+Articolo 17	Direttore dell'Esecuzione del contratto (per l'Azienda Sanitaria)	21
+Articolo 18	Disposizioni in materia di tutela della salute e della sicurezza e DUVRI	21
+Articolo 19	Evoluzione tecnologica	21
+Articolo 20	Condizioni economiche e corrispettivi	22
+Articolo 20.1	Elementi concorrenti alla definizione del prezzo del Servizio	22
+Articolo 20.2	Norme di misurazione	22
+Articolo 20.3	Prezzi unitari del Servizio	26
+Articolo 20.4	Corrispettivo convenzionale del servizio	29
+Articolo 20.4.1	Quota per i servizi a canone	29
+Articolo 20.4.2	Quota per interventi di manutenzione straordinaria correttiva	29
+Articolo 20.4.3	Franchigia per gli interventi di manutenzione straordinaria	30
+Articolo 20.4.4	Corrispettivo convenzionale annuo	30
+Articolo 20.5	Revisione periodica dei prezzi	30
+Articolo 20.6	Corrispettivo reale del servizio	33
+Articolo 20.6.1	Canone reale annuo	33
+Articolo 20.6.2	Corrispettivo reale annuo	35
+Articolo 20.7	Rendicontazione	35
+Articolo 21	Fatturazione e pagamenti	36
+Articolo 22	Cessione della Convenzione, degli Ordinativi di Fornitura e subappalto	37
+Articolo 23	Variazioni soggettive	38
+Articolo 24	Inadempimenti e penalità	38
+Articolo 24.1	Ammontare delle penali	39
+Articolo 24.1.1	Interruzione del servizio	39
+Articolo 24.1.2	Mancato rispetto degli orari e dei periodi di funzionamento	40
+Articolo 24.1.3	Mancato intervento per richieste di intervento urgenti e in emergenza	41
+Articolo 24.1.4	Mancato mantenimento dei parametri contrattuali	41
+Articolo 24.1.5	Tenuta dei libretti di impianto e dei registri di manutenzione	42
+Articolo 24.1.6	Verifiche e controlli	43
+Articolo 24.1.7	Registrazione informatica di eventi - richieste di intervento	43
+Articolo 24.1.8	Opere contrattuali e interventi di manutenzione straordinaria	43
+Articolo 24.1.9	(non previsto)	44
+Articolo 24.1.10	Servizi di governo e personale	44
+Articolo 24.1.11	Riconsegna degli impianti e delle strutture	45
+Articolo 24.1.12	Ritardi nell'attivazione del servizio e nell'invio documentale	45
+Articolo 25	Risoluzione del contratto (Ordinativo di fornitura)	46
+Articolo 26	Recesso dall'Ordinativo di Fornitura da parte delle Aziende Sanitarie	46
+Articolo 27	Risoluzione della Convenzione	47
+Articolo 28	Contratto e spese	47
+Articolo 29	Responsabile esterno del trattamento dei dati personali	47
+Articolo 30	Domicilio dell'Appaltatore e comunicazioni	47
+Articolo 31	Tracciabilità dei flussi finanziari	48
+Articolo 32	Protocollo di legalità	48
+Articolo 33	Tutela contro azioni di terzi, brevetti industriali e diritto d'autore	48
+Articolo 34	Foro competente	49
+Articolo 35	Modifiche normative, norme di rinvio e finali	49
+
+SCHEMA DI CONVENZIONE
+
+
+
+PROCEDURA APERTA TELEMATICA PER LA GESTIONE ENERGETICA E TECNOLOGICA INTEGRATA DEGLI IMPIANTI DELLE AZIENDE SANITARIE DELLA REGIONE DEL VENETO (GETIS)
+
+
+TRA
+
+La Azienda Zero, C.F. e Partita IVA 	, in persona del 	(di seguito denominata anche "Azienda Zero");
+
+E
+	, sede legale in 		, via 		, iscritta al Registro delle Imprese presso la C.C.I.A.A. di 	 al n. 	, P. IVA		, domiciliata ai fini del presente atto in
+	, via 		, in persona del 	 legale rappresentante 	, giusti poteri allo stesso conferiti da 	(di seguito denominata anche "Fornitore" o "Appaltatore");
+OPPURE
+
+	, sede legale in 		, via 		, iscritta al Registro delle Imprese presso la C.C.I.A.A. di 		 al n. 	, P. IVA 	, domiciliata ai fini del presente atto in
+	, via 	, in persona del 	 legale rappresentante 	, nella sua qualità di impresa mandataria capo-gruppo del Raggruppamento Temporaneo tra, oltre alla stessa, la mandante
+	, sede legale in 	, Via 	, iscritta al Registro delle Imprese presso la C.C.I.A.A. di
+	al n. 	, P. IVA 	, domiciliata ai fini del presente atto in 	, via 	, e la mandante
+	, sede legale in 	, via 	, iscritta al Registro delle Imprese presso la C.C.I.A.A. di
+	 al n. 	, P. IVA 	, domiciliata ai fini del presente atto in 	, via
+	, giusto mandato collettivo speciale con rappresentanza autenticato dal notaio in 	, 	,
+repertorio n. 	(di seguito nominata, per brevità, anche "Fornitore")
+
+PREMESSO
+
+- che l'Appaltatore è risultato aggiudicatario del Lotto della fornitura di cui sopra, come indicato nel prospetto allegato e, per l'effetto, ha manifestato espressamente la volontà di impegnarsi ad effettuare i servizi oggetto della presente Convenzione ed eseguire, alle condizioni, modalità e termini di seguito stabiliti, gli Ordinativi di Fornitura e gli eventuali Atti Aggiuntivi emessi dalle Aziende Sanitarie come definiti di seguito;
+- che l'obbligo dell'Appaltatore di prestare quanto oggetto della presente Convenzione sussiste nei modi e nelle forme disciplinati dalla presente Convenzione e da tutta la documentazione di gara, ai prezzi unitari, alle condizioni, alle modalità e ai termini stabiliti;
+- che i singoli Ordinativi di fornitura vengono conclusi a tutti gli effetti tra le Aziende Sanitarie da una parte, e l'Appaltatore dall'altra parte, attraverso l'emissione di Ordinativi di Fornitura secondo le modalità e i termini indicati nel presente documento;
+- che l'Appaltatore dichiara che quanto risulta dal Bando di gara, dalla presente Convenzione e dai suoi allegati, dal Capitolato tecnico e dal Disciplinare di gara e dai rispettivi allegati, definisce in modo adeguato e completo l'oggetto delle prestazioni da fornire e, in ogni caso, ha potuto acquisire tutti gli elementi per una idonea valutazione tecnica ed economica delle stesse e per la formulazione dell'offerta;
+- che la presente Convenzione non è fonte di obbligazione per Azienda Zero nei confronti dell'Appaltatore, in quanto disciplina le condizioni generali delle prestazioni che verranno concluse dalle Aziende Sanitarie con l'emissione di Ordinativi di Fornitura (fonte di obbligazione);
+
+- che resta espressamente inteso che Azienda Zero non potrà in nessun caso essere ritenuta responsabile per atti o attività delle Aziende Sanitarie contraenti; parimenti, ciascuna Azienda Sanitaria sarà responsabile unicamente e limitatamente per le obbligazioni nascenti dagli Ordinativi di Fornitura e dagli eventuali Atti Aggiuntivi da ciascuna delle stesse emessi;
+- che la presente Convenzione, compresi i relativi Allegati, viene sottoscritta dalle parti con firma digitale rilasciata da ente certificatore autorizzato.
+Ciò premesso, tra le parti come in epigrafe rappresentate e domiciliate
+
+SI CONVIENE E SI STIPULA QUANTO SEGUE
+
+
+Articolo 1   Valore delle premesse e norme regolatrici
+Le premesse di cui sopra, gli atti e i documenti richiamati nelle medesime premesse e nella restante parte del presente atto, il Capitolato Tecnico, l'elenco dei servizi aggiudicati all'Appaltatore, l'offerta tecnica e l'offerta economica sono fonte delle obbligazioni oggetto della presente Convenzione.
+L'esecuzione della fornitura oggetto della presente Convenzione e degli Ordinativi di Fornitura è regolata in via gradata:
+(i) dalle clausole del presente atto che costituiscono la manifestazione integrale di tutti gli accordi intervenuti con l'Appaltatore relativamente alle attività e alle prestazioni contrattuali, ivi incluse le premesse di cui sopra e gli atti richiamati nelle medesime premesse e nella restante parte del presente atto che, ancorché non materialmente allegati, costituiscono parte integrante e sostanziale della Convenzione e sono fonte delle obbligazioni oggetto della presente Convenzione; (ii) dalle disposizioni di cui al D.Lgs. n. 36/2023 e s.m.i., (iii) dalle norme, anche regionali, in materia di Contabilità delle Amministrazioni Contraenti; (iv) dal Codice Civile e dalle altre disposizioni normative in vigore in materia di contratti di diritto privato.
+La presente Convenzione definisce la disciplina normativa e regolamentare per la stipula, la validità e l'esecuzione degli Ordinativi di Fornitura, attuativi della medesima. Infatti essa rappresenta il documento in cui sono indicate le condizioni generali dei Contratti di Fornitura che saranno stipulati tra le singole Aziende Sanitarie e l'Appaltatore, attraverso l'emissione degli Ordinativi di Fornitura, nei quali saranno indicati i servizi e il relativo importo complessivo oggetto di ciascun Contratto di Fornitura, nonché le Unità Richiedenti che emetteranno gli atti conseguenti. In particolare, la Convenzione non vincola in alcun modo le Aziende Sanitarie, né tantomeno Azienda Zero all'acquisto di quantitativi minimi, bensì dà origine unicamente ad un obbligo dell'Appaltatore di accettare, mediante esecuzione, fino a concorrenza dell'importo massimo contrattuale stabilito, gli Ordinativi di Fornitura emessi dalle Aziende Sanitarie che utilizzano la presente Convenzione nel periodo della sua validità ed efficacia.
+Le clausole della Convenzione e degli Ordinativi di Fornitura sono sostituite, modificate o abrogate automaticamente per effetto di norme aventi carattere cogente contenute in leggi o regolamenti in vigore, ovvero che entreranno in vigore successivamente, fermo restando che, in ogni caso, anche ove intervengano modificazioni autoritative dei prezzi, migliorative per l'Appaltatore, quest'ultimo rinuncia a promuovere azione o ad opporre eccezioni rivolte a sospendere o a risolvere il rapporto contrattuale in essere.
+Le Aziende Sanitarie potranno modificare/integrare il contenuto dei singoli Ordinativi di Fornitura, tramite Atti Aggiuntivi, per soddisfare specifiche necessità delle Aziende stesse e garantire la corretta esecuzione del rapporto contrattuale, nei casi e con i limiti indicati nella presente Convenzione.
+
+
+Articolo 2   Definizioni
+Nell'ambito della Convenzione si intende per:
+Convenzione: il presente atto, compresi i documenti ivi richiamati o allegati, quali parti integranti della medesima;
+Appaltatore: l'Impresa, il Raggruppamento Temporaneo d'Imprese o il Consorzio risultato aggiudicatario e che conseguentemente sottoscrive la presente Convenzione, obbligandosi a quanto previsto nella stessa e, comunque, ad eseguire l'Ordinativo di Fornitura;
+
+Azienda/e Sanitaria/e: Azienda Ulss 6 Euganea, Azienda Ulss 7 Pedemontana, Azienda Ulss 8 Berica, Azienda Ulss 9 Scaligera, Azienda Ospedaliera Universitaria Integrata di Verona, Azienda Ospedaliera di Padova, IRCCS Istituto Oncologico Veneto, Azienda Zero, che sono legittimate ad utilizzare la presente Convenzione nel periodo di sua validità ed efficacia, mediante l'emissione di Ordinativi di Fornitura;
+Contratto/i di Fornitura: il contratto attuativo della presente Convenzione stipulato dalle Aziende Sanitarie con
+l'Appaltatore mediante l'emissione di Ordinativi di Fornitura e dei successivi atti conseguenti;
+Ordinativo di fornitura: il documento informatico sottoscritto con firma digitale con il quale le singole Aziende Sanitarie manifestano la volontà di utilizzare la Convenzione e al contempo stipula un Contratto di Fornitura che avrà esecuzione mediante atti conseguenti, ad opera delle Aziende Sanitarie, impegnando l'Appaltatore alla prestazione di quanto ivi richiesto;
+Atti Aggiuntivi all'Ordinativo di Fornitura: documento con il quale le Aziende Sanitarie integrano/modificano l'Ordinativo
+di Fornitura, variando alcune delle condizioni previste, nei limiti indicati dalla presente Convenzione;
+Progetto Specifico dei Servizi (PSS): documento redatto dall'Appaltatore a seguito dei sopralluoghi preliminari (Audit), necessario per la definizione tecnica, economica e gestionale dei Servizi. Il PSS, suddiviso in apposite sezioni, descrive i servizi ordinati, compresi gli interventi proposti per la riqualificazione energetica e la manutenzione straordinaria. Dopo l'approvazione da parte dell'Azienda Sanitaria, tale documento sarà parte integrante dell'Ordinativo di Fornitura;
+Richiesta Preliminare di Fornitura: il documento con cui le singole Aziende Sanitarie, attraverso le proprie Unità Richiedenti, formalizzano il proprio interesse alla fruizione dei servizi previsti in Convenzione;
+Data di attuazione: la data a partire dalla quale le Aziende Sanitarie possono utilizzare la presente Convenzione;
+Data di Avvio del Servizio: data di presa in consegna del primo impianto;
+Data di Presa in Consegna dell'Impianto: data di sottoscrizione, in contraddittorio con l'Azienda Sanitaria, del Verbale di Presa in Consegna. A partire da tale data l'Appaltatore prende in carico l'Impianto dell'unità immobiliare, del fabbricato o della sede, per l'esecuzione del servizio e, in particolare, assume, per gli impianti termini, la qualifica di Terzo Responsabile;
+Importo della Fornitura: l'importo complessivo della fornitura oggetto del singolo Ordinativo di Fornitura, IVA esclusa;
+Quantitativo massimo contrattuale: il quantitativo massimo della presente Convenzione, riferito a ciascun singolo Lotto, riportato in dettaglio nel Disciplinare di Gara e nell'art. 4 della presente Convenzione;
+Adeguamento normativo: Insieme di interventi di manutenzione straordinaria atti a garantirne la conformità normativa e la sicurezza degli impianti tecnologici a servizio degli edifici costituenti il patrimonio immobiliare delle Aziende Socio Sanitarie.
+Negozio Elettronico Centrale Acquisti (NECA): il catalogo elettronico delle Convenzioni attivato da Azienda Zero sulla piattaforma SinTel;
+Azienda Regionale Centrale Acquisti Spa della Regione Lombardia (ARCA): provider della piattaforma SINTEL e NECA.
+
+Articolo 3   Disciplina applicabile e criterio di prevalenza
+La presente Convenzione è regolata da quanto previsto dalla medesima, dagli atti, dai documenti e dalle normative ivi richiamati, compreso il Capitolato Tecnico.
+Gli Ordinativi di Fornitura sono regolati dalla presente Convenzione e da quanto stabilito dalle Parti Contraenti negli Ordinativi stessi, negli Atti Aggiuntivi, negli Ordini di Intervento, nel Verbale di Presa in Consegna e nel Progetto Specifico dei Servizi.
+In caso di difficoltà interpretative tra quanto contenuto nel Capitolato tecnico e quanto dichiarato nell'Offerta Tecnica, prevarrà quanto contenuto nel Capitolato tecnico, fatto salvo comunque il caso in cui l'Offerta Tecnica contenga, a giudizio di Azienda Zero, previsioni migliorative rispetto a quelle contenute nel Capitolato tecnico.
+Nel caso in cui dovessero sopraggiungere provvedimenti di pubbliche autorità dai contenuti non suscettibili di inserimento di diritto nella Convenzione e negli Ordinativi di Fornitura (norme aventi carattere non cogente) e che fossero parzialmente
+
+o totalmente incompatibili con la Convenzione e/o con gli Ordinativi di Fornitura, Azienda Zero e/o le Aziende Sanitarie da un lato e l'Appaltatore dall'altro potranno concordare le opportune modifiche sul presupposto di un equo contemperamento dei rispettivi interessi e nel rispetto dei criteri di aggiudicazione della gara.
+
+
+Articolo 4   Oggetto della Convenzione
+La Convenzione definisce la disciplina normativa e contrattuale, comprese le modalità di conclusione ed esecuzione dei singoli Ordinativi di Fornitura, relativa alla prestazione da parte dell'Appaltatore di un servizio di Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto: Azienda Ulss 6 Euganea, Azienda Ulss 7 Pedemontana, Azienda Ulss 8 Berica, Azienda Ulss 9 Scaligera, Azienda Ospedaliera Universitaria Integrata di Verona, Azienda Ospedaliera di Padova, IRCCS Istituto Oncologico Veneto, Azienda Zero.
+In particolare il servizio riguarda la conduzione e la gestione degli impianti tecnologici, di climatizzazione e di ricambio dell'aria, elettrici e speciali a servizio dei fabbricati delle Aziende Sanitarie aderenti, compresa la produzione e la fornitura del calore, la fornitura di energia elettrica e di acqua per ogni uso, la progettazione e realizzazione di interventi di manutenzione sugli impianti e sulle apparecchiature, così come previsto nel Capitolato Tecnico e nei diversi documenti di gara.
+Con la stipula della presente Convenzione, l'Appaltatore si obbliga irrevocabilmente nei confronti delle Aziende Sanitarie ad erogare i seguenti servizi, elencati qui di seguito a titolo non esaustivo e meglio descritti nel Capitolato Tecnico, e interamente remunerati attraverso il canone contrattuale:
+* A) Servizio di climatizzazione invernale:
+* riscaldamento invernale
+* condizionamento invernale
+* esercizio e manutenzione degli impianti termici di climatizzazione invernale
+* B) Servizio di climatizzazione estiva:
+* raffrescamento estivo
+* condizionamento estivo con ricambio dell'aria
+* esercizio e manutenzione degli impianti termici di climatizzazione estiva
+* C) Altri servizi termici:
+* fornitura di acqua calda sanitaria
+* fornitura di vapore
+* D) Servizio di gestione degli impianti idrico sanitari e delle reti fognarie e di scarico:
+* fornitura dell'acqua per ogni utilizzo
+* esercizio e manutenzione degli impianti idrico sanitari
+* esercizio e manutenzione delle riserve idriche
+* esercizio e manutenzione degli impianti di trattamento e addolcimento dell'acqua
+* esercizio e manutenzione degli impianti di trattamento e smaltimento dei reflui, delle reti fognarie e dei sistemi di smaltimento delle acque meteoriche
+* E) Servizio energia impianti elettrici:
+* fornitura di energia elettrica per ogni utilizzo
+* fornitura di beni accessori (materiali di consumo, strumentazioni, combustibile per gruppi elettrogeni, ecc.)
+* esercizio e manutenzione ordinaria e straordinaria di impianti elettrici in MT e BT a partire dal punto di consegna della rete pubblica fino agli apparecchi utilizzatori, comprese reti elettriche, apparecchi illuminanti, prese, interruttori, dispositivi di comando, controllo e di protezione, sistemi di riserva e di emergenza, impianti di terra e di protezione contro le scariche atmosferiche, sistemi di produzione combinata di energia elettrica e termica (ove presenti), illuminazione esterna e di segnaletica
+* esercizio e manutenzione di impianti fotovoltaici e di cogenerazione e trigenerazione
+* F) Servizio di gestione degli impianti speciali di sicurezza e di comunicazione. Esercizio e manutenzione ordinaria e straordinaria di:
+* impianti di diffusione sonora, filodiffusione e simili
+* impianti rilevazione incendi e gas
+* impianti antintrusione e controllo accessi
+
+* impianti di chiamata e sistemi interfonici
+* impianti orologi elettrici
+* impianti antenna TV e TV a circuito chiuso
+* impianti citofonici e videocitofonici
+* impianti eliminacode
+* impianti di supervisione allarmi, monitoraggio e telecontrollo e simili
+* G) Servizio di gestione di impianti e sistemi antincendio. Esercizio e manutenzione ordinaria e straordinaria di:
+* reti di idranti, naspi e simili
+* estintori
+* sistemi di compartimentazione
+* porte antincendio
+* dispositivi di evacuazione del fumo
+* ogni altro dispositivo necessario alla protezione delle strutture e degli ambienti dal rischio incendio secondo le normative tecniche vigenti
+* impianti di spegnimento automatico
+* H) Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale. Esercizio e manutenzione ordinaria e straordinaria di:
+* ascensori e impianti elevatori, montacarichi;
+* servoscale e montascale;
+* scale mobili e marciapiedi mobili, piattaforme mobili;
+* J) Servizio di gestione di altri impianti tecnologici. Esercizio e manutenzione ordinaria e straordinaria di:
+* porte automatiche, sbarre, cancelli e accessi automatizzati
+* impianti per la prevenzione della legionellosi
+* impianti di irrigazione
+* impianti di emungimento acqua di falda
+* elisuperfici e impianti SOV
+* vasche terapeutiche
+* frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+* cappe chimiche, biologiche e a flusso laminare e tavoli e armadi aspirati
+* impianti di posta pneumatica
+* lavapadelle
+* elettrodomestici vari tra cui frigoriferi domestici destinati alla conservazione di alimenti, forni a microonde, fornelli, forni domestici, lavastoviglie, cappe da cucina, fabbricatori di ghiaccio, lavatrici domestiche.
+* K) Servizi di governo, presidio tecnologico, pronto intervento, sistema informativo, analisi energetica, ecc.
+* L) Servizi per personale aggiuntivo giornaliero secondo le esigenze dell'Azienda Sanitaria e per la squadra di
+emergenza tecnologica e antincendio.
+I servizi saranno svolti nelle sedi delle Aziende Sanitarie aderenti. Il canone dei servizi verrà calcolato secondo quanto descritto negli articoli successivi attraverso i prezzi unitari contrattuali e le quantità che rappresentano la consistenza convenzionale del patrimonio impiantistico dell'Azienda Sanitaria aderente, misurata secondo quanto definito nell'Articolo
+20.2. Negli elementi considerati, ai fini della contabilizzazione, sono comunque ricompresi tutti i servizi sopra elencati e le attività meglio descritte nel Capitolato Tecnico.
+In caso di adesione alla Convenzione, l'Azienda Sanitaria dovrà obbligatoriamente aderire ai servizi A, B, C, D, E, F e G,
+mentre potrà scegliere, in base alle proprie esigenze, di aderire ai servizi H, J, L o a parte di essi. Il sevizio K deve intendersi parte integrante dei servizi forniti in adesione alla Convenzione.
+L'adeguamento normativo, come definito al precedente Art. 2 e nel Capitolato Tecnico, dovrà prevedere un'attività di analisi della conformità normativa di tutti gli impianti oggetto dell'appalto e qualora, da tale verifica, risulti evidente il non rispetto della conformità normativa sopracitata esso dovrà prevedere la predisposizione di un progetto di fattibilità tecnico- economica e di un progetto esecutivo che individui le soluzioni efficaci atte a risolvere le non conformità riscontrate.
+Il progetto dovrà essere conforme, quanto a prodotti da utilizzare e alla progettazione stessa, ai criteri ambientali minimi relativi alle categorie di lavoro individuate. Le Aziende Sanitarie si riserveranno la valutazione della progettazione relativa all'adeguamento normativo proposto che potranno approvare in tutto o in parte ovvero richiedere le eventuali modifiche
+
+che riterranno a loro giudizio più opportune o convenienti. Gli interventi di manutenzione straordinaria finalizzati all'adeguamento normativo che verranno approvati dalle Aziende Sanitarie dovranno essere iniziati, ultimati e collaudati entro i termini temporali del presente appalto.
+Con la stipula della Convenzione l'Appaltatore si obbliga irrevocabilmente nei confronti delle Aziende Sanitarie a prestare i servizi sopra elencati nella misura richiesta dalle Aziende Sanitarie stesse, con le modalità di cui alla documentazione di gara, mediante i singoli Ordinativi di Fornitura e gli eventuali e successivi Atti Aggiuntivi, sino alla concorrenza dell'importo massimo relativo a ciascun lotto (IVA esclusa) pari a:
+Lotto 1	AOPD e IRCSS IOV
+€ 119.712.548,81
+Lotto 2  AOVR
+€ 189.766.329,07
+Lotto 3 AULSS 6 e Azienda Zero
+€ 68.003.016,52
+Lotto 4  AULSS 7
+€ 70.238.337,04
+Lotto 5  AULSS 8
+€ 171.502.453,89
+Lotto 6  AULSS 9
+
+Articolo 5	Modifiche contrattuali
+€ 132.523.671,89
+
+Le previsioni degli importi massimi di cui alla presente Convenzione si devono intendere indicativi e potranno subire variazioni in diminuzione o in aumento entro i limiti indicati nel presente articolo, senza che il fornitore possa sollevare eccezioni al riguardo o pretendere alcuna indennità.
+Le previsioni cioè non vincolano in alcun modo le Aziende Sanitarie, né tanto meno Azienda Zero all'acquisto di quantitativi minimi o predeterminati di servizi, bensì danno origine unicamente ad un obbligo dell'Appaltatore di accettare le richieste effettuate dalle Aziende Sanitarie del Veneto in esecuzione degli Ordinativi di Fornitura, fino alla concorrenza degli importi massimi indicati, per ciascun Lotto, al precedente Articolo 4, ai prezzi e alle condizioni, modalità e termini contenuti nella presente Convenzione, nell'offerta e negli atti di gara, salvo quanto previsto dai commi successivi.
+Nel periodo di vigenza dei singoli Ordinativi di Fornitura, Azienda Zero - U.O.C. CRAV si riserva la facoltà di richiedere all'Appaltatore, ai sensi del combinato disposto dell'art. 120, comma 9, del D.Lgs n. 36/2023, l'aumento o la diminuzione delle prestazioni contrattuali alle condizioni, corrispettivi e termini stabiliti nel presente atto, fino a concorrenza del quinto dell'importo massimo di ciascun Lotto, di cui al già citato Articolo 4. In tal caso l'Appaltatore sarà obbligato ad aderire alla suddetta richiesta.
+Qualora alla data di scadenza della Convenzione l'Importo Massimo indicato per il singolo lotto di gara, eventualmente incrementato ai sensi dell'art. 120, comma 9, del D.Lgs n. 36/2023, non sia ancora stato esaurito, la Convenzione potrà essere prorogata ai sensi dell'art. 120, comma 11, del D.Lgs n. 36/2023, fino ad un massimo di 1 (un) anno, su richiesta scritta di Azienda Zero, inviata all'Appaltatore tramite PEC. La durata della proroga sarà in ogni caso limitata all'esaurimento di tale Importo Massimo.
+In caso di proroga, l'Appaltatore sarà tenuto all'esecuzione delle prestazioni previste agli stessi prezzi, patti e condizioni
+del contratto originario ovvero a condizioni migliorative per la stazione appaltante.
+Ai sensi dell'art. 60 del D.Lgs n. 36/2023, il contratto potrà essere infine modificato con le modalità previste dal successivo
+art. 20.5, ad oggetto "Revisione periodica dei prezzi".
+
+Articolo 6   Cauzione definitiva
+A garanzia degli obblighi assunti con il perfezionamento della Convenzione e degli Ordinativi di Fornitura, l'Appaltatore dovrà costituire, a favore di Azienda Zero e di ciascuna Azienda Sanitaria contraente, un deposito cauzionale calcolato sull'importo del contratto che l'Azienda Sanitaria andrà a sottoscrivere, di importo pari al 10% del valore della fornitura (al netto degli oneri fiscali), secondo le modalità e i termini previsti dall'art. 117 del D.Lgs n. 36/2023.
+Si applicano le riduzioni previste dall'art. 106, co. 8, del D.Lgs n. 36/2023.
+La cauzione copre gli oneri per il mancato o inesatto adempimento di ciascun contratto e cessa di avere effetto a completa ed esatta esecuzione delle obbligazioni nascenti dai contratti stessi.
+Qualora l'ammontare delle garanzie dovesse ridursi per effetto dell'applicazione di penali, o per qualsiasi altra causa, l'aggiudicatario dovrà provvedere al reintegro.
+
+La cauzione deve essere vincolata per tutta la durata della Convenzione. In caso di risoluzione degli Ordinativi di Fornitura, la cauzione definitiva verrà trattenuta dalle singole Aziende Sanitarie. In caso di risoluzione della Convenzione la stessa verrà trattenuta da Azienda Zero, U.O.C. CRAV per quanto di competenza.
+La cauzione definitiva si intende estesa a tutti gli accessori del debito principale, ed è prestata a garanzia dell'esatto e corretto adempimento di tutte le obbligazioni dell'Appaltatore, anche future, ai sensi e per gli effetti dell'art. 1938 Codice Civile nascenti dall'esecuzione della Convenzione e dei singoli Ordinativi di Fornitura.
+In particolare, la cauzione rilasciata garantisce tutti gli obblighi specifici assunti dall'Appaltatore, anche quelli a fronte dei quali è prevista l'applicazione di penali, assunti nei confronti delle Aziende Sanitarie e di Azienda Zero e, pertanto, resta espressamente inteso che le Aziende Sanitarie contraenti e/o Azienda Zero hanno diritto di rivalersi direttamente sulla cauzione per l'applicazione delle penali.
+Nel caso in cui siano le Aziende Sanitarie a rivalersi sulla cauzione, queste ultime dovranno comunicarlo tempestivamente ad Azienda Zero, al fine di dare avvio alla procedura di reintegro da parte di quest'ultima.
+Si precisa che il reintegro della cauzione da parte dell'Appaltatore dovrà avvenire entro e non oltre il termine di 30 (trenta) giorni dal ricevimento della richiesta da parte di Azienda Zero - U.O.C. CRAV.
+La garanzia opera per tutta la durata della Convenzione e degli Ordinativi di Fornitura e, comunque, sino alla completa ed esatta esecuzione delle obbligazioni nascenti dai predetti Ordinativi di Fornitura e dalla Convenzione. Pertanto la garanzia sarà svincolata, previa deduzione di eventuali crediti delle Aziende Sanitarie contraenti per quanto di ragione, verso l'Appaltatore, a seguito della piena ed esatta esecuzione delle obbligazioni contrattuali.
+In caso di inadempimento delle obbligazioni previste nel presente articolo le Aziende Sanitarie e/o Azienda Zero - U.O.C. CRAV hanno facoltà di dichiarare risolti, rispettivamente, gli Ordinativi di Fornitura e/o la Convenzione.
+
+
+Articolo 7   Durata e utilizzo della Convenzione
+La presente Convenzione ha durata di 1 (UNO) anno a decorrere dal	(data di sottoscrizione Convenzione)
+e fino al	(data di conclusione della Convenzione).
+Le Aziende Sanitarie, nel periodo di validità della Convenzione, potranno aderirvi stipulando i contratti specifici (Ordinativi di Fornitura), che avranno una durata massima di 3 (tre) anni a decorrere dalla data di sottoscrizione dell'Ordinativo di fornitura.
+Le Aziende Sanitarie utilizzeranno la Convenzione mediante l'emissione di Ordinativi di Fornitura inviati all'Appaltatore, secondo lo schema allegato alla presente (Allegato 4), entro il periodo di validità ed efficacia della medesima.
+In considerazione degli obblighi assunti dall'Appaltatore con la stipula della presente Convenzione, i singoli Contratti Specifici si concludono con le Aziende Sanitarie per tramite della semplice Ricezione da parte dell'Appaltatore dei relativi Ordinativi di Fornitura inviati e/o trasmessi dalle Aziende medesime tramite PEC ovvero attraverso il NECA, qualora tale sistema sia già stato attivato.
+L'Ordinativo di Fornitura consiste nel documento in formato elettronico da predisporre secondo lo schema sopra richiamato (Allegato 4) o da emettere mediante il NECA e dovrà essere sottoscritto con firma digitale da persona autorizzata dall'Azienda Sanitaria.
+Gli Ordinativi di Fornitura conterranno, tra l'altro, le seguenti informazioni:
+* l'elenco dei servizi ed eventuali quantitativi, ove necessari;
+* l'importo complessivo della stessa per il periodo di tempo considerato;
+* i riferimenti per la fatturazione;
+* il CIG della procedura di gara di cui alle premesse ed il CIG derivato;
+* ogni altra informazione ritenuta utile dall'Azienda Sanitaria ai fini della gestione del rapporto contrattuale.
+In caso di utilizzo del NECA, le Aziende Sanitarie, al momento della compilazione dell'anagrafica, indicheranno i servizi
+aziendali autorizzati ad emettere gli Ordinativi di Fornitura.
+
+Nel caso di variazione di detti servizi, tale variazione non avrà effetti per l'Appaltatore fino a che le Aziende Sanitarie non
+avranno provveduto alle opportune modifiche dell'anagrafica (gestione delle deleghe) sul NECA.
+Nei casi eccezionali di sospensione o interruzione del NECA per malfunzionamento, ARCA Spa comunicherà
+all'Appaltatore e alle Aziende Sanitarie la modalità alternativa di formazione ed invio degli Ordinativi di Fornitura.
+In tale ipotesi:
+* sarà cura dell'Appaltatore verificare che l'Ordinativo di Fornitura provenga da una delle Aziende Sanitarie legittimate all'utilizzo della presente Convenzione;
+* è a carico dell'Appaltatore ogni onere e rischio di controllo sulla legittimità degli Ordinativi di Fornitura inviati dalle Aziende Sanitarie che utilizzano la Convenzione;
+* qualora l'Appaltatore dia esecuzione agli Ordinativi di Fornitura stipulati da soggetti non legittimati ad utilizzare la Convenzione, la fornitura oggetto di tali contratti non verrà conteggiata nel quantitativo massimo contrattuale stabilito, oggetto della presente Convenzione;
+* l'Appaltatore è tenuto a verificare la completezza, la correttezza e la chiarezza degli Ordinativi di Fornitura ricevuti. In caso di mancanza di uno dei predetti requisiti sarà compito dell'Appaltatore contattare le Aziende Sanitarie e chiedere l'invio di un nuovo Ordinativo di Fornitura, che recepisca le opportune correzioni. In tal caso l'Azienda Sanitaria potrà emettere un nuovo Ordinativo di Fornitura, secondo le indicazioni sopra riportate.
+Ai sensi dell'art. 28 del D.Lgs. n. 81/2008, le Aziende Sanitarie valuteranno, all'atto della stipula degli Ordinativi di Fornitura, la sussistenza o meno di rischi da interferenza, secondo quanto stabilito dal successivo Articolo 18.
+Qualora l'Azienda Sanitaria ritenga sussistere detti rischi da interferenza, l'Azienda stessa dovrà quantificare i relativi costi di sicurezza e redigere il "Documento unico di valutazione dei rischi da interferenza" (c.d. DUVRI), che sarà allegato all'Ordinativo di Fornitura quale parte integrante dello stesso.
+Qualora, in alternativa, l'Azienda Sanitaria, non ritenga sussistere alcun rischio da interferenza, l'Azienda stessa dovrà indicare nell'Ordinativo di Fornitura una cifra pari a 0 (zero) per i costi relativi alla sicurezza.
+
+Articolo 8	Modalità di adesione al Servizio
+L'Azienda Sanitaria che intende utilizzare la Convenzione e attivare i servizi dovrà:
+* emettere una Richiesta di Preventivo (RP) all'Appaltatore;
+* valutare il Preventivo e la documentazione allegata prodotti dall'Appaltatore tra cui il Progetto Specifico dei Servizi
+(PSS);
+* emettere l'Ordinativo di Fornitura (OF) relativo ai servizi richiesti;
+* formalizzare il Verbale di Consegna del Servizio e la contestuale presa in consegna degli impianti da parte
+dell'Appaltatore.
+L'Appaltatore, ricevuta la Richiesta di Preventivo, dovrà:
+* concordare con l'Azienda Sanitaria le date dei sopralluoghi preliminari (audit);
+* verificare la correttezza e il rispetto dei requisiti e di tutte le condizioni per l'adesione da parte dell'Azienda
+Sanitaria richiedente;
+* comunicare all'Azienda Sanitaria la validità formale della Richiesta di Preventivo;
+* effettuare i sopralluoghi preliminari;
+* misurare le quantità Qx oggetto del contratto;
+* predisporre l'Attestato di Prestazione Energetica e verificare i consumi energetici in condizioni standard;
+* trasmettere all'Azienda Sanitaria il Preventivo e la documentazione allegata tra cui il Progetto Specifico dei Servizi (PSS) predisposti sulla base degli audit effettuati e dell'Offerta;
+* adeguare il Preventivo e il Progetto Specifico del Servizio alle eventuali osservazioni formulate dall'Azienda
+
+Sanitaria;
+* sottoscrivere il Verbale di Consegna del Servizio dopo aver ricevuto l' Orinativo di Fornitura.
+
+Articolo 8.1   Preventivo
+Ogni Azienda Sanitaria inoltrerà all'Appaltatore la richiesta di formulazione di Preventivo per gli stabili, le sedi e le tipologie di impianto individuati, secondo lo schema allegato alla presente Convenzione (Allegato 3 e relativo allegato - Modulo 1). Con tale richiesta l'Azienda Sanitaria manifesta il suo interessa ad aderire alla Convenzione.
+Nella richiesta di Preventivo l'Azienda Sanitaria dovrà indicare:
+* le sedi e gli stabili per i quali intende attivare i servizi della Convenzione;
+* i servizi che intende attivare oltre a quelli obbligatori;
+* la presenza di Attestati di Prestazione Energetica (APE);
+* per ogni sede o stabile per i quali intende attivare il servizio:
+* il volume lordo presunto;
+* la superficie lorda presunta;
+* la tipologia di combustibile utilizzato dagli impianti termici;
+* la data di attivazione presunta dei servizi per ogni sede;
+* eventuali altre specifiche.
+Entro 90 giorni dalla ricezione della richiesta di preventivo, l'Appaltatore dovrà trasmette all'Azienda Sanitaria il Preventivo per i servizi richiesti sulla base dei prezzi Px offerti in sede di gara, in base alle quantità rilevate presso le sedi aziendali e in base alle diverse date di attivazione dei servizi richiesti dall'Azienda Sanitaria.
+L'Appaltatore dovrà cioè predisporre il preventivo dopo aver verificato in contraddittorio con l'Azienda Sanitaria la consistenza e le quantità Qx oggetto di computazione al fine della formulazione del prezzo del preventivo. Le norme di misurazione delle quantità costituenti la consistenza al fine della preventivazione e della computazione sono quelle descritte nell'Articolo 20.2.
+L'Appaltatore dovrà indicare per ogni edificio e sede aziendale gli importi a canone, annui e complessivi, dei servizi in specifiche sezioni del Preventivo descrivendo dettagliatamente le relative modalità di determinazione.
+La formulazione e la trasmissione del preventivo non comporterà onere alcuno all'Azienda Sanitaria anche in caso di non
+accettazione del Preventivo e di mancata adesione ai servizi e non sarà impegnativo e vincolante per la stessa.
+Le quantità Qx rilevate in sede di Preventivo e approvate dall'Azienda Sanitaria concorreranno a formare l'importo
+complessivo convenzionale Ccs del contratto.
+Tali quantità rimarranno fisse e invariabili per tutta la durata del contratto al netto delle variazioni intervenute nel corso del periodo del servizio in seguito all'attivazione di nuove aree o di nuovi fabbricati, di ampliamenti o dismissioni, di cambi di destinazione d'uso degli edifici o di parte di essi.
+Il Preventivo avrà validità di 6 mesi dalla data di trasmissione all'Azienda Sanitaria richiedente, trascorso il quale l'Azienda
+Sanitaria dovrà rinnovare la richiesta di Preventivo.
+Nel Preventivo l'Appaltatore dovrà indicare all'Azienda richiedente:
+* il numero di addetti e di squadre dedicate al presidio tecnologico, al pronto intervento e alla reperibilità per come descritto nel Capitolato tecnico nonché l'indicazione delle specifiche aree territoriali di competenza e la relativa sede operativa;
+* il numero di addetti e alla Squadra di pronto intervento antincendio per come descritto nel Capitolato tecnico per ogni sede in cui è richiesta;
+* l'elenco degli addetti e la forma organizzativa dedicata alla gestione e manutenzione degli impianti per ogni sede,
+suddivisi per funzione e per specialità per i servizi richiesti.
+
+Nel caso in cui l'Azienda Sanitaria richieda l'attivazione differenziata nel tempo di alcuni servizi per le diverse sedi, il Preventivo dovrà riportare l'importo annuo del corrispettivo convenzionale annuo previsto per ogni anno e il conseguente totale contrattuale.
+
+Articolo 8.2	Sopralluoghi preliminari
+Le attività preliminari alla redazione del Preventivo consistono in una serie di sopralluoghi e di verifiche presso le sedi dell'Azienda Sanitaria richiedente necessari a rilevare la consistenza, lo stato e le caratteristiche del sistema edificio- impianto e la raccolta di tutti i dati necessari a determinare il dettaglio dei servizi richiesti.
+L'Appaltatore dovrà concordare con l'Azienda Sanitaria le date dei sopralluoghi preliminari (audit) necessari per verifica delle consistenze per la redazione del Preventivo e del Progetto Specifico del Servizio e per la redazione dei documenti di analisi energetica.
+L'Azienda Sanitaria richiedente si impegna a fornire all'Appaltatore tutta l'assistenza tecnica necessaria e la disponibilità dei locali e delle sedi in orari compatibili con l'attività sanitaria e istituzionale in essi svolta.
+In concomitanza con i sopralluoghi preliminari, l'Azienda Sanitaria dovrà fornire all'Appaltatore per ogni sede per cui ha
+richiesto il Preventivo:
+* l'elenco dei punti di prelievo da rete pubblica per gas di riscaldamento, acqua e energia elettrica e degli altri vettori energetici e la documentazione attestante i consumi negli ultimi due anni solari o nelle ultime stagioni termiche invernali;
+* gli Attestati di Prestazione Energetica disponibili;
+* le planimetrie dei fabbricati;
+* lo stato di fatto degli impianti in formato elettronico per quanto disponibile;
+* la classificazione dei locali per destinazione d'uso;
+* la consistenza impiantistica per quanto disponibile.
+
+Articolo 8.3	Progetto Specifico del Servizio
+L'Appaltatore presenterà il proprio Progetto Specifico del Servizio (PSS) sulla base di quanto proposto in gara, con le indicazioni specifiche per l'Azienda Sanitaria richiedente, che dovrà contenere tra l'altro:
+* la struttura organizzativa (organigramma, qualifiche, funzioni, mezzi, numero minimo di addetti, per ogni specialità, monte orario annuale) di cui intende dotarsi per l'espletamento del servizio in ogni sede aziendale;
+* un Piano Specifico della Qualità basato su quello presentato in sede di offerta e nel quale vengano descritte le
+soluzioni specifiche per ogni realtà dell'Azienda Sanitaria aderente.
+
+Articolo 8.4	Progetti di interventi di riqualificazione energetico-ambientale (Rif.to criteri CAM 5.1.5.6 e 5.3.5.6)
+L'Appaltatore presenterà sulla base delle certificazioni e della diagnosi energetiche effettuate, l'Appaltatore deve presentare all'Azienda Sanitaria, entro sei mesi dall'aggiudicazione, i documenti di indirizzo alla progettazione (DIP) e qualora richiesto i DOCFAP, per la riqualificazione energetico-ambientale degli impianti e degli edifici, rispetto a illuminazione e FM; riscaldamento e raffrescamento.
+I documenti di indirizzo alla progettazione, garantendo il rispetto delle prestazioni di cui al presente capitolato, devono identificare gli interventi atti a ridurre gli impatti ambientali del servizio, ed in particolare il consumo di energia da fonti non rinnovabili, in un'ottica di ciclo di vita, oltre le prescrizioni di legge.
+In particolare i progetti devono valutare:
+* interventi per la riduzione del fabbisogno di energia elettrica e termica negli edifici
+* interventi per l'aumento dell'efficienza di apparecchi ed impianti,
+
+* utilizzo in loco di fonti energetiche rinnovabili utilizzo di energia termica di recupero eventualmente disponibile,
+* utilizzo di impianto di cogenerazione ad alto rendimento alimentato da fonti rinnovabili che fornisca anche energia termica per il riscaldamento degli ambienti ed elettrica per illuminazione ed FM,
+* realizzazione qualora ne sussistano i presupposti di un impianto di teleriscaldamento alimentato prioritariamente da fonti rinnovabili,
+ed inoltre deve comprendere:
+* indicazione dei tempi e dei costi per la sua realizzazione,
+* la quantificazione della riduzione degli impatti ambientali, ed in particolare del risparmio energetico conseguibile,
+* la stima dei Titoli di Efficienza Energetica (TEE) e/o di altri incentivi ottenibili con gli interventi previsti.
+L'elaborazione e presentazione del progetto di fattibilità tecnica ed economica è subordinato all'approvazione dell'Azienda
+Sanitaria.
+Verifica: in fase di esecuzione del contratto secondo le modalità stabilite nel DIP.
+
+Articolo 8.5	Ordinativo di Fornitura
+L'Azienda Sanitaria richiedente, ricevuto e approvato il Preventivo con proprio provvedimento, potrà emettere l'Ordinativo di Fornitura (OF), secondo lo schema allegato alla presente Convenzione (Allegato 4), con il quale ordina all'Appaltatore i servizi oggetto della Convenzione.
+L'Appaltatore, ricevuto l'Ordinativo, sarà tenuto a svolgere i servizi nelle modalità descritte nei documenti di gara, nel
+Capitolato e secondo quanto offerto in sede di gara.
+L'importo dell'Ordinativo sarà costituito dal corrispettivo convenzionale annuo Ca moltiplicato per gli anni di servizio, e comprenderà la quota Cms "a consumo" per la realizzazione degli interventi di manutenzione straordinaria.
+Nel caso in cui l'Azienda Sanitaria abbia specificato, in sede di Richiesta di Preventivo, diverse date di attivazione dei servizi per le diverse sedi aziendali, l'importo dell'Ordinativo sarà ottenuto come somma dei corrispettivi convenzionali annui indicati nel Preventivo.
+Eventuali variazioni o aggiornamenti all'Ordinativo di Fornitura dovranno essere formalizzati mediante un Atto Aggiuntivo, in base a quanto prescritto nel presente documento.
+Per garantire ad Azienda Zero di poter svolgere l'attività di monitoraggio prevista e disciplinata dal successivo art. 12 della presente Convenzione, l'Appaltatore è tenuto a trasmetterle copia dell'Ordinativo di fornitura entro e non oltre 7 giorni dalla data di ricezione dello stesso da parte di ogni singola Azienda Sanitaria. In caso di mancato invio sarà applicata la penale prevista dal successivo art. 24.1.
+
+Articolo 8.6   Verbale di Presa in Consegna
+All'atto della consegna degli impianti, verrà redatto a cura dell'Appaltatore apposito Verbale di Presa in Consegna, secondo lo schema allegato alla presente Convenzione (Allegato 5 e relativo allegato Modulo 1), che rappresenta il documento con il quale l'Appaltatore stesso prenderà formalmente in carico gli impianti e le apparecchiature per tutta la durata del contratto. Il Verbale dovrà contenere il cronoprogramma delle attivazioni di diversi servizi in diversi fabbricati se attivati in momenti diversi in base alle esigenze dell'Azienda Sanitaria richiedente. Dalla data di Presa in Consegna, per le sedi aziendali per le quali se è prevista l'attivazione dei servizi di climatizzazione invernale A1 e A2, l'Appaltatore assumerà la qualifica di Terzo Responsabile secondo la normativa vigente. L'Azienda Sanitaria consegnerà copia dei Libretti di Centrale e/o d'impianto per ogni impianto termico asservito agli edifici e gli eventuali altri registri d'impianto disponibili.
+L'Azienda Sanitaria potrà richiedere l'attivazione di un determinato servizio per una determinata sede in base alla
+scadenza dei contratti in essere con fornitori terzi.
+
+Indipendentemente dalla data di attivazione dei singoli servizi, nel caso in cui la data prevista per la conclusione del contratto sia all'interno di una stagione termica invernale, esso si protrarrà fino al termine della stagione termica invernale stessa in modo da garantire la continuità delle prestazioni relative alla climatizzazione invernale.
+Eventuali ritardi nell'inizio di erogazione dei servizi, per cause proprie dell'Appaltatore, daranno luogo all'applicazione delle
+penali previste.
+Sarà cura dell'Appaltatore eseguire tutte le attività propedeutiche alla presa in consegna degli impianti, nel rispetto del
+termine e delle condizioni indicate nel Capitolato tecnico e nel Preventivo.
+Il Verbale, redatto in base al modello allegato (Allegato 5 e relativo allegato Modulo 1), dovrà essere redatto in duplice copia, in contraddittorio tra Appaltatore e Azienda Sanitaria e recare la firma congiunta. La data di sottoscrizione del Verbale costituirà la data di avvio del Servizio.
+Il Verbale dovrà contenere, per ogni sede, l'elenco pur non esaustivo delle principali apparecchiature, sistemi e sub-sistemi presi in consegna. L'elenco non è da considerarsi esaustivo e non solleva l'Appaltatore dall'obbligo dalla gestione e manutenzione di tutte le apparecchiature, dei sistemi e sub-sistemi presenti nelle sedi aziendali al fine di conseguire gli obbiettivi dei servizi e della Convenzione secondo le modalità stabilite nel Capitolato tecnico e nel Piano di Manutenzione.
+Limitatamente ai servizi termici di climatizzazione, il Verbale dovrà contenere le informazioni relative alla quantità di
+combustibile eventualmente presente nei serbatoi/depositi dell'Azienda Sanitaria.
+Nel Verbale andranno inoltre indicate eventuali strutture e/o mezzi e/o servizi che Azienda Sanitaria dovesse affidare, in comodato d'uso, all'Appaltatore per lo svolgimento delle attività previste (locali, servizi, aree di stoccaggio e di deposito, ecc.). L'Appaltatore, controfirmando per accettazione il Verbale, viene costituito custode dei beni oggetto del Verbale stesso e si impegna formalmente a prendersene cura e a manutenerli in modo tale da garantirne il buono stato di conservazione.
+
+Articolo 8.7	Atti aggiuntivi all'Ordinativo di Fornitura
+L'Ordinativo di Fornitura potrà essere modificato o integrato tramite un Atto Aggiuntivo, per variazioni che
+conseguentemente comportino modifiche/integrazioni al contratto di fornitura, nei seguenti casi:
+* qualora l'Azienda Sanitaria intenda attivare nuovi servizi non inizialmente previsti, anche solo per alcune sedi
+aziendali;
+* qualora intervenga, su richiesta dell'Azienda Sanitaria, la modifica della consistenza degli elementi quantitativi costituenti l'Ordinativo di Fornitura originario (ad esempio per l'attivazione di servizi per edifici diversi da quelli inizialmente richiesti oppure per l'inserimento di nuove sedi);
+* qualora l'Amministrazione intenda aumentare l'importo extra-canone "a consumo" per gli interventi di
+manutenzione.
+Gli Atti Aggiuntivi ed i lavori non potranno comunque comportare un aumento del valore economico del contratto oltre a quanto previsto dalla normativa vigente e potranno essere sottoscritti solo con la dimostrazione da parte dell'Appaltatore del possesso dei requisiti economici, finanziari e organizzativi necessari e delle relative qualifiche e categorie SOA.
+Gli Atti Aggiuntivi non potranno in alcun modo modificare il metodo di revisione dei prezzi contrattuali oltre a quanto stabilito nell'Articolo 20.5. La revisione dei prezzi contrattuali per come stabilita nel presente Capitolato non sarà comunque regolata per il tramite di Atti Aggiuntivi.
+L'emissione di Atti Aggiuntivi non potrà comportare variazioni della data di scadenza del contratto. Pertanto eventuali successivi Atti Aggiuntivi, emessi obbligatoriamente entro la data di scadenza della Convenzione, attiveranno servizi o loro quote che avranno la medesima data di scadenza dichiarata nell'Ordinativo di Fornitura.
+
+Articolo 8.8	Riconsegna degli impianti e collaudo finale
+Alla fine del rapporto contrattuale, l'Appaltatore è tenuto a riconsegnare all'Azienda Sanitaria gli impianti e tutti i componenti, nonché i locali interessati, facendo riferimento ai Verbali di Presa in Consegna redatti al momento della consegna iniziale, nel rispetto della normativa vigente ai fini della sicurezza.
+
+Eventuali novazioni impiantistiche, migliorie o sostituzioni di parti degli impianti esistenti sono considerate a tutti gli effetti
+di proprietà dell'Azienda Sanitaria.
+In particolare gli impianti soggetti a interventi di manutenzione straordinaria dovranno essere consegnati nello stato e con i componenti previsti nel progetto dell'intervento approvato dall'Azienda Sanitaria o come rappresentato dagli elaborati as- built consegnati dall'Appaltatore.
+La riconsegna degli impianti all'Amministrazione dovrà avvenire entro 5 (cinque) giorni precedenti dalla scadenza finale del singolo Ordinativo di Fornitura, fermo restando che, nel periodo compreso tra la data di riconsegna degli impianti e la scadenza del contratto, l'Appaltatore continuerà a svolgere le sue funzioni di gestore, di Terzo Responsabile e dovrà garantire la manutenzione ordinaria e la manutenzione straordinaria in caso di urgenza e emergenza. Entro 30 (trenta) giorni naturali e consecutivi dalla data stabilita per la riconsegna degli impianti, l'Appaltatore dovrà consegnare all'Amministrazione (qualora non sia già in atti), tutta la documentazione tecnica e amministrativa (ad esempio documentazione di legge, comprese le Dichiarazioni di Conformità, le pratiche di prevenzione incendi, le pratiche INAIL, le autodichiarazioni sostitutive, ecc.) e tutto ciò che è previsto dalla vigente normativa.
+L'Appaltatore è comunque tenuto a garantire tutte le attività di passaggio e transitorie che si dovessero rendere necessarie nel caso in cui sia previsto l'ingresso come gestore degli impianti di una nuova impresa. Inoltre, dovrà assicurare la propria disponibilità e la massima collaborazione, finalizzata ad agevolare il passaggio delle consegne all'Azienda Sanitaria o al nuovo gestore, fornendo tutte le informazioni, i dati e le prestazioni nelle modalità che l'Azienda Sanitaria riterrà opportuno richiedere.
+Lo stato di conservazione degli impianti deve essere congiuntamente accertato dall'Azienda Sanitaria e dall'Appaltatore,
+in un apposito Verbale di Riconsegna, redatto sulla base:
+* dell'esame della documentazione del servizi effettuati;
+* da prove di funzionamento e strumentali sugli impianti e sulle apparecchiature (ad esempio prove di rendimento della caldaia) conformemente alla normativa vigente;
+* di visite e sopralluoghi agli impianti;
+* da misurazioni di consistenza.
+Eventuali giacenze di combustibile presenti nei serbatoi e depositi dell'Azienda Sanitaria, sono da considerarsi di proprietà dell'Azienda Sanitaria.
+Nel caso della riconsegna di impianti di riscaldamento alimentati a gas o di teleriscaldamento, nel caso di impianti elettrici e di adduzione di acqua, l'Appaltatore è tenuto, a sue spese, a provvedere alla risoluzione e/o volturazione dei contratti di fornitura e, in contraddittorio con l'Azienda Sanitaria, alla lettura dei relativi contatori e alla verbalizzazione dei valori letti.
+Qualora nel corso dell'appalto l'Azienda Sanitaria dovesse dismettere un impianto, una sede aziendale o una sua porzione,
+si opererà come previsto per la riconsegna finale.
+Nel caso in cui l'Appaltatore non riconsegni gli impianti secondo le modalità previste dal presente articolo, verrà applicata
+la prevista penale.
+
+Articolo 9	Condizioni del servizio
+I servizi oggetto di ciascun Ordinativo di Fornitura dovranno essere eseguiti dall'Appaltatore con le modalità stabilite nel Capitolato Tecnico e nell'Offerta Tecnica, ove migliorativa, esattamente nei luoghi indicati nell'Ordinativo di Fornitura e/o nell'Atto Aggiuntivo; l'Appaltatore si obbliga, a propria cura, spese e rischio, ad attivare i servizi oggetto di ciascun Ordinativo con le modalità indicate nella presente Convenzione.
+L'Appaltatore garantisce l'esecuzione di tutte le prestazioni a perfetta regola d'arte, nel rispetto delle norme vigenti e secondo le condizioni, le modalità, i termini e le prescrizioni contenute nella presente Convenzione e dagli atti e documenti ad essa collegati, pena la risoluzione di diritto della Convenzione medesima e/o dei singoli Ordinativi di Fornitura, come previsto nei successivi art. 24, art. 25 e art. 27 relativi alle penali e alla risoluzione contrattuale.
+Sono a carico dell'Appaltatore, intendendosi remunerati con il corrispettivo contrattuale di cui oltre, tutti gli oneri, le spese ed i rischi relativi alla prestazione delle attività e dei servizi oggetto della Convenzione, nonché ad ogni attività che si rendesse necessaria per la prestazione degli stessi o, comunque, opportuna per un corretto e completo adempimento
+
+delle obbligazioni previste, ivi compresi quelli relativi ad eventuali spese di trasporto, di viaggio e di missione per il
+personale addetto all'esecuzione contrattuale.
+Gli eventuali maggiori oneri derivanti dalla necessità di osservare le norme e le prescrizioni di cui sopra, anche se entrate in vigore successivamente alla stipula della Convenzione, restano ad esclusivo carico dell'Appaltatore, intendendosi in ogni caso remunerati con il corrispettivo contrattuale; in ogni caso l'Appaltatore non può avanzare alcuna pretesa di compensi aggiuntivi, a qualsiasi titolo, nei confronti delle Aziende Sanitarie o, comunque, di Azienda Zero, per quanto di propria competenza, rientrando gli stessi tra i rischi a proprio carico.
+
+Articolo 10	Termini di esecuzione del servizio e inadempimento
+Nel caso in cui l'Appaltatore non dovesse effettuare o ritardasse l'esecuzione dei servizi rispetto ai tempi previsti nella
+documentazione di gara, le Aziende Sanitarie potranno acquisire tali servizi sul libero mercato.
+In tal caso le Aziende Sanitarie trasmetteranno all'Appaltatore, preventivamente, un ordine di esecuzione/diffida ad
+adempiere.
+Qualora, entro 10 giorni dal ricevimento della diffida o, in caso di urgenza, entro termini inferiori, l'Appaltatore non provveda ad eseguire i servizi richiesti, le Aziende potranno far eseguire direttamente tali interventi a un operatore economico terzo, imputando all'Appaltatore i costi sostenuti per l'intervento, anche se superiori al prezzo proposto in gara per analoghi servizi, oltre che ogni altro maggior onere o danno comunque derivante dall'inadempienza stessa.
+Tali costi saranno detratti dall'importo dovuto a titolo di canone, nella prima fattura utile relativa al servizio, fatta salva l'applicazione di penali ove previste.
+In considerazione del fatto che le prestazioni oggetto dell'appalto devono svolte compatibilmente con l'attività sanitaria istituzionale dell'Azienda Sanitaria, l'Appaltatore non potrà pretendere alcun compenso od indennizzo in caso di ritardi o impedimenti nell'esecuzione delle prestazioni causati dall'espletamento di tali attività da parte delle Aziende Sanitarie e/o da terzi autorizzati.
+
+Articolo 11	Controlli sulle prestazioni
+Il Direttore dell'esecuzione del contratto individuato da ogni Azienda Sanitaria (o suoi delegati) verifica il corretto adempimento degli obblighi contrattuali, la regolare esecuzione e la qualità dei servizi svolti, fermo restando quanto previsto nel Capitolato Tecnico con riferimento al Sistema informativo.
+Durante la fase di avvio del servizio e/o quella di esecuzione contrattuale l'Appaltatore si obbliga a consentire ad Azienda Zero - U.O.C. CRAV, nonché alle Aziende Sanitarie, per quanto di rispettiva competenza, di procedere in qualsiasi momento, e anche senza preavviso, alle verifiche delle piena e corretta esecuzione delle prestazioni oggetto degli Ordinativi di Fornitura, anche in termini di qualità resa e di rispetto delle clausole contrattuali, nonché a prestare la propria collaborazione per lo svolgimento di tali verifiche.
+L'Appaltatore si obbliga, infine, a dare immediata comunicazione alle singole Aziende Sanitarie e/o ad Azienda Zero -
+U.O.C. CRAV, per quanto di rispettiva competenza, di ogni circostanza che abbia influenza sull'esecuzione delle attività
+di cui alla Convenzione e ai singoli Ordinativi di Fornitura.
+L'esito positivo dei controlli non esonera l'Appaltatore da eventuali responsabilità derivanti da difformità nell'esecuzione del servizio non facilmente riconoscibili o che, comunque, non siano emerse all'atto dei controlli sopra citati.
+Le modalità e i tempi relativi alle attività di controllo saranno definiti dall'Azienda Sanitaria.
+Tutte le verifiche effettuate avverranno in contraddittorio con la ditta aggiudicataria e l'esito del controllo verrà sottoscritto, in apposito verbale, dall'Azienda Sanitaria e dall'Appaltatore.
+Qualora l'Appaltatore non manifesti la volontà di partecipare alle verifiche e ai controlli in oggetto, l'Azienda Sanitaria
+procederà autonomamente alla presenza di due testimoni.
+Gli esiti delle verifiche effettuate dovranno essere verbalizzati, indipendentemente dall'applicazione di eventuali penali, al fine di monitorare l'andamento generale del servizio e certificare l'assenza di non conformità.
+
+Articolo 12  Attività di monitoraggio di Azienda Zero
+Azienda Zero non può in nessun caso essere ritenuta responsabile nei confronti delle Aziende Sanitarie, le quali sono esclusivamente responsabili dei propri Ordinativi di Fornitura e dei pagamenti delle prestazioni effettuate dall'Appaltatore, ai sensi di quanto previsto nella presente Convenzione.
+Al fine di consentire ad Azienda Zero il monitoraggio della Convenzione, l'Appaltatore si obbliga a:
+- trasmettere ad Azienda Zero copia di ciascun Ordinativo di Fornitura entro e non oltre 7 giorni dalla ricezione dello stesso da parte di ogni singola Azienda Sanitaria;
+- predisporre tutti gli strumenti e le metodologie, comprensivi della relativa documentazione, atti a consentire ad Azienda Zero di monitorare l'andamento della Convenzione in conformità alle norme previste nella stessa;
+- predisporre e trasmettere ad Azienda Zero in formato elettronico, eventuali dati e documentazione di rendicontazione delle prestazioni, se richiesti.
+L'Appaltatore potrà essere chiamato ad inviare ad Azienda Zero, previa richiesta di quest'ultima, su base trimestrale, entro 30 giorni solari successivi a ciascun trimestre di riferimento, i dati aggregati e riassuntivi relativi alle prestazioni contrattuali.
+Azienda Zero può richiedere al Fornitore l'elaborazione di report specifici anche in formato elettronico e/o in via telematica.
+Il monitoraggio di tutte le attività relative alla Convenzione potrà altresì essere effettuato da Azienda Zero anche mediante l'uso di nuove tecnologie e soluzioni organizzative nonché tramite la piattaforma SinTel. A tal fine l'Appaltatore, per quanto di sua competenza, si impegna a prestare piena collaborazione per rendere possibile dette attività di monitoraggio.
+In particolare i report trimestrali devono contenere almeno le seguenti informazioni: nome dell'Azienda Sanitaria; valore degli Ordinativi di Fornitura; tipologie/quantitativi dei servizi erogati per singolo Ordinativo di Fornitura; ogni altra informazione richiesta da Azienda Zero in sede di stipula della presente Convenzione.
+Azienda Zero potrà richiedere all'Appaltatore la compilazione di uno o più file (xls, csv, txt, etc.) contenenti il dettaglio dei servizi erogati.
+L'Appaltatore si obbliga, oltre a quanto previsto nelle altre parti della Convenzione, a:
+
+- comunicare tempestivamente alle Aziende Sanitarie le eventuali variazioni della propria struttura organizzativa coinvolta nell'esecuzione della Convenzione e degli Ordinativi di Fornitura, indicando analiticamente le variazioni intervenute;
+- eseguire le prestazioni oggetto della Convenzione in tutti i luoghi che verranno indicati da ciascuna Azienda Sanitaria;
+- predisporre tutti gli strumenti e le metodologie, comprensivi della relativa documentazione, atti a garantire elevati livelli di servizio, ivi compresi quelli relativi alla sicurezza e riservatezza;
+- manlevare e tenere indenne Azienda Zero nonché le Aziende Sanitarie, per quanto di rispettiva competenza, dalle pretese che i terzi dovessero avanzare in relazione ai danni derivanti dall'esecuzione dei servizi oggetto della Convenzione, ovvero in relazione a diritti di privativa vantati da terzi;
+- eseguire tutti gli altri servizi/prestazioni eventualmente previsti dai documenti di gara, e anche di quelli non espressamente citati ma comunque necessari per il corretto adempimento delle prestazioni contrattuali.
+
+Articolo 13  Responsabilità Civile e Polizza assicurativa
+L'Appaltatore assume in proprio ogni responsabilità civile per infortuni e danni arrecati a persone o cose appartenenti all'Azienda Sanitaria e/o a terzi, per fatto proprio o dei suoi dipendenti e collaboratori, nell'espletamento del servizio o derivanti da vizio o difetto dei prodotti forniti, anche in relazione all'operato ed alla condotta dei propri collaboratori e/o di personale di altre Ditte a diverso titolo coinvolte, nonché in dipendenza di azioni od omissioni, negligenze o altre inadempienze relative all'esecuzione delle prestazioni contrattuali ad esso riferibili.
+Come previsto dal successivo Art. 17, l'Azienda Sanitaria dovrà individuare il Direttore dell'Esecuzione del Contratto
+(DEC), nonché il Direttore dei Lavori (DL) per gli interventi di manutenzione, ove necessario.
+La sorveglianza da parte della Direzione Lavori durante le attività manutentive, che potrà anche essere saltuaria, non
+esonera e non riduce la responsabilità per danni dell'Appaltatore per quanto riguarda l'esatto adempimento degli ordini
+
+impartiti, la buona esecuzione delle opere, l'osservanza delle buone regole dell'arte e la buona qualità dei materiali
+impiegati.
+L'Azienda Sanitaria si riserva, quindi, la più ampia facoltà di indagine sulle opere eseguite, di applicazione delle relative penali, anche se eventuali difetti o una cattiva esecuzione delle opere non fossero emersi all'atto della loro esecuzione.
+L'Appaltatore è responsabile, in via esclusiva, dell'adozione di tutti i mezzi opportuni per evitare e per prevenire qualsiasi danno che potesse essere arrecato a persone e cose.
+L'Appaltatore garantisce anche, ai sensi di legge, che i prodotti forniti nell'ambito del servizio oggetto della presente Convenzione siano conformi a quanto dichiarato ed offerto e siano immuni da vizi che li rendano inidonei allo specifico utilizzo. La garanzia sarà applicabile su tutti i beni e servizi offerti per difetti di funzionamento (art. 1490 Codice Civile) per mancanza di qualità promesse o essenziali all'uso cui la cosa è destinata (art. 1497 Codice Civile).
+L'esame, la verifica e l'approvazione da parte delle Aziende Sanitarie o degli Enti preposti al rilascio di autorizzazioni, nulla osta e concessioni non esonera in alcun modo l'Appaltatore dalle responsabilità ad esso imputabili per legge e dalle previsioni contrattuali, restando contrattualmente stabilito che, malgrado i controlli di ogni genere eseguiti, l'Appaltatore medesimo risulta unico e completo responsabile del servizio.
+L'Appaltatore è responsabile inoltre per eventuali danni, infortuni o altro che dovessero derivare al personale dell'Appaltatore (o ad altro personale eventualmente presente a vario titolo) nell'esecuzione del contratto, convenendosi che ogni eventuale onere è già compensato e compreso nell'importo contrattuale.
+Con riferimento infine agli interventi manutentivi, ogni intervento eseguito dall'Appaltatore nell'ambito del contratto dovrà avere un periodo di garanzia di due anni, a decorrere dalla data di consegna di ciascun intervento.
+In considerazione del fatto che l'Appaltatore è sia esecutore degli interventi che gestore degli impianti, nei prezzi contrattuali si intende totalmente ricompresa anche la garanzia delle parti poste in opera, come pure gli oneri per ogni manutenzione ordinaria e straordinaria, senza limiti, esclusi eventuali fatti non imputabili all'Appaltatore stesso.
+A fronte degli obblighi elencati ai commi precedenti l'Appaltatore è obbligato, ai fini della stipula della Convenzione, a presentare ad Azienda Zero, per ciascun lotto per cui è risultato aggiudicatario, idonea copertura assicurativa, per le garanzie individuate nell'Allegato 6 alla presente Convenzione, attinenti allo svolgimento di tutte le attività oggetto della Convenzione stessa e dei singoli Ordinativi di Fornitura.
+La polizza assicurativa dovrà essere stipulata con Compagnia di Assicurazione autorizzata, ai sensi delle leggi vigenti, all'esercizio dei rami oggetto delle coperture richieste.
+Il documento prodotto deve essere in lingua italiana ovvero, qualora sia prodotto in lingua diversa dall'italiano, il documento deve essere accompagnato da traduzione.
+Si evidenzia che l'Aggiudicatario ha l'obbligo di mantenere la polizza di assicurazione sempre attiva e conforme a quanto
+indicato nell'Allegato 6, per tutta la durata della Convenzione e degli Ordinativi di Fornitura (compresa l'eventuale proroga).
+L'Aggiudicatario si impegna inoltre a dare immediato avviso, tramite PEC, ad Azienda Zero di ogni modifica contrattuale
+in senso peggiorativo rispetto alle clausole previste nell'Allegato 6.
+Tale obbligo di comunicazione vale anche in caso di naturale scadenza o eventuale disdetta della polizza.
+Resta ferma l'intera responsabilità dell'Appaltatore anche per danni coperti o non coperti e/o per gli eventuali maggiori danni eccedenti i massimali assicurati. Si rammenta, inoltre, che il subappalto non comporta alcuna modificazione agli obblighi e agli oneri dell'Aggiudicatario che rimane unico e solo responsabile nei confronti delle Aziende Sanitarie e di Azienda Zero delle prestazioni subappaltate. Pertanto, a tal fine, la copertura assicurativa dovrà prevedere tra gli assicurati anche i subfornitori ed i subappaltatori.
+In caso di aggiudicazione di più lotti, l'Aggiudicatario potrà presentare distinte polizze espressamente riferite a ciascun singolo lotto o un'unica polizza, corredata da distinte appendici, ciascuna espressamente riferita ad ogni lotto, e, dotata di un proprio identificativo. Ogni polizza o ogni appendice dovrà espressamente garantire per ciascun lotto i massimali indicati nell'Allegato 6.
+
+Articolo 14  Clausola sociale
+Al fine di promuovere la stabilità occupazionale nel rispetto dei principi dell'Unione Europea e ferma restando la necessaria armonizzazione con l'organizzazione dell'operatore economico subentrante e con le esigenze tecnico-organizzative e di manodopera previste nel nuovo contratto, l'aggiudicatario del contratto di appalto è tenuto ad assorbire prioritariamente nel proprio organico il personale già operante alle dipendenze dell'aggiudicatario uscente, come previsto dall'art. 57 co. 1 del D.Lgs n. 36/2023, garantendo l'applicazione dei CCNL di settore (in particolare CCNL Metalmeccanico Industria), tenuto conto dell'attività prevalente dell'appalto.
+A tal fine, l'elenco del personale attualmente impiegato è riportato nell'Allegato 7 alla presente Convenzione.
+
+
+Articolo 15  Personale dell'Appaltatore
+Per quanto concerne la fattispecie previste nel presente Schema di Convenzione l'Appaltatore deve avvalersi di proprio personale qualificato e/o specializzato, parlante italiano. L'Appaltatore dovrà dotare ogni proprio operatore di un tesserino di riconoscimento, corredato di fotografia, contenente le generalità del lavoratore e l'indicazione del datore di lavoro.
+L'Appaltatore si impegna ad osservare e applicare integralmente per il suo personale e per quello degli eventuali subappaltatori autorizzati (se Cooperative anche nei confronti dei soci) tutto quanto previsto dalla presente Convenzione, dalle disposizioni interne vigenti presso le singole Aziende Sanitarie, da tutte le norme legislative, regolamentari e contrattuali (contratto collettivo nazionale di lavoro per i dipendenti delle imprese di settore e negli accordi integrativi dello stesso, in vigore per il tempo e per le località in cui si svolge l'appalto anche dopo la scadenza dei contratti collettivi e degli accordi locali fino alla loro sostituzione) relative alla disciplina del rapporto di lavoro, in particolare per quanto riguarda le norme relative all'assunzione del personale, alle assicurazioni obbligatorie e alla sicurezza sul lavoro. I suddetti obblighi vincolano l'Appaltatore anche nel caso che non sia aderente alle Associazioni stipulanti o receda da esse.
+L'Appaltatore è altresì obbligato a rispettare tutti gli obblighi e gli oneri assicurativi anti-infortunistici, assistenziali e previdenziali dei mezzi e delle persone messe a disposizione e ne è il solo responsabile.
+L'Appaltatore dovrà inoltre dotare il proprio personale di tutti i dispositivi di protezione individuale necessari per l'esecuzione delle attività connesse con l'espletamento del presente appalto, secondo le vigenti disposizioni di legge e quanto previsto nella presente Convenzione.
+L'Appaltatore è tenuto a segnalare subito al Direttore dell'Esecuzione del Contratto le anomalie che venissero rilevate durante lo svolgimento della propria attività nonché ad assicurare che il proprio personale mantenga il segreto per ogni fatto o circostanza conosciuti a causa dell'attività lavorativa, oltre ad attenersi a quanto previsto dal D.Lgs. 196/2003, come integrato dal Regolamento europeo (UE) 2016/679.
+L'Appaltatore dovrà indicare nome e cognome e qualifica del proprio personale di cui agli articoli precedenti e presentare, in sede di stipula del contratto, una dichiarazione circa l'assolvimento degli obblighi assicurativi (copertura assicurativa per Responsabilità Civile verso terzi e rischi personali) e di riservatezza in capo al proprio personale.
+Quanto sopra si applica anche per casi non espressamente previsti ma in cui si ravvisi, ai fini della corretta esecuzione del contratto, la necessità che l'Appaltatore impieghi o metta a disposizione delle singole Aziende Sanitarie detto personale. Le Aziende Sanitarie potranno chiedere la motivata sostituzione del personale qualora quest'ultimo non consenta il buon svolgimento delle attività.
+Nel caso in cui il personale dell'Appaltatore o dei subappaltatori o subcontraenti ponga in essere comportamenti, atteggiamenti e condotte tali da non consentire il buon svolgimento delle attività, tanto da costituire grave inadempimento, le Aziende Sanitarie potranno risolvere di diritto il contratto (art. 1456 Codice Civile) e incamerare il deposito cauzionale definitivo, fatto salvo il diritto di agire per il risarcimento di ogni ulteriore conseguente danno subito (art. 1382 Codice Civile).
+
+Articolo 16  Responsabile del Servizio (per l'Appaltatore)
+L'Appaltatore dovrà comunicare all'Azienda Sanitaria, prima della stipula del contratto, il nominativo del Responsabile del Servizio, il quale rappresenterà il riferimento per l'Azienda per il corretto espletamento del servizio e per l'invio di ogni comunicazione inerente il rapporto contrattuale.
+
+Il Responsabile del Servizio ha il compito di programmare, coordinare, controllare e far osservare al personale impiegato le funzioni ed i compiti stabiliti, di intervenire, decidere e rispondere direttamente in merito ad eventuali problemi che dovessero insorgere nella regolare esecuzione delle prestazioni oggetto dell'appalto e/o in casi di accertamento di eventuali danni.
+Su richiesta dell'Azienda Sanitaria, il Responsabile dovrà comunicare mensilmente i nominativi del personale impiegato nell'appalto, suddiviso per sede, specificando le mansioni e la categoria di appartenenza.
+Il Responsabile deve essere facilmente rintracciabile dalle ore 7:00 alle ore 20:00 di ogni giorno nel quale viene svolto il
+servizio, compresi sabato e domenica, mediante telefono cellulare fornito dall'Appaltatore.
+Nei periodi di ferie o altra assenza, l'Appaltatore dovrà indicare un'altra persona, come sostituto.
+
+Articolo 17  Direttore dell'Esecuzione del contratto (per l'Azienda Sanitaria)
+L'Azienda Sanitaria dovrà individuare il Direttore dell'Esecuzione del Contratto (DEC), nonché il Direttore dei Lavori (DL) per gli interventi di manutenzione, ove necessario; gli stessi dovranno essere in possesso dei requisiti previsti dalla normativa vigente per svolgere tali incarichi.
+L'Azienda Sanitaria ne comunicherà i riferimenti all'Appaltatore.
+Il DEC è il soggetto preposto, tra l'altro, alla vigilanza dell'esecuzione del servizio, alla verifica della corrispondenza della prestazione alle obbligazioni contrattuali, al controllo tecnico-contabile dell'esecuzione del contratto.
+
+Articolo 18  Disposizioni in materia di tutela della salute e della sicurezza e DUVRI
+L'Appaltatore dovrà far adottare al proprio personale o ai propri incaricati che, a qualunque titolo, accedano ai luoghi di pertinenza delle Aziende Sanitarie, le misure e cautele di sicurezza per garantire l'esecuzione del contratto in totale sicurezza, in ottemperanza alle disposizioni di cui al D.Lgs. n. 81/2008.
+L'Appaltatore dovrà garantire una formazione specifica relativa ai rischi negli ambienti di lavoro sanitari, con riferimento in particolare ai rischi chimici e biologici.
+L'Appaltatore dovrà inoltre conoscere ed adeguare la propria struttura organizzativa al Piano di Gestione delle Emergenze
+di ogni struttura.
+Le Aziende Sanitarie, ai sensi dell'art. 26 del D. Lgs. 81/2008, provvederanno, prima dell'emissione dell'Ordinativo di Fornitura ad integrare il documento denominato "Tutela della salute e azioni di coordinamento per la sicurezza", Allegato 8 alla presente Convenzione, riferendolo ai rischi specifici da interferenza presenti nei luoghi in cui sarà espletato l'appalto. In tale sede le Aziende Sanitarie indicheranno i costi relativi alla sicurezza (anche nel caso in cui essi siano pari a zero).
+L'Appaltatore dovrà sottoscrivere per accettazione l'integrazione di cui al comma precedente; la mancata sottoscrizione del DUVRI da parte dell'Appaltatore costituirà causa di risoluzione del contratto.
+Di tutti questi oneri l'Appaltatore dichiara di aver tenuto conto nella formulazione dei prezzi.
+
+Articolo 19  Evoluzione tecnologica
+L'Appaltatore si impegna ad informare Azienda Zero - U.O.C. CRAV e/o le Aziende Sanitarie in merito all'evoluzione tecnologica dei servizi oggetto della Convenzione e delle conseguenti possibili modifiche migliorative da apportare ai servizi/forniture stessi.
+L'Appaltatore potrà formulare la proposta in merito alle sopra citate modifiche migliorative, che verrà valutata da Azienda Zero - U.O.C: CRAV. Solo a seguito dell'esito positivo della verifica di conformità del nuovo prodotto/servizio offerto con quanto dichiarato in sede di offerta, e valutate le migliorie proposte, l'Appaltatore sarà autorizzato ad effettuare la relativa sostituzione.
+In caso di comunicazione da parte dell'Appaltatore dell'impossibilità di fornire i prodotti/servizi oggetto della Convenzione a causa della messa fuori produzione degli stessi, Azienda Zero - U.O.C. CRAV si pronuncerà entro 30 giorni dalla ricezione della predetta comunicazione, termine che deve intendersi sospeso in caso di richieste di chiarimenti.
+
+Articolo 20  Condizioni economiche e corrispettivi
+I corrispettivi contrattuali dovuti all'Appaltatore dalla singola Azienda Sanitaria in base ai singoli Ordinativi di Fornitura sono
+calcolati sulla base dei prezzi unitari netti riferiti all'offerta.
+Tutti i predetti corrispettivi si riferiscono alle forniture prestate a perfetta regola d'arte e nel pieno adempimento delle modalità e delle prescrizioni contrattuali e gli stessi sono dovuti unicamente all'Appaltatore e, pertanto, qualsiasi terzo, ivi compresi eventuali sub-fornitori o subappaltatori non possono vantare alcun diritto nei confronti delle Aziende Sanitarie.
+
+Tutti gli obblighi ed oneri derivanti all'Appaltatore dall'esecuzione della Convenzione e dei singoli Ordinativi di Fornitura e dall'osservanza di leggi e regolamenti, nonché dalle disposizioni emanate o che venissero emanate dalle competenti autorità, sono compresi nel corrispettivo contrattuale, così come definito nei paragrafi successivi.
+
+Azienda Zero non può in nessun caso essere ritenuta responsabile dei pagamenti delle singole Aziende Sanitarie.
+
+Articolo 20.1  Elementi concorrenti alla definizione del prezzo del Servizio
+Il prezzo del Servizio su base annua si otterrà moltiplicando i prezzi contrattuali Px offerti in sede di gara con le quantità Qx misurate dall'Appaltatore in sede di preventivazione con i criteri di cui al paragrafo successivo e approvate dall'Azienda Sanitaria come descritto nell'Articolo 8.5.
+
+Articolo 20.2  Norme di misurazione
+Al fine di determinare il valore dell'offerta, il prezzo del Servizio in fase di Preventivo (Articolo 8.1) e la consistenza degli elementi quantitativi oggetto di computazione si adotteranno le norme di misurazione di questo paragrafo.
+Ove non diversamente specificato, per la misurazione degli elementi geometrici si adotteranno i seguenti parametri.
+
+Vm
+Volume
+m3
+il valore minore tra:
+* volume dei locali attivi compreso tra le murature interne e/o perimetrali, il pavimento e l'intradosso del soffitto o del controsoffitto se presente
+* volume lordo del fabbricato, ridotto del 20%
+Sm
+Superficie
+m2
+il minore tra:
+* superficie interna calpestabile dei locali attivi compresa tra le murature
+* somma della superficie lorda di ogni piano abitabile del fabbricato ridotto del 10%
+
+Per locale attivo si intende ogni vano in cui si svolge attività sanitaria o istituzionale, i luoghi di lavoro e quelli con presenza di personale, degenti e familiari, utenti, ecc., e tutti i locali di servizio collegati, anche tecnici, e le vie di collegamento. Sono esclusi quindi i vani nei quali è comunque precluso l'acceso alle persone per qualunque attività e quelli non utilizzati abitualmente con caratteristiche dimensionali che non li rendono idonei all'abitabilità.
+I criteri di misurazione degli elementi quantitativi da moltiplicare per i prezzi unitari di contratto sono i seguenti.
+
+Qx
+Elemento
+UM
+Criterio di misurazione
+A
+Servizio di climatizzazione invernale
+QA1
+Volume servito dal riscaldamento invernale
+m3
+Volume Vm di tutti i locali riscaldati da impianti e da dispositivi
+termici fissi senza sistemi di ricambio d'aria centralizzati.
+
+QA2
+Volume servito dal condizionamento invernale
+m3
+Volume Vm di tutti i locali condizionati da impianti e da dispositivi termici fissi con sistemi ricambio d'aria centralizzati a tutt'aria o misti.
+B
+Servizio di climatizzazione estiva
+QB1
+Volume servito dal condizionamento estivo senza presenza di impianti di ricambio dell'aria
+m3
+Volume Vm di tutti i locali condizionati mediante impianti e da
+dispositivi fissi senza sistemi di ricambio d'aria centralizzati.
+QB2
+Volume servito dal condizionamento estivo con impianti di ricambio dell'aria
+m3
+Volume Vm di tutti i locali condizionati mediante impianti e da dispositivi fissi con sistemi di ricambio d'aria centralizzati a tutt'aria o misti.
+C
+Altri servizi termici
+QC1
+Superficie servita dall'impianto di acqua calda sanitaria e da altre utenze termiche
+m2
+Superficie Sm delle porzioni di fabbricato servite da utenze e punti di distribuzione di acqua calda sanitaria.
+Si considerano in tal senso le aree abitabili ove si svolge attività sanitaria o istituzionale con presenza di utenti e personale ove siano attivi servizi igienici dotati di punti di distribuzione di acqua calda sanitaria (rubinetti nei servi igienici, lavandini negli ambulatori, docce, ecc.).
+D
+Servizio di gestione degli impianti idrico sanitari e reti fognarie
+QD1
+Superficie servita dagli impianti idrico-sanitari e di trattamento dell'acqua
+m2
+Superficie Sm delle porzioni di fabbricato servite da utenze e punti di distribuzione di acqua sanitaria.
+Si considerano in tal senso le aree abitabili ove si svolge attività sanitaria o istituzionale con presenza di utenti e personale ove siano attivi servizi igienici dotati di punti di distribuzione di acqua sanitaria (servi igienici, lavandini negli ambulatori, docce, ecc.) o altre utenze idriche assimilabili (laboratori, ecc.) coi relativi scarichi (WC, lavandini, docce, pilette a pavimento, ecc.)
+QD2
+Superficie esterna servita dagli impianti di smaltimento delle acque meteoriche
+m2
+Superficie dell'area esterna del sedime del complesso edilizio servita da impianti di smaltimento delle acque meteoriche compresi gli impianti di prima pioggia e similari.
+Si considerano in tal senso le aree adibite al traffico veicolare, le aree esterne di parcheggio, le piste ciclabili, i maciapiedi, i vialetti pedonali, ad esclusione delle aree verdi e delle aiuole, e le superficie in pianta dei fabbricati.
+E
+Servizio energia impianti elettrici
+QE1
+Impianto elettrico nelle strutture ad alta intensità di cura
+m2
+Superficie Sm delle porzioni di fabbricato servite da impianti di illuminazione interna e da punti di utilizzo di forza motrice.
+QE2
+Impianto elettrico nelle strutture a media e bassa intensità di cura
+m2
+Superficie Sm delle porzioni di fabbricato servite da impianti di illuminazione interna e da punti di utilizzo di forza motrice.
+QE3
+Superficie netta servita dagli impianti di illuminazione esterna
+m2
+Superficie delle aree esterne ai fabbricati servite da impianti di illuminazione esterna per traffico motorizzato o pedonale o di accento.
+Si considerano in tal senso le aree adibite al traffico veicolare, le aree esterne di parcheggio, le piste ciclabili, i marciapiedi, i
+
+
+
+
+vialetti pedonali ad esclusione delle aree verdi e delle aiuole non illuminate.
+QE4
+Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+n°
+Numero di stazioni base fisse con potenza nominale massima superiore a 5kW.
+QE5
+Apparecchiature diagnostiche e per terapia fisse
+n°
+Numero di prestazioni annue con apparecchiature fisse di diagnostica per immagini, di radioterapia e di medicina nucleare. Si intendono esclusivamente comprese le prestazioni effettuate mediante:
+* RM
+* TAC
+* TAC simulatori
+* PET
+* PET-RM
+* PET-CT
+* SPECT
+* SPECT-CT
+* Acceleratori lineari
+* Acceleratori lineari - RM
+* Tomoterapia
+F
+Servizio di gestione degli impianti speciali di sicurezza e di comunicazione
+QF1
+Superficie servita dagli impianti speciali di sicurezza e di comunicazione
+m2
+Superficie Sm delle porzioni di fabbricato servite da impianti speciali di comunicazione di sicurezza tra cui:
+* impianti di diffusione sonora, filodiffusione e simili
+* impianti rilevazione incendi e gas
+* impianti antintrusione e controllo accessi
+* impianti di chiamata e sistemi interfonici
+* impianti orologi elettrici
+* impianti antenna TV
+* impianti citofonici e videocitofonici
+* impianti eliminacode
+* impianti controllo accessi e antintrusione
+* impianti orologi elettrici
+* sistemi centralizzati di controllo e di supervisione allarmi, monitoraggio e telecontrollo e simili
+QF2
+Impianti televisivi a circuito chiuso
+n°
+Numero di telecamere a servizio di impianti di ripresa e registrazione a circuito chiuso per sorveglianza attiva, passiva, per riprese didattiche, scientifiche e similari.
+
+G
+Servizio di gestione di impianti e sistemi antincendio
+QG1
+Superficie servita dagli impianti e dai sistemi di protezione antincendio
+m2
+Superficie Sm delle porzioni di fabbricato servite da impianti e da sistemi di protezione contro gli incendi.
+QG2
+Superficie servita dagli impianti di spegnimento automatico
+m2
+Superficie Sm delle porzioni di fabbricato servite da impianti di spegnimento incendi ad attivazione automatica (sprinkler, impianti a gas, a sublimazione e simili).
+H
+Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale
+QH1
+Impianti elevatori (fino a 5 fermate)
+n°
+Numero di impianti elevatori di ogni tipologia costruttiva fino a 5 fermate.
+QH2
+Impianti elevatori (oltre 5 fermate)
+n°
+Numero di impianti elevatori di ogni tipologia costruttiva oltre 5 fermate.
+QH3
+Servoscala e montascale
+n°
+Numero di impianti servoscala e montascale.
+QH4
+Scale mobili e marciapiedi mobili
+n°
+Numero di impianti di scale mobili e di marciapiedi mobili.
+J
+Servizio di gestione di altri impianti tecnologici
+QJ1
+Porte automatiche, sbarre e cancelli automatizzati
+n°
+Numero di porte automatiche, di sbarre automatiche per passaggio veicolare o pedonale e di cancelli elettrici servoassistiti.
+QJ2
+Superficie servita da sistemi di prevenzione della legionellosi
+m2
+Superficie Sm delle porzioni di fabbricato servite da impianti idrico-sanitari dotati di sistemi di disinfezione per la prevenzione dell'insorgenza di legionellosi.
+QJ3
+Numero di utenza idriche protette da filtri per la prevenzione della legionellosi
+n°
+Numero di utenza idriche protette in modo continuativo da filtri antilegionella.
+QJ4
+Superficie esterna servita da impianti di irrigazione
+m2
+Superficie delle aree verdi servite da impianti di irrigazione allacciati alla rete idrica.
+QJ5
+Pozzi di prelievo acqua di falda
+n°
+Numero dei pozzi di prelievo di acqua di falda attivi per utilizzi tecnologici e di irrigazione.
+QJ6
+Elisuperfici
+n°
+Numero delle elisuperfici
+QJ7
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+n°
+Numero di apparecchi illuminanti destinati alla Sorveglianza Ostacoli al Volo installati sugli edifici.
+QJ8
+Vasche terapeutiche
+n°
+Numero di vasche terapeutiche.
+QJ9
+Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+n°
+Numero di frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere, destinati alla conservazione di farmaci, di materiale biologico, di emoderivati e simili.
+Si considerano esclusi i frigoriferi domestici destinati all'utilizzo alimentare e installati nelle cucine di reparto o nei locali ristoro, tisanerie e simili.
+QJ10
+Cappe chimiche, biologiche e a flusso laminare
+n°
+Numero di cappe chimiche, biologiche e a flusso laminare, tavoli aspirati, armadi aspirati e simili.
+QJ11
+Impianti di posta pneumatica
+n°
+Numero di stazioni costituenti l'impianto di posta pneumatica
+QJ12
+Lavapadelle
+n°
+Numero di lavapadelle
+
+QJ13
+Elettrodomestici vari
+n°
+Numero di elettrodomestici di varia natura tra cui: frigoriferi domestici destinati alla conservazione di alimenti, forni a microonde, fornelli, forni domestici, lavastoviglie, cappe da cucina, fabbricatori di ghiaccio, lavatrici e asciugatrici domestiche.
+L
+Personale aggiuntivo e squadra antincendio
+QL1
+Servizio di presidio giornaliero specializzato
+n°
+Numero di addetti con presenza giornaliera nei giorni feriali (8h x 5gg) richiesti dall'Azienda Sanitaria per i presidi ospedalieri. Per addetti si intendono operai specializzati, con esperienza nel settore dell'impiantistica elettrica o termotecnica e idraulica ospedaliera.
+QL2
+Squadra di pronto intervento antincendio
+n°
+Numero di addetti costituenti la/e squadra/e di emergenza tecnica e antincendio richiesti dall'Azienda Sanitaria.
+
+
+Ai fini della presente Convenzione, sono da considerarsi "strutture ad alta intensità di cura" esclusivamente quelle elencate nell'Allegato 2. Per "strutture ad alta intensità di cura" si intendono, salvo diversa indicazione, gli Hub, gli Ospedali di riferimento provinciale e i Presidi ospedalieri di rete per come definiti dal Piano Socio Sanitario Regionale 2019-2023. Non sono da considerarsi "strutture ad alta intensità di cura" quelle definite come Ospedali nodi della rete e altre strutture di livello assistenziale inferiore salvo dove questi siano espressamente presenti nell'allegato sopracitato.
+Il contenuto dell'allegato potrà subire variazioni nel corso del contratto in base a modifiche intervenute nella programmazione socio sanitaria regionale, in particolar nel caso in cui venga variata la classificazione delle strutture secondo il modello Hub and Spoke.
+Ai fini della misurazione degli elementi QE1 e QE2 si dovrà considerare la superficie servita dal punto di alimentazione di energia elettrica principale (POD) dell'intero complesso. Fabbricati che, pur ricadendo nel recinto ospedaliero, sono alimentati attraverso POD distinti rispetto al principale, non saranno considerati parte del complesso ospedaliero e agli stessi dovranno essere applicati i corrispondenti prezzi unitari, di cui al paragrafo successivo. (Articolo 20.3)
+
+Articolo 20.3  Prezzi unitari del Servizio
+I prezzi unitari annui contrattuali del Servizio saranno quelli indicati in sede di offerta dall'Aggiudicatario in riduzione rispetto a quelli posti a base di gara. I prezzi saranno fissi e immutabili per tutta la durata del contratto fatto salvo quanto disposto nell'Articolo 20.5 per la revisione periodica annuale.
+
+
+Px
+Elemento
+UM
+Prezzi annui
+A
+Servizio di climatizzazione invernale
+PA1
+Riscaldamento invernale
+€/(m3·GG)
+prezzo per m3 di volume climatizzato per grado giorno.
+PA2
+Condizionamento invernale
+€/(m3·GG)
+prezzo per m3 di volume climatizzato per grado giorno.
+B
+Servizio di climatizzazione estiva
+PB1
+Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+€/(m3·giorno)
+prezzo per m3 di volume climatizzato per giorno di funzionamento
+PB2
+Condizionamento estivo con impianti
+di ricambio dell'aria
+€/(m3·giorno)
+prezzo per m3 di volume climatizzato per giorno di funzionamento
+
+C
+Altri servizi termici
+PC1
+Impianto di acqua calda sanitaria e da altre utenze termiche
+€/m2
+prezzo per m2 di superficie servita
+D
+Servizio di gestione degli impianti idrico sanitari e reti fognarie
+PD1
+Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e smaltimento reflui e reti fognarie
+€/m2
+prezzo per m2 di superficie servita
+PD2
+Impianti di smaltimento delle acque meteoriche
+€/m2
+prezzo per m2 di superficie servita
+PD3
+Punti di erogazione acqua potabile calda e fredda CON filtro 0,2 micron (antilegionella)
+€/cad.
+Prezzo per dispositivo
+E
+Servizio energia impianti elettrici
+PE1
+Impianto elettrico nelle strutture ad alta intensità di cura
+€/m2
+prezzo per m2 di superficie servita
+PE2
+Impianto elettrico nelle strutture a media e bassa intensità di cura
+€/m2
+prezzo per m2 di superficie servita
+PE3
+Impianti di illuminazione esterna
+€/m2
+prezzo per m2 di superficie servita
+PE4
+Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+€/cad.
+Prezzo per dispositivo.
+PE5
+Apparecchiature diagnostiche e per terapia fisse
+€/cad.
+Prezzo per prestazione
+F
+Servizio di gestione degli impianti speciali di sicurezza e di comunicazione
+PF1
+Impianti speciali di sicurezza e di comunicazione
+€/m2
+prezzo per m2 di superficie servita
+PF2
+Impianti televisivi a circuito chiuso
+€/cad.
+prezzo per dispositivo
+G
+Servizio di gestione di impianti e sistemi antincendio
+PG1
+Impianti e sistemi di protezione antincendio
+€/m2
+prezzo per m2 di superficie servita
+PG2
+Impianti di spegnimento automatico
+€/m2
+prezzo per m2 di superficie servita
+H
+Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale
+PH1
+Impianti elevatori (fino a 5 fermate)
+€/cad.
+prezzo per impianto
+PH2
+Impianti elevatori (oltre 5 fermate)
+€/cad.
+prezzo per impianto
+PH3
+Servoscala e montascale
+€/cad.
+prezzo per impianto
+PH4
+Scale mobili e maciapiedi mobili
+€/cad.
+prezzo per impianto
+J
+Servizio di gestione di altri impianti tecnologici
+PJ1
+Porte automatiche, sbarre e cancelli automatizzati
+€/cad.
+prezzo per dispositivo
+PJ2
+Sistemi di prevenzione della legionellosi
+€/m2
+prezzo per m2 di superficie servita
+
+PJ3
+Numero di utenza idriche protette da filtri per la prevenzione della legionellosi
+€/cad.
+prezzo per dispositivo
+PJ4
+Impianti di irrigazione
+€/m2
+prezzo per m2 di superficie servita
+PJ5
+Pozzi di prelievo acqua di falda
+€/cad.
+prezzo per dispositivo
+PJ6
+Elisuperfici
+€/cad.
+prezzo per dispositivo
+PJ7
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+€/cad.
+prezzo per dispositivo
+PJ8
+Vasche terapeutiche
+€/cad.
+prezzo per dispositivo
+PJ9
+Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+€/cad.
+prezzo per dispositivo
+PJ10
+Cappe chimiche, biologiche e a flusso laminare
+€/cad.
+prezzo per dispositivo
+PJ11
+Impianti di posta pneumatica
+€/cad.
+prezzo per dispositivo
+PJ12
+Lavapadelle
+€/cad.
+prezzo per dispositivo
+PJ13
+Elettrodomestici vari
+€/cad.
+prezzo per dispositivo
+L
+Personale aggiuntivo e squadra antincendio
+PL1
+Servizio di presidio giornaliero specializzato
+€/cad.
+prezzo per addetto 8h x 5gg
+PL2
+Squadra di pronto intervento antincendio
+€/cad.
+prezzo per addetto 24h x 7gg
+
+Nei corrispettivi unitari dei servizi di climatizzazione invernale e estiva (A1, A2, B1 e B2) e degli altri servizi termici (C) è compreso, senza ulteriori oneri per l'Azienda Sanitaria, il servizio di fornitura di vapore secondo quanto descritto nel Capitolato tecnico.
+Il corrispettivo del servizio K (Servizi di governo, presidio tecnologico, pronto intervento, sistema informativo, analisi energetica, ecc.) non figura nell'elenco in quanto l'onere è interamente ricompreso e compensato nei servizi ad adesione obbligatoria della Convenzione.
+Nel prezzo del servizio L2 si intende compensata la quota del costo del personale dell'Appaltatore dedicata al servizio di pronto intervento antincendio, al di fuori della normale attività manutentiva e delle attività di presidio o di reperibilità il cui costo è compensato nei prezzi dei servizi specifici.
+Nel prezzo dei servizi A e C e in tutti quelli in cui è prevista la fornitura di gas per tutti gli utilizzi previsti, si intendono compensati, nessuno escluso, gli oneri per la quota materia gas naturale o altro combustibile liquido o gassoso, anche per le eventuali riserve o depositi di emergenza, indipendentemente dalle fasce di utilizzo, gli oneri per le spese di trasporto, di rete e di gestione del contatore, gli oneri di sistema come stabiliti, volta per volta, da ARERA, oltre alle imposte erariali e le addizionali regionali.
+Nel prezzo unitario dei servizi B e E e in tutti quelli in cui è prevista la fornitura di energia elettrica per tutti gli utilizzi previsti, si intendono compensati, nessuno escluso, gli oneri per la quota energia, indipendentemente dalle fasce di utilizzo, comprese le perdite e gli altri importi in materia energia (ad es. remunerazione interrompibilità, disponibilità capacità produttiva, costi di funzionamento GRTN, risorse dispacciamento, costi art. 44bis, reintegro salvaguardia transitoria, ecc.)¸ gli oneri per le spese di trasporto dell'energia elettrica e di gestione del contatore e per gli oneri di sistema, come stabiliti, volta per volta, da ARERA, oltre alle imposte erariali di consumo e di produzione e le addizionali regionali.
+Gli oneri di fornitura di energia elettrica per la climatizzazione estiva sono compensati integralmente nei prezzi dei servizi B.
+
+Nel prezzo unitario dei servizi B e E in tutti quelli in cui è prevista la fornitura di energia elettrica si intendono compensati, nessuno escluso, gli oneri per la fornitura e il consumo di combustibile per i sistemi di emergenza (gruppi elettrogeni, ecc.).
+Nel prezzo unitario dei servizi A, B, C ed E in tutti quelli in cui è prevista la fornitura di energia elettrica da sistemi integrati di cogenerazione, trigenerazione e simili si intendono compensati, nessuno escluso, tutti gli oneri per la fornitura e il consumo di combustibile liquido e gassoso.
+Nel prezzo dei servizi A e C e in tutti quelli in cui è prevista la fornitura di vettori energetici da reti di teleriscaldamento per tutti gli utilizzi previsti, si intendono compensati, nessuno escluso, gli oneri per la quota energia, indipendentemente dalle fasce di utilizzo, gli oneri per le spese di trasporto, di rete e di gestione del contatore, gli oneri di sistema come stabiliti, volta per volta, dal fornitore terzo, oltre alle imposte erariali e le addizionali regionali.
+Nel prezzo unitario dei servizi E1 e E2 si intendono compensati, nessuno escluso, tutti gli oneri per la fornitura e il consumo di energia elettrica per tutte le apparecchiature non espressamente incluse nei servizi E4 e E5 secondo le norme di misurazione di cui all'Articolo 20.2.
+Secondo quanto descritto in dettaglio nel Capitolato tecnico, per le attività di manutenzione straordinaria per la quota eccedente la franchigia e per altri interventi non ricompresi nel canone, si utilizzerà l'elenco prezzi unitari di contratto, detratto lo sconto contrattuale RL. Per le sole prestazioni di manodopera e per i noli, lo sconto contrattuale RL sarà applicato alla sola quota delle spese generali e dell'utile d'impresa pari cumulativamente al 26,5%.
+Nel caso di edifici e fabbricati o porzioni di essi in uso all'Azienda Sanitaria, nei quali la fornitura dei combustibili e/o dell'energia elettrica e/o acqua è garantita da un soggetto terzo in base a contratti di locazione o simili, il prezzo dei servizi A, B, C e E sarà calcolato per come descritto all'Articolo 20.5.
+
+Articolo 20.4	Corrispettivo convenzionale del servizio
+
+Articolo 20.4.1	Quota per i servizi a canone
+Il canone annuo convenzionale del servizio Ccs sarà calcolato moltiplicando le quantità degli elementi quantitativi misurate in sede di Preventivo Qx per i relativi prezzi unitari contrattuali Px.
+
+Ccs = ? Qx · Px
+= QA1 · PA1 · GGc + QA2 · PA2 · GGc + QB1 · PB1 · GFc + QB2 · PB2 · GFc
++ QC1 · PC1 + ... + QJ13 · PJ13+ QL1 · PL1 + QL2 · PL2
+
+dove:
+* GGc è il numero di gradi giorno convenzionali nel corso della stagione termica invernale indicati per ogni comune nel DPR n° 412 del 26 agosto 1993 e s.m.i. e consultabile, per i comuni del Veneto, sul sito della Regione del Veneto1
+* GFc è il numero dei giorni di funzionamento convenzionali degli impianti di climatizzazione estiva indicato nel Capitolato tecnico
+
+Articolo 20.4.2	Quota per interventi di manutenzione straordinaria correttiva
+Per la realizzazione degli interventi di manutenzione straordinaria per come descritti nel Capitolato tecnico, ad integrazione del canone convenzionale del servizio Ccs, è prevista una quota Cms contrattuale ulteriore pari al 20% di Ccs.
+Tale importo sarà dedicato alla remunerazione della quota eccedente la franchigia descritta in seguito e agli interventi di manutenzione straordinaria secondo le modalità stabilite nel Capitolato tecnico ed è il valore massimo degli interventi di manutenzione straordinaria eseguibili in ogni anno di servizio.
+
+
+1  http://www.regione.veneto.it/web/energia/gradi-giorno-dei-comuni-del-veneto
+
+La quota Cms è da intendersi "a consumo" e sarà corrisposta solo a seguito della preventivazione, della realizzazione e della contabilizzazione degli interventi. La quota Cms, pur formalizzata all'interno dell'Ordinativo di Fornitura, non risulta vincolante per Azienda Sanitaria che potrà emettere facoltativamente ordini di intervento fino alla concorrenza dell'importo previsto. Tale importo verrà eroso, nel corso del rapporto contrattuale, in base al valore cumulato degli ordini di intervento per attività di manutenzione straordinaria extra-franchigia approvati ed effettuati.
+
+Articolo 20.4.3	Franchigia per gli interventi di manutenzione straordinaria
+Nel caso di interventi di manutenzione straordinaria correttiva o sostitutiva su guasto, all'Appaltatore sarà riconosciuto l'onere per la sola parte eccedente la franchigia stabilita in 3.000,00 € (IVA esclusa) per ogni singolo intervento.
+
+Articolo 20.4.4	Corrispettivo convenzionale annuo
+Il corrispettivo convenzionale annuo sarà ottenuto sommando i corrispettivi sopra descritti:
+
+Ca = Ccs + Cms
+
+Articolo 20.5	Revisione periodica dei prezzi
+A partire dal primo anno di servizio e per tutti gli anni successivi, Azienda Zero - U.O.C. CRAV provvederà a revisionare il corrispettivo annuo del servizio, definendo i coefficienti revisionali e aggiornando di conseguenza i prezzi unitari per la parte relativa alle componenti energetiche, alla manodopera e ai materiali, secondo la seguente formula:
+
+
+Pxn = Px · Kxn
+dove:
+* Px è il prezzo unitario del servizio x alla data di presentazione dell'offerta
+* Pxn è il prezzo unitario del servizio x nell'anno di servizio n, con n = 1
+* Kxn è il coefficiente di revisione del servizio x per l'anno n, con n = 1
+
+Si precisa che n = 0 è riferito all'anno di presentazione dell'offerta, n = 1 è riferito al primo anno di servizio a partire dalla data di consegna degli impianti, n = 2 al secondo e così via.
+Per il primo anno di servizio, quindi n = 1, vale: Px1 = Px · Kx1.
+
+I coefficienti di revisione Kxn per n = 1 saranno calcolati secondo il seguente schema.
+
+Elemento
+Coefficiente di revisione
+A
+Servizio di climatizzazione invernale
+KA1
+Riscaldamento invernale
+KA1n = (0,25 · Mn/M0 + 0,05 · Nn/N0 + 0,7 · Gn/G0) · Sn
+KA2
+Condizionamento invernale
+KA2n = (0,25 · Mn/M0 + 0,05 · Nn/N0 + 0,7 · Gn/G0) · Sn
+B
+Servizio di climatizzazione estiva
+KB1
+Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+KB1n = (0,20 · Mn/M0 + 0,1 · Nn/N0 + 0,7 · En/E0) · Sn
+KB2
+Condizionamento estivo con impianti
+di ricambio dell'aria
+KB2n = (0,20 · Mn/M0 + 0,1 · Nn/N0 + 0,7 · En/E0) · Sn
+
+C
+Altri servizi termici
+KC1
+Impianto di acqua calda sanitaria e da altre utenze termiche
+KC1n = (0,6 · Mn/M0 + 0,1 · Nn/N0 + 0,3 · Gn/G0) · Sn
+D
+Servizio di gestione degli impianti idrico sanitari e reti fognarie
+KD1
+Impianti idrico-sanitari e di trattamento dell'acqua e impianti di trattamento e smaltimento reflui e reti fognarie
+KD1n = 0,2 · Mn/M0 + 0,1 · Nn/N0 + 0,7 · An/A0
+KD2
+Impianti di smaltimento delle acque meteoriche
+KD2n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+E
+Servizio energia impianti elettrici
+KE1
+Impianto elettrico nelle strutture ad alta intensità di cura
+KE1n = (0,25 · Mn/M0 + 0,05 · Nn/N0 + 0,7 · En/E0) · Sn
+KE2
+Impianto elettrico nelle strutture a media e bassa intensità di cura
+KE2n = (0,25 · Mn/M0 + 0,05 · Nn/N0 + 0,7 · En/E0) · Sn
+KE3
+Impianti di illuminazione esterna
+KE3n = (0,25 · Mn/M0 + 0,05 · Nn/N0 + 0,7 · En/E0) · Sn
+KE4
+Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+KE4n = En/E0
+KE5
+Apparecchiature diagnostiche e per terapia fisse
+KE5n = En/E0
+F
+Servizio di gestione degli impianti speciali di sicurezza e di comunicazione
+KF1
+Impianti speciali di sicurezza e di comunicazione
+KF1n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KF2
+Impianti televisivi a circuito chiuso
+KF2n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+G
+Servizio di gestione di impianti e sistemi antincendio
+KG1
+Impianti e dai sistemi di protezione antincendio
+KG1n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KG2
+Impianti di spegnimento automatico
+KG2n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+H
+Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale
+KH1
+Impianti elevatori (fino a 5 fermate)
+KH1n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KH2
+Impianti elevatori (oltre 5 fermate)
+KH2n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KH3
+Servoscala e montascale
+KH3n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KH4
+Scale mobili e maciapiedi mobili
+KH4n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+J
+Servizio di gestione di altri impianti tecnologici
+KJ1
+Porte automatiche, sbarre e cancelli automatizzati
+KJ1n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ2
+Sistemi di prevenzione della legionellosi
+KJ2n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ3
+Numero di utenza idriche protette da filtri per la prevenzione della legionellosi
+KJ3n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ4
+Impianti di irrigazione
+KJ4n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+
+KJ5
+Pozzi di prelievo acqua di falda
+KJ5n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ6
+Elisuperfici
+KJ6n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ7
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+KJ7n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ8
+Vasche terapeutiche
+KJ8n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ9
+Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+KJ9n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ10
+Cappe chimiche, biologiche e a flusso laminare
+KJ10n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ11
+Impianti di posta pneumatica
+KJ11n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ12
+Lavapadelle
+KJ12n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+KJ13
+Elettrodomestici vari
+KJ13n = 0,8 · Mn/M0 + 0,2 · Nn/N0
+L
+Personale aggiuntivo e squadra antincendio
+KL1
+Servizio di presidio giornaliero specializzato
+KL1n = Mn/M0
+KL2
+Squadra di pronto intervento antincendio
+KL2n = Mn/M0
+
+
+dove:
+* Mn è il costo medio della manodopera valido nell'anno n, per operaio di V° livello, desunto dal Prezziario Interprovinciale degli Impianti Tecnologici pubblicato dalla Camera di Commercio di Vicenza su incarico di Unioncamere Veneto e delle Camere di Commercio del Veneto
+* M0 è il costo medio della manodopera valido alla data di presentazione dell'offerta, per operaio di V° livello, desunto dal Prezziario Interprovinciale degli Impianti Tecnologici pubblicato dalla Camera di Commercio di Vicenza su incarico di Unioncamere Veneto e delle Camere di Commercio del Veneto
+* Nn è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) nell'anno n. Il valore da utilizzare è l'indice generale senza tabacchi (codice COICOP 00ST) medio annuo per l'anno n come pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat.
+* N0 è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) relativo all'anno di presentazione dell'offerta. Il valore da utilizzare è l'indice generale senza tabacchi (codice COICOP 00ST) medio annuo relativo all'anno in cui è stata presentata l'offerta come pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat.
+* Gn è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) per il gas naturale nell'anno n. Il valore da utilizzare è l'indice gas naturale e gas di città (codice COICOP 04521) medio annuo per l'anno n come pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat.
+* G0 è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) per il gas naturale relativo all'anno di presentazione dell'offerta. Il valore da utilizzare è l'indice gas naturale e gas di città (codice COICOP 04521) medio annuo relativo al l'anno in cui è stata presentata l'offerta come pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat
+* En è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) per l'energia elettrica nell'anno n. Il valore da utilizzare è l'indice energia elettrica (codice COICOP 04510) medio annuo per l'anno n come pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat
+* E0 è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) per l'energia elettrica relativo all'anno di presentazione dell'offerta. Il valore da utilizzare è l'indice energia elettrica (codice COICOP 04510) medio annuo relativo all'anno in cui è stata presentata l'offerta come pubblicato sul sito Istat (dati.istat.it) o reso
+
+disponibile in altre pubblicazioni ufficiali Istat
+* An è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) per l'acqua nell'anno n. Il valore da utilizzare è l'indice fornitura acqua (codice COICOP 04410) medio annuo per l'anno n come pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat
+* A0 è l'indice nazionale dei prezzi al consumo per l'intera collettività (NIC) per l'acqua relativo all'anno di presentazione dell'offerta. Il valore da utilizzare è l'indice fornitura acqua (codice COICOP 04410) medio annuo relativo all'anno in cui è stata presentata l'offerta come pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat.
+
+Resta inteso che, qualora nel corso della durata del contratto di fornitura dovessero variare la tipologia, l'articolazione o la denominazione delle caratteristiche degli indici NIC a seguito di evoluzioni della normativa, anche internazionale, tali variazioni saranno, previa valutazione di Azienda Zero, tenute in conto nel calcolo dell'indice revisionale. Nel caso di variazioni della base di calcolo degli indici, si applicheranno i fattori di conversioni previsti da Istat.
+Per le attività di manutenzione straordinaria per i quali si utilizzerà l'elenco prezzi unitari di contratto costituito dalle voci contenute nei listini di base elencati nel Capitolato tecnico, i prezzi saranno quelli revisionati ai sensi dell'art. 26 del D.Lgs. n.50/2022 e s.m.i. per il singolo intervento manutentivo.
+I prezzi proposti in fase di progettazione non saranno in ogni caso revisionati oltre a quanto sopra stabilito.
+Nel caso di edifici e fabbricati o porzioni di essi in uso all'Azienda Sanitaria nei quali la fornitura dei combustibili e/o dell'energia elettrica e/o acqua è garantita da un soggetto terzo in base a contratti di locazione o simili, il prezzo dei servizi A, B, C e E sarà calcolato per una quota forfettaria a ristoro delle sole spese di manutenzione e di gestione; non si utilizzeranno quindi i coefficienti di revisione relativi alle componenti energetiche. Si dovrà cioè intendere Gn = 0, En = 0 e An = 0 e Sn = 1 per ogni valore di n. Ad esempio, per il servizio A1:
+PA1n = PA1 · (0,25 · Mn/M0 + 0,05 · Nn/N0)
+Analogamente nel caso in cui le Aziende Sanitarie abbiano in essere contratti di fornitura di energia con termine vincolato attivi alla data di inizio del Servizio, il prezzo dei servizi A, B, C e E sarà calcolato con la stessa modalità, fino al massimo di 1 anno dalla data di attivazione del Servizio.
+
+Articolo 20.6  Corrispettivo reale del servizio
+
+Articolo 20.6.1  Canone reale annuo
+Il canone annuo reale del servizio Ccsn per l'anno n sarà calcolato al termine di ogni anno di servizio moltiplicando le
+quantità degli elementi Qxn rilevate nell'anno n per i relativi prezzi unitari Pxn aggiornati secondo quanto stabilito all'Articolo
+20.5 e tenendo conto dell'andamento climatico reale per la quantificazione della quota del corrispettivo relativa ai servizi A (climatizzazione invernale in funzione dei gradi giorno reali) e B (climatizzazione estiva in funzione dei giorni di funzionamento).
+
+Ccsn = ? Qxn · Pxn
+= QA1n · PA1n · GGRn + QA2n · PA2n · GGRn + QB1n · PB1n · GFRn + QB2n · PB2n · GFRn
++ QC1n · PC1n + ... + QJ13n · PJ13n+ QL1n · PL1n + QL2n · PL2n
+
+dove:
+* GGRn è il numero di gradi giorno reali rilevati nel corso della stagione termica invernale nell'anno n e calcolato come somma delle sole differenze positive tra la temperatura media giornaliera esterna rilevata dai dati pubblicati da ARPAV e la temperatura ambiente convenzionale di 20°C:
+GGRn = ? (20 - Te)
+
+con la sommatoria estesa da 1 al numero di giorni di climatizzazione invernale reali nell'anno n. La durata convenzionale della stagione termica è quella indicata nel Capitolato tecnico. Per i dati di temperatura media giornaliera esterna si dovranno utilizzare quelli relativi alla stazione di rilevazione ARPAV geograficamente più prossima alla sede dell'Azienda Sanitaria considerata nel calcolo.
+* GFRn è il numero dei giorni di funzionamento reale nell'anno n degli impianti di climatizzazione estiva calcolato dalla data di accensione degli impianti e il loro spegnimento. Il numero convenzionale dei giorni di funzionamento della climatizzazione estiva è quello indicato nel Capitolato tecnico.
+Nel caso Aziende Sanitarie con sedi territoriali sparse per le quali si utilizzino dati di temperatura esterna rilevate da stazioni ARPAV diverse o per le quali ci sia una differenza tra i giorni di funzionamento degli impianti di climatizzazione estiva, i termini relativi ai servizi A1, A2, B1, B2 e C3 andranno calcolati distintamente per ogni sede.
+Le quantità Qx rimarranno fisse e invariabili per tutta la durata del contratto al netto delle variazioni intervenute in seguito all'attivazione di nuove aree o di nuovi fabbricati, di ampliamenti o dismissioni, di cambio di destinazione d'uso degli edifici o di parte di essi o in base alla diversa data di attivazione dei servizi. Al termine di ogni anno solare di servizio le quantità saranno aggiornate e verificate in contraddittorio per essere utilizzate nella rendicontazione.
+Qualora i consumi totali dell'acqua per unità di superficie nell'anno solare superino del 10% la media di quelli dei tre anni precedenti, all'Appaltatore potrà essere riconosciuto un importo aggiuntivo rispetto a quello del canone, purché dimostri che l'aumento dei consumi sia stato determinato da cause imputabili all'Azienda Sanitaria.
+In tal caso l'Azienda Sanitaria riconoscerà, a parità di superficie servita, per i consumi totali superiori alla soglia del 10%, riferiti alla totalità dei fabbricati serviti, un importo pari al costo unitario dell'acqua, desunto dalle fatture del fornitore, IVA esclusa, moltiplicato per il consumo idrico eccedente, indipendentemente dalle fasce e scaglioni di consumo.
+Nel caso in cui
+* ?H = Hn - H3 > 10% H3
+l'importo riconosciuto sarà quindi determinato con la relazione:
+IHn= PHn · (?H - 10% H3) · QD1
+dove:
+* ?H = Hn - H3
+* IHn è l'importo riconosciuto per l'anno n
+* PHn è il prezzo medio annuo desunto dalle fatture del fornitore terzo al netto dell'IVA nell'anno n
+* Hn è il consumo totale acqua per metro quadrato di superficie servita in m3/m2 nell'anno n
+* H3 è la media del consumo di acqua per metro quadro negli anni n-1, n-2 e n-3, cioè: H3 = (Hn-1 + Hn-2 + Hn-3) / 3
+* QD1 è la superficie servita dagli impianti idrico-sanitari e di trattamento dell'acqua come definita nell'Articolo 20.2
+Nel caso in cui l'Azienda Sanitaria introduca elementi tecnologici non previsti nella presente Convenzione che comportino un aumento dei consumi totali di energia elettrica per unità di superficie nell'anno solare superiore del 10% della media dei consumi per unità di superficie dei tre anni precedenti, all'Appaltatore potrà essere riconosciuto un importo aggiuntivo rispetto a quello del canone.
+Nel calcolo dovrà comunque essere esclusa la variazione degli elementi Qxn che sarà considerata in sede di calcolo del corrispettivo reale annuo. Non si considererà inoltre l'introduzione di apparecchiature di climatizzazione che migliorino il rendimento energetico globale e il caso in cui superfici raffrescate saranno trasformate in superfici condizionate.
+In tal caso l'Azienda Sanitaria potrà riconoscere, a parità di superficie, per i consumi riferiti alla totalità dei fabbricati serviti, superiori alla soglia del 10%, un importo pari al prezzo unitario dell'energia elettrica, moltiplicato per il consumo elettrico eccedente, indipendentemente dalle fasce di consumo. Il prezzo unitario dell'energia elettrica di riferimento sarà il prezzo medio annuo desunto dalle fatture del fornitore terzo al netto dell'IVA.
+Nel caso in cui
+* ?? = ?n - ?3 > 10% ?3
+
+l'importo riconosciuto sarà quindi determinato con la relazione: I?n= P?n · (?? - 10% ?3) · (QE1 + QE2)
+dove:
+* I?n è importo riconosciuto per l'anno n
+* ?? = ?n - ?3
+* P?n è il prezzo medio annuo desunto dalle fatture del fornitore terzo al netto dell'IVA nell'anno n
+* ?n è il consumo totale di energia elettrica per metro quadrato nell'anno n in kWh/m2
+* ?3 è la media del consumo di energia elettrica negli anni n-1, n-2 e n-3 in kWh/m2, cioè:
+?3 = (?n-1 + ?n-2 + ?n-3) / 3
+* QE1 è la superficie servita dall'impianto elettrico nelle strutture ad alta intensità di cura come definita nell'Articolo 20.2
+* QE2 è la superficie servita dall'impianto elettrico nelle strutture a media e bassa intensità di cura come definita nell'Articolo 20.2
+
+Articolo 20.6.2	Corrispettivo reale annuo
+Il corrispettivo reale annuo per l'anno n sarà così ottenuto:
+
+
+Cran = Ccsn + kmsn · Cms + IHn + I?n dove kmsn = 0 ÷ 1
+Il valore Cms rimarrà invariato in ogni anno di servizio essendo stato stabilito all'inizio del servizio.
+Rimane inteso che, come specificato nell'Articolo 20.4.2, la quota Cms è da intendersi "a consumo" e sarà corrisposta in base alla quota relativa kmsn degli interventi di manutenzione straordinaria effettivamente eseguiti e contabilizzati nell'anno n.
+
+Articolo 20.7	Rendicontazione
+La rendicontazione di tutte le prestazioni dei servizi, stabilite dalla Convenzione e attivate dall'Azienda Sanitaria nei modi
+previsti dall'Articolo 8.5, avrà una periodicità trimestrale secondo il seguente schema:
+* 1° trimestre: dal 1 gennaio di ogni anno fino alla fine della stagione termica invernale come definita dal Capitolato tecnico (e in ogni caso alla data di ultimo spegnimento degli impianti di climatizzazione invernale);
+* 2° trimestre: dalla fine della stagione termica invernale al 31 luglio di ogni anno;
+* 3° trimestre: dal 1 agosto di ogni anno alla data di inizio della stagione termica invernale successiva;
+* 4° trimestre: dalla data di inizio della stagione termica invernale come definita dal Capitolato tecnico (e in ogni caso dalla data di prima accensione degli impianti di climatizzazione invernale) fino al 31 dicembre di ogni anno.
+Nel caso in cui l'erogazione dei servizi inizi in date intermedie, il primo periodo di rendicontazione sarà prolungato fino al termine del trimestre intero successivo.
+L'Appaltatore dovrà produrre al termine di ogni periodo un documento di contabilità dettagliato con i parametri necessari che concorrono, secondo quanto descritto all'Articolo 20.6, alla determinazione dell'importo del periodo considerato con puntuale riferimento all'Ordinativo di Fornitura e agli eventuali Atti Aggiuntivi. Gli elementi e il calcolo del corrispettivo reale per ogni periodo di riferimento dovrà essere reso disponibile e consultabile nel dettaglio sul sistema informativo.
+
+Il rendiconto trimestrale deve essere presentato entro i primi 15 (quindici) giorni dopo il termine di ogni periodo di riferimento.
+Il canone di ogni periodo di riferimento sarà calcolato come frazione del canone annuo convenzionale del servizio Ccs
+secondo le seguenti indicazioni:
+* nel canone del 4° trimestre si utilizzeranno i gradi giorno convenzionali GGc, mentre nel 1° trimestre dell'anno
+successivo si precederà al conguaglio utilizzando i gradi giorno reali GGRn rilevati come stabilito nell'Articolo 20.6;
+* nel canone del 2° trimestre si utilizzeranno i giorni di funzionamento convenzionali GFc, mentre nel 3° trimestre si precederà al conguaglio calcolando i giorni di funzionamento reali GFRn rilevati come stabilito nell'Articolo 20.6
+* la rendicontazione del 2°e del 3° trimestre non dovrà contenere i termini relativi ai servizi A1 e A2 della climatizzazione invernale in quanto già ricompresi nella rendicontazione dei trimestri invernali 4° e 1°;
+* la rendicontazione del 4°e del 1° trimestre non dovrà contenere i termini relativi ai servizi B1 e B2 della climatizzazione estiva in quanto già ricompresi nella rendicontazione dei trimestri estivi 2° e 3;
+* la rendicontazione del 1° trimestre dell'anno n dovrà contenere il conguaglio relativo all'anno precedente n-1 in base ai coefficienti di revisione Kxn-1 pubblicati da Azienda Zero calcolabili una volta disponibili gli indicatori descritti nell'Articolo 20.5.
+Ogni rendicontazione dovrà contenere la quota del termine kmsn · Cms per la quota riferita al trimestre di riferimento.
+Nelle rendicontazioni si utilizzeranno i prezzi Pxn riferiti all'anno solare n di riferimento e le quanità Qxn saranno quelle di riferimento per ogni anno solare secondo le modalità di revisione stabilite.
+Il rendiconto del 4° trimestre dovrà così portare al completamento del corrispettivo reale annuo Cran tenendo conto delle eventuali penali irrogate
+L'Azienda Sanitaria, entro 20 (venti) giorni dalla presentazione, può approvare il rendiconto in tutto o in parte. In caso di approvazione parziale, dovuta a giustificati motivi sollevati dall'Amministrazione, la stessa può richiedere all'Appaltatore eventuali integrazioni o rettifiche. Al termine delle verifiche in contraddittorio, l'Azienda Sanitaria e l'Appaltatore sottoscriveranno il rendiconto e l'Azienda Sanitaria autorizzerà la fatturazione che sarà liquidata dopo le verifiche previste.
+L'Azienda Sanitaria ha facoltà di richiedere all'Appaltatore rendicontazioni e fatture separate relative all'erogazione di un qualunque servizio anche in riferimento ai singoli edifici, al fine di beneficiare di particolari agevolazioni fiscali previste dalla normativa vigente.
+
+Articolo 21  Fatturazione e pagamenti
+Il pagamento del corrispettivo sarà disposto da parte di ogni singola Azienda Sanitaria destinataria del servizio.
+Ai fini del pagamento del corrispettivo l'Appaltatore dovrà presentare regolare fattura ai sensi della normativa vigente.
+Il pagamento delle fatture sarà effettuato purché le prestazioni siano stati regolarmente eseguite, secondo quanto previsto dal Capitolato Tecnico, dall'offerta tecnica e dal presente Schema di Convenzione, nei termini di legge, dalla data di ricevimento della fattura, con le modalità che saranno indicate dalle Aziende Sanitarie.
+I corrispettivi contrattuali sono stati determinati a proprio rischio dal Fornitore in base ai propri calcoli, alle proprie indagini, alle proprie stime, e sono, pertanto, fissi ed invariabili indipendentemente da qualsiasi imprevisto o eventualità, facendosi carico il Fornitore medesimo di ogni relativo rischio e/o alea.
+Il Fornitore non potrà vantare diritto ad altri compensi, ovvero ad adeguamenti, revisioni o aumenti dei corrispettivi come sopra indicati, ad eccezione di quanto previsto dal precedente art. 20.5 della presente Convenzione, ad oggetto "Revisione periodica dei prezzi".
+Ciascuna fattura dovrà contenere il riferimento al contratto cui si riferisce e al Codice Identificativo Gara (CIG) "derivato"
+rispetto a quello della Convenzione o il Codice Unico di Progetto (CUP) ove obbligatorio.
+Nel caso in cui l'aggiudicatario sia un RTI, ferma restando l'obbligatorietà del pagamento da effettuarsi esclusivamente in favore della società mandataria del raggruppamento, gli obblighi di cui sopra dovranno essere tutti puntualmente assolti sia nelle fatture emesse dalla mandataria, sia dalle mandanti, nello specifico caso di esercizio della facoltà di ricorrere alla fatturazione "pro quota".
+
+I pagamenti saranno effettuati sul conto corrente intestato all'Appaltatore di cui quest'ultimo dovrà fornire il codice IBAN in sede di stipula del Contratto. Il Contratto dovrà prevedere una clausola secondo cui l'Appaltatore si impegna a che il predetto conto operi nel rispetto della Legge 13 agosto 2010 n. 136 e ss.mm.ii..
+Sempre in sede di stipula del Contratto l'Appaltatore è tenuto a comunicare le generalità e il codice fiscale del/i delegato/i ad operare sul/i predetto/i conto/i alle Aziende Sanitarie.
+L'Appaltatore comunicherà tempestivamente e comunque entro e non oltre 7 giorni dalla/e variazione/i qualsivoglia variazione intervenuta in ordine ai dati relativi agli estremi identificativi del/i conto/i corrente/i dedicato/i nonché le generalità (nome e cognome) e il codice fiscale delle persone delegate ad operare su detto/i conto/i.
+I pagamenti per le forniture saranno effettuati nei termini di legge dalla data di ricevimento della fattura.
+Scaduti i termini di pagamento senza che sia stato emesso il mandato, al creditore possono essere corrisposti, a fronte di specifica richiesta, gli interessi moratori nei termini disposti per legge salvo diverso accordo tra le parti.
+Qualora si verificassero contestazioni i termini di pagamento rimarranno sospesi e riprenderanno a decorrere con la definizione della pendenza.
+L'Azienda Sanitaria, a garanzia della puntuale osservanza delle clausole contrattuali, può sospendere, ferma restando l'applicazione delle eventuali penalità, i pagamenti all'Appaltatore cui siano state contestate inadempimenti nell'esecuzione della fornitura, fino a che non si sia posto in regola con gli obblighi contrattuali (art. 1460 codice civile).
+Resta tuttavia espressamente inteso che in nessun caso, ivi compreso il caso di ritardi di pagamento dei corrispettivi
+dovuti, l'Appaltatore potrà sospendere il servizio e, comunque, le attività previste nel Contratto.
+È ammessa la cessione dei crediti maturati dall'Appaltatore nei confronti della singola Azienda Sanitaria a seguito della regolare e corretta esecuzione delle prestazioni oggetto del Contratto, nel rispetto dell'art. 120, comma 12, del D.Lgs n. 36/2023. In ogni caso, è fatta salva ed impregiudicata la possibilità per l'Azienda Sanitaria di opporre al cessionario tutte le medesime eccezioni opponibili all'Appaltatore cedente, ivi inclusa, a titolo esemplificativo e non esaustivo, l'eventuale compensazione dei crediti derivanti dall'applicazione delle penali con quanto dovuto all'Appaltatore stesso. Le cessioni dei crediti devono essere stipulate mediante atto pubblico o scrittura privata autenticata e devono essere notificate alla Azienda Sanitaria contraente. Si applicano le disposizioni di cui alla Legge n. 52/1991. Resta fermo quanto previsto in tema di tracciabilità dei flussi finanziari di cui al successivo Art. 32 del presente Schema di Convenzione.
+
+Articolo 22  Cessione della Convenzione, degli Ordinativi di Fornitura e subappalto
+È vietata la cessione della convezione e dei singoli ordinativi di fornitura, a pena di nullità, fatto salvo quanto previsto dall'art. 119, comma 1, del D.Lgs n. 36/2023.
+Il subappalto è tuttavia ammesso solo nei limiti e con le modalità previste dal succitato art. 119 del D.Lgs n. 36/2023.
+Il subappalto non comporta alcuna modificazione agli obblighi e agli oneri dell'aggiudicatario che rimane unico e solo responsabile nei confronti delle Aziende Sanitarie. La ditta concorrente dovrà specificare in sede di offerta la parte del servizio che intende eventualmente subappaltare. L'appaltatore deve depositare il contratto di subappalto almeno venti giorni prima dell'inizio dell'esecuzione delle attività subappaltate.
+L'Azienda Sanitaria non corrisponderà direttamente ai subappaltatori l'importo della fornitura dagli stessi eseguita. Con il deposito del contratto di subappalto, l'appaltatore deve trasmettere la documentazione attestante il possesso, da parte del subappaltatore, dei requisiti previsti dalla vigente normativa e dall'Avviso di gara (iscrizione nel Registro delle Imprese con dicitura antimafia, certificato o dichiarazione sostitutiva e in generale assenza in capo al subappaltatore dei motivi di esclusione di cui all'art. 94 e ss. del D.Lgs n. 36/2023).
+È fatto divieto all'appaltatore di subappaltare in tutto o in parte i servizi senza il preventivo consenso scritto di ciascuna Azienda Sanitaria, pena l'immediata risoluzione del contratto con l'incameramento della cauzione definitiva, fatto salvo il riconoscimento di ogni conseguente maggior danno.
+I pagamenti relativi ai servizi prestati dal subappaltatore verranno effettuati dall'aggiudicatario, il quale è obbligato a trasmettere, entro venti giorni dalla data di ciascun pagamento effettuato, copia delle fatture quietanzate con l'indicazione delle ritenute a garanzie effettuate. Sono fatti salvi i casi in cui il subappaltatore sia una microimpresa o piccolo impresa o in cui si verifichi l'inadempimento da parte dell'appaltatore e quindi sia la stazione appaltante a corrispondere direttamente al subappaltatore.
+
+L'Appaltatore è solidalmente responsabile con il subappaltatore degli adempimenti, da parte di quest'ultimo, relativamente agli obblighi di sicurezza previsti dalla normativa vigente.
+
+Articolo 23  Variazioni soggettive
+Nel caso il Fornitore dovesse, durante la fornitura, subire variazioni societarie, cessioni o accorpamenti, dovrà darne tempestiva comunicazione alle Aziende Sanitarie ed in tal caso si applicherà la disciplina del D.Lgs n. 36/2023.
+In caso di violazione del disposto di cui al comma precedente le Aziende Sanitarie potranno risolvere di diritto il contratto (art. 1456 Codice Civile) e di incamerare il deposito cauzionale definitivo, fatto salvo il diritto di agire per il risarcimento di ogni conseguente danno subito.
+
+Articolo 24  Inadempimenti e penalità
+In caso di inadempimenti rispetto agli obblighi contrattualmente assunti, si procederà all'applicazione delle penali indicate nei paragrafi successivi, fatto salvo in ogni caso il risarcimento del maggior danno e le diverse ipotesi di risoluzione contrattuale per inadempimento.
+La Centrale di Committenza (Azienda Zero) applicherà le penali di cui all'art. 24.1.12, "Disservizio A".
+Le singole Aziende Sanitarie applicheranno tutte le altre penali dall'art. 24.1.1 all'art. 24.1.11, nonché la penale di cui all'art. 24.1.12, "Disservizio B".
+L'applicazione delle penali avverrà di norma a seguito di controlli svolti ai sensi delle disposizioni contenute nei precedenti articoli nonché di verifiche puntuali o a campione delle prestazioni eseguite dall'Appaltatore.
+Gli eventuali inadempimenti contrattuali che daranno luogo all'applicazione delle penali stabilite dal presente documento, saranno contestate all'Appaltatore tramite PEC.
+L'Appaltatore potrà comunicare, in ogni caso, tramite PEC le proprie deduzioni supportate da una chiara ed esauriente documentazione, nel temine massimo di 10 (dieci) giorni solari e continuativi dalla ricezione della contestazione stessa.
+Qualora le predette deduzioni non pervengano nel termine indicato, ovvero, pur essendo pervenute tempestivamente, non siano idonee, a giudizio insindacabile dell'Azienda Sanitaria interessata al servizio, a giustificare l'inadempienza, saranno applicate all'Appaltatore le penali a decorrere dall'inizio dell'inadempimento.
+L'Appaltatore dovrà procedere al pagamento delle penali entro 60 gg. dalla comunicazione, trascorsi i quali, l'incameramento di quanto dovuto a titolo di penale avverrà, in via prioritaria sulla prima fattura in scadenza e, se non sufficiente, mediante ritenzione sulle somme spettanti all'Appaltatore - in esecuzione del rapporto intrattenuto con l'Azienda o a qualsiasi altro titolo dovute - e/o sulla cauzione. Nel caso di incameramento totale o parziale della cauzione, l'Appaltatore dovrà provvedere alla ricostituzione della stessa nel suo originario ammontare.
+La richiesta e/o pagamento delle penali di cui al presente articolo, non esonera il l'Appaltatore dall'adempimento dell'obbligazione per la quale si è reso inadempiente e che ha fatto sorgere l'obbligo del pagamento della penale medesima.
+Qualora l'importo complessivo delle penali inflitte all'Impresa raggiunga la somma complessiva pari al 10% del corrispettivo globale del contratto, l'Azienda sanitaria destinataria delle prestazioni ha facoltà, in qualunque tempo, di risolvere di diritto il contratto, oltre il risarcimento di tutti i danni.
+L'Appaltatore prende atto che l'applicazione delle penali previste dal presente capitolato non preclude il diritto dell'Azienda destinataria delle prestazioni a richiedere il risarcimento degli eventuali maggior danni.
+L'Appaltatore è tenuto a fornire, tramite il proprio sistema informativo, uno strumento informatico certificato per la comunicazione da parte dell'Azienda Sanitaria delle contestazioni, per il calcolo in automatico delle penali sulla base delle formule di calcolo in seguito indicate, per la trasmissione delle controdeduzioni da parte dell'Appaltatore e per l'applicazione delle penali da parte dell'Azienda. Il sistema dovrà inoltre calcolare automaticamente i crediti spettanti all'Azienda in sede di fatturazione e integrarsi con il sistema contabile della commessa.
+In caso di mancato rispetto dei termini indicati per l'avvio del servizio nel Capitolato tecnico, per cause imputabili
+all'Appaltatore, comporterà l'automatica applicazione di penali previste, per ogni giorno di ritardo, dall'articolo successivo,
+
+salvo naturalmente il diritto delle Aziende Sanitarie di richiedere anche il rimborso degli eventuali maggiori danni subiti in
+conseguenza dell'inadempimento.
+
+Articolo 24.1	Ammontare delle penali
+Le penali sono stabilite in quota parte del canone per ogni servizio x facendo riferimento alle quantità Qxnj relative al
+fabbricato j (o parte di esso) per come risulta dall'aggiornamento del Preventivo per l'anno n di servizio:
+Le penali sono stabilite per ogni giorno di disservizio o di inadempimento in:
+Txj = px· Qxnj · Pxn giornaliero · ggdisservizio
+
+dove:
+* px è la quota di detrazione giornaliera stabilità per la penale per il servizio x;
+* Qxnj è la quantità degli elementi Qxn rilevate nell'anno n per il fabbricato j o per una porzione di esso interessato dal disservizio o dall'inadempienza
+* Pxn giornaliero è il prezzo unitario del servizio x nell'anno di servizio n, con n > 1, diviso per 365:
+* Pxn giornaliero = Pxn / 365
+* ggdisservizio è il valore arrotondato per eccesso all'intero superiore dei giorni di disservizio o di inadempienza
+Il valore minimo della penale per ogni singolo disservizio è comunque stabilito in 150,00€ anche qualora, dal calcolo sopra
+descritto, risulti un valore Txj < 150.
+
+Articolo 24.1.1	Interruzione del servizio
+Per ogni interruzione del servizio, ovunque verificatasi ed anche parziale, conseguente a mancato o intempestivo intervento da parte dell'Appaltatore, oppure a mancata o intempestiva segnalazione di eventuali inconvenienti o anomalie, le penali si applicheranno a partire dall'ora successiva all'inizio del disservizio.
+Qualora il disservizio dovesse riguardare le aree dell'urgenza (pronto soccorso, radiologia, rianimazione, cardiologia, sale
+operatorie, laboratorio analisi, ecc.) le penali sotto indicate saranno moltiplicate per 5.
+Nel caso si verificasse un disservizio generalizzato per più di un reparto, con compromissione dell'attività sanitaria e la necessità da parte della direzione sanitaria dell'approntamento di misure di emergenza, le penali sotto indicate saranno moltiplicate per 20.
+
+
+Disservizio
+Penale giornaliera[€/gg]
+Riscaldamento invernale
+QA1nj · PA1n giornaliero
+Condizionamento invernale
+QA2nj · PA2n giornaliero
+Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+QB1nj · PB1n giornaliero
+Condizionamento estivo con impianti di ricambio dell'aria
+QB2nj · PB2n giornaliero
+Impianto di acqua calda sanitaria e da altre utenze termiche
+QC1nj · PC1n giornaliero
+Impianti idrico-sanitari e di trattamento dell'acqua e impianti di
+trattamento e smaltimento reflui e reti fognarie
+QD1nj · PD1n giornaliero
+Impianti di smaltimento delle acque meteoriche
+QD2nj · PD2n giornaliero
+Impianto elettrico nelle strutture ad alta intensità di cura
+5 · QE1nj · PE1n giornaliero
+Impianto elettrico nelle strutture a media e bassa intensità di cura
+3 · QE2nj · PE2n giornaliero
+Impianti di illuminazione esterna
+3 · QE3nj · PE3n giornaliero
+
+Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+3 · QE4nj · PE4n giornaliero
+Apparecchiature diagnostiche e per terapia fisse
+3 · QE5nj · PE5n giornaliero
+Impianti speciali di sicurezza e di comunicazione
+3 · QF1nj · PF1n giornaliero
+Impianti televisivi a circuito chiuso
+Q F2nj · PF2n giornaliero
+Impianti e sistemi di protezione antincendio
+5 · QG1nj · PG1n giornaliero
+Impianti di spegnimento automatico
+5 · QG2nj · PG2n giornaliero
+Impianti elevatori (fino a 5 fermate)
+5 · QH1nj · PH1n giornaliero
+Impianti elevatori (oltre 5 fermate)
+5 · QH2nj · PH2n giornaliero
+Servoscala e montascale
+5 · QH3nj · PH3n giornaliero
+Scale mobili e marciapiedi mobili
+3 · QH4nj · PH4n giornaliero
+Porte automatiche, sbarre e cancelli automatizzati
+QJ1nj · PJ1n giornaliero
+Sistemi di prevenzione della legionellosi
+5 · QJ2nj · PJ2n giornaliero
+Numero di utenza idriche protette da filtri per la prevenzione della legionellosi
+QJ3nj · PJ3n giornaliero
+Impianti di irrigazione
+QJ4nj · PJ4n giornaliero
+Pozzi di prelievo acqua di falda
+QJ5nj · PJ5n giornaliero
+Elisuperfici
+5 · QJ6nj · PJ6n giornaliero
+Impianti SOV (Sorveglianza Ostacoli al Volo)
+QJ7nj · PJ7n giornaliero
+Vasche terapeutiche
+5 · QJ8nj · PJ8n giornaliero
+Frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere
+QJ9nj · PJ9n giornaliero
+Cappe chimiche, biologiche e a flusso laminare
+QJ10nj · PJ10n giornaliero
+Impianti di posta pneumatica
+5 · QJ11nj · PJ11n giornaliero
+Lavapadelle
+QJ12nj · PJ12n giornaliero
+Elettrodomestici vari
+QJ13nj · PJ13n giornaliero
+
+
+Articolo 24.1.2	Mancato rispetto degli orari e dei periodi di funzionamento
+Nel caso di mancato rispetto degli orari o del periodo di funzionamento stabiliti per la climatizzazione invernale o estiva si applicheranno le penali relative ai servizi connessi per ogni accertamento.
+
+
+Disservizio
+Penale giornaliera[€/gg]
+Riscaldamento invernale
+QA1nj · PA1n giornaliero
+Condizionamento invernale
+QA2nj · PA2n giornaliero
+Condizionamento estivo senza presenza di impianti di ricambio dell'aria
+QB1nj · PB1n giornaliero
+Condizionamento estivo con impianti di ricambio dell'aria
+QB2nj · PB2n giornaliero
+
+Articolo 24.1.3  Mancato intervento per richieste di intervento urgenti e in emergenza
+Per il mancato intervento da parte dell'Appaltatore per richieste di intervento in emergenza o urgenti in orario notturno o in periodo festivo, dovuto alla mancata reperibilità della Squadra di emergenza tecnica e antincendio o degli incaricati di presidio incaricati dall'Appaltatore si applicheranno le seguenti penali.
+
+
+Disservizio
+Penale [€]
+Per ogni accertato ritardo nella tempistica d'intervento per "interventi in emergenza", così come definiti dal Capitolato tecnico al par. 5.10.1:
+
+* per ogni 15 minuti consecutivi di mancato intervento (oltre il limite riportato al par. 5.10.1 del Capitolato tecnico)
+10 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+* per ogni ora consecutiva di mancato "ripristino del funzionamento" degli impianti a valle di una richiesta d'intervento di emergenza (accertata la possibilità di eseguire lo stesso ripristino nel limite di tempo indicato al par. 5.10.1 del Capitolato tecnico)
+2 · Qxnj · Pxn giornaliero per ogni servizio x interessato
+Per ogni accertato ritardo nella tempistica d'intervento per "interventi urgenti", così come definiti dal Capitolato tecnico al par. 5.10.2:
+
+* per ogni ogni 30 minuti consecutivi di mancato intervento (oltre il limite al par. 5.10.2 del Capitolato tecnico)
+4 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+* per ogni ora consecutiva di mancato "ripristino del funzionamento" degli impianti a valle di una richiesta d'intervento di emergenza (accertata la possibilità di eseguire lo stesso ripristino nel limite di tempo indicato al par. 5.10.2 del Capitolato tecnico)
+2 · Qxnj · Pxn giornaliero per ogni servizio x interessato
+Per ogni accertato ritardo nella tempistica d'intervento per "interventi ordinari", così come definiti dal Capitolato tecnico al par. 5.10.3:
+
+* per ogni ora consecutiva di mancato intervento (oltre il limite riportato al par. 5.10.3 del Capitolato tecnico)
+2 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+* per ogni 12 ore consecutive di mancato "ripristino del funzionamento" degli impianti a valle di una richiesta d'intervento ordinario (accertata la possibilità di eseguire lo stesso ripristino nel limite di tempo indicato al par. 5.10.3 del Capitolato tecnico)
+Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+Per ogni accertato ritardo nella tempistica d'intervento per "interventi programmabili", così come definiti dal Capitolato tecnico al par. 5.10.4:
+
+* per ogni giorno consecutivo di mancato intervento (oltre il limite riportato al par. 5.10.4 del Capitolato tecnico)
+0,7 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+Per ogni mancato intervento dell'Appaltatore a richieste di intervento in
+reperibilità o in sede di presidio
+2· Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+
+
+Articolo 24.1.4	Mancato mantenimento dei parametri contrattuali
+Per il mancato rispetto dei parametri contrattuali e al raggiungimento dei parametri prestazionali relativi al comfort per i servizi energetici si applicheranno le seguenti penali applicati al canone dei servizi per ogni accertamento. Il valore sarà
+
+moltiplicato per i giorni di disservizio ggdisservizio secondo le modalità descritte in precedenza nel caso esso si protragga nel tempo.
+
+
+Disservizio
+Penale giornaliera[€/gg]
+Per i servizi di riscaldamento, condizionamento, raffrescamento, in caso di mancato mantenimento della temperatura o della umidità relativa, riscontrate dall'Azienda Sanitaria in almeno il 10% dei locali di una zona servita da una singola sezione di impianto per l'edificio specifico compreso nell'appalto
+2 · QA1nj · PA1n giornaliero
+Per il mancato mantenimento del rendimento di combustione.
+Come previsto dall'art. 34, comma 5 della legge 10/91 il Terzo Responsabile è soggetto sanzionabile se, nel corso di una verifica dell'ente locale prevista all'art. 31 comma 3 della stessa legge, non mantiene il rendimento di combustione entro i limiti previsti dalla normativa vigente e non effettua la manutenzione ordinaria e straordinaria secondo le prescrizioni della vigente normativa UNI e CEI.
+QA1nj · PA1n giornaliero + QA2nj · PA2n giornaliero
+Per il mancato mantenimento della temperatura dell'acqua calda sanitaria, in almeno il 10% dei locali di una zona servita da una singola sezione di rete acqua calda sanitaria per l'edificio specifico compreso nell'appalto
+2 · QC1nj · PC1n giornaliero
+Per il mancato mantenimento dei parametri progettuali di temperatura e/o pressione ad una singola utenza per il fluido vapore per l'edificio specifico compreso nell'appalto
+2 · QC1nj · PC1n giornaliero
+Per il mancato mantenimento dei parametri progettuali relativi ai livelli di illuminamento da prevedersi negli ambienti sanitari (così come definiti all'articolo dedicato del Capitolato tecnico) riscontrate dall'Azienda Sanitaria in almeno il 10% dei locali di una zona servita da una singola sezione di impianto per l'edificio specifico
+2 · QE1nj · PE1n giornaliero
+2 · QE2nj · PE2n giornaliero
+2 · QE3nj · PE3n giornaliero (nel caso di aree esterne)
+Per il mancato mantenimento dei parametri contrattuali relativi agli altri servizi
+Qxnj · Pxn giornaliero
+
+La verifica della temperatura, dell'umidità relativa, del volume di ricambio aria e del funzionamento dei dispositivi terminali si svolgerà in contraddittorio dopo la prima segnalazione fermo restando che, in caso di disaccordo, il valore di riferimento sarà quello valutato dall'incaricato dell'Azienda Sanitaria. Se l'edificio è servito da sistema di telegestione e telecontrollo, la verifica può essere effettuata direttamente dalle registrazioni.
+Nel caso in cui l'Appaltatore non metta tempestivamente a disposizione i propri incaricati per eseguire i rilievi di temperatura in contraddittorio, saranno ritenute probanti e valide le grandezze rilevate dagli incaricati dell'Azienda Sanitaria.
+
+Articolo 24.1.5  Tenuta dei libretti di impianto e dei registri di manutenzione
+Per la mancata o incompleta registrazione per come previsto nel Registro di manutenzione, nel libretto di impianto, nel "libretto di centrale", nei registri e nei libretti di esercizio e manutenzione delle singole apparecchiature per come previsto nel Piano di Manutenzione si applicheranno le seguenti penali.
+
+
+Disservizio
+Penale [€]
+Per ogni mancata registrazione nel limite massimo di 3 omissioni per mese
+Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+
+Per ogni mancata registrazione qualora si superino le 3 omissioni per mese
+10 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+
+
+Articolo 24.1.6  Verifiche e controlli
+Per la mancata effettuazione dei controlli e delle misure indicate dal libretto di impianto, dal "libretto di centrale", dai protocolli di esercizio e manutenzione, dai manuali di uso e manutenzione delle singole apparecchiature, dai registri antincendio, ecc. secondo il Piano di Manutenzione e secondo gli obblighi legislativi e normativi, si applicheranno le seguenti penali.
+
+
+Disservizio
+Penale giornaliera [€/gg]
+Per ogni accertato mancato controllo, nel limite massimo di 3 omissioni per mese
+Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+Per ogni accertato mancato controllo, qualora si superino le 3 omissioni per mese
+10 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+Per ogni intervento di manutenzione programmato non effettuato con la cadenza prevista, nel limite massimo di 3 omissioni al mese
+Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+Per ogni intervento di manutenzione programmato non effettuato con la cadenza prevista, qualora si superino le 3 omissioni al mese
+10 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+Per ritardo nella presentazione della documentazione necessaria alla richiesta del rinnovo CPI, alla richiesta delle visite ARPAV, nella esecuzione delle verifiche richieste dal DPR 462/01 e di ogni pratica autorizzativa e di esercizio richiesta per legge
+500,00 €
+per ogni giorno di ritardo rispetto alla data di scadenza o di obbligo di presentazione
+
+
+Articolo 24.1.7  Registrazione informatica di eventi - richieste di intervento
+Per la mancata registrazione informatica e nel Registro di manutenzione di eventi e richieste di intervento e dei conseguenti interventi effettuati nelle modalità stabilite dal Capitolato tecnico e dal Piano di Manutenzione si applicheranno le seguenti penali.
+
+Disservizio
+Penale giornaliera [€/gg]
+Per ogni omissione
+0,1 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+Per mendace iscrizione di intervento effettuato
+10 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+
+Articolo 24.1.8  Opere contrattuali e interventi di manutenzione straordinaria
+In caso di ritardo non giustificato nella consegna dei lavori relativi a interventi di manutenzione straordinaria programmati, rispetto il termine previsti, per ogni giorno di ritardo verrà applicata una penale pari ad 1/1000 dell'importo complessivo a corpo dell'intervento cosi come desunto dai preventivi presentati e approvati. Inoltre l'Azienda Sanitaria imputerà all'Appaltatore tutti i maggiori costi che dovessero derivarle per la mancata consegna del lavoro in tempi utili (per mancata erogazione del servizio, per necessità di servizio sostitutivo, per minore efficienza energetica e/o mancato risparmio, per eventuali sanzioni per mancato adeguamento normativo, etc.).
+
+Articolo 24.1.9	(non previsto)
+
+Articolo 24.1.10 Servizi di governo e personale
+
+
+Disservizio
+Penale giornaliera [€/gg]
+Per il mancato aggiornamento del Piano di Manutenzione e la conseguente registrazione informatica delle modifiche
+150,00 €
+Per il mancato rispetto dei tempi di approntamento del sistema informativo e del call center
+250,00 €
+Per ogni giorno di mancato funzionamento del sistema informativo o di parte di esso e/o del call center per come previsto nel Progetto del Servizio
+50,00 €
+Per il mancato rispetto dei tempi previsti per la consegna del rilievo della consistenza impiantistica e del sistema di gestione documentale
+150,00 €
+Per il mancato rispetto dei tempi previsti per la messa a disposizione delle licenze software e dell'accesso alla piattaforma utilizzata per l'utilizzo di metodi e strumenti elettronici specifici di modellazione per l'edilizia e le infrastrutture (BIM) e per la fornitura del data base documentale relativo
+100,00 €
+Per il mancato approntamento della attività di formazione specifica in continuo del personale dell'Azienda Sanitaria abilitato all'utilizzo del sistema informativo e del sistema di modellazione BIM entro 6 mesi dalla data di mesa in funzione dei sistemi stessi
+100,00 €
+Per il mancato rispetto dei tempi previsti per la consegna della Relazione energetica
+150,00 €
+Per il mancato rispetto dei tempi previsti per la consegna della relazione del Responsabile per la conservazione e uso razionale dell'energia
+150,00 €
+Per il mancato rispetto dei tempi previsti per la comunicazione della nomina del Responsabile per la conservazione e l'uso razionale dell'energia
+100,00 €
+Per mancata nomina o assenza del Responsabile di struttura oltre il 5%
+del tempo previsto dal Capitolato tecnico nell'arco di un anno
+100,00 €
+Per mancata nomina del Terzo Responsabile
+100,00 €
+Per l'accertamento dell'assenza in situ del personale aggiuntivo, del personale della Squadra di pronto intervento antincendio, del caldaista negli orari stabiliti e nel numero previsto
+150,00 €
+Per l'impossibilità di riconoscimento di un addetto dell'Appaltatore per la mancata esibizione della targhetta di riconoscimento personale; per l'accertamento della presenza in situ di stagisti non autorizzati o apprendisti
+50,00 €
+Per l'accertamento della presenza in situ di personale non in possesso dei requisiti professionali necessari all'attività svolta ove previsto dal Capitolato tecnico (ascensoristi, frigoristi, personale elettrico, ecc.)
+100,00 €
+Per la mancata presentazione della rendicontazione periodica annuale entro i tempi stabiliti
+100,00 €
+
+Articolo 24.1.11 Riconsegna degli impianti e delle strutture
+Nel caso in cui, alla fine del rapporto contrattuale, l'Appaltatore riconsegni all'Azienda Sanitaria gli impianti e tutti i componenti, nonché i locali interessati, in modo difforme da quanto previsto all'Articolo 8.8, si applicheranno le seguenti penali.
+
+
+Disservizio
+Penale giornaliera [€/gg]
+Per la mancata consegna della documentazione di esercizio (libretti d'impianto aggiornati, as-built, dichiarazioni di conformità, ecc.), dei data base e della documentazione del sistema informativo, della documentazione finale prevista per ogni opera o lavorazione, della documentazione contabile
+150,00 €
+per ogni accertamento
+Per ritardi nella voltura delle utenze al termine del servizio
+150,00 €
+per ogni accertamento
+Per la riconsegna dei locali gestiti dall'Appaltatore con difformità normative
+o carenze funzionali rispetto a quando consegnati
+2,00 €
+per m2 di superficie netta
+Per impianti riconsegnati con riconosciute e accertate difformità normative e funzionali
+0,1 · Qxnj · Pxn giornaliero
+per ogni servizio x interessato
+
+L'applicazione delle suddette penali sarà sospesa solo quando le difformità rilevate saranno sanate dall'Appaltatore a
+proprio esclusivo onere anche dopo la conclusione del Servizio.
+Inoltre l'Azienda Sanitaria imputerà all'Appaltatore tutti i maggiori costi che dovessero derivarle per la mancata risoluzione delle difformità in tempi utili (per mancata erogazione del servizio, per necessità di servizio sostitutivo, per eventuali sanzioni carenze normative, etc.).
+
+Articolo 24.1.12 Ritardi nell'attivazione del servizio e nell'invio documentale
+In caso di inadempimenti relativi alle modalità di attivazione dei servizi, Azienda Zero applicherà le penali di seguito descritte, sulla base delle tempestive comunicazioni ricevute da parte delle Aziende Sanitarie.
+
+
+Disservizio A
+Penale giornaliera [€/gg]
+Ritardo nella comunicazione all'Azienda Sanitaria circa la validità formale della Richiesta di Preventivo oltre 15 giorni naturali e consecutivi dalla ricezione della Richiesta di Preventivo (RP)
+100,00 €
+Ritardo nella trasmissione del Preventivo e degli allegati previsti oltre il tempo stabilito dalla presente Convenzione
+150,00 €
+Ritardo nella trasmissione del Preventivo e del Progetto Specifico del Servizio adeguato alle eventuali osservazioni formulate dall'Azienda Sanitaria oltre 15 giorni naturali e consecutivi dalla richiesta dell'Azienda Stessa
+150,00 €
+Ritardo nell'invio ad Azienda Zero dell'Ordinativo di Fornitura ricevuto dall'Azienda Sanitaria
+150,00 €
+Ritardo nell'invio ad Azienda Zero della reportistica di cui all'art. 12 della presente Convenzione, oltre 20 giorni naturali e consecutivi dal ricevimento della richiesta
+100,00
+
+Oltre alle penali indicate ai punti precedenti, le Aziende Sanitarie applicheranno le penali di seguito elencate.
+Disservizi B
+Penale giornaliera [€/gg]
+Ritardo nell'erogazione dei servizi ordinati rispetto ai termini indicati nell'Ordinativo di Fornitura
+500,00 €
+
+Articolo 25	Risoluzione del contratto (Ordinativo di fornitura)
+Ciascuna Azienda Sanitaria, per le attività contrattuali di esclusiva competenza, in caso di inadempimento dell'Appaltatore agli obblighi contrattuali, potrà assegnare, mediante comunicazione scritta (diffida ad adempiere), un termine non inferiore a 15 giorni dalla data di ricevimento della comunicazione per adempiere. Trascorso inutilmente il predetto termine, il contratto è risolto di diritto, per la quota di fornitura relativa alla singola Azienda procedente (art. 1454 codice civile).
+Ciascuna Azienda Sanitaria potrà, avvalendosi della facoltà di cui all'art. 1456 codice civile e, previa comunicazione scritta all'Appaltatore da effettuarsi a mezzo PEC, risolvere di diritto il contratto, per la propria quota di fornitura nei seguenti casi:
+* di non veridicità delle dichiarazioni presentate dall'Appaltatore nel corso della procedura di gara ovvero in caso di perdita di alcuno dei requisiti richiesti dal Disciplinare, accertata da Azienda Zero - U.O.C. CRAV al termine del procedimento che ha portato all'annullamento dell'aggiudicazione all'Appaltatore;
+* di frode, di grave negligenza, di contravvenzione nell'esecuzione degli obblighi e delle condizioni contrattuali e di
+mancata reintegrazione del deposito cauzionale;
+* di commissione di uno dei reati di cui all'art. 94 del D.Lgs n. 36/2023per i quali sia intervenuta sentenza di condanna passata in giudicato o nella situazione di intervenuto provvedimento definitivo che dispone l'applicazione di una o più misure di prevenzione di cui al codice delle leggi antimafia;
+* di reiterati ritardi rispetto ai termini previsti dal contratto per l'esecuzione dei servizi;
+* di cessione del contratto o subappalto non autorizzati;
+* di mancato rispetto degli obblighi in tema di tracciabilità di cui alla presente Convenzione;
+* in tutti gli altri casi previsti dalla presente Convenzione e nei restanti atti di gara.
+In ogni caso di risoluzione, oltre all'applicazione della penale, potrà essere addebitato all'Appaltatore inadempiente il maggior prezzo eventualmente pagato per l'acquisto dei servizi oggetto del contratto, salvo il diritto di agire per il risarcimento di ogni conseguente danno subito (art. 1382 codice civile).
+La risoluzione del contratto non si estende alle prestazioni già eseguite. Con la risoluzione del contratto sorge in ogni singola Azienda Sanitaria il diritto di affidare a terzi la fornitura, in danno all'Appaltatore inadempiente. All'Appaltatore inadempiente sono addebitate le spese sostenute in più da ogni singola Azienda Sanitaria rispetto a quelle previste dal contratto risolto ed ogni altro eventuale danno derivante dall'inadempimento. Le somme necessarie sono prelevate dal deposito cauzionale mediante incameramento del medesimo e, ove questo non sia sufficiente, da eventuali crediti dell'impresa, fatto salvo il diritto di agire per gli eventuali maggiori danni subiti. Nel caso di minor spesa nulla spetta all'Appaltatore inadempiente. Per quanto non previsto dal presente articolo, si applicano le disposizioni di cui al codice civile in materia di risoluzione del contratto.
+Nei casi di risoluzione degli Ordinativi di Fornitura da parte delle Aziende Sanitarie, queste ultime dovranno comunicare
+l'avvenuta risoluzione dei medesimi, mediante PEC, ad Azienda Zero - U.O.C. CRAV.
+
+Articolo 26	Recesso dall'Ordinativo di Fornitura da parte delle Aziende Sanitarie
+L'Azienda sanitaria potrà, altresì, recedere dal contratto ai sensi dell'art. 123 del D.Lgs n. 36/2023 con un preavviso di almeno 30 (trenta) giorni solari, da comunicarsi all'Appaltatore tramite P.E.C..
+
+Articolo 27	Risoluzione della Convenzione
+Azienda Zero, ferme le ulteriori ipotesi di risoluzione previste dall'ordinamento, può risolvere di diritto, anche parzialmente, ai sensi dell'art. 1456 Codice Civile, previa dichiarazione da comunicarsi all'Appaltatore tramite PEC, senza necessità di assegnare alcun termine per l'adempimento, la Convenzione nei seguenti casi:
+* accertamento della non veridicità del contenuto delle dichiarazioni presentate dall'Appaltatore nel corso della procedura di gara di cui alle premesse;
+* qualora gli accertamenti presso la Prefettura competente evidenzino fattispecie normativamente previste di rapporti con la criminalità organizzata;
+* mancata reintegrazione della cauzione eventualmente escussa entro il termine di cui all'articolo "Cauzione definitiva";
+* cessione del contratto o subappalto non autorizzati;
+* nel caso in cui almeno 3 (tre) Aziende Sanitarie abbiano risolto il proprio Ordinativo di Fornitura;
+* qualora disposizioni legislative regolamentari ed autorizzative non ne consentano la prosecuzione in tutto o in parte;
+* qualora a livello nazionale e/o regionale vengano assunte determinazioni differenti da quelle sottese alla predisposizione della presente fornitura.
+La risoluzione della Convenzione comporta la risoluzione del singolo Ordinativo di Fornitura a partire dalla data in cui si verifica la risoluzione della Convenzione stessa. In tal caso l'Appaltatore si impegna comunque a porre in essere ogni attività necessaria per assicurare la continuità del servizio residuo in favore delle Aziende Sanitarie.
+In caso di risoluzione della Convenzione Azienda Zero potrà aggiudicare la fornitura alla ditta che segue in graduatoria, rivalendosi sulla cauzione definitiva per il ristoro di eventuali danni nei confronti della ditta inadempiente.
+
+Articolo 28	Contratto e spese
+La Convezione verrà stipulata mediante forma scritta ai sensi dell'art. 18 del D.Lgs n. 36/2023.
+Al fine della stipula della convenzione l'aggiudicatario dovrà aver compilato il documento per la tracciabilità dei flussi finanziari nella piattaforma telematica Net4Market-CSAMED con le modalità di cui all'art. 6 del Disciplinare.
+Tutte le spese, relative alla convenzione e/o ai singoli ordinativi di fornitura, comprensive di bollo e registrazione, saranno a carico della ditta aggiudicataria. La sola IVA sarà a carico delle singole Aziende Sanitarie.
+In caso di particolare urgenza, l'Azienda Sanitaria può disporre, prima della stipulazione del contratto, l'anticipata esecuzione dello stesso ai sensi di quanto previsto dall'art. 18 del D.Lgs n. 36/2023.
+
+Articolo 29	Responsabile esterno del trattamento dei dati personali
+Ai sensi e per gli effetti di cui all'art. 28 del Regolamento europeo (UE) 2016/679 in materia di protezione delle persone fisiche, la Ditta Aggiudicataria potrà essere nominata Responsabile del trattamento dei dati personali dalle singole Aziende Sanitarie, qualora ne sussistano i presupposti.
+
+Articolo 30	Domicilio dell'Appaltatore e comunicazioni
+L'Appaltatore, all'atto della stipulazione del contratto, deve eleggere il proprio domicilio legale al quale verranno dirette
+tutte le notificazioni inerenti al contratto.
+Le comunicazioni tra le parti sono effettuate, mediante una delle seguenti modalità:
+1) Posta Elettronica Certificata (PEC) inviata all'indirizzo indicato dalle parti nel contratto;
+2) lettera consegnata a mano con attestazione del giorno ed ora per ricevuta da parte dell'ufficio e della persona a cui è stata consegnata.
+
+Articolo 31	Tracciabilità dei flussi finanziari
+Ai sensi e per gli effetti dell'art. 3, comma 8, della Legge 13 agosto 2010 n. 136 e ss.mm.ii., l'Appaltatore s'impegna a rispettare puntualmente quanto previsto dalla predetta disposizione in ordine agli obblighi di tracciabilità dei flussi finanziari.
+A tal fine la Ditta dovrà compilare e tenere aggiornato, nei termini previsti dall'art. 3 comma 7 della citata legge, il documento di tracciabilità fornito ad Azienda Zero mediante la piattaforma CSAMED, con le modalità indicate nell'art. 6 del Disciplinare.
+Ferme restando le ulteriori ipotesi di risoluzione previste nella presente Convenzione si conviene che, in ogni caso, ciascuna Azienda Sanitaria, in ottemperanza a quanto disposto dall'art. 3, comma 9 bis, della Legge 13 agosto 2010 n. 136 e ss.mm.ii., senza bisogno di assegnare previamente alcun termine per l'adempimento, risolverà di diritto, ai sensi dell'art. 1456 codice civile, nonché ai sensi dell'art. 1360 codice civile, previa dichiarazione da comunicarsi all'Appaltatore con PEC, il Contratto nell'ipotesi in cui le transazioni siano eseguite senza avvalersi del bonifico bancario o postale ovvero degli altri documenti idonei a consentire la piena tracciabilità delle operazioni ai sensi della Legge 13 agosto 2010 n. 136 e ss.mm.ii. e del Decreto Legge 12 novembre 2010 n. 187.
+L'Aggiudicatario, nella sua qualità di appaltatore, si obbliga, a mente dell'art. 3, comma 8, della Legge 13 agosto 2010 n. 136 e ss.mm.ii., ad inserire nei contratti sottoscritti con i subappaltatori o i subcontraenti, a pena di nullità assoluta, un'apposita clausola con la quale ciascuno di essi assume gli obblighi di tracciabilità dei flussi finanziari di cui alla succitata Legge 13 agosto 2010 n. 136 e ss.mm.ii. A tal fine, l'Azienda Sanitaria contraente verificherà il corretto adempimento del suddetto obbligo.
+L'Appaltatore, il subappaltatore o il subcontraente che ha notizia dell'inadempimento della propria controparte agli obblighi di tracciabilità finanziaria di cui all'art. 3 della Legge 13 agosto 2010 n. 136 e ss.mm.ii. è tenuto a darne immediata comunicazione all'Azienda Sanitaria contraente e alla Prefettura - Ufficio Territoriale del Governo della Provincia ove ha sede la stessa Azienda Sanitaria.
+L'Appaltatore, in caso di cessione dei crediti, s'impegna a comunicare il CIG al cessionario affinché lo stesso venga riportato sugli strumenti di pagamento utilizzati. Il cessionario è tenuto ad utilizzare conto/i corrente/i dedicato/i nonché ad anticipare i pagamenti all'Appaltatore mediante bonifico bancario o postale sul/i conto/i corrente/i dedicato/i dell'Appaltatore medesimo riportando il CIG dallo stesso comunicato.
+
+Articolo 32	Protocollo di legalità
+All'affidamento si applicano le clausole pattizie di cui al Protocollo di legalità sottoscritto dalla Regione Veneto in data 23/07/2014 (e rinnovato in data 07/09/2015) ai fini della prevenzione dei tentativi di infiltrazione della criminalità organizzata nel settore dei contratti pubblici di lavori, servizi e forniture, consultabile sul sito della Giunta Regionale:
+http://www.regione.veneto.it/web/lavori-pubblici/protocollo-di-legalita
+L'Appaltatore si impegna a rispettare tutte le clausole pattizie di cui al Protocollo di legalità di cui al comma precedente e di accettarne incondizionatamente il contenuto e gli effetti.
+
+Articolo 33	Tutela contro azioni di terzi, brevetti industriali e diritto d'autore
+L'Appaltatore si assume ogni responsabilità conseguente all'uso di soluzioni tecniche o di altra natura che violino diritti di brevetto, di autore ed in genere di privativa altrui. L'Appaltatore, pertanto, si obbliga a manlevare Azienda Zero e l'Azienda Sanitaria contraente dalle pretese che terzi dovessero avanzare in relazione a diritti di privativa vantati da terzi.
+Il Fornitore dovrà pertanto assumere a proprio carico tutti gli oneri derivanti da eventuali azioni esperite nei confronti di Azienda Zero e delle Aziende Sanitarie destinatarie delle apparecchiature in relazione ai beni oggetto della fornitura o in relazione al loro uso, obbligandosi di tenere indenne i suddetti enti dagli oneri eventualmente sostenuti per la difesa in giudizio, nonché delle spese e dei danni a cui tali Enti dovessero essere condannati con sentenza passata in giudicato.
+Nell'ipotesi di azione giudiziaria per le violazioni di cui al comma precedente tentata nei confronti dell'Azienda Sanitaria contraente, la stessa, fermo restando il diritto al risarcimento del danno nel caso in cui la pretesa azionata sia fondata, ha facoltà di dichiarare la risoluzione di diritto il contratto (art. 1456 Codice Civile) e di incamerare il deposito cauzionale
+
+definitivo, fatto salvo il diritto di agire per il risarcimento di ogni ulteriore conseguente danno subito (art. 1382 Codice Civile).
+
+Articolo 34	Foro competente
+Per tutte le controversie relative ai rapporti con Azienda Zero, sarà competente esclusivamente il Foro di Padova.
+In caso di materie attribuite alle singole Aziende Sanitarie, sarà competente esclusivamente il Foro territorialmente competente, ove ha sede legale la singola Azienda Sanitaria interessata.
+È esclusa ogni competenza arbitrale.
+
+Articolo 35	Modifiche normative, norme di rinvio e finali
+Le Aziende Sanitarie potranno integrare le condizioni di cui alla presente Convenzione o del Capitolato Tecnico in base a proprie specifiche esigenze per l'espletamento della propria attività istituzionale e per la corretta esecuzione della fornitura senza alterare gli elementi fondamentali del rapporto contrattuale.
+Nel caso in cui dovessero sopraggiungere provvedimenti di pubbliche autorità dai contenuti non suscettibili di inserimento di diritto nella presente Convenzione e che fossero parzialmente o totalmente incompatibili con la Convenzione medesima, le Aziende Sanitarie e l'Appaltatore potranno concordare le opportune modifiche ai documenti sopra richiamati sul presupposto di un equo contemperamento dei rispettivi interessi.
+Per quanto qui non espressamente previsto e disciplinato si fa riferimento alle norme vigenti in materia di pubbliche forniture e servizi, nonché alle norme del Codice Civile in materia di obbligazioni e contratti.
+
+Il Fornitore dichiara di aver esaminato tutte le clausole contenute nella presente Convenzione e di averne compreso la portata e gli effetti.
+
+Azienda Zero
+L'Appaltatore
+Documento informatico firmato digitalmente ai sensi del testo unico D.P.R. 28 dicembre 2000 n. 445, del D.Lgs. 7 marzo 2005 n.82 e norme collegate.
+Documento informatico firmato digitalmente ai sensi del testo unico D.P.R. 28 dicembre 2000 n.
+445, del D.Lgs. 7 marzo 2005 n.82 e norme
+collegate.
+
+
+

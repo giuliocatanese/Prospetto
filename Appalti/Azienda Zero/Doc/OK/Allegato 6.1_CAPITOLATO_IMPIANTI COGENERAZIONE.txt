@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Azienda Ospedaliera di Padova
+
+1
+Potenza nominale termica
+1.400 kW
+
+Potenza nominale elettrica
+1.416 kW
+
+Parte di un sistema di trigenerazione
+SI
+
+Ore di funzionamento all'anno
+8.040 h
+
+Energia elettrica prodotta all'anno
+8.500.000 kWh
+
+Collocazione
+Azienda Ospedaliera di Padova. Centrale Termica Est
+Azienda Ospedaliera di Padova
+
+2
+Potenza nominale termica
+1.400 kW
+
+Potenza nominale elettrica
+1.416 kW
+
+Parte di un sistema di trigenerazione
+NO
+
+Ore di funzionamento all'anno
+8.040 h
+
+Energia elettrica prodotta all'anno
+8.500.000 kWh
+
+Collocazione
+Azienda Ospedaliera di Padova. Centrale Termica Ovest
+
+
+
+Azienda Ospedaliera Universitaria Integrata Verona
+
+1
+Potenza nominale termica
+1.400 kW
+
+Potenza nominale elettrica
+1.400 kW
+
+Parte di un sistema di trigenerazione
+NO
+
+Ore di funzionamento all'anno
+8.500 h
+
+Energia elettrica prodotta all'anno
+11.900.000 kWh
+
+Collocazione
+Ospedale di Borgo Roma
+Azienda Ospedaliera Universitaria Integrata Verona
+
+2
+Potenza nominale termica
+800 kW
+
+Potenza nominale elettrica
+800 kW
+
+
+
+
+
+Parte di un sistema di trigenerazione
+NO
+
+Ore di funzionamento all'anno
+8.500 h
+
+Energia elettrica prodotta all'anno
+6.800.000 kWh
+
+Collocazione
+Ospedale di Borgo Trento
+Azienda Ospedaliera Universitaria Integrata Verona
+
+3
+Potenza nominale termica
+2.000 kW
+
+Potenza nominale elettrica
+2.000 kW
+
+Parte di un sistema di trigenerazione
+
+
+Ore di funzionamento all'anno
+
+
+Energia elettrica prodotta all'anno
+
+
+Collocazione
+Ospedale di Borgo Trento (in fase di installazione)
+
+
+
+Azienda ULSS 7 "Pedemontana"
+
+1
+Potenza nominale termica
+1.200 kW
+
+Potenza nominale elettrica
+1.043 kW
+
+Parte di un sistema di trigenerazione
+NO
+
+Ore di funzionamento all'anno
+3.700 h
+
+Energia elettrica prodotta all'anno
+3.150 kWh
+
+Collocazione
+Ospedale San Bassiano di Bassano del Grappa
+Azienda ULSS 7 "Pedemontana"
+
+2
+Potenza nominale termica
+1.200 kW
+
+Potenza nominale elettrica
+1.043 kW
+
+Parte di un sistema di trigenerazione
+NO
+
+Ore di funzionamento all'anno
+3.700 h
+
+Energia elettrica prodotta all'anno
+3.150 kWh
+
+Collocazione
+Ospedale San Bassiano di Bassano del Grappa
+
+
+
+
+
+
+
+Azienda ULSS 8 "Berica"
+
+1
+Potenza nominale termica
+1.804 kW
+
+Potenza nominale elettrica
+1.598 kW
+
+Parte di un sistema di trigenerazione
+SI
+
+Ore di funzionamento all'anno
+8.131 h
+
+Energia elettrica prodotta all'anno
+11.087.600 kWh
+
+Collocazione
+Ospedale San Bortolo di Vicenza
+Azienda ULSS 8 "Berica"
+
+2
+Potenza nominale termica
+900 kW
+
+Potenza nominale elettrica
+896 kW
+
+Parte di un sistema di trigenerazione
+SI
+
+Ore di funzionamento all'anno
+500 h
+
+Energia elettrica prodotta all'anno
+14.652 kWh
+
+Collocazione
+Ospedale Pietro Milani di Noventa Vicentina
+
+
+
+Azienda ULSS 9 "Scaligera"
+
+1
+Potenza nominale termica
+783 kW
+
+Potenza nominale elettrica
+836 kW
+
+Parte di un sistema di trigenerazione
+SI
+
+Ore di funzionamento all'anno
+6.800 h
+
+Energia elettrica prodotta all'anno
+5.800.000 kWh
+
+Collocazione
+Ospedale di San Bonifacio
+Azienda ULSS 9 "Scaligera"
+
+2
+Potenza nominale termica
+774 kW
+
+Potenza nominale elettrica
+637 kW
+
+Parte di un sistema di trigenerazione
+NO
+
+
+
+
+
+Ore di funzionamento all'anno
+8.300 h
+
+Energia elettrica prodotta all'anno
+5.300.000 kWh
+
+Collocazione
+Ospedale di Legnago
+Azienda ULSS 9 "Scaligera"
+
+3
+Potenza nominale termica
+774 kW
+
+Potenza nominale elettrica
+637 kW
+
+Parte di un sistema di trigenerazione
+NO
+
+Ore di funzionamento all'anno
+7.149 h
+
+Energia elettrica prodotta all'anno
+2.500.000 kWh
+
+Collocazione
+Ospedale di Bussolengo
+
+
+
+
+

@@ -1,0 +1,1278 @@
+Allegato 2 Disciplinare di Gara
+
+
+
+U.O.C. CRAV
+
+
+
+
+Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto (G.V.E.)
+
+
+2^ Edizione
+
+******
+
+
+DISCIPLINARE DI GARA
+
+
+
+
+
+
+Numero gara: 9436015
+
+SOMMARIO
+
+PREMESSE	4
+1. PIATTAFORMA TELEMATICA	6
+1.2 DOTAZIONI TECNICHE	8
+1.3 IDENTIFICAZIONE - REGISTRAZIONE	8
+2. DOCUMENTAZIONE DI GARA, CHIARIMENTI E COMUNICAZIONI	8
+2.1 DOCUMENTI DI GARA	8
+2.2 CHIARIMENTI	9
+2.3 COMUNICAZIONI	10
+3. OGGETTO DELL'APPALTO, IMPORTO E SUDDIVISIONE IN LOTTI	10
+3.1 DURATA	16
+3.2. REVISIONE PREZZI	16
+3.3. MODIFICA DEL CONTRATTO IN FASE DI ESECUZIONE	16
+3.4 IMPORTO COMPLESSIVO DELL'APPALTO	16
+4. SOGGETTI AMMESSI IN FORMA SINGOLA E ASSOCIATA E CONDIZIONI DI PARTECIPAZIONE .17
+5. REQUISITI DI ORDINE GENERALE E ALTRE CAUSE DI ESCLUSIONE	18
+6. REQUISITI DI ORDINE SPECIALE E MEZZI DI PROVA	19
+6.1. REQUISITI DI IDONEITÀ PROFESSIONALE	20
+6.2. REQUISITI DI CAPACITÀ TECNICA E PROFESSIONALE	20
+6.3. INDICAZIONI SUI REQUISITI SPECIALI NEI RAGGRUPPAMENTI TEMPORANEI, CONSORZI ORDINARI, AGGREGAZIONI DI IMPRESE DI RETE, GEIE	22
+6.4. INDICAZIONI SUI REQUISITI SPECIALI NEI CONSORZI DI COOPERATIVE, CONSORZI DI IMPRESE ARTIGIANE, CONSORZI STABILI	22
+7. AVVALIMENTO	22
+8. SUBAPPALTO	23
+9. REQUISITI DI PARTECIPAZIONE E/O CONDIZIONI DI ESECUZIONE	24
+10. GARANZIA PROVVISORIA	24
+12. PAGAMENTO DEL CONTRIBUTO A FAVORE DELL'ANAC	27
+13. MODALITÀ DI PRESENTAZIONE DELL'OFFERTA E SOTTOSCRIZIONE DEI DOCUMENTI DI GARA
+.	28
+13.1 Regole per la presentazione dell'offerta	28
+14. SOCCORSO ISTRUTTORIO	31
+15. DOMANDA DI PARTECIPAZIONE E DOCUMENTAZIONE AMMINISTRATIVA - BUSTA 1	32
+15.1. DOMANDA DI PARTECIPAZIONE, DICHIARAZIONE INTEGRATIVA, PROCURA, DOCUMENTO A COMPROVA DEL PAGAMENTO DEL BOLLO	32
+15.2. DICHIARAZIONI DA RENDERE A CURA DEGLI OPERATORI ECONOMICI AMMESSI AL CONCORDATO PREVENTIVO CON CONTINUITÀ AZIENDALE DI CUI ALL'ARTICOLO 372 DEL DECRETO LEGISLATIVO 12 GENNAIO 2019 , n. 14 (eventuale)	34
+15.3. DOCUMENTAZIONE IN CASO DI AVVALIMENTO	34
+15.4. DOCUMENTAZIONE ULTERIORE PER I SOGGETTI ASSOCIATI	34
+16. OFFERTA TECNICA - BUSTA 2	35
+17. OFFERTA ECONOMICA- BUSTA 3	37
+18. CRITERIO DI AGGIUDICAZIONE	39
+18.1. CRITERI DI VALUTAZIONE DELL'OFFERTA TECNICA	40
+18.2. METODO DI ATTRIBUZIONE DEL COEFFICIENTE PER IL CALCOLO DEL PUNTEGGIO DELL'OFFERTA TECNICA	40
+18.3 METODO DI ATTRIBUZIONE DEL COEFFICIENTE PER IL CALCOLO DEL PUNTEGGIO DELL'OFFERTA ECONOMICA	41
+18.4. METODO DI CALCOLO DEI PUNTEGGI	42
+19 COMMISSIONE GIUDICATRICE	42
+20. SVOLGIMENTO DELLE OPERAZIONI DI GARA	43
+22. VALUTAZIONE DELLE OFFERTE TECNICHE ED ECONOMICHE	43
+24. VERIFICA DI ANOMALIA DELLE OFFERTE	44
+25. AGGIUDICAZIONE DELL'APPALTO E STIPULA DEL CONTRATTO	45
+26. OBBLIGHI RELATIVI ALLA TRACCIABILITÀ DEI FLUSSI FINANZIARI	47
+27. CODICE DI COMPORTAMENTO	48
+28. ACCESSO AGLI ATTI	48
+29. DEFINIZIONE DELLE CONTROVERSIE	48
+30. TRATTAMENTO DEI DATI PERSONALI	48
+31. NORME e CONDIZIONI FINALI	48
+
+PREMESSE
+Con Deliberazione del Direttore Generale di Azienda viene indetta la gara per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto, per i seguenti Enti aderenti all'iniziativa di acquisto:
+? Azienda Ulss 6 Euganea, Azienda Ulss 7 Pedemontana, Azienda Ulss 8 Berica, Azienda Ulss 9 Scaligera, Azienda Ospedaliera Universitaria Integrata di Verona, Azienda Ospedaliera di Padova, Azienda Zero;
+? l'I.R.C.C.S. Istituto Oncologico Veneto (IOV).
+
+La presente procedura aperta è interamente svolta tramite il sistema informatico per le procedure telematiche di acquisto denominato "Sintel" di proprietà di ARIA S.p.A, soggetto aggregatore della Regione	Lombardia,	accessibile	all'indirizzo http://www.Sintel.regione.lombardia.it/eprocdata/SintelSearch.xhtml e conforme alle prescrizioni dell'articolo 25 comma 2 del Codice e del decreto della Presidenza del Consiglio dei Ministri n. 148/2021. Tramite il sito si accede alla procedura nonché alla documentazione di gara.
+L'affidamento avviene mediante procedura aperta con applicazione del criterio dell'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità prezzo.
+La durata del procedimento è prevista pari a 9 mesi dalla pubblicazione del bando come previsto dall'Allegato I.3 - Termini delle procedure di appalto e di concessione - richiamato nell'art. 17 comma 3 del D. Lgs 36/2023 (c.d. Codice Appalti).
+
+Il luogo di svolgimento del servizio/consegna della fornitura è la Regione del Veneto (codice NUTS ITH3)
+
+
+
+Informazioni di carattere generaleDenominazione Stazione AppaltanteAzienda Zero
+Passaggio Gaudenzio n. 1 35131 PADOVAResponsabile Unico del Procedimento (RUPdott.ssa Sandra Zuzzi Direttore UOC CRAV Tel. 049-8778280/8222
+e-mail: sandra.zuzzi@azero.veneto.itDirettore dell'esecuzione del contrattoIl DEC sarà nominato da ciascuna Azienda Sanitaria, con proprio successivo provvedimento.Provvedimento di indizioneDeliberazione n. ....... del	/2018Date di invio per la pubblicazione del Bando../../2023 alla Gazzetta Ufficiale della Comunità europea;
+../../2023 alla Gazzetta Ufficiale della Repubblica Italiana;
+Date di pubblicazione degli atti di gara../../2023 sulla piattaforma Sintel../../2023 sul sito istituzionale di Azienda ZeroLuogo di svolgimento dei servizi e dei lavoriRegione Veneto - codice NUTS ITH3Indirizzo al quale inviare le offerteLe offerte verranno fatte pervenire tramite il sistema telematico denominato "Sintel", il cui accesso è consentito dall'apposito link presente sul profilo del committenteTermine per la presentazione delle offerte../../2023 - ore 15.00Documentazione di gara1. Bando di gara;
+2. Disciplinare di gara;
+3. Capitolato Tecnico e relativi allegati;
+4. Schema di Convenzione e relativi allegati.
+La documentazione di gara è disponibile sul sito internet www.azero.veneto.it e sulla piattaforma Sintel.
+
+Il Responsabile Unico del Progetto ai sensi dell'art. 15 del Codice per lo svolgimento delle attività di cui all'Allegato I.2 art. 7. è la Dott.ssa Sandra Zuzzi Direttore della U.O.C. CRAV di Azienda Zero (crav@azero.veneto.it).
+L'operatore economico che intenda partecipare alla presente procedura di gara deve accedere al Fascicolo Virtuale dell'Operatore Economico istituito dall'Autorità Nazionale Anticorruzione (https://www.anticorruzione.it/-/fascicolo-virtuale-dell-operatore-economico-fvoe).
+
+
+Azienda Zero espleterà ogni fase della procedura in oggetto, sino all'aggiudicazione efficace e alla stipula della relativa convenzione-quadro che seguirà le condizioni di cui al presente Disciplinare ed ai restanti atti di gara. Con l'aggiudicatario di ciascun lotto della presente gara (di seguito anche solo Fornitore/i o Aggiudicatario/i) Azienda Zero stipulerà, in qualità di centrale di committenza regionale ai sensi dell'art. 1, comma 456 della Legge n. 296/2006, una convenzione-quadro (in seguito "Convenzione") ex art. 26, comma 1, della Legge 488/1999, che indicherà espressamente i limiti massimi dei beni e dei servizi espressi in termini di quantità ed il periodo di efficacia. Il Fornitore medesimo si obbliga pertanto ad accettare gli Ordinativi di Fornitura, emessi e trasmessi da parte degli Enti aderenti alla presente iniziativa di acquisto centralizzato, alle condizioni di cui allo Schema di Convenzione e del Capitolato Tecnico allegati al presente disciplinare. Nel periodo di validità della Convenzione, gli Enti aderenti potranno emettere Ordinativi di Fornitura (i.e. contratti attuativi), fino alla concorrenza del quantitativo massimo di fornitura indicato negli atti di gara. Tali previsioni di fabbisogno sono da intendersi con valenza meramente indicativa e potranno subire variazioni in diminuzione senza che il Fornitore possa sollevare eccezioni al riguardo o pretendere indennità di sorta. Tali previsioni non vincolano pertanto in alcun modo né Azienda Zero né gli Enti aderenti all'acquisto di quantitativi minimi o predeterminati di beni e/o servizi, dando origine unicamente all'obbligo del Fornitore di accettare mediante esecuzione gli Ordinativi di Fornitura trasmessi durante il periodo di validità della Convenzione. Tale obbligo sussiste fino alla concorrenza della
+
+quantità massima stabilita nella convenzione, ai prezzi ed alle condizioni, modalità e termini contenuti nella convenzione stessa, nell'offerta e negli atti di gara. Nel caso in cui, alla scadenza della Convenzione, i quantitativi non siano esauriti, Azienda Zero si riserva la facoltà di differire la scadenza della Convenzione medesima fino ad un massimo di 12 mesi, fermo il rispetto dei quantitativi massimi previsti dal capitolato di gara e fatta salva in ogni caso la facoltà di esercizio di eventuali opzioni di rinnovo o proroga prevista dalla lex specialis di gara.
+Restano di esclusiva competenza di Azienda Zero le seguenti attività e connessi adempimenti:
+
+? espletamento della procedura di gara;
+
+? richiesta e gestione del deposito cauzionale definitivo e, ove previsto, della polizza assicurativa;
+
+? autorizzazione agli aggiornamenti tecnologici/affiancamenti;
+
+? stipula della convenzione/accordo quadro;
+
+? recesso o risoluzione della convenzione/accordo-quadro;
+
+? gestione dell'eventuale contenzioso legato alla procedura di gara o conseguente ad una delle attività di cui ai punti che precedono.
+Resta di esclusiva competenza di ciascun singolo Ente aderente alla presente iniziativa di acquisto la gestione dell'esecuzione contrattuale e, in particolare, delle seguenti attività:
+? nomina del Responsabile Unico del Progetto (RUP) ai sensi dell'art. 15 per lo svolgimento in particolare delle attività indicate nell'Allegato I.2 art. 8 del per la quota parte di attività di propria competenza;
+? nomina del Direttore dell'Esecuzione del Contratto (DEC), ai sensi dell'art. 8, comma 4 dell'Allegato I.2 dell'Allegato II.14 del Codice;
+? stipula dei contratti attuativi (Ordinativi di Fornitura);
+
+? emissione dei buoni d'ordine (Richieste di Consegna);
+
+? ricevimento delle fatture, verifica di conformità, liquidazione e corresponsione dei corrispettivi;
+
+? applicazione delle penali;
+
+? autorizzazione o diniego del subappalto (nella precedente gara era in capo alle AASS);
+
+? recesso o risoluzione dei contratti attuativi (Ordinativi di Fornitura);
+
+? annullamento dei buoni d'ordine (Richieste di Consegna);
+
+? gestione dell'eventuale contenzioso relativo a tutti i punti sopra citati;
+
+? ogni altra attività attinente all'esecuzione contrattuale.
+
+1. PIATTAFORMA TELEMATICA
+
+1.1 LA PIATTAFORMA TELEMATICA DI NEGOZIAZIONE
+L'utilizzo della Piattaforma comporta l'accettazione tacita ed incondizionata di tutti i termini, le condizioni
+
+di utilizzo e le avvertenze contenute nei documenti di gara, nel predetto documento nonché di quanto portato a conoscenza degli utenti tramite le comunicazioni sulla Piattaforma.
+L'utilizzo della Piattaforma avviene nel rispetto dei principi di autoresponsabilità e di diligenza professionale, secondo quanto previsto dall'articolo 1176, comma 2, del codice civile.
+La Stazione appaltante non assume alcuna responsabilità per perdita di documenti e dati, danneggiamento di file e documenti, ritardi nell'inserimento di dati, documenti e/o nella presentazione della domanda, malfunzionamento, danni, pregiudizi derivanti all'operatore economico, da:
+- difetti di funzionamento delle apparecchiature e dei sistemi di collegamento e programmi impiegati dal singolo operatore economico per il collegamento alla Piattaforma;
+- utilizzo della Piattaforma da parte dell'operatore economico in maniera non conforme al presente Disciplinare e a quanto previsto nel documento denominato "Modalità Tecniche utilizzo Piattaforma Sintel", reperibile al seguente link https://www.ariaspa.it/wps/portal/Aria/Home/bandi-convenzioni/e- procurement/strumenti-di-supporto/guide-e-manuali, all'interno della sezione Guide e manuali > Operatore economico.
+In caso di mancato funzionamento della Piattaforma o di malfunzionamento della stessa, non dovuti alle predette circostanze, che impediscono la corretta presentazione delle offerte, al fine di assicurare la massima partecipazione, la stazione appaltante può disporre la sospensione del termine di presentazione delle offerte per un periodo di tempo necessario a ripristinare il normale funzionamento della Piattaforma e la proroga dello stesso per una durata proporzionale alla durata del mancato o non corretto funzionamento, tenuto conto della gravità dello stesso.
+La stazione appaltante si riserva di agire in tal modo anche quando, esclusa la negligenza dell'operatore economico, non sia possibile accertare la causa del mancato funzionamento o del malfunzionamento.
+La Piattaforma garantisce l'integrità dei dati, la riservatezza delle offerte e delle domande di partecipazione. La Piattaforma è realizzata con modalità e soluzioni tecniche che impediscono di operare variazioni sui documenti definitivi, sulle registrazioni di sistema e sulle altre rappresentazioni informatiche e telematiche degli atti e delle operazioni compiute nell'ambito delle procedure, sulla base della tecnologia esistente e disponibile.
+Le attività e le operazioni effettuate nell'ambito della Piattaforma sono registrate e attribuite all'operatore economico e si intendono compiute nell'ora e nel giorno risultanti dalle registrazioni di sistema.
+Il sistema operativo della Piattaforma "Sintel" è sincronizzato sulla scala di tempo nazionale di cui al decreto del Ministro dell'industria, del commercio e dell'artigianato 30 novembre 1993, n. 591, tramite protocolo NTP o standard superiore.
+L'utilizzo e il funzionamento della Piattaforma avvengono in conformità a quanto riportato nel documento "Modalità Tecniche utilizzo Piattaforma Sintel", ove sono descritte in particolare le informazioni riguardanti la Piattaforma di Intermediazione telematica, la dotazione informatica necessaria per la partecipazione alla presente procedura, la registrazione alla Piattaforma e la forma delle comunicazioni da utilizzare per la presente procedura, che costituisce parte integrante del presente disciplinare.
+L'acquisto, l'installazione e la configurazione dell'hardware, del software, dei certificati digitali di firma, della casella di PEC o comunque di un indirizzo di servizio elettronico di recapito certificato qualificato, nonché dei collegamenti per l'accesso alla rete Internet, restano a esclusivo carico dell'operatore economico.
+
+La Piattaforma è accessibile in qualsiasi orario dalla data di pubblicazione del bando alla data di scadenza del termine di presentazione delle offerte.
+
+1.2 DOTAZIONI TECNICHE
+Ai fini della partecipazione alla presente procedura, ogni operatore economico deve dotarsi, a propria cura, spesa e responsabilità della strumentazione tecnica ed informatica conforme a quella indicata nel presente disciplinare e nel documento "Modalità Tecniche utilizzo Piattaforma Sintel" che disciplina il funzionamento e l'utilizzo della Piattaforma.
+In ogni caso è indispensabile:
+a) disporre almeno di un personal computer conforme agli standard aggiornati di mercato, con connessione internet e dotato di un comune browser idoneo ad operare in modo corretto sulla Piattaforma;
+b) disporre di un sistema pubblico per la gestione dell'identità digitale (SPID) di cui all'articolo 64 del decreto legislativo 7 marzo 2005, n. 82 o di altri mezzi di identificazione elettronica per il riconoscimento reciproco transfrontaliero ai sensi del Regolamento eIDAS;
+c) avere un domicilio digitale presente negli indici di cui agli articoli 6-bis e 6 ter del decreto legislativo 7 marzo 2005, n. 82 o, per l'operatore economico transfrontaliero, un indirizzo di servizio elettronico di recapito certificato qualificato ai sensi del Regolamento eIDAS;
+d) avere da parte del legale rappresentante dell'operatore economico (o da persona munita di idonei poteri di firma) un certificato di firma digitale, in corso di validità , rilasciato da:
+- un organismo incluso nell'elenco pubblico dei certificatori tenuto dall'Agenzia per l'Italia Digitale (previsto dall'articolo 29 del decreto legislativo n. 82/05);
+- un certificatore operante in base a una licenza o autorizzazione rilasciata da uno Stato membro dell'Unione europea e in possesso dei requisiti previsti dal Regolamento n. 910/14;
+- un certificatore stabilito in uno Stato non facente parte dell'Unione europea quando ricorre una delle seguenti condizioni:
+i. il certificatore possiede i requisiti previsti dal Regolamento n. 910/14 ed è qualificato in uno stato membro;
+ii. il certificato qualificato è garantito da un certificatore stabilito nell'Unione Europea, in possesso dei requisiti di cui al regolamento n. 910/14;
+iii. il certificato qualificato, o il certificatore, è riconosciuto in forza di un accordo bilaterale o multilaterale tra l'Unione Europea e paesi terzi o organizzazioni internazionali."
+
+1.3 IDENTIFICAZIONE - REGISTRAZIONE
+Per poter presentare offerta è necessario accedere alla Piattaforma "Sintel" per la registrazione. L'accesso è gratuito ed è consentito a seguito dell'identificazione online dell'operatore economico.
+L'identificazione avviene o mediante il sistema pubblico per la gestione dell'identità digitale di cittadini e imprese (SPID) o attraverso gli altri mezzi di identificazione elettronica per il riconoscimento reciproco transfrontaliero ai sensi del Regolamento eIDAS.
+Una volta completata la procedura di identificazione, ad ogni operatore economico identificato viene attribuito un profilo da utilizzare nella procedura di gara.
+
+2. DOCUMENTAZIONE DI GARA, CHIARIMENTI E COMUNICAZIONI
+
+2.1 DOCUMENTI DI GARA
+La documentazione di gara comprende:
+
+Allegato 1 - Bando di gara Allegato 2 - Disciplinare di gara
+Allegato 3 - Domanda di partecipazione
+Allegato 4 - Dichiarazione sostitutiva e integrativa del DGUE Allegato 5 - Schema di Convenzione e suoi allegati
+Allegato 6 - Capitolato Tecnico e suoi allegati Allegato 7 - Criteri di Valutazione
+Allegato 8 - Modello di Offerta economica
+Allegato 9 - Modello giustificazioni offerta economica
+Allegato 10 - Dichiarazione operatori economici ammessi al concordato Allegato 11 - Informativa privacy
+Allegato 12 - Progetto di gara
+
+La documentazione comprende, anche se non materialmente allegati:
+- 	il Protocollo di legalità sottoscritto dalla Regione Veneto in data 17.09.2019 ai fini della prevenzione dei tentativi di infiltrazione della criminalità organizzata nel settore dei contratti pubblici di lavori, servizi e forniture, consultabile sul sito della Giunta Regionale all'indirizzo http://www.regione.veneto.it/web/lavori-pubblici/protocollo-di-legalita
+- le	Modalità	Tecniche	per	l'utilizzo	di	Sintel	reperibili	al	seguente	link https://www.ariaspa.it/wps/portal/Aria/Home/bandi-convenzioni/e-procurement/strumenti-di- supporto/guide-e-manuali ove sono descritte in particolare le informazioni riguardanti la Piattaforma, la dotazione informatica necessaria per la partecipazione alla presente procedura, la registrazione alla Piattaforma e la forma delle comunicazioni da utilizzare per la presente procedura.
+La documentazione di gara è accessibile gratuitamente, all'interno della Piattaforma "Sintel" e sul profilo della stazione appaltante, al seguente link: https://www.azero.veneto.it/bandi-di-gara-fornitori all'interno della sotto sezione dedicata alla presente procedura di gara.
+
+2.2 CHIARIMENTI
+É possibile ottenere chiarimenti sulla presente procedura mediante la proposizione di quesiti scritti da inoltrare almeno 14 giorni prima della scadenza del termine fissato per la presentazione delle offerte in via telematica attraverso la sezione della Piattaforma "Comunicazioni della procedura" previa registrazione alla Piattaforma stessa.
+Le richieste di chiarimenti e le relative risposte sono formulate esclusivamente in lingua italiana.
+
+Le risposte alle richieste di chiarimenti presentate in tempo utile sono fornite in formato elettronico almeno 6 giorni prima della scadenza del termine fissato per la presentazione delle offerte, mediante pubblicazione delle richieste in forma anonima e delle relative risposte sulla Piattaforma "Sintel" e sul sito istituzionale all'interno della sotto sezione dedicata alla presente procedura di gara.
+Si invitano i concorrenti a visionare costantemente tale sezione della Piattaforma o il sito istituzionale. Non viene fornita risposta alle richieste presentate con modalità diverse da quelle sopra indicate.
+In caso di mancato rispetto delle predette condizioni, ovvero in caso di non corretto invio delle richieste di
+chiarimento, Azienda Zero non potrà essere ritenuta responsabile della mancata risposta agli stessi.
+Nei casi di comprovato malfunzionamento e/o indisponibilità prolungata del Sistema, Azienda Zero si riserva di ricevere le richieste di informazioni e chiarimenti anche solo tramite posta elettronica ordinaria. Eventuali rettifiche, informazioni supplementari e modifiche al bando di gara e/o ai restanti documenti della
+procedura, nonché differimento dei termini saranno pubblicati nei termini e secondo le modalità previste
+per legge.
+
+2.3 COMUNICAZIONI
+Le comunicazioni tra stazione appaltante e operatori economici avvengono tramite la Piattaforma Sintel e sono accessibili nella sezione "Comunicazioni della procedura". È onere esclusivo dell'operatore economico prenderne visione. La Piattaforma invia automaticamente agli operatori economici una segnalazione di avviso. Le comunicazioni relative: a) all'aggiudicazione; b) all'esclusione; c) alla decisione di non aggiudicare l'appalto; d) alla data di avvenuta stipulazione del contratto con l'aggiudicatario; avvengono utilizzando il domicilio digitale presente negli indici di cui agli articoli 6-bis,6-ter, 6 quater del decreto legislativo n.82/05 o, per gli operatori economici transfrontalieri, attraverso un indirizzo di servizio elettronico di recapito certificato qualificato ai sensi del Regolamento eIDAS. Se l'operatore economico non è presente nei predetti indici elegge domicilio digitale speciale presso la stessa Piattaforma e le comunicazioni di cui sopra sono effettuate utilizzando tale domicilio digitale. Le comunicazioni relative all'attivazione del soccorso istruttorio, al subprocedimento di verifica dell'anomalia dell'offerta anomala, alla richiesta di offerta migliorativa e al sorteggio avvengono presso la Piattaforma.
+In caso di malfunzionamento della piattaforma, la stazione appaltante provvederà all'invio di qualsiasi comunicazione al domicilio digitale presente negli indici di cui ai richiamati articoli 6-bis,6-ter, 6 quater del decreto legislativo n.82/05.
+In caso di raggruppamenti temporanei, GEIE, aggregazioni di rete o consorzi ordinari, anche se non ancora costituiti formalmente, gli operatori economici raggruppati, aggregati o consorziati eleggono domicilio digitale presso il mandatario/capofila al fine della ricezione delle comunicazioni relative alla presente procedura.
+In caso di consorzi di cui all'art. 65 lett. b), c), d) del Codice, la comunicazione recapitata nei modi sopra indicati al consorzio si intende validamente resa a tutte le consorziate.
+In caso di avvalimento, la comunicazione recapitata all'offerente nei modi sopra indicati si intende validamente resa a tutti gli operatori economici ausiliari.
+
+3. OGGETTO DELL'APPALTO, IMPORTO E SUDDIVISIONE IN LOTTI
+Il presente Disciplinare ha per oggetto le norme di partecipazione alla gara per l'affidamento della Gestione Vettori Energetici (GVE) degli impianti delle Aziende Sanitarie, Ospedaliere ed IRCSS della Regione del Veneto sopra indicati , per una durata massima di 3 anni.
+L'oggetto della gara GVE è l'affidamento di un multiservizio tecnologico integrato, con fornitura di energia e di acqua e prevede l'aggiudicazione ad un unico gestore di tutte le attività di gestione e di conduzione degli impianti tecnologici, di climatizzazione e di ricambio dell'aria, elettrici e speciali a servizio degli edifici in uso alle Aziende Sanitarie aderenti, compresa la produzione e la fornitura dei vettori energetici termico ed elettrico e dell'acqua per ogni uso, la realizzazione di interventi di manutenzione straordinaria sugli impianti e sulle apparecchiature, così come previsto nel Capitolato Tecnico e nei diversi documenti di gara.
+L'appalto prevede, in particolare, la gestione dei seguenti servizi:
+A) Servizio di climatizzazione invernale:
+? riscaldamento invernale;
+? condizionamento invernale;
+? esercizio e manutenzione degli impianti termici di climatizzazione invernale.
+B) Servizio di climatizzazione estiva:
+? raffrescamento estivo;
+? condizionamento estivo con ricambio dell'aria;
+? esercizio e manutenzione degli impianti termici di climatizzazione estiva.
+C) Altri servizi termici:
+
+? fornitura di acqua calda sanitaria;
+? fornitura di vapore.
+D) Servizio di gestione degli impianti idrico sanitari e delle reti fognarie e di scarico:
+? fornitura dell'acqua per ogni utilizzo;
+? esercizio e manutenzione degli impianti idrico sanitari;
+? esercizio e manutenzione delle riserve idriche;
+? esercizio e manutenzione degli impianti di trattamento e addolcimento dell'acqua;
+? esercizio e manutenzione degli impianti di trattamento e smaltimento dei reflui, delle reti fognarie e dei sistemi di smaltimento delle acque meteoriche.
+E) Servizio energia impianti elettrici:
+? fornitura di energia elettrica per ogni utilizzo;
+? fornitura di beni accessori (materiali di consumo, strumentazioni, combustibile per gruppi elettrogeni, ecc.);
+? esercizio e manutenzione ordinaria e straordinaria di impianti elettrici in MT e BT a partire dal punto di consegna della rete pubblica fino agli apparecchi utilizzatori, comprese reti elettriche, apparecchi illuminanti, prese, interruttori, dispositivi di comando, controllo e di protezione, sistemi di riserva e di emergenza, impianti di terra e di protezione contro le scariche atmosferiche, sistemi di produzione combinata di energia elettrica e termica (ove presenti), illuminazione esterna e di segnaletica;
+? esercizio e manutenzione di impianti fotovoltaici e di cogenerazione e trigenerazione.
+F) Servizio di gestione degli impianti speciali di sicurezza e di comunicazione. Esercizio e manutenzione ordinaria e straordinaria di:
+? impianti di diffusione sonora, filodiffusione e simili;
+? impianti rilevazione incendi e gas;
+? impianti antintrusione e controllo accessi;
+? impianti di chiamata e sistemi interfonici;
+? impianti orologi elettrici;
+? impianti antenna TV e TV a circuito chiuso;
+? impianti citofonici e videocitofonici;
+? impianti eliminacode;
+? impianti di supervisione allarmi, monitoraggio e telecontrollo e simili.
+G) Servizio di gestione di impianti e sistemi antincendio. Esercizio e manutenzione ordinaria e straordinaria di:
+? reti di idranti, naspi e simili;
+? estintori;
+? sistemi di compartimentazione;
+? porte antincendio;
+? dispositivi di evacuazione del fumo;
+? ogni altro dispositivo necessario alla protezione delle strutture e degli ambienti dal rischio incendio secondo le normative tecniche vigenti;
+? impianti di spegnimento automatico.
+
+H) Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale. Esercizio e manutenzione ordinaria e straordinaria di:
+? ascensori e impianti elevatori, montacarichi;
+? servoscale e montascale;
+? scale mobili e marciapiedi mobili, piattaforme mobili.
+J) Servizio di gestione di altri impianti tecnologici. Esercizio e manutenzione ordinaria e straordinaria di:
+? porte automatiche, sbarre, cancelli e accessi automatizzati;
+? impianti per la prevenzione della legionellosi;
+? impianti di irrigazione;
+? impianti di emungimento acqua di falda;
+? elisuperfici e impianti SOV;
+? vasche terapeutiche;
+? frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere;
+? cappe chimiche, biologiche e a flusso laminare e tavoli e armadi aspirati;
+? impianti di posta pneumatica;
+? lavapadelle;
+? elettrodomestici vari tra cui frigoriferi domestici destinati alla conservazione di alimenti, forni a microonde, fornelli, forni domestici, lavastoviglie, cappe da cucina, fabbricatori di ghiaccio, lavatrici domestiche.
+K) Servizi di governo, presidio tecnologico, pronto intervento, sistema informativo, analisi energetica, ecc.
+L) Servizi per personale aggiuntivo giornaliero secondo le esigenze dell'Azienda Sanitaria e per la squadra di emergenza tecnologica e antincendio.
+I servizi elencati alle lettere A, B, C, D, E, F e G devono essere considerati ad adesione obbligatoria da parte delle Aziende Sanitarie elencate nella successiva sezione denominata Suddivisione in lotti, fermo restando quanto previsto dall'art. 7 della Convenzione in termini di modalità di adesione, mentre quelli elencati alle lettere H, J, L, devono essere considerati opzionali e quindi le Aziende Sanitarie potranno scegliere se aderirvi, anche parzialmente.
+Il sevizio K deve intendersi parte integrante degli altri servizi elencati.
+Tutti i prodotti/servizi oggetto del presente appalto dovranno avere le caratteristiche minime stabilite nel Capitolato Tecnico.
+Il valore dell'appalto è complessivamente pari ad Euro € 751.746.353,41 (IVA esclusa).
+Tali importi massimi non sono in alcun modo vincolanti né per Azienda Zero né per le Aziende Sanitarie che, pertanto, non risponderanno nei confronti dell'Appaltatore in caso di Ordinativi Principali di Fornitura e/o di Atti Aggiuntivi che risultino complessivamente inferiori a detti importi.
+Le quantità effettive di prestazioni da fornire saranno, pertanto, determinate fino a concorrenza dei predetti importi massimi, eventualmente incrementati, in base agli Ordinativi Principali di Fornitura e agli Atti Aggiuntivi deliberati dalle Aziende Sanitarie che utilizzeranno la Convenzione, sulla base di quanto previsto dall'art. 5 della Convenzione, con riferimento alle eventuali modifiche contrattuali.
+L'affidamento in oggetto avverrà mediante procedura aperta e con l'applicazione del criterio dell'offerta economicamente più vantaggiosa, individuata sulla base del miglior rapporto qualità/prezzo, ai sensi degli artt. 71 e 108 del D.Lgs. 36/2023 (d'ora in poi Codice).
+La durata del contratto e le eventuali opzioni di proroga, il quadro economico dell'appalto, la descrizione dei servizi, nonché le caratteristiche tecniche indispensabili a pena di esclusione sono riportate nel Capitolato Tecnico e nella Convenzione.
+
+Per la presente procedura di gara e per la successiva stipula della Convenzione non è previsto il sopralluogo; lo stesso sarà invece obbligatorio per poter accettare l'eventuale Ordinativo di Fornitura, con le modalità previste nella Convenzione.
+Il Responsabile Unico del Procedimento (RUP) per le fasi di progettazione e di affidamento del presente appalto, di competenza dell'U.O.C. CRAV, è la dott.ssa Sandra Zuzzi.
+Ogni Azienda Sanitaria provvederà a nominare il proprio RUP per la fase di esecuzione, ai sensi dell'art. 15 del Codice.
+L'appalto è suddiviso nei seguenti lotti:
+
+Tabella 1
+
+Numero Lotto
+Oggetto del lotto
+CIG
+Importo
+1Azienda Ospedaliera di Padova (AOP), Istituto Oncologico Veneto (IOV)
+A02D8C357A
+€ 119.712.548,81
+2Azienda Ospedaliera Universitaria Integrata di Verona (AOUI-VR)
+A02D97CE22
+€ 189.766.329,07
+3Azienda ULSS 6 Euganea, Azienda Zero
+A02D991F76
+€ 68.003.016,524Azienda ULSS 7 PedemontanaA02D99D95F€ 70.238.337,045Azienda ULSS 8 BericaA02D9A0BD8€171.502.453,896Azienda ULSS 9 ScaligeraA02D9A71A2€ 132.523.671,89Gli importi massimi indicati nella tabella precedente, da intendersi IVA esclusa, sono comprensivi di tutti i servizi, sia quelli sopra indicati come obbligatori che quelli opzionali.
+I lotti sono stati individuati sulla base del criterio dell'omogeneità territoriale, in relazione al territorio di insistenza, ma anche sulla base della natura dell'Azienda beneficiaria degli interventi e della continuità che si vuole fornire alle Aziende pubbliche nel relazionarsi con un unico fornitore in ossequio ai principi di semplificazione dell'attività amministrativa, di efficienza ed efficacia della stessa. Sulla base di quanto affermato, nonostante le Aziende Ospedaliere insistano sulla medesima porzione di territorio di competenza delle Aziende Sanitarie, il favor partecipationis impone di identificare lotti dedicati a ciascuna di esse non potendo non considerarsi le specificità proprie delle une rispetto alle altre. Specificità gestionali e dimensionali, nel senso della loro differente estensione territoriale ma anche del differente numero di strutture sanitarie coinvolte. Da ciò ne deriva una naturale differenziazione e quantificazione che determina, per differenti tipologie di operatori economici, la possibilità di determinarsi nelle differenti modalità di partecipazione alla procedura in oggetto.
+Nell'ambito di ciascun Lotto e con riferimento ad ogni singolo Ordinativo di Fornitura, nel caso in cui prima della decorrenza del termine di durata dell'Ordinativo sia esaurito l'importo contrattuale, l'Azienda Sanitaria si riserva di richiedere e l'Appaltatore ha l'obbligo di accettare, alle medesime condizioni della Convenzione, oltre a quanto previsto all'art. 120, comma 3, un incremento di tale importo fino a concorrenza del limite di cui all'art. 120, comma 9, del Codice, come meglio specificato all'art. 5 della Convenzione, ad oggetto "Modifiche contrattuali in corso di esecuzione".
+
+Alla luce della suddivisione in lotti adottata, allo scopo di salvaguardare la concorrenza permettendo la più ampia partecipazione possibile moderando tuttavia, al contempo, gli effetti della centralizzazione sul mercato di riferimento, si è ritenuto opportuno inserire, in luogo del vincolo di partecipazione, il seguente vincolo di aggiudicazione ai sensi dell'art. 58, comma 4, del D.Lgs. n. 36/2023
+ciascun offerente potrà al massimo aggiudicarsi n. 1 Lotti
+Pertanto, nel caso in cui il medesimo offerente si collochi primo in graduatoria in più di un Lotto, lo stesso sarà chiamato a scegliere il Lotto nel quale riterrà di essere nominato come aggiudicatario. Gli operatori economici primi in graduatoria verranno chiamati ad effettuare la scelta in ordine decrescente rispetto al valore economico dei Lotti.
+Contestualmente, una volta assegnato il Lotto al concorrente, nei restanti Lotti dove era primo o utilmente posizionato in graduatoria si procederà allo scorrimento della stessa (espungendolo per aver già effettuato la propria scelta), e assegnando il lotto all'operatore economico divenuto primo salvo che lo stesso si trovi primo in altra graduatoria dovendosi in tale fattispecie applicare il precedente criterio della scelta da parte dell'OE.
+Analogamente si procederà allo scorrimento della graduatoria nel caso in cui un concorrente aggiudicatario sia escluso all'esito del sub-procedimento di verifica di anomalia dell'offerta economica o di esame della documentazione amministrativa ovvero, da ultimo, di controllo dei requisiti.
+-	Eccezione
+Il vincolo di aggiudicazione non opererà tuttavia nel caso in cui, concluso il primo ciclo di assegnazioni di tutti i lotti, la graduatoria di uno o più lotti risulti esaurita; in tal caso si procederà ad un secondo ciclo di assegnazioni secondo il suddetto metodo di assegnazione.
+Si procederà allo stesso modo fin quando tutti i lotti non sono assegnati.
+Descrizione Lotti GESTIONE VETTORI ENERGETICI DELLE AZIENDE SANITARIE DELLA REGIONE DEL VENETO:
+Tabella 2
+
+Lotto n.DescrizioneCPV Prestazioni P (principale) S (secondaria)Importo a base di GaraOneri per la sicurezza da interferenze non soggetti a ribasso1Azienda Ospedaliera di Padova (AOP), Istituto Oncologico Veneto (IOV)71314200Prestazioni P: A, B, C, D, E,
+
+Prestazioni S: F, G, H, J, K, L€ 119.712.548,8102 Azienda Ospedaliera Universitaria Integrata di Verona (AOUI-VR)71314200Prestazioni P: A, B, C, D, E,
+
+Prestazioni S: F, G, H, J, K, L€ 189.766.329,0703Azienda ULSS 6 Euganea, Azienda Zero71314200Prestazioni P: A, B, C, D, E,
+
+Prestazioni S: F, G, H, J, K, L€ 68.003.016,520
+4Azienda ULSS 7 Pedemontana71314200Prestazioni P: A, B, C, D, E,
+
+Prestazioni S: F, G, H, J, K, L€ 70.238.337,0405Azienda ULSS 8 Berica71314200Prestazioni P: A, B, C, D, E,
+
+Prestazioni S: F, G, H, J, K, L€171.502.453,8906Azienda ULSS 9 Scaligera71314200Prestazioni P: A, B, C, D, E,
+
+Prestazioni S: F, G, H, J, K, L€ 132.523.671,890
+
+L'importo a base di gara comprende i costi della manodopera che la stazione appaltante ha stimato come segue:
+Tabella 3
+
+
+Lotto
+DescrizioneImporto complessivo annuale del Lotto relativo ai servizi a cononeImporto complessivo annuale costo manodopera relativo ai servizi a conone
+Incidenza %
+1Azienda Ospedaliera di Padova (AOP), Istituto Oncologico Veneto (IOV)
+€ 19.184.702,72
+€ 6.389.501,95
+33,31
+2 Azienda Ospedaliera Universitaria Integrata di Verona (AOUI-VR)
+€ 30.411.270,68
+€ 7.594.920,00
+24,97
+3   Azienda ULSS 6 Euganea, Azienda Zero
+€ 10.897.919,31
+€ 3.594.094,85
+32,98
+4Azienda ULSS 7 Pedemontana
+€ 11.256.143,76
+€ 3.076.687,20
+27,33
+5Azienda ULSS 8 Berica
+€ 27.484.367,61
+€ 7.178.936,80
+26,12
+6Azienda ULSS 9 Scaligera
+€ 21.237.767,93
+€ 5.063.280,00
+23,84
+Importi calcolati sulla base dell'impiego presunto di risorse in FTE, per ciscun lotto, appliacando un costo orario come da indice di adeguamento prezzi definito nello schema di Convenzione (Allegato 5), ovvero operaio di V° livello, Prezziario Interprovinciale degli Impianti Tecnologici pubblicato dalla Camera di Commercio di Vicenza su incarico di Unioncamere Veneto e delle Camere di Commercio del Veneto, e riferiti ai servizi a canone.
+I costi della manodopera non sono soggetti al ribasso.
+Il contratto collettivo applicato è quello del personale dipendente da imprese dell'industria metalmeccanica privata e della installazione degli impianti.
+L'importo degli oneri per la sicurezza da interferenze è pari a € 0,00 poiché le Aziende Sanitarie ai sensi dell'art. 26 del D. Lgs. 81/2008, provvederanno, prima dell'emissione dell'Ordinativo di Fornitura ad integrare il predetto documento, riferendolo ai rischi specifici da interferenza presenti nei luoghi in cui sarà espletato l'appalto. Si ritiene pertanto che i costi della sicurezza derivanti da "interferenze" siano, allo stato attuale, pari a 0.
+
+3.1 DURATA
+La durata dell'appalto (escluse le eventuali opzioni) è di 36 mesi, decorrenti dalla data di sottoscrizione del verbale di consegna del servizio contratto (da intendersi l'Ordinativo di Fornitura predisposto dalla singola Azienda Sanitaria/Azienda Ospedaliera).
+
+3.2. REVISIONE PREZZI
+Ai sensi dell'art. 60 del D.lgs. 36/2023 si procede alla revisione dei prezzi rimandando all'art. 20.5 della Convenzione, rubricato "Revisione periodica dei prezzi".
+
+3.3. MODIFICA DEL CONTRATTO IN FASE DI ESECUZIONE
+Ai sensi dell'art. 120 comma 9 del D.Lgs 36/2023 si prevede la possibilità, qualora si renda necessario, di un aumento o una diminuzione delle prestazioni fino alla concorrenza di un quinto dell'importo del contratto. La stazione appaltante può imporre all'appaltatore l'esecuzione alle condizioni originariamente previste. In tal caso l'appaltatore non può fare valere il diritto alla risoluzione del contratto.
+Il contratto può essere prorogato, ai sensi dell'art. 120 comma 10 del D.Lgs 36/2023, ai prezzi, patti e condizioni stabiliti nel contratto per una durata pari a 1 anno, per un importo presunto pari a € 156.613.823,63 al netto di Iva e/o di altre imposte e contributi di legge, nonché degli oneri per la sicurezza dovuti a rischi da interferenze. L' esercizio di tale facoltà è comunicato all'appaltatore almeno 30 giorni prima della scadenza del contratto.
+In casi eccezionali, il contratto in corso di esecuzione può essere prorogato per il tempo strettamente necessario alla conclusione della procedura di individuazione del nuovo contraente se si verificano le condizioni indicate all'art. 120 comma 11. In tal caso il contraente è tenuto all'esecuzione delle prestazioni oggetto del contratto agli stessi prezzi, patti e condizioni previsti nel contratto.
+
+3.4 IMPORTO COMPLESSIVO DELL'APPALTO
+Il valore globale stimato dell'appalto è pari ad € IVA esclusa ripartito come da tabella sotto riportata:
+Tabella 4
+
+Lotto 1Lotto 2Lotto 3Lotto 4Lotto 5Lotto 6
+
+Importo per tutta la durata del contratto
+
+
+€ 74.820.343,01
+
+
+€ 118.603.955,67
+
+
+€ 42.501.885,33
+
+
+€ 43.898.960,65
+
+
+€ 107.189.033,68
+
+
+€ 82.827.294,93
+Importo Opzione del 20% di Manutenzione Straordinaria
+
+
+€ 3.836.940,67
+
+
+€ 6.082.254,14
+
+
+€ 2.179.583,86
+
+
+€ 2.251.228,75
+
+
+€ 5.496873,522
+
+
+€ 4.247.553,59
+Importo del 10
+% di adeguamento normativo
+
+
+€ 1.918.470,33
+
+
+€ 3.041.127,07
+
+
+€ 1.089.791,93
+
+
+€ 1.125.614,38
+
+
+€ 2.748.436,76
+
+
+€ 2.123.776,79Importo massimo del quinto d'obbligo, in caso di variazioni in aumento
+
+
+
+€ 19.952.091,47
+
+
+
+€ 31.627.721,51
+
+
+
+€ 11.333.836,09
+
+
+
+€ 11.706.389,51
+
+
+
+€ 28.583.742,31
+
+
+
+€ 22.087.278,65Importo per rinnovo annuale
+
+€ 24.940.114,34
+
+€ 39.534.651,89
+
+€ 14.167.295,11
+
+€ 14.632.986,88
+
+€ 35.729.677,89
+
+€ 27.609.098,31Valore globale stimato
+€ 119.712.548,81
+€ 189.766.329,07
+€ 68.003.016,52
+€ 70.238.337,04
+€ 171.502.453,89
+€ 132.523.671,89
+4. SOGGETTI AMMESSI IN FORMA SINGOLA E ASSOCIATA E CONDIZIONI DI PARTECIPAZIONE
+Gli operatori economici possono partecipare alla presente gara in forma singola o associata.
+Ai soggetti costituiti in forma associata si applicano le disposizioni di cui agli articoli 67 e 68 del Codice.
+I consorzi di cui all'articolo 65 comma 2 del Codice che intendono eseguire le prestazioni tramite i propri consorziati sono tenuti ad indicare per quali consorziati il consorzio concorre.
+Il concorrente che partecipa al singolo lotto in una delle forme di seguito indicate è escluso nel caso in cui la stazione appaltante accerti la sussistenza di rilevanti indizi tali da far ritenere che le offerte degli operatori economici siano imputabili ad un unico centro decisionale a cagione di accordi intercorsi con altri operatori economici partecipanti alla stessa gara:
+- partecipazione in più di un raggruppamento temporaneo o consorzio ordinario di concorrenti o aggregazione di operatori economici aderenti al contratto di rete (nel prosieguo, aggregazione di retisti)
+- partecipazione sia in raggruppamento o consorzio ordinario di concorrenti sia in forma individuale:
+- partecipazione sia in aggregazione di retisti sia in forma individuale. Tale esclusione non si applica alle retiste non partecipanti all'aggregazione, le quali possono presentare offerta, per la medesima gara [in caso
+
+di suddivisione dell'appalto in lotti distinti sostituire "alla gara" con "al singolo lotto"], in forma singola o associata;
+- partecipazione di un consorzio che ha designato un consorziato esecutore il quale, a sua volta, partecipa in una qualsiasi altra forma.
+Nel caso venga accertato quanto sopra, si provvede ad informare gli operatori economici coinvolti i quali possono, entro 10 giorni, dimostrare che la circostanza non ha influito sulla gara, né è idonea a incidere sulla capacità di rispettare gli obblighi contrattuali.
+Le aggregazioni di retisti di cui all'articolo 65, comma 2 lettera g) del Codice, rispettano la disciplina prevista per i raggruppamenti temporanei in quanto compatibile. In particolare:
+a) nel caso in cui la rete sia dotata di organo comune con potere di rappresentanza e soggettività giuridica (cd. Rete - soggetto), l'aggregazione di retisti partecipa a mezzo dell'organo comune, che assume il ruolo del mandatario, qualora in possesso dei relativi requisiti. L'organo comune può indicare anche solo alcuni tra i retisti per la partecipazione alla gara ma deve obbligatoriamente far parte di questi;
+b) nel caso in cui la rete sia dotata di organo comune con potere di rappresentanza ma priva di soggettività giuridica (cd. Rete - contratto), l'aggregazione di retisti partecipa a mezzo dell'organo comune, che assume il ruolo del mandatario, qualora in possesso dei requisiti previsti per la mandataria e qualora il contratto di rete rechi mandato allo stesso a presentare domanda di partecipazione o offerta per determinate tipologie di procedure di gara. L'organo comune può indicare anche solo alcuni tra i retisti per la partecipazione alla gara ma deve obbligatoriamente far parte di questi;
+c) nel caso in cui la rete sia dotata di organo comune privo di potere di rappresentanza ovvero sia sprovvista di organo comune, oppure se l'organo comune è privo dei requisiti di qualificazione, l'aggregazione di retisti partecipa nella forma del raggruppamento costituito o costituendo, con applicazione integrale delle relative regole.
+Per tutte le tipologie di rete, la partecipazione congiunta alle gare deve risultare individuata nel contratto di rete come uno degli scopi strategici inclusi nel programma comune, mentre la durata dello stesso dovrà essere commisurata ai tempi di realizzazione dell'appalto.
+Ad un raggruppamento temporaneo può partecipare anche da un consorzio di cui all'articolo 65, comma 1, lettera b), c), d) ovvero una sub-associazione, nelle forme di un RTI o consorzio ordinario costituito oppure di un'aggregazione di retisti. A tal fine, se la rete è dotata di organo comune con potere di rappresentanza (con o senza soggettività giuridica), tale organo assumerà la veste di mandatario della sub-associazione; se, invece, la rete è dotata di organo comune privo del potere di rappresentanza o è sprovvista di organo comune, il ruolo di mandatario della sub-associazione è conferito dai retisti partecipanti alla gara, mediante mandato, dando evidenza della ripartizione delle quote di partecipazione.
+L'impresa in concordato preventivo può concorrere anche riunita in raggruppamento temporaneo di imprese e sempre che le altre imprese aderenti al raggruppamento temporaneo di imprese non siano assoggettate ad una procedura concorsuale.
+
+5. REQUISITI DI ORDINE GENERALE E ALTRE CAUSE DI ESCLUSIONE
+I concorrenti devono essere in possesso, a pena di esclusione, dei requisiti di ordine generale previsti dal Codice nonché degli ulteriori requisiti indicati nel presente articolo.
+La sussistenza delle cause automatiche di esclusione di cui all'articolo 94 comporta l'esclusione diretta mentre la sussistenza delle cause di esclusione non automatiche di cui all'articolo 95 deve essere accertata previo contraddittorio con l'operatore economico.
+In caso di partecipazione di consorzi di cui all'articolo 65, comma 2, lettere b) e c) del Codice i requisiti di cui al presente articolo devono essere posseduti dal consorzio e dalle consorziate indicate quali esecutrici.
+
+In caso di partecipazione di consorzi stabili di cui all'articolo 65, comma 2, lett. d) del Codice i requisiti di cui al presente articolo devono essere posseduti dal consorzio, dalle consorziate indicate quali esecutrici e dalle consorziate che prestano i requisiti.
+Self cleaning
+Un operatore economico che si trovi in una delle situazioni di cui agli articoli 94 e 95, ad eccezione delle irregolarità contributive e fiscali definitivamente e non definitivamente accertate, può fornire prova di aver adottato misure (c.d. self cleaning) sufficienti a dimostrare la sua affidabilità.
+Se la causa di esclusione si è verificata prima della presentazione dell'offerta, l'operatore economico indica nella dichiarazione integrativa alla domanda di partecipazione la causa ostativa e, alternativamente:
+- descrive le misure adottate ai sensi dell'articolo 96, comma 6 del Codice;
+- motiva l'impossibilità ad adottare dette misure e si impegna a provvedere successivamente. L'adozione delle misure è comunicata alla stazione appaltante.
+Se la causa di esclusione si è verificata successivamente alla presentazione dell'offerta, l'operatore economico adotta le misure di cui al comma 6 dell'articolo 96 del Codice dandone comunicazione alla stazione appaltante.
+Nel caso in cui un raggruppamento/consorzio abbia estromesso o sostituito un partecipante/esecutore interessato da una clausola di esclusione di cui agli articoli 94 e 95 del Codice, si valutano le misure adottate ai sensi dell'articolo 97 del Codice al fine di decidere sull'esclusione.
+Sono considerate misure sufficienti il risarcimento o l'impegno a risarcire qualunque danno causato dal reato o dall'illecito, la dimostrazione di aver chiarito i fatti e le circostanze in modo globale collaborando attivamente con le autorità investigative e di aver adottato provvedimenti concreti, di carattere tecnico, organizzativo o relativi al personale idonei a prevenire ulteriori reati o illeciti
+Se le misure adottate sono ritenute sufficienti e tempestive, l'operatore economico non è escluso. Se dette misure sono ritenute insufficienti e intempestive, la stazione appaltante ne comunica le ragioni all'operatore economico.
+Non può avvalersi del self-cleaning l'operatore economico escluso con sentenza definitiva dalla partecipazione alle procedure di affidamento o di concessione, nel corso del periodo di esclusione derivante da tale sentenza.
+Nel caso in cui un raggruppamento/consorzio abbia estromesso o sostituito un partecipante/esecutore interessato da una clausola di esclusione di cui agli articoli 94 e 95 del Codice, si valutano le misure adottate ai sensi dell'articolo 97 del Codice al fine di decidere sull'esclusione
+
+
+Altre cause di esclusione
+Sono esclusi gli operatori economici che abbiano affidato incarichi in violazione dell'articolo 53, comma 16-ter, del decreto legislativo del 2001 n. 165 a soggetti che hanno esercitato, in qualità di dipendenti, poteri autoritativi o negoziali presso l'amministrazione affidante negli ultimi tre anni.
+La mancata accettazione delle clausole contenute nel protocollo di legalità/patto di integrità e il mancato rispetto dello stesso costituiscono causa di esclusione dalla gara, ai sensi dell'articolo 83 bis del decreto legislativo n. 159/2011.
+
+6. REQUISITI DI ORDINE SPECIALE E MEZZI DI PROVA
+I concorrenti devono possedere, a pena di esclusione, i requisiti previsti nei commi seguenti.
+
+6.1. REQUISITI DI IDONEITÀ PROFESSIONALE
+Iscrizione nel Registro delle Imprese oppure nell'Albo delle Imprese artigiane per attività pertinenti con quelle oggetto della presente procedura di gara.
+Per l'operatore economico di altro Stato membro, non residente in Italia: iscrizione in uno dei registri professionali o commerciali degli altri Stati membri di cui all'allegato II.11 del Codice;
+Per l'operatore economico di altro Stato membro, non residente in Italia: secondo le modalità vigenti nello Stato nel quale è stabilito.
+La comprova di tale requisito è fornita mediante dichiarazione ai sensi del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445, di essere iscritto in uno dei registri professionali o commerciali di cui all'allegato II.11 del D.Lgs 36/2023.
+
+6.2. REQUISITI DI CAPACITÀ TECNICA E PROFESSIONALE
+   a) Esecuzione negli ultimi tre anni di SERVIZI ANALOGHI, di cui almeno il 30% a favore di strutture sanitarie pubbliche e/o private, per importi al netto dell'IVA, complessivamente non inferiori agli importi indicati nella tabella che segue:
+
+
+IMPORTO MINIMO
+LOTTO n. 1
+€	19.184.703,34
+LOTTO n. 2
+€	30.411.270,68
+LOTTO n. 3
+€	10.897.919,31
+LOTTO n. 4
+€	11.256.143,76
+LOTTO n. 5
+€	27.484.367,61
+LOTTO n. 6
+€	21.237.767,93Nel caso di partecipazione a più lotti è sufficiente l'esecuzione negli ultimi tre anni di servizi analoghi pari all'importo, tra quelli sopra indicati, più elevato dei lotti ai quali il concorrente intende partecipare.
+
+Per servizi analoghi si intendono:
+- servizio di gestione e manutenzione di impianti di climatizzazione invernale;
+- servizio di gestione e manutenzione di impianti di climatizzazione estiva;
+- servizi termici in genere;
+- servizi di gestione	di impianti elettrici (esclusa la mera fornitura di energia elettrica e di combustibili);
+- servizi di gestione di impianti e di sistemi antincendio;
+
+   b) di possedere le seguenti categorie SOA per gli interventi di manutenzione straordinaria e di efficientamento energetico, per ogni singolo Lotto:
+
+
+N° LottiClassificheCategorieImporto annuo dei interventiLotto 1
+
+
+
+   Categoria Prevalente/UnicaIVOG11€ 1.918.470,33Lotto 2IV bisOG11€ 3.041.127,07Lotto 3III bisOG11€ 1.089.791,93Lotto 4III bisOG11€ 1.125.614,38Lotto 5IV bisOG11€ 2.748.436,76Lotto 6III bisOG11€ 2.123.776,79In caso di partecipazione a più Lotti, il concorrente dovrà possedere la classifica SOA corrispondente all'importo più alto dei lotti al quale intende partecipare.
+
+
+   c) di possedere le abilitazioni professionali previste dal D.M. n. 37/2008 per tutte le attività inerenti gli impianti indicati nell'art. 1 del medesimo decreto ;
+   d) di possedere i requisiti previsti dal D.P.R. 412/93 e s.m.i. con particolare riferimento alle prescrizioni di cui all'articolo 1, comma 1, lettera o);
+   e) di possedere le competenze tecniche previste dall'Allegato 1 del DM 7 marzo 2012, ad oggetto "Adozione dei criteri ambientali minimi da inserire nei bandi di gara della Pubblica Amministrazione per l'acquisto di servizi energetici per gli edifici - servizio di illuminazione e forza motrice - servizio di riscaldamento/raffrescamento", ed in particolare:
+- la certificazione UNI CEI 11352 ovvero le competenze tecniche necessarie a realizzare correttamente il servizio, riducendone gli impatti ambientali ;
+- la certificazione EMAS o la certificazione ISO 14001 ovvero un sistema di gestione ambientale; in quest'ultimo caso il concorrente dovrà allegare una descrizione dettagliata del sistema di gestione ambientale funzionante presso la propria Azienda (politica ambientale, analisi ambientale iniziale, programma di miglioramento, attuazione del S.G.A., misurazioni e valutazioni, definizione delle responsabilità, sistema di documentazione e rapporti di audit)
+La comprova del requisito è fornita mediante uno o più dei seguenti documenti:
+-	certificati rilasciati dall'amministrazione/ente contraente, con l'indicazione dell'oggetto, dell'importo e del periodo di esecuzione;
+-	contratti stipulati con le amministrazioni pubbliche, completi di copia delle fatture quietanzate ovvero dei documenti bancari attestanti il pagamento delle stesse;
+-	attestazioni rilasciate dal committente privato, con l'indicazione dell'oggetto, dell'importo e del periodo di esecuzione;
+-	contratti stipulati con privati, completi di copia delle fatture quietanzate ovvero dei documenti bancari attestanti il pagamento delle stesse.
+
+6.3. INDICAZIONI SUI REQUISITI SPECIALI NEI RAGGRUPPAMENTI TEMPORANEI, CONSORZI ORDINARI, AGGREGAZIONI DI IMPRESE DI RETE, GEIE
+I soggetti di cui all'articolo 65, comma 2, lettera e), f) g) e h) del Codice devono possedere i requisiti di ordine speciale nei termini di seguito indicati.
+Alle aggregazioni di retisti, ai consorzi ordinari ed ai GEIE si applica la disciplina prevista per i raggruppamenti temporanei.
+Requisiti di idoneità professionale
+a) Il requisito relativo all'iscrizione nel Registro delle Imprese oppure nell'Albo delle Imprese artigiane di cui di cui al punto 6.1 deve essere posseduto:
+-	da ciascun componente del raggruppamento/consorzio/GEIE anche da costituire, nonché dal GEIE medesimo;
+-	da ciascun componente dell'aggregazione di rete nonché dall'organo comune nel caso in cui questi abbia soggettività giuridica.
+Requisiti di capacità economico finanziaria
+a)Il requisito relativo al fatturato globale di cui all'art. 6.2 deve essere soddisfatto dal raggruppamento temporaneo nel complesso.
+Requisiti di capacità tecnico-professionale
+a) Il requisito dell'elenco dei servizi/forniture analoghi di cui al precedente art. 6.2 richiesto in relazione alla prestazioni rientranti all'interno degli allinea di cui al punto a) del citato articolo deve essere posseduto dal raggruppamento nel complesso.
+
+6.4. INDICAZIONI SUI REQUISITI SPECIALI NEI CONSORZI DI COOPERATIVE, CONSORZI DI IMPRESE ARTIGIANE, CONSORZI STABILI
+Requisiti di idoneità professionale
+Il requisito relativo all'iscrizione nel Registro delle Imprese oppure nell'Albo delle Imprese artigiane di cui di cui all'art. 6.1 deve essere posseduto dal consorzio e dai consorziati indicati come esecutori
+
+Requisiti di capacità economico finanziaria e tecnico-professionale
+I consorzi di cui all'articolo 65, comma 2, lettera b) e c) del Codice, utilizzano i requisiti propri e, nel novero di questi, fanno valere i mezzi nella disponibilità delle consorziate che li costituiscono.
+I consorzi di cui all'articolo 65, comma 2, lett. d) del Codice dimostrano i requisiti cumulando anche quelli posseduti delle consorziate.
+
+Nel caso in cui un consorzio abbia estromesso o sostituito una consorziata poiché priva di un requisito di ordine speciale di cui all'articolo 100 del Codice, si valutano le misure adottate ai sensi dell'articolo 97 del Codice al fine di decidere sull'esclusione..
+
+7. AVVALIMENTO
+Ai sensi dell'art. 104 del D.lgs. 36/2023 Il concorrente può avvalersi di dotazioni tecniche, risorse umane e strumentali messe a disposizione da uno o più operatori economici ausiliari per tutta la durata dell'appalto per dimostrare il possesso dei requisiti di ordine speciale di cui all'art. 6 e/o per migliorare la propria offerta.
+L'operatore economico, ai sensi del comma 4 dell'articolo 104 del codice, allega alla domanda il contratto di avvalimento in originale o copia autentica, specificando se intenda avvalersi delle risorse altrui per acquisire un requisito di partecipazione o per migliorare la propria offerta e allega, nel caso il contratto di avvalimento sia concluso per acquisire un requisito necessario alla partecipazione a una procedura di
+
+aggiudicazione di un appalto di lavori di importo pari o superiore a euro 150.000, o di un appalto di servizi e forniture, la certificazione rilasciata dalla SOA o dall'ANAC.
+Nel contratto di avvalimento le parti specificano le risorse strumentali e umane che l'ausiliario mette a disposizione del concorrente e indicano se l'avvalimento è finalizzato ad acquisire un requisito di partecipazione o a migliorare l'offerta del concorrente, o se serve ad entrambe le finalità.
+Nei casi in cui l'avvalimento sia finalizzato a migliorare l'offerta, non è consentito che alla stessa gara partecipino sia l'ausiliario che l'operatore che si avvale delle risorse da questo a messe a disposizione, pena l'esclusione di entrambi i soggetti.
+Ai sensi dell'articolo 372, comma 4 del codice della crisi di impresa e dell'insolvenza, per la partecipazione alla presente procedura tra il momento del deposito della domanda di cui all'articolo 40 del succitato codice e il momento del deposito del decreto previsto dall'articolo 47 del codice medesimo è sempre necessario l'avvalimento dei requisiti di un altro soggetto. L'avvalimento non è necessario in caso di ammissione al concordato preventivo.
+Il concorrente e l'ausiliario sono responsabili in solido nei confronti della stazione appaltante in relazione alle prestazioni oggetto del contratto.
+Non è consentito l'avvalimento per soddisfare i requisiti di ordine generale e dell'iscrizione alla Camera di commercio
+L'ausiliario deve:
+a) possedere i requisiti previsti dall'articolo 5 e quelli di cui all'articolo 6 oggetto di avvalimento e dichiararli presentando una propria dichiarazione integrativa alla domanda di partecipazione, da compilare nelle parti pertinenti;
+b) impegnarsi, verso il concorrente che si avvale e verso la stazione appaltante, a mettere a disposizione, per tutta la durata dell'appalto, le risorse oggetto di avvalimento.
+Il concorrente allega alla domanda di partecipazione il contratto di avvalimento, che deve essere nativo digitale e firmato digitalmente dalle parti, nonché le dichiarazioni dell'ausiliario.
+È sanabile, mediante soccorso istruttorio, la mancata produzione delle dichiarazioni dell'ausiliario.
+È sanabile, mediante soccorso istruttorio, la mancata produzione del contratto di avvalimento a condizione che il contratto sia stato stipulato prima del termine di presentazione dell'offerta e che tale circostanza sia comprovabile con data certa.
+Non è sanabile - e quindi è causa di esclusione dalla gara - la mancata indicazione delle risorse messe a disposizione dall'ausiliario in quanto causa di nullità del contratto di avvalimento.
+Qualora per l'ausiliario sussistano motivi di esclusione o laddove esso non soddisfi i requisiti di ordine speciale, il concorrente sostituisce l'ausiliario entro 10 giorni decorrenti dal ricevimento della richiesta da parte della stazione appaltante. Contestualmente il concorrente produce i documenti richiesti per l'avvalimento.
+Nel caso in cui l'ausiliario si sia reso responsabile di una falsa dichiarazione sul possesso dei requisiti, la stazione appaltante procede a segnalazione all'Autorità il comportamento tenuto dall'ausiliario per consentire le valutazioni di cui all'articolo 96, comma 15. L'operatore economico può indicare un altro ausiliario nel termine di dieci giorni, pena l'esclusione dalla gara. La sostituzione può essere effettuata soltanto nel caso in cui non conduca a una modifica sostanziale dell'offerta. Il mancato rispetto del termine assegnato per la sostituzione comporta l'esclusione del concorrente.
+
+8. SUBAPPALTO
+Ai sensi dell'art. 119 del Codice il concorrente indica le prestazioni che intende subappaltare o concedere in cottimo. In caso di mancata indicazione il subappalto è vietato.
+Non può essere affidata in subappalto l'integrale esecuzione delle prestazioni oggetto del contratto nonché la prevalente esecuzione delle medesime nel caso di contratti aventi ad oggetto servizi ad alta intensità di manodopera.
+
+L'aggiudicatario e il subappaltatore sono responsabili in solido nei confronti della stazione appaltante dell'esecuzione delle prestazioni oggetto del contratto di subappalto.
+Per quanto qui non richiamate si applicano le disposizioni di cui all'art. 119 del D.Lgs 36/2023.
+
+9. REQUISITI DI PARTECIPAZIONE E/O CONDIZIONI DI ESECUZIONE
+Ai sensi dell'art. 57 del D. Lgs 36/2023 l'aggiudicatario è tenuto a garantire l'applicazione del contratto collettivo nazionale e territoriale (o dei contratti collettivi nazionali e territoriali di settore) di cui all'art. 3 del presente Disciplinare, oppure un altro contratto che garantisca le stesse tutele economiche e normative per i propri lavoratori e per quelli in subappalto.
+Ferma restando la necessaria armonizzazione con la propria organizzazione e con le esigenze tecnico- organizzative e di manodopera previste nel nuovo contratto, l'aggiudicatario del contratto di appalto è tenuto a garantire la stabilità occupazionale del personale impiegato nel contratto, assorbendo prioritariamente nel proprio organico il personale già operante alle dipendenze dell'aggiudicatario uscente, garantendo le stesse tutele del CCNL indicato all'art. 3.
+L'elenco e i dati relativi al personale attualmente impiegato dal contraente uscente per l'esecuzione del contratto sono riportati nell'allegato alla Convenzione (5.7) "Clausola Sociale" e contiene il numero degli addetti con indicazione dei lavoratori svantaggiati ai sensi della legge n. 381/91, qualifica, livelli anzianità, sede di lavoro, monte ore, etc.].
+Al fine di garantire le pari opportunità generazionali, di genere e di inclusione lavorativa per il personale con disabilità o svantaggiate, l'aggiudicatario si impegna a ad assicurare una quota pari al 10 % (dieci per cento) di occupazione giovanile.
+
+10. GARANZIA PROVVISORIA
+L'offerta per ciascun lotto è corredata, a pena di esclusione, da una garanzia provvisoria pari a 2% e precisamente di importo indicato nella tabella di seguito riportata. Si applicano le riduzioni di cui all'articolo 106, comma 8 del Codice.
+
+
+
+Lotto
+Descrizione
+Importo	complessivo quadriennale LottoImporto Cauzio ne 2%Importo	Cauzione	2% Totale
+1Azienda Ospedaliera di Padova (AOP), Istituto Oncologico Veneto (IOV)
+€ 119.712.548,81   € 383.694
+,07
+€ 2.394.250,98
+2
+Azienda Ospedaliera Universitaria Integrata di Verona (AOUI-VR)
+€ 189.766.329,07   € 608.225
+,41
+€ 3.795.326,58
+3
+Azienda ULSS 6 Euganea, Azienda Zero
+€ 68.003.016,52   € 217.958
+,39
+€ 1.360.060,33
+4
+Azienda ULSS 7 Pedemontana
+€ 70.238.337,04   € 225.122
+,88
+€ 1.404.766,74
+
+5
+Azienda ULSS 8 Berica
+€171.502.453,89   € 549.687
+,35
+€ 3.430.049,08
+6
+Azienda ULSS 9 Scaligera
+€ 132.523.671,89   € 424.755
+,36
+€ 2.650.473,44
+
+In caso di partecipazione a più lotti l'operatore economico può alternativamente:
+- prestare tante distinte ed autonome garanzie provvisorie quanti sono i lotti cui si intende partecipare;
+- prestare un'unica garanzia di importo pari alla somma degli importi stabiliti per i lotti cui intende partecipare. Nella garanzia sono indicati espressamente i singoli lotti per i quali la stessa viene prestata, nonché gli importi di dettaglio delle singole cauzioni riferite a ciascun lotto.
+
+La garanzia provvisoria è costituita, a scelta del concorrente sotto forma di cauzione o di fideiussione in favore di Azienda Zero - Passaggio Gaudenzio n. 1 Padova.
+
+La cauzione è costituita attraverso Pago PA, in attuazione dell'obbligo previsto dal Codice dell'Amministrazione Digitale (CAD) di cui al D.Lgs. n. 82/2005 . Per l'utilizzo della piattaforma Pago PA si precisa che sarà necessario utilizzare il link di seguito indicato, specificando l'oggetto della procedura di gara, il CIG e compilando gli ulteriori dati ivi richiesti:
+https://mypay.regione.veneto.it/pa/public/richiestaPagamentoSpontaneo.html?codIpaEnte=AZERO&cod Tipo=CAUZIONI
+
+La fideiussione può essere rilasciata:
+- da imprese bancarie o assicurative che rispondono ai requisiti di solvibilità previsti dalle leggi che ne disciplinano le rispettive attività;
+- da un intermediario finanziario iscritto nell'albo di cui all'articolo 106 del decreto legislativo 1 settembre 1993, n. 385, che svolge in via esclusiva o prevalente attività di rilascio di garanzie, che è sottoposto a revisione contabile da parte di una società di revisione iscritta nell'albo previsto dall'articolo 161 del decreto legislativo 24 febbraio 1998, n. 58; e che abbia i requisiti minimi di solvibilità richiesti dalla vigente normativa bancaria assicurativa.
+Gli operatori economici, prima di procedere alla sottoscrizione della garanzia, sono tenuti a verificare che il soggetto garante sia in possesso dell'autorizzazione al rilascio di garanzie mediante accesso ai seguenti siti internet:
+
+http://www.bancaditalia.it/compiti/vigilanza/intermediari/index.html http://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/garanzie-finanziarie/ http://www.ivass.it/ivass/imprese_jsp/HomePage.jsp
+
+
+N.B.: Si raccomanda di prendere visione del documento denominato https://www.anticorruzione.it/-
+/garanzie-finanziarie
+
+La garanzia fideiussoria deve essere emessa e firmata da un soggetto in possesso dei poteri necessari per impegnare il garante.
+La fideiussione deve:
+
+a) contenere espressa menzione dell'oggetto del contratto di appalto e del soggetto garantito (stazione appaltante);
+b) essere intestata a tutti gli operatori economici del costituito/costituendo raggruppamento temporaneo o consorzio ordinario o GEIE, ovvero a tutte le imprese retiste che partecipano alla gara ovvero, in caso di consorzi di cui all'articolo 65, comma 2 lettere b) c) d) del Codice, al solo consorzio;
+c) essere conforme allo schema tipo approvato con decreto del Ministro dello sviluppo economico del 16 settembre 2022 n. 193;
+d) avere validità per 365 giorni dalla data di presentazione dell'offerta;
+e) prevedere espressamente:
+1. la rinuncia al beneficio della preventiva escussione del debitore principale di cui all'articolo 1944 del Codice civile;
+2. la rinuncia ad eccepire la decorrenza dei termini di cui all'articolo 1957, secondo comma, del Codice civile;
+3. l'operatività della stessa entro quindici giorni a semplice richiesta scritta della stazione appaltante.
+f) essere corredata dall'impegno del garante a rinnovare la garanzia ai sensi dell'articolo 106, comma 5 del Codice, su richiesta della stazione appaltante per ulteriori 365 giorni, nel caso in cui al momento della sua scadenza non sia ancora intervenuta l'aggiudicazione.
+In caso di richiesta di estensione della durata e validità dell'offerta e della garanzia fideiussoria, il concorrente potrà produrre nelle medesime forme di cui sopra una nuova garanzia provvisoria del medesimo o di altro garante, in sostituzione della precedente, a condizione che abbia espressa decorrenza dalla data di presentazione dell'offerta.
+
+La garanzia fideiussoria e la dichiarazione di impegno devono essere sottoscritte da un soggetto in possesso dei poteri necessari per impegnare il garante ed essere inserite nella BUSTA 1 "Documentazione Amministrativa" in una delle seguenti forme:
+a) originale informatico, ai sensi dell'articolo 1, lett. p) del d.lgs. 7 marzo 2005, n. 82, sottoscritto con firma digitale, o altro tipo di firma elettronica qualificata dal soggetto in possesso dei poteri necessari per impegnare il garante;
+b) in copia informatica di documento analogico (scansione di documento cartaceo) secondo le modalità previste dall'articolo 22, commi 1 e 2, del d.lgs. n. 82/2005;
+c) in duplicato informatico dell'originale informatico conforme alle disposizioni dell'articolo 23-bis del D.lgs. n.82/2005.
+
+Ai sensi dell'art. 106 comma 8 del Codice l'importo della garanzia è ridotto nei termini di seguito indicati:
+a. Riduzione del 30% in caso di possesso della certificazione di qualità conforme alle norme europee della serie UNI CEI ISO 9000. In caso di partecipazione in forma associata, la riduzione si ottiene:
+- per i soggetti di cui all'articolo 65, comma 2, lettere e), f), g), h) del Codice solo se tutti soggetti che costituiscono il raggruppamento, consorzio ordinario o GEIE, o tutte le imprese retiste che partecipano alla gara siano in possesso della certificazione;
+- per i consorzi di cui all'articolo 65, comma 2, lettere b), c), d) del Codice, se il Consorzio ha dichiarato in fase di offerta che intende eseguire con risorse proprie, solo se il Consorzio possiede la predetta certificazione; se il Consorzio ha indicato in fase di offerta che intende assegnare parte delle prestazioni a una o più consorziate individuate nell'offerta, solo se sia il Consorzio sia la consorziata designata posseggono la predetta certificazione, o in alternativa se il solo Consorzio possiede la predetta certificazione e l'ambito di certificazione del suo sistema gestionale include la verifica che l'erogazione della prestazione da parte della consorziata rispetti gli standard fissati dalla certificazione.
+
+b. Riduzione del 50% in caso di partecipazione di micro, piccole e medie imprese e di raggruppamenti di operatori economici o consorzi ordinari costituiti esclusivamente da micro, piccole e medie imprese. Tale riduzione non è cumulabile con quella indicata alla lett. a).
+
+c. Riduzione del 20 % in caso di possesso di una o più delle certificazioni/marchi indicate nell'allegato
+II.13 del codice. Tale riduzione è cumulabile con quelle indicate alle lett. a) e b). In caso di partecipazione in forma associata la riduzione si ottiene:
+- per i soggetti di cui all'articolo 65, comma 2, lettere e), f), g), h) del Codice se uno dei soggetti che costituiscono il raggruppamento, consorzio ordinario o GEIE, o una delle imprese retiste che partecipano alla gara sia in possesso della certificazione;
+- per i consorzi di cui all'articolo 65, comma 2, lettere b), c), d) del Codice se il consorzio o una delle consorziate sia in possesso della certificazione.
+Per fruire delle riduzioni di cui all'articolo 106, comma 8 del Codice, il concorrente dichiara nella domanda di partecipazione il possesso delle certificazioni e inserisce copia delle certificazioni possedute. È sanabile, mediante soccorso istruttorio, la mancata presentazione della garanzia provvisoria solo a condizione che sia stata già costituita prima della presentazione dell'offerta.
+Non è sanabile - e quindi è causa di esclusione - la sottoscrizione della garanzia provvisoria da parte di un soggetto non legittimato a rilasciare la garanzia o non autorizzato ad impegnare il garante.
+
+12. PAGAMENTO DEL CONTRIBUTO A FAVORE DELL'ANAC
+I concorrenti effettuano, a pena di esclusione, il pagamento del contributo previsto dalla legge in favore dell'Autorità Nazionale Anticorruzione secondo le modalità di cui alla delibera Anac n. 621 del 20 dicembre 2022 o successiva delibera pubblicata al seguente https://www.anticorruzione.it/-/gestione- contributi-gara].
+Eventualmente potrà essere attivata la procedura di soccorso istruttorio. In caso di mancata regolarizzazione nel termine assegnato, l'offerta è dichiarata inammissibile. Il contributo è dovuto per ciascun lotto per il quale si presenta offerta secondo gli importi descritti nella sottostante tabella:
+
+
+
+Lotto
+Descrizione
+Importo complessivo quadriennale Lotto
+CIGImporto contributo ANAC
+1Azienda Ospedaliera di Padova (AOP), Istituto Oncologico Veneto (IOV)
+€ 119.712.548,81
+A02D8C357A
+€ 560,00
+2Azienda Ospedaliera Universitaria Integrata di Verona (AOUI-VR)
+€ 189.766.329,07
+A02D97CE22€ 560,00
+3Azienda ULSS 6 Euganea, Azienda Zero
+€ 68.003.016,52
+A02D991F76€ 560,00
+4Azienda ULSS 7 Pedemontana
+€ 70.238.337,04
+A02D99D95F€ 560,005Azienda ULSS 8 Berica€171.502.453,89A02D9A0BD8€ 560,006Azienda ULSS 9 Scaligera€ 132.523.671,89A02D9A71A2€ 560,00
+N.B. Indicazioni operative sulle modalità di pagamento del contributo sono disponibili sul sito dell'Autorità Nazionale Anticorruzione al seguente link: https://www.anticorruzione.it/-/portale-dei-pagamenti-di-anac
+L'importo del contributo è calcolato sul valore stimato d'appalto comprensivo delle eventuali opzioni contrattuali previste nella documentazione di gara
+
+13. MODALITÀ DI PRESENTAZIONE DELL'OFFERTA E SOTTOSCRIZIONE DEI DOCUMENTI DI GARA
+Gli operatori economici interessati dovranno presentare, tassativamente entro i termini indicati nel Bando di Gara, riportati nella Piattaforma Sintel, a pena di esclusione, le proprie offerte esclusivamente attraverso la Piattaforma medesima, collegandosi al sito internet www.aria.regione.lombardia.it, accedendo alla piattaforma ed individuando la procedura in oggetto, utilizzando gli appositi campi di ricerca resi disponibili (si veda a tal fine la sezione help-guide e manuali-operatore economico all'interno del citato sito internet www.aria.regione.lombardia.it).
+Non sono considerate valide le offerte presentate attraverso modalità diverse da quelle previste nel presente disciplinare.
+L'offerta deve essere sottoscritta con firma digitale o altra firma elettronica qualificata o firma elettronica avanzata.
+Le dichiarazioni sostitutive si redigono ai sensi degli articoli 19, 46 e 47 del decreto del Presidente della Repubblica n. 445/2000.
+La documentazione presentata in copia è accompagnata da dichiarazione di conformità all'originale ai sensi del decreto legislativo n. 82/05.
+L'offerta deve pervenire entro e non oltre il termine ultimo indicato nel Bando GUUE, riportato nella Piattaforma Sintel a pena di irricevibilità. La Piattaforma Sintel non accetta offerte presentate dopo la data e l'orario stabiliti come termine ultimo di presentazione dell'offerta.
+Della data e dell'ora di arrivo dell'offerta fa fede l'orario registrato dalla Piattaforma Sintel.
+Le operazioni di inserimento sulla Piattaforma di tutta la documentazione richiesta rimangono ad esclusivo rischio del concorrente. Si invitano pertanto i concorrenti ad avviare tali attività con congruo anticipo rispetto alla scadenza prevista onde evitare la non completa e quindi mancata trasmissione dell'offerta entro il termine previsto.
+Qualora si verifichi un mancato funzionamento o un malfunzionamento della Piattaforma si applica quanto previsto all'art. 1.1 del presente Disciplinare.
+
+13.1 REGOLE PER LA PRESENTAZIONE DELL'OFFERTA
+La redazione dell'offerta dovrà avvenire seguendo le cinque diverse fasi successive dell'apposita procedura guidata di Sintel (cd. "step").
+Il concorrente, tramite i percorsi di seguito descritti, compie le seguenti operazioni:
+i) caricamento su Sintel dei documenti richiesti dagli atti di gara;
+ii) invio dei medesimi unitamente a quelli generati da Sintel.
+
+La fase i) da sola non concretizza invio dell'offerta poiché i documenti caricati sono inseriti in uno spazio dedicato al concorrente per la scelta dei documenti da allegare e possono essere modificati da parte del concorrente medesimo.
+La fase ii) concretizza, se completata, l'offerta in quanto i documenti sono stati composti nell'area dedicata al concorrente e sono stati confermati tramite firma degli hash - codice che identifica inequivocabilmente l'identità di tali documenti - riguardanti i singoli file. Con la sottoscrizione di tali codici hash il concorrente assume l'identità e paternità dei documenti inviati per l'offerta di cui attesta di aver controllato integrità e leggibilità.
+
+In particolare, il concorrente dovrà inviare l'offerta composta da:
+a) la Documentazione amministrativa
+b) l'Offerta tecnica [ una per ogni Lotto per il quale si intende partecipare]
+c) l'Offerta economica [una per ogni Lotto per il quale si intende partecipare].
+
+Si precisa che, prima dell'invio, tutti i file che compongono l'offerta che non siano già originariamente in formato pdf, dovranno essere convertiti in formato pdf (salvo diverse indicazioni espresse contenute nel presente Disciplinare).
+Sebbene non costituisca motivo di esclusione, si chiede ai concorrenti di allegare file aventi denominazione NON superiore a 15 caratteri e di firmare digitalmente solamente quei documenti per i quali la firma digitale è esplicitamente richiesta.
+Sintel consente al concorrente la predisposizione dell'offerta in momenti temporali differenti (step 2 e step 3 del percorso guidato "Invia offerta"), attraverso il salvataggio dei dati e l'upload dei file richiesti in apposite aree del Sistema dedicate al singolo concorrente.
+Lo step 4 "Firma digitale dell'offerta" prevede che il concorrente proceda con la sottoscrizione del "Documento d'offerta" generato da Sintel in automatico, in formato pdf, di cui al successivo paragrafo.
+La predisposizione e il salvataggio dell'offerta da parte del concorrente nella propria area dedicata non implica l'effettivo invio dell'offerta ai fini della partecipazione.
+Si specifica infatti che l'invio della medesima ai fini della procedura di gara avviene solamente al 5° ed ultimo step "Riepilogo ed invio dell'offerta" del percorso guidato "Invia offerta" cliccando sulla funzione "INVIA OFFERTA" a conclusione del percorso di sottomissione.
+Solamente con tale ultimo step l'offerta è inviata e, conseguentemente, validamente presentata; diversamente i documenti caricati permangono nello spazio dedicato del concorrente e non concretizzano offerta.
+Detto invio dell'offerta deve necessariamente avvenire, a pena di esclusione dalla procedura, entro la scadenza del termine perentorio fissato per la presentazione dell'offerta.
+Si concretizza l'invio dell'offerta solamente ad esito delle operazioni descritte e previste dal percorso "Invia offerta". Tutti gli step del percorso "Invia offerta" devono essere completati nella sequenza stabilita dal Sistema.
+È responsabilità dei concorrenti, in ogni caso, l'invio tempestivo e completo di quanto richiesto nel termine indicato nel bando di gara. Sintel non accetta offerte - con ciò intendendo i documenti inviati tramite lo step "INVIA OFFERTA" sopra richiamato - presentate dopo la data e l'orario stabiliti come termine ultimo di presentazione delle offerte.
+Con riferimento alla procedura di invio telematico di offerta si specifica che:
+* è obbligo del concorrente e buona norma di diligenza professionale del concorrente connettersi a Sintel con un congruo anticipo prima della scadenza del termine di presentazione delle offerte in maniera tale da inserire i dati, sottomettere ed inviare i documenti correttamente e risolvere eventuali problematiche di comprensione del funzionamento del Sistema per tempo;
+* è obbligo del concorrente e buona norma di diligenza professionale del concorrente controllare il contenuto dei documenti di gara caricati sulla piattaforma verificandone l'integrità successivamente al loro caricamento sulla Piattaforma, allo step 5 "Riepilogo ed invio dell'offerta" del percorso guidato "Invia offerta", ma prima dell'effettivo invio dell'offerta. È altresì possibile - nonché caldamente consigliato - controllare detti documenti successivamente l'invio dell'offerta, attraverso la funzionalità "Storia offerte", fermo restando la loro non sostituibilità ed immodificabilità una volta decorso tale termine perentorio.
+
+Si sottolinea che il semplice caricamento (upload) della documentazione di offerta su Sintel non comporta l'invio dell'offerta alla stazione appaltante.
+
+L'invio dell'offerta avverrà soltanto mediante l'apposita procedura da effettuarsi al termine e successivamente alla procedura di redazione, sottoscrizione e caricamento su Sintel della documentazione che compone l'offerta. Si suggerisce al Concorrente di verificare di avere completato tutti i passaggi richiesti da Sintel per procedere all'invio dell'offerta. In ogni caso Sintel darà comunicazione al fornitore del corretto invio dell'offerta all'indirizzo e-mail indicato in sede di registrazione al Sistema.
+La presentazione dell'offerta mediante Sintel, infatti, è a totale ed esclusivo rischio del procedente, il quale si assume qualsiasi rischio in caso di mancata o tardiva ricezione dell'offerta medesima, dovuta, a titolo esemplificativo e non esaustivo, a malfunzionamenti/incompatibilità degli strumenti telematici utilizzati con la piattaforma Sintel, a difficoltà di connessione e trasmissione, a lentezza dei collegamenti, o a qualsiasi altro motivo, restando esclusa qualsivoglia responsabilità dell'Azienda Zero ove per ritardo o disguidi tecnici o di altra natura, ovvero per qualsiasi motivo, l'offerta non pervenga entro il previsto termine perentorio di scadenza. L'Azienda si riserva, comunque, di adottare i provvedimenti che riterrà necessari nel caso di malfunzionamento del Sistema.
+La documentazione amministrativa, tecnica e l'offerta economica trasmesse dal concorrente a Sintel sono mantenute segrete e riservate dal Sistema e conservate in appositi e distinti documenti informatici (o file, denominati "buste telematiche" amministrative, tecniche, economiche).
+In caso di partecipazione alla procedura in forma associata, R.T.I. costituito o costituendo e Consorzio, sarà l'impresa mandataria o designata tale ad utilizzare ed operare in Sintel come unico soggetto abilitato ad operare attraverso la medesima.
+In merito alle diverse modalità di forma di aggregazione ed alle modalità di registrazione a Sintel per la partecipazione in forma aggregata, si rimanda a quanto indicato nel documento Modalità Tecniche utilizzo Piattaforma Sintel, reperibile al seguente link https://www.ariaspa.it/wps/portal/Aria/Home/bandi- convenzioni/e-procurement/strumenti-di-supporto/guide-e-manuali, all'interno della sezione Guide e manuali > Operatore economico.
+Per le modalità di sottoscrizione dei documenti che compongono l'offerta, si rimanda a quanto stabilito nei successivi articoli.
+Per i concorrenti aventi sede legale in Italia o in uno dei Paesi dell'Unione europea, le dichiarazioni sostitutive si redigono ai sensi degli artt. 46 e 47 del d.p.r. 445/2000; per i concorrenti non aventi sede legale in uno dei Paesi dell'Unione europea, le dichiarazioni sostitutive sono rese mediante documentazione idonea equivalente secondo la legislazione dello Stato di appartenenza.
+Tutte le dichiarazioni sostitutive rese ai sensi degli artt. 46 e 47 del d.p.r. 445/2000 - ivi comprese la domanda di partecipazione, l'offerta tecnica e l'offerta economica - devono essere sottoscritte digitalmente dal rappresentante legale del concorrente. In caso di firma da parte di soggetto diverso dovrà essere prodotta copia dell'atto che attesti i poteri di firma del sottoscrittore.
+Sebbene non costituisca motivo di esclusione si chiede di firmare digitalmente solamente quei documenti per i quali la firma digitale è esplicitamente richiesta.
+La documentazione è ammessa in copia semplice. Ove diversamente specificato dovrà essere prodotta in copia autentica o in copia conforme ai sensi, rispettivamente, degli artt. 18 e 19 del d.p.r. 445/2000.
+In caso di concorrenti non stabiliti in Italia, la documentazione dovrà essere prodotta in modalità idonea equivalente secondo la legislazione dello Stato di appartenenza.
+Tutta la documentazione da produrre deve essere in lingua italiana o, se redatta in lingua straniera, deve essere corredata da traduzione giurata in lingua italiana, fermo quanto previsto di seguito limitatamente alla documentazione in lingua inglese. In caso di contrasto tra testo in lingua straniera e testo in lingua italiana prevarrà la versione in lingua italiana, essendo a rischio del concorrente assicurare la fedeltà della traduzione. In caso di mancanza, incompletezza o irregolarità della traduzione dei documenti contenuti nella busta A, si applica il soccorso istruttorio.
+In deroga a quanto previsto sopra, per la sola documentazione redatta in lingua inglese è ammessa la produzione di traduzione semplice purché corredata da dichiarazione resa ai sensi degli artt. 46 e 47 del
+
+d.p.r. 445/2000 attestante la conformità all'originale della traduzione prodotta. È consentito presentare direttamente in lingua inglese la seguente documentazione: certificazioni emesse da Enti ufficiali e riconosciuti, inclusi i certificati di qualità, e letteratura scientifica.
+Le offerte tardive sono inammissibili ai sensi dell'art. 70 comma 4 del Codice.
+L'operatore economico ha facoltà di inserire nella Piattaforma offerte successive che sostituiscono la precedente, ovvero ritirare l'offerta presentata, nel periodo di tempo compreso tra la data e ora di inizio e la data e ora di chiusura della fase di presentazione delle offerte. La stazione appaltante considera esclusivamente l'ultima offerta presentata.
+L'offerta vincolerà il concorrente per 365 giorni dalla scadenza del termine indicato per la presentazione dell'offerta. Con la trasmissione dell'offerta, il concorrente accetta tutta la documentazione di gara, allegati e chiarimenti inclusi.
+Nel caso in cui alla data di scadenza della validità delle offerte le operazioni di gara siano ancora in corso, la Stazione Appaltante potrà richiedere agli offerenti, di confermare la validità dell'offerta sino alla data che sarà indicata e di produrre un apposito documento attestante la validità della garanzia prestata in sede di gara fino alla medesima data.
+Il mancato riscontro alla richiesta della Stazione Appaltante sarà considerato come rinuncia del concorrente alla partecipazione alla gara.
+
+14. SOCCORSO ISTRUTTORIO
+Con la procedura di soccorso istruttorio di cui all'articolo 101 del Codice, possono essere sanate le carenze della documentazione trasmessa con la domanda di partecipazione ma non quelle della documentazione che compone l'offerta tecnica e l'offerta economica.
+Con la medesima procedura può essere sanata ogni omissione, inesattezza o irregolarità della domanda di partecipazione e di ogni altro documento richiesto per la partecipazione alla procedura di gara, con esclusione della documentazione che compone l'offerta tecnica e l'offerta economica. Non sono sanabili le omissioni, le inesattezze e irregolarità che rendono assolutamente incerta l'identità del concorrente.
+A titolo esemplificativo, si chiarisce che:
+- il mancato possesso dei prescritti requisiti di partecipazione non è sanabile mediante soccorso istruttorio ed è causa di esclusione dalla procedura di gara;
+- l'omessa o incompleta nonché irregolare presentazione delle dichiarazioni sul possesso dei requisiti di partecipazione e ogni altra mancanza, incompletezza o irregolarità della domanda, sono sanabili, ad eccezione delle false dichiarazioni;
+- la mancata produzione del contratto di avvalimento, della garanzia provvisoria, del mandato collettivo speciale o dell'impegno a conferire mandato collettivo può essere oggetto di soccorso istruttorio solo se i citati documenti sono preesistenti e comprovabili con data certa anteriore al termine di presentazione dell'offerta;
+- il difetto di sottoscrizione della domanda di partecipazione, delle dichiarazioni richieste e dell'offerta è sanabile;
+- non è sanabile mediante soccorso istruttorio l'omessa indicazione, delle modalità con le quali l'operatore intende assicurare, in caso di aggiudicazione del contratto, il rispetto delle condizioni di partecipazione e di esecuzione di cui all'articolo 9 del presente bando.
+Ai fini del soccorso istruttorio è assegnato al concorrente un termine di 8 giorni perché siano rese, integrate o regolarizzate le dichiarazioni necessarie, indicando il contenuto e i soggetti che le devono rendere nonché la sezione della Piattaforma dove deve essere inserita la documentazione richiesta.
+In caso di inutile decorso del termine, la stazione appaltante procede all'esclusione del concorrente dalla procedura.
+
+Ove il concorrente produca dichiarazioni o documenti non perfettamente coerenti con la richiesta, la stazione appaltante può chiedere ulteriori precisazioni o chiarimenti, limitate alla documentazione presentata in fase di soccorso istruttorio, fissando un termine a pena di esclusione.
+La stazione appaltante può sempre chiedere chiarimenti sui contenuti dell'offerta tecnica e dell'offerta economica e su ogni loro allegato. L'operatore economico è tenuto a fornire risposta nel termine di 8 giorni. I chiarimenti resi dall'operatore economico non possono modificare il contenuto dell'offerta.
+
+15. DOMANDA DI PARTECIPAZIONE E DOCUMENTAZIONE AMMINISTRATIVA - BUSTA 1
+Al primo step del percorso guidato "Invia offerta", con riferimento alla Documentazione amministrativa è necessario predisporre i documenti di seguito elencati, da allegare a Sistema, nell'apposito campo "Documentazione amministrativa 1", in una cartella compressa (non firmata digitalmente) in formato elettronico .zip ovvero .rar ovvero .7z ovvero equivalenti software di compressione dati (si fa presente che nel caso in cui lo spazio a disposizione nella cartella "Documentazione amministrativa 1" (100 MB) non sia sufficiente, il concorrente potrà inserire la restante documentazione nelle ulteriori cartelle a disposizione denominate "Documentazione amministrativa 2", "Documentazione amministrativa 3", etc.).
+L'operatore economico inserisce nella busta 1 la seguente documentazione:
+1) Domanda di partecipazione;
+
+2) Dichiarazione sostitutiva e integrativa del DGUE;
+
+3) [Eventuale se i predetti documenti sono sottoscritti da soggetti diversi dal legale rappresentante]
+Copia della procura o di altro documento attestante i poteri di firma del sottoscrittore ;
+4) Documento a comprova dell'assolvimento dell'imposta di bollo;
+
+5) [Eventuale] Dichiarazione integrativa per gli operatori economici ammessi al concordato preventivo con continuità aziendale di cui all'articolo 186 bis del r.d. 16 marzo 1942, n. 267;
+6) [Eventuale] Documentazione per l'avvalimento;
+
+7) [Eventuale] Documentazione per i soggetti associati;
+
+8) Garanzia provvisoria ed eventuali certificazioni per fruire delle riduzioni di cui all'articolo 106, comma 8 del Codice;
+9) PASSoe rilasciato a seguito di registrazione nel Fascicolo Virtuale dell'Operatore Economico (FVOE); in caso di avvalimento dovrà essere allegato anche il PASSoe dell'impresa Ausiliaria; in caso di partecipazione in forma associata dovrà essere allegato un PASSoe per ciascun partecipante.
+11) Copia informatica della ricevuta di avvenuto pagamento del contributo all'Anac.
+Nessuno dei documenti inseriti nella busta 1 deve contenere riferimenti economici pena l'esclusione dalla procedura di gara.
+Tutti i documenti devono essere in formato PDF ricercabile.
+
+15.1. DOMANDA DI PARTECIPAZIONE, DICHIARAZIONE INTEGRATIVA, PROCURA, DOCUMENTO A COMPROVA DEL PAGAMENTO DEL BOLLO
+La domanda di partecipazione è integrata con la Dichiarazione integrativa alla Domanda di partecipazione redatti secondo i modelli allegati alla presente gara.
+
+Nella Dichiarazione integrativa l'operatore economico dichiara la sussistenza delle cause di esclusione che si sono verificate prima della presentazione dell'offerta e indica le misure di self-cleaning adottate, oppure dimostra l'impossibilità di adottare tali misure prima della presentazione dell'offerta.
+L'operatore economico adotta le misure di self cleaning che è stato impossibilitato ad adottare prima della presentazione dell'offerta e quelle relative a cause di esclusione che si sono verificate dopo tale momento.
+Se l'operatore economico omette di comunicare alla stazione appaltante la sussistenza dei fatti e dei provvedimenti che possono costituire una causa di esclusione ai sensi degli articoli 94 e 95 del codice, il triennio inizia a decorrere dalla data in cui la stazione appaltante ha acquisito gli stessi, anziché dalla commissione del fatto o dall'adozione del provvedimento.
+Le cause di esclusione di cui agli articoli 95, comma 1, lettere b), c) e d) e 98, comma 3, lettera b) rilevano per la sola gara cui la condotta si riferisce. Pertanto, tali circostanze non devono essere dichiarate in occasione della partecipazione a gare successive.
+La domanda e le relative dichiarazioni sono sottoscritte ai sensi del decreto legislativo n. 82/2005:
+- dal concorrente che partecipa in forma singola;
+- nel  caso  di  raggruppamento  temporaneo  o consorzio  ordinario  o GEIE  costituiti,  dalla mandataria/capofila;
+- nel caso di raggruppamento temporaneo o consorzio ordinario o GEIE non ancora costituiti, da tutti i soggetti che costituiranno il raggruppamento o il consorzio o il gruppo;
+- nel caso di aggregazioni di retisti:
+a. se la rete è dotata di un organo comune con potere di rappresentanza e con soggettività giuridica, ai sensi dell'articolo 3, comma 4-quater, del decreto legge 10 febbraio 2009, n. 5, la domanda di partecipazione deve essere sottoscritta dal solo operatore economico che riveste la funzione di organo comune;
+b. se la rete è dotata di un organo comune con potere di rappresentanza ma è priva di soggettività giuridica, ai sensi dell'articolo 3, comma 4-quater, del decreto legge 10 febbraio 2009, n. 5, la domanda di partecipazione deve essere sottoscritta dall'impresa che riveste le funzioni di organo comune nonché da ognuno dei retisti che partecipa alla gara;
+c. se la rete è dotata di un organo comune privo del potere di rappresentanza o se la rete è sprovvista di organo comune, oppure se l'organo comune è privo dei requisiti di qualificazione richiesti per assumere la veste di mandataria, la domanda di partecipazione deve essere sottoscritta dal retista che riveste la qualifica di mandatario, ovvero, in caso di partecipazione nelle forme del raggruppamento da costituirsi, da ognuno dei retisti che partecipa alla gara.
+- nel caso di consorzio di cooperative e imprese artigiane o di consorzio stabile di cui all'articolo 65, comma 2 lettera b), c) e d) del Codice, la domanda è sottoscritta digitalmente dal consorzio medesimo.
+La domanda e la dichiarazione integrativa sono firmate dal legale rappresentante del concorrente o da un suo procuratore munito della relativa procura. In tal caso, il concorrente allega una sola volta copia conforme all'originale della procura. Non è necessario allegare la procura se dalla visura camerale del concorrente risulti l'indicazione espressa dei poteri rappresentativi conferiti al procuratore.
+La domanda di partecipazione deve essere presentata nel rispetto di quanto stabilito dal Decreto del Presidente della Repubblica n. 642/72 in ordine all'assolvimento dell'imposta di bollo. Il pagamento della suddetta imposta del valore di € 16,00 viene effettuato o tramite il servizio @e.bollo dell'Agenzia delle Entrate o per gli operatori economici esteri tramite il pagamento del tributo con bonifico utilizzando il codice Iban IT07Y0100003245348008120501 e specificando nella causale la propria denominazione, codice fiscale (se presente) e gli estremi dell'atto a cui si riferisce il pagamento.
+A comprova del pagamento, il concorrente allega la ricevuta di pagamento elettronico rilasciata dal sistema @e.bollo ovvero del bonifico bancario.
+In alternativa il concorrente può acquistare la marca da bollo da euro 16,00 ed inserire il suo numero seriale all'interno della dichiarazione contenuta nell'istanza telematica e allegare, obbligatoriamente copia del
+
+contrassegno in formato.pdf. Il concorrente si assume ogni responsabilità in caso di utilizzo plurimo dei contrassegni.
+Le stazioni appaltanti considerano le esenzioni dal pagamento dell'imposta di bollo di cui al Decreto del Presidente della Repubblica n. 642/72, allegato B e al Decreto legislativo n. 117/17, articolo 82.
+
+15.2. DICHIARAZIONI DA RENDERE A CURA DEGLI OPERATORI ECONOMICI AMMESSI AL CONCORDATO PREVENTIVO CON CONTINUITÀ AZIENDALE DI CUI ALL'ARTICOLO 372 DEL DECRETO LEGISLATIVO 12 GENNAIO 2019 , N. 14 (EVENTUALE)
+Il concorrente, compilando la dichiarazione allegata alla presente gara, dichiara ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica n. 445/2000 gli estremi del provvedimento di ammissione al concordato e del provvedimento di autorizzazione a partecipare alle gare, nonché dichiara che le altre imprese aderenti al raggruppamento non sono assoggettate ad una procedura concorsuale, ai sensi dell'articolo 95, commi 4 e 5, del decreto legislativo n. 14/2019.
+Il concorrente presenta una relazione di un professionista in possesso dei requisiti di cui all'articolo 2, comma 1, lettera o) del decreto legislativo succitato che attesta la conformità al piano e la ragionevole capacità di adempimento del contratto.
+
+15.3. DOCUMENTAZIONE IN CASO DI AVVALIMENTO
+L'impresa ausiliaria rende le dichiarazioni sul possesso dei requisiti di ordine generale mediante compilazione della dichiarazione integrativa alla domanda di partecipazione.
+Il concorrente, per ciascuna ausiliaria, allega:
+1) la dichiarazione di avvalimento;
+2) il contratto di avvalimento;
+3) il PASSOE dell'ausiliaria.
+Nel caso di avvalimento finalizzato al miglioramento dell'offerta, il contratto di avvalimento è presentato nell'offerta tecnica.
+
+15.4. DOCUMENTAZIONE ULTERIORE PER I SOGGETTI ASSOCIATI
+Per i raggruppamenti temporanei già costituiti
+- copia del mandato collettivo irrevocabile con rappresentanza conferito alla mandataria per atto pubblico o scrittura privata autenticata;
+- dichiarazione delle parti del servizio/fornitura, ovvero della percentuale in caso di servizio/forniture indivisibili, che saranno eseguite dai singoli operatori economici riuniti o consorziati.
+Per i consorzi ordinari o GEIE già costituiti
+- copia dell'atto costitutivo e dello statuto del consorzio o GEIE, con indicazione del soggetto designato quale capofila;
+- dichiarazione sottoscritta delle parti del servizio/fornitura, ovvero la percentuale in caso di servizi/forniture indivisibili, che saranno eseguite dai singoli operatori economici consorziati.
+Per i raggruppamenti temporanei o consorzi ordinari o GEIE non ancora costituiti
+- dichiarazione rese da ciascun concorrente, attestante:
+a. a quale operatore economico, in caso di aggiudicazione, sarà conferito mandato speciale con rappresentanza o funzioni di capogruppo;
+b. l'impegno, in caso di aggiudicazione, ad uniformarsi alla disciplina vigente con riguardo ai raggruppamenti temporanei o consorzi o GEIE ai sensi dell'articolo 68 del Codice conferendo mandato
+
+collettivo speciale con rappresentanza all'impresa qualificata come mandataria che stipulerà il contratto in nome e per conto delle mandanti/consorziate;
+c. le parti del servizio/fornitura, ovvero la percentuale in caso di servizio/forniture indivisibili, che saranno eseguite dai singoli operatori economici riuniti o consorziati.
+Per le aggregazioni di retisti: se la rete è dotata di un organo comune con potere di rappresentanza e soggettività giuridica
+- copia del contratto di rete, con indicazione dell'organo comune che agisce in rappresentanza della rete.
+- dichiarazione che indichi per quali imprese la rete concorre;
+- dichiarazione sottoscritta con firma digitale delle parti del servizio o della fornitura, ovvero la percentuale in caso di servizio/forniture indivisibili, che saranno eseguite dai singoli operatori economici aggregati in rete.
+Per le aggregazioni di retisti: se la rete è dotata di un organo comune con potere di rappresentanza ma è priva di soggettività giuridica
+- copia del contratto di rete;
+- copia del mandato collettivo irrevocabile con rappresentanza conferito all'organo comune;
+- dichiarazione delle parti del servizio o della fornitura, ovvero la percentuale in caso di servizio/forniture indivisibili, che saranno eseguite dai singoli operatori economici aggregati in rete.
+Per le aggregazioni di imprese aderenti al contratto di rete: se la rete è dotata di un organo comune privo del potere di rappresentanza o se la rete è sprovvista di organo comune, ovvero, se l'organo comune è privo dei requisiti di qualificazione richiesti, partecipa nelle forme del raggruppamento temporaneo di imprese costituito o costituendo.
+- in caso di raggruppamento temporaneo di imprese costituito:
+- copia del contratto di rete
+- copia del mandato collettivo irrevocabile con rappresentanza conferito alla mandataria
+- dichiarazione delle parti del servizio o della fornitura, ovvero la percentuale in caso di servizio/forniture indivisibili, che saranno eseguite dai singoli operatori economici aggregati in rete.
+- in caso di raggruppamento temporaneo di imprese costituendo:
+- copia del contratto di rete
+- dichiarazioni, rese da ciascun concorrente aderente all'aggregazione di rete, attestanti:
+a. a quale concorrente, in caso di aggiudicazione, sarà conferito mandato speciale con rappresentanza o funzioni di capogruppo;
+b. l'impegno, in caso di aggiudicazione, ad uniformarsi alla disciplina vigente in materia di raggruppamenti temporanei;
+c. le parti del servizio o della fornitura, ovvero la percentuale in caso di servizio/forniture indivisibili, che saranno eseguite dai singoli operatori economici aggregati in rete.
+
+16. OFFERTA TECNICA - BUSTA 2
+Allo step 2 del percorso guidato "Invia offerta", l'operatore economico, a pena di inammissibilità dell'offerta, per ciascun lotto per cui intende presentare offerta, dovrà inserire a Sistema, nell'apposito campo "Documentazione Tecnica 1", in una cartella compressa (non firmata digitalmente) in formato elettronico .zip ovvero rar ovvero .7z ovvero equivalenti software di compressione dati, tutti i documenti di seguito elencati. Si fa presente che nel caso in cui lo spazio a disposizione nella cartella "Documentazione Tecnica 1" (100 MB) non sia sufficiente, il concorrente potrà inserire la restante documentazione nelle
+
+ulteriori cartelle a disposizione denominate "Documentazione Tecnica 2", "Documentazione Tecnica 3", etc.).
+L'offerta deve contenere, a pena di esclusione, i seguenti documenti:
+
+a) La Relazione Tecnica dovrà essere numerata progressivamente su ogni pagina per un numero massimo di 50 pagine in formato A4 (con font Arial, dimensioni 11, interlinea singola, lingua italiana), da suddividere in maniera predefinita per ciascun criterio di valutazione, comprensive di una relazione generale introduttiva, oltre a max 10 pagine di schemi formato A3 di elaborati grafici ed ulteriori 10 pagine in formato A4 dedicate alla definizione del programma di manutenzione proposto dal concorrente. Nello specifico dovrà:
+
+
+Nome CriterioN.Pagine per ogni relazione specifica relativa al criterioAStruttura organizzativa e modalità per l'espletamento del Servizio6
+B
+Piano di Manutenzione6
+(+ Programma di manutenzione di max 10 pagine)CModalità, procedure e misure organizzative per la fase di adesione al Servizio2DPolitiche di gestione e conduzione degli impianti e delle fonti energetiche6EPiano della Qualità6FSistema informativo e call center3GDiagnosi energetica5HBIM - strumenti elettronici di modellazione3
+IPossesso della certificazione della parità di genere di cu all'art. 108 comma 7 ultimo periodo del D.Lgs. n.
+36/2023:
+0TOTALI47A queste 47 Pagine andranno aggiunte massimo n. 3 pagine, per un totale di 50 pagine, dedicate alla relazione introduttiva generale.
+1
+
+b) Dichiarazione attestante le parti dell'offerta contenenti eventuali segreti tecnico/commerciali ai fini dell'accesso agli atti.
+
+Tutti i documenti sopra elencati, che compongono l'offerta tecnica, dovranno a pena di esclusione essere firmati digitalmente dal legale rappresentante del concorrente o da un suo procuratore, nella versione pdf (ricercabile).
+
+
+
+Nel caso di concorrenti associati, l'offerta dovrà essere sottoscritta digitalmente con le modalità indicate per la sottoscrizione della domanda di ammissione di cui all'art. 15.4 del presente Disciplinare.
+Tutti i documenti, ad eccezione della bibliografia scientifica e delle certificazioni di qualità internazionali, devono essere in italiano o tradotti in italiano.
+Tutti i documenti inseriti nelle buste 1) e 2) non devono contenere riferimenti economici all'offerta contenuta nella busta 3) pena l'esclusione dalla procedura di gara.
+La relazione tecnica dovrà essere sottoscritta digitalmente secondo le modalità previste all'art.15.1 del presente Disciplinare, a pena di esclusione dalla procedura.
+L'offerta tecnica deve rispettare, pena l'esclusione dalla procedura di gara, le caratteristiche minime stabilite nei documenti di gara, nel rispetto del principio di equivalenza. L'incompletezza della documentazione tecnica presentata, che non consenta la suddetta verifica di conformità, comporterà l'esclusione dalla gara.
+L'operatore economico che adotta un CCNL diverso da quello indicato all'articolo 3 inserisce la dichiarazione di equivalenze delle tutele e l'eventuale documentazione probatoria sulla equivalenza del proprio CCNL nell'offerta tecnica.
+c) Progetto di assorbimento
+Ai fini del rispetto della clausola sociale sulla stabilità occupazionale di cui all'art. 9 del presente Disciplinare, il concorrente allega all'offerta tecnica un progetto di assorbimento atto ad illustrare le concrete modalità di applicazione della clausola sociale, anche nel rispetto della clausola sociale per le pari opportunità generazionali, di genere e di inclusione lavorativa per le persone con disabilità o svantaggiate di cui all'art. 9.
+L'operatore economico allega una dichiarazione firmata contenente i dettagli dell'offerta coperti da riservatezza, argomentando in modo congruo le ragioni per le quali eventuali parti dell'offerta sono da segretare. Il concorrente a tal fine allega anche una copia firmata della relazione tecnica adeguatamente oscurata nelle parti ritenute costituenti segreti tecnici e commerciali. Resta ferma, la facoltà della stazione appaltante di valutare la fondatezza delle motivazioni addotte e di chiedere al concorrente di dimostrare la tangibile sussistenza di eventuali segreti tecnici e commerciali.
+Nessuno dei documenti inseriti nella busta 2 deve contenere riferimenti economici pena l'esclusione dalla procedura di gara.
+
+17. OFFERTA ECONOMICA- BUSTA 3
+STEP 3 - "BUSTA 3 - OFFERTA ECONOMICA"
+
+Allo step 3 "Offerta economica" del percorso guidato "Invia offerta", il concorrente, pena l'esclusione dalla gara, dovrà operare a Sistema formulando e presentando un'Offerta Economica.
+Ciascun concorrente dovrà, compilare ed allegare negli appositi campi predisposti a Sistema, per ciascun lotto per cui intende presentare offerta, un'offerta economica analitica redatta secondo il documento Modello di Offerta Economica Allegato 8 degli atti di gara, da caricare sia in formato .xls, sia in formato pdf, sottoscritta digitalmente a pena di esclusione nella versione.pdf, secondo le modalità previste al precedente art. 15.1 del presente Disciplinare, a pena di esclusione dalla procedura.
+In particolare l'offerta economica analitica deve indicare, a pena di esclusione, i seguenti elementi:
+a) Prezzi unitari presenti all'interno dell'allegato modello di offerta economica per il lotto al quale si intede partecipare al netto di Iva, nonché degli oneri per la sicurezza dovuti a rischi da interferenze.
+b) Ribasso in % sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10% (il concorrente dovrà indicare la percentuale di sconto complessiva).
+
+I prezzi offerti si intendono omnicomprensivi di tutti gli oneri previsti dal presente Disciplinare e dagli altri atti di gara.
+Verranno prese in considerazione fino a 5 cifre decimali.
+
+Ai sensi dell'art. 41 comma 14 del Codice i costi della manodopera indicati all'art. 3 del presente disciplinare non sono ribassabili. Resta la possibilità per l'operatore economico di dimostrare che il ribasso complessivo dell'importo deriva da una più efficiente organizzazione aziendale o da sgravi contributivi che non comportano penalizzazioni per la manodopera.
+Sono inammissibili le offerte economiche che superino gli importi a base d'asta.
+L'allegato modello di offerta economica è stato predisposto inserendo le formule per il calcolo automatico del canone; in ogni caso è onere del concorrente verificare la correttezza dei risultati ottenuti.
+Saranno ritenute inammissibili e quindi escluse le proposte che offrano:
+d) canoni complessivi superiori a quelli posti a base d'asta per ciascun lotto, così come indicati nello Schema di offerta economica (Allegato 8 alla presente gara);
+e) prezzi unitari offerti per ciascuna tipologia di servizio superiori ai prezzi posti a base d'asta, così come indicati nello Schema di offerta economica (Allegato 8 alla presente gara);
+f) una percentuale di Ribasso (RL) sui prezzi dei Listini di riferimento per gli interventi di manutenzione straordinaria e adeguamento normativo inferiore al 10%;
+
+Ai fini dell'aggiudicazione, la Stazione Appaltante attribuirà il punteggio prezzo sulla base del canone complessivo offerto e della percentuale di ribasso (RL) sui prezzi dei Listini di riferimento, per ciascun lotto, applicando le formule indicate al successivo Art. 8.
+Poiché la piattaforma Sintel consente di inserire un solo prezzo, il concorrente per ogni lotto dovrà indicare a Sistema la percentuale di ribasso determinata sul canone complessivo annuale offerto, dato dall'inserimento dei prezzi unitari richiesti nell'allegato 8 degli atti di gara.
+Si precisa, quindi, che, non essendo possibile nell'applicativo Sintel gestire l'attribuzione di punteggi economici in maniera differenziata, l'attribuzione del punteggio per l'elemento Prezzo verrà effettuata mediante ricorso alla modalità "off line", prevista dallo stesso applicativo. Faranno fede pertanto le sole risultanze determiante dall'applicazione "off line" delle formule previste dal presente Disciplinare.
+
+
+Il concorrente dovrà limitarsi ad indicare a Sistema, per ciascun lotto, esclusivamente:
+a. nell'apposito campo "Offerta economica", la percentuale di ribasso determinata sul canone complessivo annuale offerto per il lotto - espresso in Euro, IVA esclusa, con n. 5 cifre decimali e con modalità solo in cifre;
+b. nell'apposito campo "di cui costi della sicurezza afferenti l'attività svolta dall'operatore economico" i relativi costi annuali sostenuti dall'operatore economico;
+c. nell'apposito campo "di cui costi del personale", indicare la stima dei costi annuali del personale, ivi compreso quello soggetto alla clausola sociale di cui all'Art. 14 dello Schema di Convenzione.
+
+I prezzi si intendono omnicomprensivi di tutti gli oneri previsti dal presente Disciplinare e dagli atti di gara allegati, che costituiscono parte integrante della fornitura.
+Qualora la Stazione Appaltante rilevi una discordanza tra l'importo complessivo offerto inserito in piattaforma e quanto indicato nell'Allegato 8 agli atti di gara - Schema di offerta economica, l'offerta verrà esclusa se ritenuta equivoca e non certa.
+Il concorrente allega, in sede di presentazione dell'offerta economica, le giustificazioni relative alle voci di prezzo e di costo redatte secondo il modello allegato agli atti di gara (Allegato 9). La mancata presentazione anticipata delle giustificazioni non è causa di esclusione.
+
+STEP 4 - FIRMA DIGITALE DEI PREZZI OFFERTI
+Il concorrente dovrà obbligatoriamente, allo step 4 del percorso "Invia offerta":
+1. scaricare dalla schermata a Sistema denominata "Firma digitale dell'offerta", il documento d'Offerta in formato pdf riportante le informazioni immesse a Sistema - ma non ancora sottoscritte - quali il prezzo offerto oltre ad altre informazioni e dati immessi dal concorrente stesso (tra cui i codici hash in precedenza
+
+descritti, la cui sottoscrizione assicura la paternità dei file e del loro contenuto al concorrente);
+2. sottoscrivere il predetto documento d'Offerta, scaricato in formato pdf riepilogativo dell'offerta; la sottoscrizione dovrà essere effettuata tramite firma digitale dal legale rappresentante del concorrente.
+Si rammenta che eventuali firme multiple su detto file pdf dovranno essere apposte unicamente in modalità parallela come meglio esplicato nelle richiamate Modalità Tecniche utilizzo Piattaforma Sintel, reperibili al	seguente	link	https://www.ariaspa.it/wps/portal/Aria/Home/bandi-convenzioni/e- procurement/strumenti-di-supporto/guide-e-manuali, all'interno della sezione Guide e manuali > Operatore economico.
+3. allegare a Sistema il documento d'Offerta in formato pdf sottoscritto di cui al precedente punto 2, quale elemento essenziale dell'offerta.
+Si rammenta che il pdf d'offerta di cui al precedente punto 2 costituisce offerta e contiene elementi essenziali della medesima. Il file scaricato non può pertanto essere modificato sotto pena d'esclusione in quanto le eventuali modifiche costituiscono variazione di elementi essenziali.
+Le eventuali modifiche degli hash saranno segnalate dal Sistema e oggetto di valutazione da parte della Stazione Appaltante e, se ritenute essenziali, comporteranno l'esclusione del concorrente.
+In caso di partecipazione in R.T.I. o Consorzio, il predetto documento dovrà, pena l'esclusione, per difetto di sottoscrizione, essere sottoscritto:
+- in caso di R.T.I o di Consorzi costituiti al momento di presentazione dell'offerta dal legale rappresentate o persona munita da comprovati poteri di firma con le modalità di cui al documento Modalità Tecniche utilizzo Piattaforma Sintel, reperibile al seguente link https://www.ariaspa.it/wps/portal/Aria/Home/bandi-convenzioni/e-procurement/strumenti- di-supporto/guide-e-manuali, all'interno della sezione Guide e manuali > Operatore economico.
+- in caso di R.T.I. e Consorzi non costituiti al momento della presentazione dell'offerta, dal legale rappresentante di tutte le Imprese raggruppande o consorziande (ciò può avvenire con più firme in un unico documento o più documenti identici ciascuno sottoscritto dall'impresa raggruppanda/consorzianda).
+
+STEP 5 - RIEPILOGO ED INVIO DELL'OFFERTA
+Solo a seguito dell'upload di tale documento d'offerta in formato pdf sottoscritto come richiesto, il concorrente può passare allo step 5 "Riepilogo ed invio dell'offerta" del percorso "Invia offerta" per completare la presentazione effettiva dell'offerta mediante la funzionalità "INVIA OFFERTA" che, si rammenta, dovrà avvenire entro e non oltre il termine perentorio di presentazione delle offerte.
+Gli step precedenti del percorso "Invia offerta" per quanto correttamente completati e corredati dal salvataggio della documentazione non consentono e non costituiscono l'effettivo invio dell'offerta. La documentazione caricata e salvata permane infatti nello spazio telematico del concorrente e non è inviata al Sistema.
+Alla scadenza del termine per la presentazione delle offerte, le offerte pervenute non possono essere più ritirate e sono definitivamente acquisite dal Sistema, che le mantiene segrete e riservate fino all'inizio delle operazioni di apertura e verifica della documentazione.
+Si fa presente che non saranno accettate offerte condizionate, né offerte parziali; inoltre, non saranno accettate offerte plurime o alternative.
+
+18. CRITERIO DI AGGIUDICAZIONE
+L'appalto è aggiudicato in base al criterio dell'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità/prezzo. La valutazione dell'offerta tecnica e dell'offerta economica è effettuata in base ai seguenti punteggi:
+
+
+Offerta tecnica70Offerta economica30TOTALE100
+
+18.1. CRITERI DI VALUTAZIONE DELL'OFFERTA TECNICA
+Il punteggio dell'offerta tecnica è attribuito sulla base dei criteri di valutazione elencati nell'Allegato 7
+agli atti di gara.
+Con la lettera D vengono indicati i "Punteggi discrezionali", vale a dire i punteggi il cui coefficiente è attribuito in ragione dell'esercizio della discrezionalità spettante alla commissione giudicatrice.
+Con la lettera T vengono indicati i "Punteggi tabellari", vale a dire i punteggi fissi e predefiniti che saranno attribuiti o non attribuiti in ragione dell'offerta o mancata offerta di quanto specificamente richiesto
+Il concorrente è escluso dalla gara nel caso in cui consegua un punteggio inferiore alla soglia minima di sbarramento pari a 40 punti.
+Il superamento della soglia di sbarramento è calcolato prima della riparametrazione di cui all'art. 18.4.
+
+18.2. METODO DI ATTRIBUZIONE DEL COEFFICIENTE PER IL CALCOLO DEL PUNTEGGIO DELL'OFFERTA TECNICA
+A ciascuno degli elementi qualitativi cui è assegnato un punteggio discrezionale nella colonna "D" della tabella, è attribuito un coefficiente sulla base del metodo
+
+CRITERI DISCREZIONALI (D)
+
+La determinazione dei coefficienti per i criteri discrezionali (D) sarà effettuata come segue:
+
+ATTRIBUZIONE DISCREZIONALE
+
+mediante utilizzo della seguente tabella di valutazione:
+
+
+Giudizio attribuito ad ogni aspetto qualitativoCoefficiente
+OttimoRispondente ai requisiti minimi con elementi migliorativi distintivi e/o di eccellenza
+1
+Molto BuonoRispondente ai requisiti minimi con elementi migliorativi più che buoni
+0,8
+BuonoRispondente ai requisiti minimi con buoni elementi migliorativi
+0,6
+DiscretoRispondente ai requisiti minimi con elementi migliorativi di discreto rilievo
+0,4Più che sufficienteRispondente ai requisiti minimi con elementi migliorativi non di particolare interesse o0,2
+rilievo
+SufficienteRispondente ai requisiti minimi senza elementi migliorativi
+0
+Successivamente si procede alla determinazione della media dei coefficienti che ogni commissario ha attribuito alle proposte dei concorrenti su ciascun criterio, al calcolo del punteggio definitivo parziale del singolo criterio moltiplicando il coefficiente definitivo così calcolato per ciascun criterio al punteggio massimo attribuibile allo stesso.
+
+CRITERI TABELLARI (T)
+
+Quanto agli elementi cui è assegnato un punteggio tabellare identificato dalla colonna "T" della tabella, il relativo punteggio è assegnato, automaticamente e in valore assoluto, sulla base della presenza o assenza nell'offerta dell'elemento richiesto.
+I suddetti punteggi per la valutazione della qualità saranno arrotondati a n. 2 decimali, dopo la virgola.
+
+Sulla base della valutazione qualitativa effettuata dalla Commissione, non saranno ammesse alla successiva fase di apertura delle offerte economiche le offerte che avranno ottenuto, prima della riparametrazione, un punteggio inferiore a punti 40 su 70 (cosidetta soglia minima di sbarramento).
+
+Riparametrazione
+Al fine di non alterare i pesi stabiliti tra i vari criteri, se nel singolo criterio nessun concorrente ottiene il punteggio massimo, tale punteggio viene riparametrato. La Stazione Appaltante, tra le Ditte ammesse per aver superato la suddetta soglia, procederà ad assegnare al concorrente che ha ottenuto il punteggio più alto su un singolo criterio il massimo punteggio previsto per lo stesso e alle altre offerte un punteggio proporzionale decrescente, applicando la seguente formula:
+
+
+?????????????????? ????????????à ?????????????? ?????????????????????? = 70 ·
+
+?????????????????? ??????????????????
+
+
+?????????????? ?????????????????? ??????????????????
+
+
+
+
+18.3 METODO DI ATTRIBUZIONE DEL COEFFICIENTE PER IL CALCOLO DEL PUNTEGGIO DELL'OFFERTA ECONOMICA
+Quanto all'offerta economica, a ciascun concorrente verrà assegnato il punteggio relativo al prezzo offerto in base alle seguenti formule:
+A) Punteggio da assegnare per il ribasso percentuale offerto sul CANONE annuo dei servizi:
+
+
+
+
+dove:
+
+PC = 24 x (Ri / Rmax)a
+
+PC = punteggio attribuito all'elemento economico CANONE al concorrente -iesimo Ri = valore ribasso del concorrente -iesimo
+Rmax = valore corrispondente al ribasso massimo offerto dai concorrenti a = 0,2
+
+B) Punteggio da assegnare per il ribasso percentuale offerto sui prezzi dei LISTINI di riferimento per gli interventi di manutenzione ed adeguamento normativo:
+
+
+
+dove:
+
+PL = 6 x (Ri / Rmax)a
+
+PL = punteggio attribuito all'elemento economico LISTINI al concorrente -iesimo Ri = valore ribasso del concorrente -iesimo
+Rmax = valore corrispondente al ribasso massimo offerto dai concorrenti a = 0,2
+
+PUNTEGGIO COMPLESSIVO
+Per ciascun concorrente, si procederà quindi a determinare il punteggio complessivo (PT) per l'offerta economica, sommando il punteggio ottenuto per l'elemento economico CANONE e il punteggio ottenuto per l'elemento economico LISTINI:
+
+PT = PC + PL
+
+Riparametrazione
+Tra le Ditte ammesse, la Stazione Appaltante, qualora la Ditta con il miglior punteggio complessivo di prezzo non consegua il punteggio massimo di 30 punti, procederà alla riparametrazione del punteggio prezzo assegnando 30 punti all'offerta con il punteggio più alto e punteggio direttamente proporzionale alle altre offerte applicando la seguente formula:
+
+?????????????????? ???????????? ?????????????? ?????????????????????? = 30 ·
+
+?????????????????? ??????????????????
+
+
+?????????????? ?????????????????? ??????????????????
+
+
+18.4. METODO DI CALCOLO DEI PUNTEGGI
+
+L'aggiudicazione avverrà, per ciascun LOTTO, a favore della ditta che avrà ottenuto il punteggio complessivo maggiore (dato dalla somma tra il punteggio assegnato alla qualità e il punteggio assegnato al prezzo).
+
+19 COMMISSIONE GIUDICATRICE
+La commissione giudicatrice è nominata dopo la scadenza del termine per la presentazione delle offerte ed è composta da un numero dispari pari a n. 3 membri, esperti nello specifico settore cui si riferisce l'oggetto del contratto.
+In capo ai commissari non devono sussistere cause ostative alla nomina ai sensi dell'articolo 93 comma 5 del Codice. A tal fine viene richiesta, prima del conferimento dell'incarico, apposita dichiarazione.
+La composizione della commissione giudicatrice e i curricula dei componenti sono pubblicati sul sito istituzionale nella sezione "Amministrazione trasparente".
+La commissione giudicatrice è responsabile della valutazione delle offerte tecniche ed economiche dei concorrenti, può riunirsi con modalità telematiche che salvaguardino la riservatezza delle comunicazioni.
+La stazione appaltante si riserva di integrare la Commissione con professionalità aggiuntive rispetto a quelle nominate laddove lo suggerisca la mole delle offerte pervenute o degli operatori economici partecipanti.
+Il RUP si avvale dell'ausilio della commissione giudicatrice ai fini della verifica della documentazione amministrativa e dell'anomalia delle offerte.
+La stazione appaltante si riserva altresì di procedere per esigenze di celerità del procedimento alla nomina di due o più commissioni giudicatrici, che espleteranno le relative attività in parallelo in separate sedute riservate.
+
+La commissione costituisce un collegio perfetto pertanto la stessa opera con il plenum dei propri componenti relativamente alle attività implicanti valutazioni tecnico-discrezionali, rispetto alle quali è necessario che tutti i componenti offrano il loro contributo ai fini di una corretta formazione della volontà collegiale, anche mediante connessione da remoto.
+La commissione potrà assumere l'articolazione interna in due o più sottocommissioni cui possono essere devolute esclusivamente attività istruttorie, preparatorie o strumentali vincolate o di proposta, fermo restando che spetta al plenum del collegio l'attività decisoria e valutativa e la conseguente attribuzione dei punteggi. Analogamente, la commissione giudicatrice potrà delegare a soggetti esterni alla stessa il compimento di specifiche attività o operazioni di supporto, fermo restando che l'esito finale dell'attività valutativa è integralmente ascrivibile alla Commissione giudicatrice medesima.
+Si precisa che, per ragioni di praticità nella profilazione dei componenti, la/le Commissione/i accederà/accederanno alla piattaforma Sintel per l'esercizio delle proprie funzioni mediante le credenziali del RUP o degli utenti delegati.
+
+20. SVOLGIMENTO DELLE OPERAZIONI DI GARA
+Le sedute avverranno , in modalità riservata, nelle date e negli orari comunicati ai concorrenti ammessi tramite la Piattaforma Sintel - sezione "Comunicazioni della procedura".
+Allo scadere del termine fissato per la presentazione delle offerte, le stesse sono acquisite definitivamente dal Sistema e, oltre ad essere non più modificabili o sostituibili, sono conservate dal Sistema medesimo in modo segreto, riservato e sicuro.
+Sintel, al momento della ricezione dell'offerta, invia al concorrente una PEC di notifica del corretto recepimento dell'offerta presentata.
+In considerazione del fatto che Sintel garantisce la massima segretezza e riservatezza dell'offerta e dei documenti che la compongono e, altresì, la provenienza, l'identificazione e l'inalterabilità dell'offerta medesima, l'apertura delle buste telematiche contenenti la documentazione amministrativa, tecnica ed economica nonché il download della relativa documentazione avverrà in sedute riservate anche ad opera del personale della U.O.C. CRAV.
+I verbali redatti per documentare le operazioni di gara verranno pubblicati sulla piattaforma Sintel e sul sito istituzionale della Stazione Appaltante.
+
+22. VALUTAZIONE DELLE OFFERTE TECNICHE ED ECONOMICHE
+La commissione giudicatrice accedendo alla piattaforma Sintel mediante le credenziali del RUP o degli utenti delegati, procede all'apertura, esame e valutazione delle offerte tecniche presentate dai concorrenti ammessi e all'assegnazione dei relativi punteggi applicando i criteri e le formule indicati nel presente disciplinare.
+Per economicità degli atti e in attuazione del principio di concentrazione delle operazioni di gara, la commissione procede all'apertura anche delle offerte tecniche dei concorrenti eventualmente ammessi con riserva, il cui scioglimento è subordinato all'esito positivo del subprocedimento di regolarizzazione dell'offerta in seguito a soccorso istruttorio.
+La commissione giudicatrice, nel corso dell'esame tecnico-qualitativo delle offerte potrà invitare i concorrenti a fornire chiarimenti in ordine ai documenti ed alle dichiarazioni presentate con la documentazione tecnica.
+
+
+La commissione procede alla riparametrazione dei punteggi secondo quanto indicato all'art.18.2. e all'inserimento degli stessi nella piattaforma Sintel.
+Delle operazioni svolte la commissione giudicatrice redigerà apposito Verbale che verrà inviato ai concorrenti tramite la sezione "Comunicazioni della procedura" di Sintel nel quale vengono riportati :
+a) i punteggi tecnici attribuiti alle singole offerte tecniche;
+
+b) le eventuali esclusioni dalla gara dei concorrenti.
+Al termine delle operazioni di cui sopra la Piattaforma consente la prosecuzione della procedura ai soli concorrenti ammessi alla valutazione delle offerte economiche.
+In data che sarà comunicata ai concorrenti all'interno dell'area "Comunicazioni procedura" la commissione giudicatrice procede relativamente a ciascun singolo lotto:
+? all'apertura delle "BUSTA 3 - OFFERTA ECONOMICA";
+? alla verifica della sua regolarità formale e sostanziale ed al controllo di assenza di errori di calcolo;
+? alla presa d'atto dei punteggi relativi all'elemento economico calcolati dal Sistema;
+? alla formulazione della graduatoria finale sulla base del punteggio complessivo ottenuto da ciascun concorrente;
+Nel caso in cui le offerte di due o più concorrenti ottengano lo stesso punteggio complessivo, ma punteggi differenti per il prezzo e per tutti gli altri elementi di valutazione, sarà collocato primo in graduatoria il concorrente che ha ottenuto il miglior punteggio sull'offerta tecnica; nel caso in cui le offerte di due o più concorrenti ottengano lo stesso punteggio complessivo e gli stessi punteggi parziali per il prezzo e per l'offerta tecnica, i predetti concorrenti, su richiesta della stazione appaltante, presentano un'offerta migliorativa sul prezzo. La richiesta è effettuata nei termini e modalità stabilite tramite la sezione "Comunicazioni della procedura". È collocato primo in graduatoria il concorrente che ha presentato la migliore offerta. Ove permanga l'ex aequo la commissione procede mediante sorteggio ad individuare il concorrente che verrà collocato primo nella graduatoria. La stazione appaltante comunica il giorno e l'ora del sorteggio tramite la sezione "Comunicazioni della procedura" di Sintel.
+? ad individuare, attraverso il Sistema, che consente di evidenziare la soglia di anomalia, le offerte che presentano carattere anormalmente basso in applicazione di quanto previsto dall'art. 23 del disciplinare nonché indica in ogni caso al RUP le offerte che appaiono, sulla base di altri elementi specifici, potenzialmente anomale;
+? (se non ci sono offerte anomale) a formulare la proposta di aggiudicazione in favore della migliore offerta.
+Delle operazioni suddette la Commissione Giudicatrice redigerà apposito Verbale che verrà inviato ai concorrenti tramite l'area "Comunicazioni procedura" di Sintel. La comunicazione è valida agli effetti dell'art. 90 del Codice.
+All'esito delle predette operazioni, il Sistema consentirà la visualizzazione della classificazione delle offerte ammesse secondo la graduatoria decrescente delle offerte in ragione del punteggio attribuito a ciascun concorrente.
+In qualsiasi fase della procedura, il Seggio di gara o la Commissione giudicatrice provvede a comunicare, tempestivamente al RUP i casi di esclusione da disporre per:
+- mancata separazione dell'offerta economica dall'offerta tecnica, ovvero inserimento di elementi concernenti il prezzo nella documentazione amministrativa o nell'offerta tecnica;
+- presentazione di offerte parziali, plurime, condizionate, alternative oppure irregolari in quanto non rispettano i documenti di gara, ivi comprese le specifiche tecniche, o anormalmente basse;
+- presentazione di offerte inammissibili in quanto la commissione giudicatrice ha ritenuto sussistenti gli estremi per l'informativa alla Procura della Repubblica per reati di corruzione o fenomeni collusivi o ha verificato essere in aumento rispetto all'importo a base di gara;
+- mancato superamento della soglia di sbarramento per l'offerta tecnica.
+
+24. VERIFICA DI ANOMALIA DELLE OFFERTE
+La stazione appaltante si riserva, ai sensi dell'art. 110 del Codice la facoltà di sottoporre a verifica le offerte che, sulla base dei risultati di gara, e del mercato di riferimento e tenuto conto delle giustificazioni relative alle voci di prezzo e di costo, allegate all'offerta, appaiono anormalmente basse.
+Sono considerate anormalmente basse le offerte che presentano elementi di non congruità, serietà e sostenibilità alla luce dei seguenti elementi specifici/criteri/parametri:
+
+* Costi industriali
+* Costi di produzione/distribuzione
+* Costi di acquisto / ammortamento dei mezzi
+* Costi generali
+* Costi della manodopera /del personale impiegato nel servizio
+* Costi per le spese per la salute e sicurezza dei lavoratori per il rischio specifico, valutati dal datore di lavoro (ditta partecipante)
+* Costi per la formazione del personale
+* Costi per approvvigionamento vettori energetici
+* Utili di impresa
+* Oneri della sicurezza in relazione ai rischi interferenziali, valutati dalla Stazione Appaltante non soggetti a ribasso (ove previsti).
+La stazione appaltante si riserva la facoltà di sottoporre a verifica un'offerta che, in base anche ad altri ad elementi, ivi inclusi i costi della manodopera, appaia anormalmente bassa.
+Il RUP, eventualmente coadiuvato da uno o più componenti della Commissione Giudicatrice, valuta la congruità, serietà, sostenibilità e realizzabilità delle offerte del primo e del secondo Operatore Economico in graduatoria che appaiono anormalmente basse.
+Qualora tali offerte risultino anomale, si procede con le stesse modalità nei confronti delle successive offerte ritenute anormalmente basse, fino ad individuare la migliore offerta ritenuta non anomala.
+Il concorrente allega, in sede di presentazione dell'offerta economica, le giustificazioni relative alle voci di prezzo e di costo (Allegato 9 agli atti di gara). La mancata presentazione anticipata delle giustificazioni non è causa di esclusione.
+Il RUP richiede al concorrente la presentazione delle spiegazioni, se del caso, indicando le componenti specifice dell'offerta ritenute anomale.
+A tal fine, assegna un termine non superiore a quindici giorni dal ricevimento della richiesta.
+Il RUP, esaminate le spiegazioni fornite dall'offerente, ove le ritenga non sufficienti ad escludere l'anomalia, può chiedere, anche mediante audizione orale, ulteriori chiarimenti, assegnando un termine perentorio per il riscontro.
+Il RUP esclude le offerte che, in base all'esame degli elementi forniti con le spiegazioni risultino, nel complesso, inaffidabili.
+
+25. AGGIUDICAZIONE DELL'APPALTO E STIPULA DEL CONTRATTO
+La Commissione invia al RUP la proposta di aggiudicazione in favore del concorrente che ha presentato la migliore offerta e abbia operato secondo quanto previsto all'art. 3 del presente disciplinare.
+Qualora vi sia stata verifica di congruità delle offerte anomale, la proposta di aggiudicazione è formulata dal RUP al termine del relativo procedimento.
+Qualora nessuna offerta risulti conveniente o idonea in relazione all'oggetto del contratto, la stazione appaltante può decidere, entro 30 giorni dalla conclusione delle valutazioni delle offerte, di non procedere all'aggiudicazione.
+Non si procede all'aggiudicazione dell'appalto all'offerente che ha presentato l'offerta economicamente più vantaggiosa qualora venga accertato che tale offerta non soddisfa gli obblighi in materia ambientale, sociale e del lavoro stabiliti dalla normativa europea e nazionale, dai contratti collettivi o dalle disposizioni internazionali elencate nell'allegato X della direttiva 2014/24/UE.
+
+Il RUP procede, laddove non effettuata in sede di verifica di congruità dell'offerta, a verificare:
+- l'equivalenza delle tutele nel caso in cui l'aggiudicatario abbia dichiarato di applicare un diverso contratto collettivo nazionale diverso rispetto a quello indicato dalla stazione appaltante e il rispetto di quanto
+
+indicato nella clausola sociale per l'applicazione dei contratti collettivi nazionali e territoriali di cui all'art. 9 ;
+- l'attendibilità degli impegni assunti dall'appaltatore in relazione a quanto richiesto dall'art. 9 e riguardante la stabilità occupazionale e le pari opportunità generazionali, di genere e di inclusione lavorativa per le persone con disabilità o svantaggiate.
+
+L'aggiudicazione è disposta all'esito positivo della verifica del possesso dei requisiti prescritti dal presente disciplinare ed è immediatamente efficace.
+Nel caso in cui dopo 35 giorni dall'invio dell'ultima richiesta finalizzata all'ottenimento dei documenti richiesti per la comprova del possesso dei requisiti prescritti, gli Enti competenti al rilascio non abbiano ancora provveduto all'invio dei medesimi, la Stazione Appaltante potrà disporre l'aggiudicazione con riserva di risoluzione del contratto ai sensi dell'art. 1456 c.c. nell'ipotesi in cui l'aggiudicatario si sia trovato al momento dell'aggiudicazione dell'appalto in una delle situazioni di cui agli artt. 94 e 95 del Codice e avrebbe dovuto pertanto essere escluso dalla procedura di gara.
+In caso di esito negativo delle verifiche, si procede all'esclusione, alla segnalazione all'ANAC, ad incamerare la garanzia provvisoria.
+Successivamente si procede a ricalcolare i punteggi e a riformulare la graduatoria procedendo altresì, alle verifiche nei termini sopra indicati. Nell'ipotesi di ulteriore esito negativo delle verifiche si procede nei termini sopra detti, scorrendo la graduatoria.
+
+La convenzione quadro è stipulata non prima di 35 giorni dall'invio dell'ultima delle comunicazioni del provvedimento di aggiudicazione comunque entro 30 giorni dallo scadere di tale termine giorni dall'aggiudicazione, salvo quanto previsto dall'articolo 18 comma 2 del Codice.
+La garanzia provvisoria dell'aggiudicatario è svincolata automaticamente al momento della stipula del contratto; la garanzia provvisoria degli altri concorrenti è svincolata con il provvedimento di aggiudicazione e perde, in ogni caso, efficacia entro 30 giorni dall'aggiudicazione.
+All'atto della stipulazione del contratto, l'aggiudicatario deve presentare la garanzia definitiva da calcolare sull'importo contrattuale, secondo le misure e le modalità previste dall'articolo 117 del Codice.
+
+Se la stipula del contratto non avviene nel termine per fatto della stazione appaltante, l'aggiudicatario può farne constatare il silenzio inadempimento o, in alternativa, può sciogliersi da ogni vincolo mediante atto notificato. All'aggiudicatario non spetta alcun indennizzo, salvo il rimborso delle spese contrattuali.
+Se la stipula del contratto non avviene nel termine fissato per fatto dell'aggiudicatario può costituire motivo di revoca dell'aggiudicazione.
+La mancata o tardiva stipula del contratto al di fuori delle ipotesi predette, costituisce violazione del dovere di buona fede, anche in pendenza di contenzioso.
+L'aggiudicatario deposita, prima o contestualmente alla sottoscrizione del contratto di appalto, i contratti continuativi di cooperazione, servizio e/o fornitura di cui all'articolo 119 comma 3 lett. d) del Codice.
+L'affidatario comunica, per ogni sub-contratto che non costituisce subappalto, l'importo e l'oggetto del medesimo, nonché il nome del sub-contraente, prima dell'inizio della prestazione.
+Il contratto è stipulato in modalità elettronica, mediante scrittura privata.
+Le spese obbligatorie relative alla pubblicazione del bando e dell'avviso sui risultati della procedura di affidamento sono a carico dell'aggiudicatario e devono essere rimborsate entro il termine di sessanta giorni dall'aggiudicazione per gli importi e con le modalità che verranno comunicati dalla stazione appaltante. Le spese sono suddivise tra gli aggiudicatari dei lotti in proporzione al relativo valore.
+Sono a carico dell'aggiudicatario tutte le spese contrattuali, gli oneri fiscali quali imposte e tasse - ivi comprese quelle di registro ove dovute - relative alla stipulazione del contratto.
+
+In caso di interpello a seguito di risoluzione/recesso del contratto in corso di esecuzione, il nuovo affidamento avviene alle condizioni proposte dall'operatore economico interpellato, ai sensi dell'art. 124 comma 2 del Codice.
+
+La Stazione Appaltante si riserva di dare corso all'aggiudicazione anche nel caso di unica offerta purché ritenuta congrua e idonea.
+Si precisa inoltre che si potrà sospendere, re-indire e/o non aggiudicare la gara in presenza di adeguate motivazioni.
+
+La Deliberazione di aggiudicazione verrà comunicata ai concorrenti all'interno dell'area "Comunicazioni procedura" di Sintel e tale comunicazione avrà valenza legale ai sensi dell'art 90 del Codice.
+Contestualmente saranno trasmessi nella medesima area, anche i Verbali delle sedute riservate della Commissione Giudicatrice.
+La verifica dei requisiti generali e speciali avverrà, sull'offerente cui la stazione appaltante ha deciso di aggiudicare l'appalto.
+La stazione appaltante procederà alla verifica dei requisiti generali e di idoneità professionale derivante dalla iscrizione alla Camera di Commercio avvalendosi della piattaforma telematica "Banca Dati Operatori Economici del Veneto" di Net4Market - CSAMED. A tal riguardo, gli operatori economici riceveranno dalla medesima piattaforma la richiesta di completamento o di aggiornamento dei dati necessari a consentire le verifiche del possesso dei prescritti requisiti che dovrà essere dagli stessi riscontrata nel più breve tempo possibile pena la mancata sottoscrizione del contratto.
+La verifica degli altri requisiti di idoneità professionale, di quelli di capacità economica e finanziaria e di capacità tecnica professionale avverrà mediante presentazione dei documenti a comprova indicati negli artt. 6.1, 6.2 e 6.3
+
+26. OBBLIGHI RELATIVI ALLA TRACCIABILITÀ DEI FLUSSI FINANZIARI
+Il contratto d'appalto è soggetto agli obblighi in tema di tracciabilità dei flussi finanziari di cui alla legge 13 agosto 2010, n. 136.
+L'affidatario deve comunicare alla stazione appaltante:
+- gli estremi identificativi dei conti correnti bancari o postali dedicati, con l'indicazione dell'opera/servizio/fornitura alla quale sono dedicati;
+- le generalità e il codice fiscale delle persone delegate ad operare sugli stessi;
+- ogni modifica relativa ai dati trasmessi.
+La comunicazione deve essere effettuata entro sette giorni dall'accensione del conto corrente ovvero, nel caso di conti correnti già esistenti, dalla loro prima utilizzazione in operazioni finanziarie relative ad una commessa pubblica. In caso di persone giuridiche, la comunicazione de quo deve essere sottoscritta da un legale rappresentante ovvero da un soggetto munito di apposita procura. L'omessa, tardiva o incompleta comunicazione degli elementi informativi comporta, a carico del soggetto inadempiente, l'applicazione di una sanzione amministrativa pecuniaria da 500 a 3.000 euro.
+Il mancato adempimento agli obblighi previsti per la tracciabilità dei flussi finanziari relativi all'appalto comporta la risoluzione di diritto del contratto.
+In occasione di ogni pagamento all'appaltatore o di interventi di controllo ulteriori si procede alla verifica dell'assolvimento degli obblighi relativi alla tracciabilità dei flussi finanziari.
+Il contratto è sottoposto alla condizione risolutiva in tutti i casi in cui le transazioni siano state eseguite senza avvalersi di banche o di Società Poste Italiane S.p.a. o anche senza strumenti diversi dal bonifico bancario o postale che siano idonei a garantire la piena tracciabilità delle operazioni per il corrispettivo dovuto in dipendenza del presente contratto.
+
+27. CODICE DI COMPORTAMENTO
+Nello svolgimento delle attività oggetto del contratto di appalto, l'aggiudicatario di ciascun lotto deve uniformarsi ai principi e, per quanto compatibili, ai doveri di condotta richiamati nel Decreto del Presidente della Repubblica 16 aprile 2013 n. 62 e nel codice di comportamento della stazione appaltante e nel Piano Triennale di Prevenzione della Corruzione e della Trasparenza.
+In seguito alla comunicazione di aggiudicazione e prima della stipula del contratto, l'aggiudicatario di ciascun lotto deve ha l'onere di prendere visione dei predetti documenti pubblicati sul sito della stazione appaltante al seguente indirizzo https://www.azero.veneto.it/disposizioni-generali
+
+28. ACCESSO AGLI ATTI
+L'accesso agli atti della procedura è consentito nel rispetto di quanto previsto dall'articolo 53 del decreto legislativo n. 50/2016 e dalle vigenti disposizioni in materia di diritto di accesso ai documenti amministrativi in conformità a quanto previsto dal "Regolamento per l'esercizio del diritto di accesso civico semplice, accesso civico generalizzato, accesso documentale" approvato con Deliberazione del Direttore Generale n. 138 del 10/04/2018 e, per quanto ivi non previsto, l'art. 53 del D.Lgs. 50/2016 e s.m.i., la Legge
+n. 241/1990 e la restante normativa vigente.
+E' disponibile sul sito della Stazione Appaltante la relativa modulistica all'indirizzo: https://www.azero.veneto.it/documents/20126/0/MOD.+C++Modulo+Accesso+Documentale.pdf/d88034 5d-0611-603a-f7e7-9f07d96bf81f?t=1560960417848
+
+29. DEFINIZIONE DELLE CONTROVERSIE
+Per le controversie derivanti dalla presente procedura di gara è competente il Tribunale Amministrativo Regionale per il Veneto.
+Trova applicazione la disciplina di cui all'articolo 215 del Codice relativamente al collegio consultivo tecnico formato secondo le modalità di cui all'allegato V.2 del Codice, al fine di prevenire le controversie o consentire la rapida risoluzione delle stesse o delle dispute tecniche di ogni natura che possano insorgere nell'esecuzione del contratto. I costi sono ripartiti tra le parti.
+Il collegio è costituito da n. 3 membri nominati secondo le disposizioni di cui all'allegato V.2 art. 1 comma 2.
+
+30. TRATTAMENTO DEI DATI PERSONALI
+I dati raccolti sono trattati e conservati ai sensi del Regolamento UE n.2016/679 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati, del decreto legislativo 30 giugno 2003, n. 196 recante il "Codice in materia di protezione dei dati personali" e s.m.i., del decreto della Presidenza del Consiglio dei Ministri n. 148/21 e dei relativi atti di attuazione.
+Ai sensi e per gli effetti di cui all'art. 13 del Regolamento (UE) 2016/679, in materia di protezione dei dati personali, delle persone fisiche con riguardo al trattamento dei relativi dati personali, Azienda Zero fornisce, in qualità di titolare del trattamento, la relativa Informativa allegata agli atti di gara (Allegato 11).
+
+
+31. NORME E CONDIZIONI FINALI
+Per ogni altra qualsiasi norma non espressamente dichiarata o contenuta nel presente Disciplinare di gara, valgono le norme vigenti in materia di pubbliche forniture, nonché le norme del Codice Civile in materia di obbligazioni e contratti.
+
+

@@ -1,0 +1,91 @@
+Quesito n. 273
+"21.4 - Ad integrazione del nostro quesito trasmesso in data 16/01/2024 e della relativa risposta n. 209 fornita in data 21/03/2024, in riferimento ai consumi relativi al loto 6 nell'Allegato 8 (Allegato 12 Allegato al Progeto di gara) pubblicato il giorno 20 marzo 2024, al fine di individuare ove sono collocati geograficamente i vari immobili e rispondere in modo esaustivo alla richiesta di descrivere la strutura organizzativa prevista per l'appalto, siamo a richiedere ulteriori integrazioni riferite a:
+a. Località/Comune dei contatori acqua:
+- 112420875 di via Mateo1 95
+- 112423303 di Via Ospedale 2/50
+- 29483553 di Via Kennedy, 2
+- 215888964 di Via Gardesana dell'Acqua 9
+- 112426333 di via Fantoni 1
+- 21589570 di via De Gasperi 72
+- 89652955 di Via San Giacomo 52
+- 99037303 Fontanelle - tramosino - fossa
+- 105874890 Fontanelle - tramosino - fossa
+- 112421077 di Via Roma, 5 BOVOLONE
+b. Località/Comune, indirizzo e POD (con rela1vi prelievi da rete di energia eletrica) dei seguen1 PDR:
+- 881902630415 SERT
+- 10400000226791 Distreto Sanitario di Base
+- 10400000385609 Setore Farmaceu1co
+- 10400000385628 Sub Distreto Sanitario di Base
+- 10400000386148 Centro Salute Mentale
+- 881907201790 CENTRO POLIFUNZIONALE
+- 15210000009293 0106_001 - 001 - Centro Sanitario Polifunzionale - CER
+- 1680102013557 0106_002 - 002 - Centro Sanitario Polifunzionale - CER
+- 11610000381161 0106_005 - 005 - Centro Riabilita1vo di Ricerca - CERR
+- 11610000082930 0106_012 - 012 - Servizi Sociali/SERD via Pacino
+- Teleriscaldamento 0106_007 - 007 - Direzione Generale ULSS20 - Dis
+- Teleriscaldamento 0106_010 - 010 - Distreto n.1 via Campania
+- 11610000020542 0106_019 - 019 - Servizio Veterinario - Canile
+- 11610000107076 0106_023 - 023 - CSM via S. Giacomo, 51
+- 500000316689 0106_046 - 046 - Consultorio fam. (presso ex Osp
+- 11610000145248 0106_047 - 047 - SERD via XXVIII Marzo
+
+- 1613317000599 0106_052 - 052 - Con1nuità Assistenziale San G. VERONA
+- 11610000039584 0106_049 - 049 - Alloggio proteto via Massimo D'Azeglio, 27
+c. Pod e indirizzo del seguente punto di consegna:
+POD MQ MC
+Consumi di ciascun punto di consegna (codice POD) identificativo della fornitura di energia elettrica oggetto dell'appalto
+Kw/h 2020
+2021
+2022
+VERONA 12037571
+12408149
+12641833
+d. Località/Comune ed indirizzo dei seguen1 POD:
+- IT001E36783356 SERT
+- IT001E36961403 DIP.TO DISTRETTO PUNTO SANITÀ DI PORTO
+- IT001E34646482 EX FONTANINA BOVOLONE
+- IT001E36928198 UFFICI SANITARI BUSSOLENGO
+C1 Confiden1al
+- IT001E36836183 DISTRETTO SANITARIO DI BASE
+- IT001E36888992 SETTORE FARMACEUTICO
+- IT001E36889892 SUB DISTRETTO SANITARIO DI BASE
+- IT001E36889689 CENTRO SALUTE MENTALE
+- IT001E04200429 SAN BONIFACIO
+- IT001E36963424 LEGNAGO
+- IT024E00165223 VERONA
+- IT024E00165456 VERONA
+- IT024E00165460 VERONA
+- IT024E00166257 VERONA
+- IT024E00172978 VERONA
+
+- IT024E00175169 VERONA
+- IT024E00181840 VERONA
+- IT024E00182654 VERONA
+- IT024E00185725 VERONA
+- IT024E00188690 VERONA
+- IT024E00192208 VERONA
+- IT024E00195272 VERONA
+- IT024E00202599 VERONA
+- IT024E00203621 VERONA
+- IT024E00208851 VERONA
+- IT024E00217125 VERONA
+- IT024E00218163 VERONA
+- IT024E00218165 VERONA
+- IT024E00219316 VERONA
+- IT024E00225483 VERONA
+- IT024E00227857 VERONA
+- IT024E00393929 VERONA
+- IT024E00409650 VERONA
+- IT024E02003295 VERONA
+- IT024E00410455 VERONA
+- IT024E00411612 VERONA
+- IT024E00413508 VERONA
+- IT024E00423318 VERONA
+- IT024E00423670 VERONA
+- IT024E00455900 VERONA
+- IT024E00497248 VERONA
+- IT001E34697047 SAN BONIFACIO
+- IT001E36808047 VILLAFRANCA DI VERONA
+- IT024E00425579 VERONA
+- IT024E00457347 VERONA
+- IT024E00234373 GREZZANA"

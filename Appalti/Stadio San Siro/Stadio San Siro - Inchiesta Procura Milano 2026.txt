@@ -1,0 +1,198 @@
+STADIO SAN SIRO — INCHIESTA PROCURA DI MILANO
+==============================================
+Aggiornamento al 24 aprile 2026
+
+
+CONTESTO
+--------
+Pur essendo la vendita stadio già perfezionata con rogito del 5 novembre 2025,
+la Procura di Milano ha aperto un'inchiesta che ha portato a perquisizioni
+il 31 marzo 2026, con 9 indagati per turbativa d'asta e rivelazione segreto
+d'ufficio.
+
+L'inchiesta ha origine da una serie di esposti depositati in Procura, tra cui
+quello firmato da Luigi Corbani (ex vicesindaco di Milano) e Claudio Trotta
+(promoter musicale, tra i fondatori del Comitato "Sì Meazza").
+
+
+IPOTESI DI REATO
+----------------
+- Turbata libertà del procedimento di scelta del contraente
+  (art. 353-bis Codice Penale)
+- Rivelazione e utilizzazione di segreti d'ufficio
+  (art. 326 Codice Penale)
+
+
+AUTORITÀ COINVOLTE
+------------------
+Polizia Giudiziaria:  Nucleo Polizia Economico-Finanziaria — GdF di Milano
+Decreto:              GIP Roberto Crepaldi
+Pubblici Ministeri:   Giovanna Cavalleri
+                       Paolo Filippini
+                       Giovanni Polizzi
+
+
+PERQUISIZIONI 31/03/2026
+------------------------
+Luoghi perquisiti:
+- Uffici del Comune di Milano
+- Sede di M-I Stadio S.r.l. (società veicolo Inter-Milan per l'operazione stadio)
+- Abitazioni private dei 9 indagati
+
+Atto giudiziario: Decreto di perquisizione locale con contestuale sequestro
+probatorio. Sequestro dei cellulari di tutti gli indagati per accesso a chat
+e mail.
+
+
+I 9 INDAGATI (fonte: Sole 24 ORE, Corriere della Sera, ANSA, MilanoToday, 31/03/2026)
+------------------------------------------------------------------------------------
+
+LATO COMUNE DI MILANO
+---------------------
+1. GIANCARLO TANCREDI
+   Ex assessore alla Rigenerazione Urbana del Comune di Milano.
+   Nell'inchiesta è indagato in qualità di ex Responsabile Unico del
+   Procedimento (RUP) della procedura sullo stadio.
+   Già indagato nella maxi inchiesta sull'urbanistica milanese.
+
+2. CHRISTIAN MALANGONE
+   Direttore Generale del Comune di Milano (in carica).
+   Già indagato nella maxi inchiesta sull'urbanistica.
+
+3. ADA LUCIA DE CESARIS
+   Ex assessore del Comune di Milano, avvocata, attualmente consulente
+   di F.C. Internazionale per l'operazione San Siro.
+   Già indagata nella maxi inchiesta sull'urbanistica.
+
+4. SIMONA COLLARINI
+   Ex responsabile del settore Rigenerazione urbana del Comune di Milano,
+   ai tempi RUP della procedura sullo stadio.
+
+
+LATO INTER
+----------
+5. MARK VAN HUUKSLOT
+   Procuratore di F.C. Internazionale Milano.
+
+6. ALESSANDRO ANTONELLO
+   Ex Amministratore Delegato corporate di F.C. Internazionale.
+
+7. FABRIZIO GRENA
+   Advisor / consulente di F.C. Internazionale.
+
+
+LATO MILAN
+----------
+8. GIUSEPPE BONOMI
+   Presidente di Sport Life City S.r.l. (società controllata da A.C. Milan).
+   Già in passato manager nel mondo del calcio.
+
+9. MARTA SPAINI
+   Consulente di A.C. Milan.
+
+
+SCHEMA CONTESTATO DALLA PROCURA
+-------------------------------
+Secondo le imputazioni, tra il 2019 e il 2025 si sarebbero verificati
+"accordi informali e collusioni" tra i 9 indagati per pilotare:
+- il "procedimento amministrativo diretto alla alienazione/valorizzazione
+  della Grande funzione urbana (GFU) San Siro"
+- "la determinazione del contenuto dell'avviso pubblico per la raccolta di
+  manifestazioni di interesse relative" allo stadio Meazza e aree limitrofe
+  (avviso adottato il 24/3/2025, chiuso il 30/4/2025)
+
+Atti contestati nello specifico:
+- Tra 4 e 5 novembre 2021, Tancredi e Malangone avrebbero condiviso con
+  Ada De Cesaris la proposta di Delibera di Giunta n. 1379 del 5/11/2021
+  (dichiarazione di pubblico interesse) PRIMA che venisse portata
+  all'attenzione della Giunta comunale.
+- Tancredi avrebbe condiviso con Mark Van Huukslot la proposta di Delibera
+  n. 28 del 19/01/2023 a conclusione del Dibattito pubblico PRIMA della
+  discussione in Giunta.
+
+
+ELEMENTO CONTESTUALE
+--------------------
+Nel decreto di perquisizione è valorizzato un messaggio del 10 settembre 2019
+dell'architetto Stefano Boeri al sindaco Giuseppe Sala (legati da amicizia),
+in cui Boeri segnalava che sull'operazione San Siro stavano prevalendo
+gli interessi privati a scapito di quelli pubblici. Il suo progetto di
+"stadio-bosco" non era stato apprezzato. Il messaggio è stato utilizzato
+come elemento contestuale dell'inchiesta.
+
+
+SVILUPPI SUCCESSIVI (24/04/2026 — fonte Corriere della Sera, Luigi Ferrarella)
+------------------------------------------------------------------------------
+Emerge nell'informativa GdF depositata in inchiesta che la PERIZIA degli
+esperti incaricati dal Comune sarebbe stata MODIFICATA in 3 passaggi
+tra una bozza iniziale e il deposito finale del 18/06/2025, per farla
+"coincidere" con la valutazione precedente dell'Agenzia delle Entrate
+(197 M€ totali, di cui 73 M€ per il solo stadio).
+
+Esperti incaricati dal Comune di Milano:
+- Prof. Giacomo Morri (Università Bocconi)
+- Prof.ssa Alessandra Oppio (Politecnico di Milano)
+
+I 3 passaggi modificati (secondo l'informativa GdF):
+1. Flussi di cassa ipotizzati
+   - Bozza: "non documentati in modo analitico"
+   - Finale: "coerenti con la natura dell'intervento"
+
+2. Obsolescenza fisica dello stadio (parametro per i 73 M€)
+   - Bozza: serviva "maggiore approfondimento" sui coefficienti
+   - Finale: "metodologia coerente con la finalità di stima"
+
+3. Tasso di attualizzazione
+   - Bozza: "inferiore" al parametro di mercato
+   - Finale: "in linea con i valori medi" di mercato
+
+Tempistica: la bozza era datata circa 10 giorni prima del deposito finale
+del 18 giugno 2025.
+
+
+POSIZIONE DEL COMUNE
+--------------------
+Il sindaco di Milano Giuseppe Sala in una nota ufficiale ha dichiarato:
+"Al momento non abbiamo sufficienti elementi conoscitivi se non quelli che
+stiamo apprendendo dai media. La legge Stadi e le procedure di partenariato
+pubblico privato richiedono delle interlocuzioni preliminari con i club
+calcistici; queste interlocuzioni sono, dunque, fisiologiche."
+
+
+CONTESTO PIÙ AMPIO
+------------------
+- Tancredi, Malangone e De Cesaris sono già indagati nella maxi inchiesta
+  sull'urbanistica milanese (estate 2024, alcuni arresti poi annullati
+  dal Tribunale del Riesame e dalla Cassazione)
+- L'inchiesta San Siro è coordinata dagli stessi PM della maxi inchiesta
+  urbanistica
+- Il vincolo della Soprintendenza sul secondo anello dello stadio è scattato
+  il 10/11/2025; il rogito Inter+Milan è stato firmato il 5/11/2025
+  (5 giorni prima del vincolo)
+
+
+IMPATTO SU CERTOSA SERVIZI
+--------------------------
+Nessuno diretto. La gara stadio San Siro non era partecipabile da Certosa
+Servizi (vendita immobiliare diretta Comune → Club Inter/Milan ex Legge Stadi
+D.Lgs. 38/2021). Tuttavia, l'inchiesta è seguita con attenzione per:
+- Possibili implicazioni su future procedure ex Legge Stadi a livello nazionale
+- Effetti sulle aree limitrofe e sulle imprese che lavoreranno alla costruzione
+  del nuovo stadio (avvio lavori 2027, inaugurazione prevista 2031)
+- Riflessi sulla regolarità di altre procedure PPP a Milano (urbanistica)
+
+
+FONTI
+-----
+- Sole 24 ORE — "Stadio San Siro: perquisizioni in corso per turbativa d'asta"
+  (31/03/2026) https://www.ilsole24ore.com/art/stadio-san-siro-perquisizioni-corso-turbativa-d-asta-AIxfWQGC
+- Corriere dello Sport — "Vendita stadio San Siro Milan e Inter: perquisizioni
+  della Guardia di Finanza e 9 indagati" (31/03/2026)
+- Unità — "Stadio San Siro, nove indagati per la vendita per turbativa
+  e rivelazione di segreto" (31/03/2026)
+- MilanoToday — "Inchiesta su vendita San Siro: la relazione degli esperti
+  'corretta' per aderire alla valutazione dell'Agenzia Entrate" (24/04/2026)
+- Sport Mediaset — "Vendita San Siro: indagati per turbativa d'asta"
+  (31/03/2026)
+- Sostack Felice Raimondo — "San Siro, nove indagati per turbativa d'asta:
+  dalle ipotesi alla Guardia di Finanza in Comune" (31/03/2026)

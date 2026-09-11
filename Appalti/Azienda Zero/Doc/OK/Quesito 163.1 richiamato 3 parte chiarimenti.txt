@@ -1,0 +1,184 @@
+QUESITO 1 (208)
+In riferimento alla procedura di Gara in esame, come riportato all’art. 20.5 del relativo “Schema
+di Convenzione”, si evince che la revisione periodica dei prezzi verrà effettuata attraverso
+l’applicazione di una formula matematica basata sull’utilizzo dell’indice nazionale dei prezzi al
+consumo per l’intera collettività (NIC) e, più precisamente:
+-
+ al codice COICOP 04521 per il gas naturale,
+-
+ al codice COICOP 04510 per l’energia elettrica.
+Si evince anche che i servizi influenzati dalla variazione dei prezzi unitari di cui sopra sono i
+seguenti:
+-
+ Per quanto attinente al gas naturale (codice COICOP 04521):
+o
+ A - Servizio di climatizzazione invernale,
+o
+ C - Altri Servizi Termici.
+-
+ Per quanto attinente all’energia elettrica (codice COICOP 04510):
+o
+ B – Servizio di climatizzazione estiva,
+o
+ E – Servizio Energia Impianti elettrici.
+Realizzata questa scomposizione, per quanto attinente ai servizi energetici di cui sopra, è stata
+condotta una comparazione tra i singoli prezzi unitari della Gara del 2019, avente ad oggetto
+“Procedura aperta telematica per la gestione energetica e tecnologica integrata degli impianti
+delle aziende sanitarie della Regione Veneto (Getis)”, con la procedura di cui all’oggetto,
+constatando una totale simmetria, ossia una sovrapposizione delle tariffe unitarie a base di gara.
+Ciò che è emerso, anche a livello economico, è riepilogato nella seguente tabella:
+Gara 2023
+VALORI A BASE D'ASTA
+Gara 2019
+A
+PA1
+PA2
+Servizio di climatizzazione
+invernale
+Riscaldamento invernale
+Condizionamento
+invernale
+0,00108
+0,00265
+€/(m3∙€/(m3∙GG)
+GG)
+0,00135
+0,00292
+€/(m 3∙€/(m 3∙GG)
+GG)
+variazione
+% rispetto
+a Gara
+2019
+-20,2%
+-9,1%
+C
+PC1
+Altri servizi termici
+Impianto di acqua calda
+sanitaria e da altre utenze
+termiche
+0,99658
+€/m 2
+Servizio di climatizzazione
+B
+estiva
+Condizionamento estivo
+senza presenza di
+PB1
+ 0,01332
+ €/(m3∙ gg)
+impianti di ricambio
+dell’aria
+Condizionamento estivo
+PB2
+ con impianti di ricambio
+ 0,02541
+ €/(m3∙ gg)
+dell’aria
+Servizio energia impianti
+E
+elettrici
+Impianto elettrico nelle
+PE1
+ strutture ad alta intensità
+ 24,01798
+ €/m 2
+di cura
+Impianto elettrico nelle
+strutture a media e bassa
+ 2
+PE2
+ 11,18536
+ €/mintensità di cura e in altre
+strutture
+1,01000
+0,01228
+0,02267
+19,62000
+9,81000
+€/m2
+€/(m3∙ gg)
+€/(m3∙ gg)
+€/m2
+€/m2
+-1,3%
+8,5%
+12,1%
+22,4%
+14,0%
+Impianti di illuminazione
+ 2
+PE3
+ 0,61108
+ €/m 0,52000
+ €/m2
+ 17,5%
+esterna
+Dall’analisi dei dati sopra riportati emerge una significativa riduzione dei valori economici a
+base d’asta per i servizi termici e, in controtendenza, un sensibile aumento dei valori unitari
+economici a base d’asta per i servizi elettrici.
+Occorre precisare che nel contesto delle sopra menzionate tariffe unitarie, l’art. 20.5 dello
+“Schema di Convenzione” prevede una scomposizione, convenzionale, così riepilogabile:
+-
+ quota parte tariffaria riferita alla manodopera, revisionata mediante l’uso del costo medio
+della manodopera per “operaio di V livello” desunto dal prezziario interprovinciale degli
+impianti tecnologici pubblicati dalla CCIAA di Vicenza… omissis,
+-
+ quota parte tariffaria riferita ai materiali e altri costi generali, revisionata mediante l’uso
+dell’indice nazionale dei prezzi al consumo per l’intera collettività “NIC, codice COICOP
+00ST”,
+-
+ quota parte tariffaria riferita al vettore energetico (gas ed e.e.), revisionato mediante l’uso
+degli indici nazionali dei prezzi al consumo per l’intera collettività “NIC, codici COICOP 04521
+e 04510” (come anticipato in premessa).
+Dall’analisi condotta sui già menzionati indici revisionali “contrattuali”, emerge quanto sotto
+riportato:
+-
+ l’indice COICOP 04521 tra il 2019 e il 2023 ha riportato un incremento pari al 19,04%,
+passando da un valore di 23.632,00 a un valore di 29.190,53,
+-
+ l’indice COICOP 04510 tra il 2019 e il 2023 ha riportato un incremento pari al 30,08%,
+passando da un valore di 21.627,00 a un valore di 31.243,00,
+-
+ L’indice COICOP 00ST tra il 2019 e il 2023 non ha riportato variazioni (in decisa
+controtendenza rispetto agli indici ISTAT).
+-
+ Il “Prezziario Interprovinciale delle Opere Edili E Degli Impianti Tecnologici non ha registrato
+nuove pubblicazioni successive al 31 dicembre 2019, ovvero non ha riportato variazioni (in
+decisa controtendenza rispetto agli indici ISTAT e alle ultime disposizioni del Ministero del
+Lavoro e delle Politiche Sociali).
+Dall’analisi sopra riepilogata emergono le seguenti significative criticità legate ai prezzi unitari
+posti a base di gara:
+1. Gli indici revisionali legati alla manodopera e ai costi generali ricadenti sotto l’influenza
+dell’indice COICOP 00ST sono totalmente inadeguati rispetto agli incrementi inflazionistici
+registrati negli ultimi 4 anni, affliggendo i valori a base di gara di almeno il 15%,
+2. Gli indici revisionali legati al gas metano, incrementati del quasi 20% non sono stati
+minimamente applicati ai prezzi unitari a base d’asta, i quali hanno addirittura subito una
+significativa flessione (come riportato in tabella).
+3. Gli indici revisionali legati all’energia elettrica, incrementati di circa il 30%, sono stati
+considerati solo in parte, soprattutto se si considera l’effetto inflazionistico citato al
+precedente punto 1.
+Oltre alle già preoccupanti considerazioni sopra rappresentate con un metodo sufficientemente
+oggettivo, emerge un ulteriore fattore di criticità (incrementale rispetto a quanto già descritto)
+che impatterà direttamente sui canoni A e C.
+Ci si riferisce, in particolare, alla risposta al quesito 41 del 29/12/23, in cui viene definito quale
+anno di riferimento per la prima revisione economica contrattuale (n=0) il 2024.
+A parte il fatto che tale parametro di riferimento non è attualmente disponibile (lo sarà a partire
+dal 2025), e che quindi non sarà possibile fare un’adeguata stima economica di contesto
+(necessaria alle valutazioni alla base della predisposizione dell’offerta economica), è doveroso
+sottolineare che, a partire dal 1° gennaio 2024, è stata ripristinata l’iva del gas naturale al 22%,
+cosa che impatterà direttamente sull’incremento dell’indice NIC 04521, affliggendo
+ulteriormente il prezzo unitario a base di gara (già deficitario per il mancato adeguamento
+tariffario) a causa del fatto che il valore n=0 non recepirebbe nemmeno l’incremento iva,
+intercorrente tra 2023 e 2024, che il NIC 2024 recepirà.
+Alla luce delle considerazioni sopra riportate e dei vecchi prezzi della Gara del 2019, si s egnala
+come gli attuali prezzi a base di gara siano a forte rischio di incapienza economica, tali da mettere
+a dubbio la partecipazione ad alcuni dei lotti.
+A tal proposito si richiede:
+-
+ di fissare quale periodo di riferimento n=0 il 2023, ossia l’anno di pubblicazione del bando
+di gara;
+-
+ di procedere ad una rivalutazione economica dei valori unitari posti a base di gara,
+valutando una significativa revisione (al rialzo) degli stessi.

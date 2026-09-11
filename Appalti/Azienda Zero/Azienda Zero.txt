@@ -1,0 +1,34 @@
+AZIENDA ZERO - GVE (Gestione Vettori Energetici)
+==================================================
+Stazione appaltante: Azienda Zero - Veneto (CRAV)
+Stato: PROCEDURA AGGIUDICATA (con ricorsi pendenti)
+
+STORIA:
+- Gara originaria GETIS: ANNULLATA dal Consiglio di Stato (Ott 2024)
+- Sostituita da GVE: indetta con Delibera D.G. n. 730 del 28/11/2023
+- Modifiche: Delibere n. 104 del 01/03/2024 e n. 299/2024
+
+PARAMETRI GARA:
+- Numero gara: 9436015
+- ID Sintel: 176837685
+- Codice Gara: 2023.026
+- Pubblicazione GURI V Serie Speciale: n.145 del 18/12/2023 (e n.38 del 29/03/2024)
+- Lotti: 6 (per Aziende Sanitarie del Veneto)
+- Criterio: OEPV con soglia di sbarramento (min 40/70 punti tecnici)
+- Vincolo: aggiudicazione a un solo lotto per concorrente
+
+ESITO:
+- 17 concorrenti partecipanti, tutti ammessi all'apertura busta amministrativa
+- 9 esclusi per mancato superamento soglia tecnica
+- Lotto 6 (ULSS 9 Scaligera) - CIG A02D9A71A2 - aggiudicato a Teckal
+- Gemmo (2° classificata) ha presentato ricorso (RG 1834/2025)
+
+PARTECIPAZIONE CERTOSA: prevista al 20% in ATI con GETEC (80%)
+
+LINK UFFICIALI:
+- Bandi Azienda Zero: https://www.azero.veneto.it/bandi-di-gara-fornitori
+- BUR Veneto delibere: https://bur.regione.veneto.it/
+- Sentenza TAR Veneto (ricorso Gemmo): https://mdp.giustizia-amministrativa.it/
+- Chiarimenti GVE (PDF): https://www.azero.veneto.it/documents/20126/9b74bc50-0a53-d87e-e9ca-f2be37252769
+
+DOCUMENTI completi su Sintel ID 176837685 (login richiesto).

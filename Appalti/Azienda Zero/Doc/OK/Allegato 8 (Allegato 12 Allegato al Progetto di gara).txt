@@ -1,0 +1,10773 @@
+Quadro Economico "QE"
+
+
+
+
+Servizio
+Manutenzione
+Strardinaria 20%
+Adeguamento
+Normativo 10%
+TOTALE Annuale
+TOTALE 3 ANNI
+TOTALE 3 ANNI +
+Proroga 1 Anno
+Opzione 20%
+Totale Complessivo
+
+Lotto 1
+AOPD
+€
+17.273.264,22
+€
+3.454.652,84
+€
+1.727.326,42
+€
+22.455.243,48
+€
+67.365.730,45
+€
+89.820.973,93
+€
+17.964.194,79
+€
+107.785.168,72
+
+
+IOV
+€
+1.911.439,12
+€
+382.287,82
+€
+191.143,91
+€
+2.484.870,85
+€
+7.454.612,56
+€
+9.939.483,42
+€
+1.987.896,68
+€
+11.927.380,10
+
+
+Somma IOV
+€
+19.184.703,34
+€
+3.836.940,67
+€
+1.918.470,33
+€
+24.940.114,34
+€
+74.820.343,01
+€
+99.760.457,35
+€
+19.952.091,47
+€
+119.712.548,81
+
+
++AOPD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lotto 1
+Lotto 2
+AOVR
+€
+30.411.270,68
+€
+6.082.254,14
+€
+3.041.127,07
+€
+39.534.651,89
+€
+118.603.955,67
+€
+158.138.607,56
+€
+31.627.721,51
+€
+189.766.329,07
+Lotto 2
+Lotto 3
+AULSS 6
+€
+10.897.919,31
+€
+2.179.583,86
+€
+1.089.791,93
+€
+14.167.295,11
+€
+42.501.885,33
+€
+56.669.180,44
+€
+11.333.836,09
+€
+68.003.016,52
+Lotto 3
+Lotto 4
+AULSS 7
+€
+11.256.143,76
+€
+2.251.228,75
+€
+1.125.614,38
+€
+14.632.986,88
+€
+43.898.960,65
+€
+58.531.947,53
+€
+11.706.389,51
+€
+70.238.337,04
+Lotto 4
+Lotto 5
+AULSS 8
+€
+27.484.367,61
+€
+5.496.873,52
+€
+2.748.436,76
+€
+35.729.677,89
+€
+107.189.033,68
+€
+142.918.711,57
+€
+28.583.742,31
+€
+171.502.453,89
+Lotto 5
+Lotto 6
+AULSS 9
+€
+21.237.767,93
+€
+4.247.553,59
+€
+2.123.776,79
+€
+27.609.098,31
+€
+82.827.294,93
+€
+110.436.393,24
+€
+22.087.278,65
+€
+132.523.671,89
+Lotto 6
+
+€
+156.613.824,42
+€
+469.841.473,27
+€
+626.455.297,69
+€
+125.291.059,54
+€
+751.746.357,23
+
+
+
+AOPD
+
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+
+
+POD
+
+
+
+MQ
+
+
+
+MC
+
+Consumi di ciascun punto di consegna (codice POD) identificativo della fornitura di energia elettrica oggetto dell'appalto
+
+
+
+kW/h
+
+
+
+2020
+
+
+
+2021
+
+
+
+2022
+
+
+
+
+
+
+Tipologi
+
+
+
+
+
+
+Potenza
+
+
+
+
+
+
+Livello T
+
+
+
+
+
+
+Accisa Agevolata ?
+
+IT001E31277717
+
+
+
+C.so spagna 8 - PD (Non più attivo)
+
+
+3.709
+
+
+
+
+
+
+
+IT001E00114485
+
+113.581
+
+137.142
+
+Ospedale S.Antonio - via Facciolati, 71
+
+
+4.530.783
+
+6.178.358
+
+5.523.114
+
+MT
+
+1250
+
+10000
+
+no
+
+IT001E31387183
+
+1.863
+
+7.200
+
+Via G. Falloppio 17 - Padova
+
+
+68.344
+
+73.838
+
+74.827
+
+BT
+
+50
+
+380
+
+no
+
+IT001E30414654
+
+62.509
+
+24.239
+
+Autosilo - Via Gattamelata 60 - Padova
+
+
+360.938
+
+397.449
+
+385.217
+
+BT
+
+62
+
+380
+
+no
+
+IT001E31119519
+
+30
+
+120
+
+Sede AVO - Via Gattamelata 62 - Padova
+
+
+9.663
+
+17.649
+
+12.119
+
+BT
+
+25
+
+380
+
+no
+
+IT001E00053707
+
+144.717
+
+730.450
+
+Via Giustiniani 2 - Padova
+
+
+21.113.189
+
+18.989.413
+
+21.747.127
+
+MT
+
+7000
+
+20000
+
+no
+
+IT001E00204130
+
+6.630
+
+18.981
+
+Via Orus, 2 - 35128 Padova
+
+
+2.564.217
+
+2.688.046
+
+2.825.954
+
+MT
+
+625
+
+10000
+
+no
+
+IT001E04104914
+
+484
+
+1.313
+
+Via Pietro Donà 11 - Padova
+
+
+46.297
+
+46.588
+
+44.849
+
+BT
+
+40
+
+380
+
+no
+
+IT001E31396559
+
+0
+
+0
+
+Parcheggio Via San Massimo, 137 - 35128 Padova
+
+
+12.605
+
+9.841
+
+10.789
+
+BT
+
+6,6
+
+220
+
+no
+
+IT001E30389267
+
+5.027
+
+28.950
+
+Viale Navigazione Interna 38 - Padova
+
+
+137.794
+
+148.727
+
+148.886
+
+BT
+
+74
+
+380
+
+no
+
+
+
+
+M5 Cogeneratore Est - Via Giustiniani 2 Padova
+
+
+8.186.400
+
+9.778.800
+
+8.382.822
+
+MT
+
+1400
+
+10000
+
+no
+
+
+
+
+M6 Cogeneratore Ovest - Via Giustiniani 2 Padova
+
+
+7.872.600
+
+8.815.800
+
+8.445.270
+
+MT
+
+1400
+
+10000
+
+no
+44.906.539	47.144.509	47.600.974
+AOVR
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+POD
+
+MQ
+
+MC
+Consumi di ciascun punto di consegna (codice POD) identificativo della fornitura di energia elettrica
+oggetto dell'appalto
+
+Kw/h
+
+2020
+
+2021
+
+2022
+
+Tipologia
+
+Potenza
+
+Livello Te
+
+Accisa Agevolata ?
+IT024E01057566
+88
+447
+VIA T.DA VICO VERONA
+Kw/h
+30.960
+25.068
+35.712
+BT
+15
+380
+NO
+IT024E00495982
+277
+881
+VIA ATTIRAGLIO - 48 VERONA
+Kw/h
+51.552
+49.224
+36.348
+BT
+25
+380
+NO
+IT024E00192551
+1.600
+6.000
+VIA DELLE MENEGONE - 10 VERONA
+Kw/h
+66.456
+68.796
+62.220
+BT
+21
+380
+NO
+IT024E00423152
+1.000
+2.900
+VIA MAMELI - 41 VERONA
+Kw/h
+35.520
+36.120
+36.360
+BT
+19
+380
+NO
+IT024E00214763
+332.182
+1.300.126
+P.LE STEFANI- 1 VERONA
+Kw/h
+27.511.814
+15.087.303
+15.985.446
+MT
+8.000
+20.000
+SI
+IT024E00214766
+in anello a POD
+IT024E00214763
+in anello a POD
+IT024E00214763
+P.LE STEFANI - 1 VERONA
+Kw/h
+46.432
+0
+352.340
+MT
+8.000
+20.000
+SI
+IT024E00192558
+152.421
+583.163
+P.LE LUDOVICO ANTONIO SCURO - 10 VERONA
+Kw/h
+11.363.273
+14.191.186
+15.865.126
+MT
+4.500
+20.000
+SI
+IT024E00422149
+120
+350
+VIA CEFALONIA - 2 VERONA
+Kw/h
+9.756
+10.776
+9.984
+BT
+4,5
+220
+NO
+IT024E00192555
+4.900
+17.000
+VIA DELLE MENEGONE - 10 VERONA
+Kw/h
+66.816
+60.276
+48.420
+BT
+13
+380
+NO
+IT024E00192558P
+in anello a POD IT024E00192558
+in anello a POD IT024E00192558
+Produzione Cogeneratore B.go Roma
+Kw/h
+11.735.721
+9.301.586
+8.645.065
+
+IT024E00214763P
+in anello a POD IT024E00214763
+in anello a POD IT024E00214763
+Produzione Cogeneratore 1 B.go Trento
+Kw/h
+6.858.866
+4.565.150
+4.022.924
+
+IT024E00214763P
+in anello a POD IT024E00214763
+in anello a POD IT024E00214763
+Produzione Cogeneratore 2 B.go Trento
+Kw/h
+non attivo
+16.568.034
+16.510.956
+
+
+
+
+
+
+57.777.166
+59.963.519
+61.610.901
+
+
+AULSS6
+Unità
+Periodo
+Periodo
+Periodo
+
+
+
+POD
+
+
+MQ
+
+
+MC
+
+Consumi di ciascun punto di consegna (codice POD) identificativo della fornitura di energia elettrica oggetto dell'appalto
+
+
+Kw/h
+
+
+2020
+
+
+2021
+
+
+2022
+
+
+Tipologi
+Potenza Impegn ata
+kW
+Livello Tension e
+V
+
+
+Accisa Agevolata ?
+IT001E34165466
+23381
+94527
+0203_002 - Padova - via dei colli 4
+Kw/h
+1599402
+1346200
+838800
+MT
+1000
+20000
+NO
+IT001E30004138
+245
+689
+0203_003 - Padova - via Cave 299
+Kw/h
+7200
+6525
+6804
+BT
+6
+230
+NO
+IT001E31384951
+536
+1732
+0203_004 - Padova - via S. Eufemia 8
+Kw/h
+9915
+9219
+12979
+BT
+25
+400
+NO
+IT001E00053836
+7884
+24282
+0203_005 - Padova - via Scrovegni 12
+Kw/h
+571232
+558000
+512400
+MT
+263
+10000
+NO
+IT001E33661228
+313
+1099
+0203_007 - Padova - Piazza Mazzini 12
+Kw/h
+9837
+7281
+9929
+BT
+20
+400
+NO
+IT001E31553918
+2202
+8026
+0203_008 - Padova - via Temanza 1
+Kw/h
+197566
+201169
+204173
+BT
+110
+400
+NO
+IT001E32392151
+1176
+3547
+0203_010 - Albignasego - via Don Schiavon
+Kw/h
+70370
+90100
+74675
+BT
+50
+400
+NO
+IT001E31359250
+1146
+3700
+0203_011 - Padova - via Piovese 74
+Kw/h
+74732
+74502
+66734
+BT
+38
+400
+NO
+IT001E32196627
+1414,5
+4000,5
+0203_012 - Rubano - via Spinelli 1
+Kw/h
+44535
+45908
+46923
+BT
+43
+400
+NO
+IT001E32221001
+1414,5
+4000,5
+0203_012 - Rubano - via Spinelli 1
+Kw/h
+37068
+43697
+38487
+BT
+100
+400
+NO
+IT001E33561050
+1460
+4527
+0203_013 - Selvazzano Dentro - Piazza B. de Claricini 1
+Kw/h
+153507
+196293
+184765
+BT
+130
+400
+NO
+IT001E31896922
+444
+1555
+0203_015 - Abano Terme - via Lazzaretto 1
+Kw/h
+16417
+16683
+16005
+BT
+15
+400
+NO
+IT001E31770680
+387
+1162
+0203_016 - Selvazzano Dentro - via Papa Giovanni XXIII 13
+Kw/h
+4485
+4612
+5761
+BT
+6
+230
+NO
+IT001E32309136
+0
+0
+0203_016 - Selvazzano Dentro - via Papa Giovanni XXIII 13
+Kw/h
+1809
+1864
+711
+BT
+6
+230
+NO
+IT001E31863586
+909
+3042
+0203_018 - Cervarese Santa Croce - via Bresseo 57
+Kw/h
+26388
+28753
+29570
+BT
+24
+400
+NO
+IT001E31896732
+693
+2078
+0203_019 - Abano Terme - via Malachin 15
+Kw/h
+16268
+15263
+15468
+BT
+15
+400
+NO
+IT001E31278773
+520
+1807
+0203_020 - Padova - via Granze Sud 41
+Kw/h
+17655
+17958
+17117
+BT
+6
+230
+NO
+IT001E31268434
+0
+0
+0203_021 - Padova - via Fra P. Sarpi 76/2
+Kw/h
+14249
+16854
+13931
+BT
+15
+400
+NO
+IT001E30369649
+803
+3227
+0203_022 - Selvazzano Dentro - via Bressan 4
+Kw/h
+48358
+57008
+58725
+BT
+38
+400
+NO
+IT001E32998510
+1391
+4624
+0203_023 - Padova - via Fra P. Sarpi 76/2
+Kw/h
+22830
+25463
+22563
+BT
+25
+400
+NO
+IT001E31374504
+376
+1189
+0203_024 - Padova - via Buzzacarini 1/C
+Kw/h
+12483
+14282
+8452
+BT
+10
+400
+NO
+IT001E00220560
+3200
+11233
+0203_025 - Padova - Via Eulero 80
+Kw/h
+0
+72578
+264000
+MT
+500
+20000
+NO
+IT001E30206150
+455
+1400
+0203_026 - Saonara - via G. Falcone 4
+Kw/h
+21177
+19829
+19974
+BT
+15
+380
+NO
+IT001E31730718
+461
+1780
+0203_028 - Cadoneghe - via Gramsci 57
+Kw/h
+19091
+18978
+17804
+BT
+20
+400
+NO
+IT001E31806163
+293
+829
+0203_029 - Ponte San Nicolò - via Cavour 36
+Kw/h
+6540
+10010
+7660
+BT
+6
+220
+NO
+IT001E31345353
+560
+1600
+0203_032 - Padova - via Berchet 16
+Kw/h
+27952
+26349
+23382
+BT
+30
+400
+NO
+IT001E31345388
+423
+1247
+0203_033 - Padova - via Berchet 10
+Kw/h
+15606
+17396
+15677
+BT
+30
+400
+NO
+IT001E00051337
+45942
+132595
+0203_034 - Piove di Sacco - via San Rocco 8
+Kw/h
+4566080
+3575180
+2861980
+MT
+909
+20000
+NO
+IT001E31707359
+725
+2499
+0203_039 - Trebaseleghe - via Rupolo 1/A
+Kw/h
+26980
+27157
+25720
+BT
+44
+400
+NO
+IT001E31599337
+1190
+4431
+0203_040 - Vigodarzere - via Don Luigi Sturzo 587
+Kw/h
+64206
+59927
+61300
+BT
+70
+400
+NO
+IT001E31707353
+852
+2981
+0203_041 - Vigonza - via Paradisi 2
+Kw/h
+51054
+50621
+49250
+BT
+38
+400
+NO
+IT001E31703210
+260
+977
+0203_042 - Villa del Conte - via Roma 91/A
+Kw/h
+8572
+10589
+8420
+BT
+15
+400
+NO
+IT001E30119591
+93
+200
+0203_043 - Campodarsego - via Antoniana 218
+Kw/h
+2548
+2546
+2964
+BT
+5
+230
+NO
+IT001E30119592
+357
+770
+0203_043 - Campodarsego - via Antoniana 218
+Kw/h
+16588
+15378
+11393
+BT
+15
+400
+NO
+IT001E30119638
+320
+690
+0203_043 - Campodarsego - via Antoniana 218
+Kw/h
+7271
+9208
+10214
+BT
+10
+400
+NO
+IT001E31869784
+106
+300
+0203_044 - Camposampiero - via Tentori
+Kw/h
+4495
+4137
+5275
+BT
+6
+230
+NO
+IT001E34179477
+792
+2528
+0203_045 - Campo San Martino - via Forese
+Kw/h
+12127
+13911
+9953
+BT
+15
+400
+NO
+IT001E31699674
+751
+2635
+0203_046 - Carmignano di Brenta - via Foscolo
+Kw/h
+49825
+51094
+49440
+BT
+53
+400
+NO
+IT001E32362046
+1570
+6281
+0203_047 - Cittadella - via Copernico
+Kw/h
+74865
+78076
+73067
+BT
+120
+400
+NO
+IT001E00051264
+1700
+5867
+0203_048 - Piazzola sul Brenta - via Contarini 43/A
+Kw/h
+125441
+120833
+109801
+BT
+153
+400
+NO
+IT001E31783922
+890
+3593
+0203_049 - San Martino di Lupari - via Trento 22
+Kw/h
+38362
+38966
+33787
+BT
+38
+400
+NO
+IT001E32160902
+72
+199
+0203_050 - Carmignano di Brenta - via Roma 33
+Kw/h
+872
+346
+556
+BT
+3
+230
+NO
+IT001E32160903
+72
+199
+0203_050 - Carmignano di Brenta - via Roma 33
+Kw/h
+3777
+3588
+2614
+BT
+3
+230
+NO
+IT001E32160904
+72
+199
+0203_050 - Carmignano di Brenta - via Roma 33
+Kw/h
+314
+249
+378
+BT
+3
+230
+NO
+IT001E32489701
+94
+308
+0203_051 - Carmignano di Brenta - via Spessa 23
+Kw/h
+1805
+1837
+1666
+BT
+3
+230
+NO
+IT001E31721031
+485
+1318
+0203_052 - Fontaniva - via Pascoli 6
+Kw/h
+103009
+105973
+12187
+BT
+53
+400
+NO
+IT001E00051807
+12438
+49027
+0203_054 - Galliera Veneta - via Roma 63
+Kw/h
+554880
+577080
+609348
+MT
+175
+20000
+NO
+IT001E31566748
+382
+1337
+0203_055 - Vigonza - via Gernania 12/14
+Kw/h
+29072
+32236
+30768
+BT
+25
+400
+NO
+IT001E30396848
+5003
+21063
+Via Cao del Mondo 1, Camposampiero (PD)
+Kw/h
+19140
+69723
+75276
+BT
+20
+400
+NO
+IT001E31700802
+2480
+7920
+Via Cosma 2, Camposampiero (PD)
+Kw/h
+997
+3736
+2726
+BT
+20
+380
+NO
+IT001E31872610
+0
+
+0
+Via Cosma 2, Camposampiero (PD)
+Kw/h
+0
+0
+0
+BT
+3
+220
+NO
+IT001E04021362
+0
+0
+Via Dei Colli 4, Padova (PD)
+Kw/h
+8222
+0
+0
+BT
+20
+380
+NO
+
+IT001E31342243
+
+0
+
+
+0
+
+Via Degli Scrovegni 14, Padova (PD)
+
+Kw/h
+
+4046
+
+3706
+
+3507
+
+BT
+
+6
+
+220
+
+NO
+IT001E31731967
+352
+950
+Via Roma 18, Noventa Padovana (PD)
+Kw/h
+27911
+19994
+22190
+BT
+6,6
+380
+NO
+IT001E31715804
+207
+840
+Via Stella Arrunzio 116B, Abano Terme (PD)
+Kw/h
+51905
+54587
+46581
+BT
+15,3
+380
+NO
+IT001E31711489
+550
+1440
+Via Mons. Romero 6, Sant'Angelo di Piove di Sacco (PD)
+Kw/h
+2569
+3597
+3199
+BT
+15
+380
+NO
+IT001E31326057
+70
+190
+Via Moretto Da Brescia 8, Padova (PD)
+Kw/h
+1338
+1682
+1058
+BT
+3
+220
+NO
+IT001E35589165
+221
+
+692
+Via Vittorio Emanuele II 18, Conselve (PD)
+Kw/h
+179520
+14245
+6409
+BT
+22
+400
+NO
+IT001E00227601
+16386
+
+51195
+Via Vittorio Emanuele II 22, Conselve (PD)
+Kw/h
+843362
+525266
+474357
+MT
+499
+20.000
+NO
+IT001E00207081
+9877
+33744
+Via san Fermo 10, Este (PD)
+Kw/h
+781041
+721861
+733163
+MT
+672
+20.000
+NO
+IT001E00209805
+37540
+121271
+Via Marconi 19, Monselice (PD)
+Kw/h
+1982362
+2080478
+1929406
+MT
+1.386
+20.000
+NO
+IT001E31005501
+11353
+33632
+Via Lovara 4. Montagnana (PD)
+Kw/h
+1088126
+640570
+595362
+MT
+404
+20.000
+NO
+IT001E35504550
+100
+300
+Via Luppia Alberi snc, Montagnana (PD)
+Kw/h
+0
+0
+0
+BT
+2
+230
+NO
+IT001E35503972
+1738
+6210
+Via Luigi Cadorna snc, Monselice (PD)
+Kw/h
+0
+0
+0
+BT
+27,2
+400
+NO
+IT001E35589149
+475
+
+1425
+Piazza XX Settembre 2, Conselve (PD)
+Kw/h
+9731
+22606
+12272
+BT
+27,5
+400
+NO
+IT001E35505713
+475
+
+1425
+Piazza Cesare Battisti 11, Conselve (PD)
+Kw/h
+19282
+19603
+17155
+BT
+43,8
+400
+NO
+IT001E35589148
+0
+
+0
+Piazza XX Settembre 2, Conselve (PD)
+Kw/h
+360
+361
+365
+BT
+6,6
+400
+NO
+IT001E35502936
+9000
+36000
+Via Salute 14b, Este (PD)
+Kw/h
+22
+3
+0
+BT
+60
+400
+NO
+
+
+
+
+750
+
+
+
+3150
+
+
+
+LIMENA - Via Marzolla / Cabrelle
+
+
+
+Nuovo edificio (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+
+590
+
+
+
+
+2360
+
+
+
+
+PADOVA - Via Dei Colli 4
+
+
+
+Ampliamento edificio esistente (pad.3) (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+
+995
+
+
+
+
+3480
+
+
+
+
+SAONARA - Via Falcone 4
+
+
+
+Ampliamento edificio esistente (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+848
+
+
+
+2968
+
+
+
+NOVENTA PADOVANA - Via Roma 18
+
+
+
+Nuovo edificio (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+830
+
+
+
+2900
+
+
+
+ABANO TERME - Via G. Pertini
+
+
+
+Nuovo edificio (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+735
+
+
+
+2800
+
+
+
+MASERA' DI PADOVA - Via Mons. Luigi Zane
+
+
+
+Nuovo edificio (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+622
+
+
+
+1866
+
+
+
+PONTELONGO - Via Martiri Ungheria 250
+
+
+
+Nuovo edificio (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+720
+
+
+
+2160
+
+
+
+CAMPOSAMPIERO - Via Cao del Mondo
+
+
+
+Nuovo edificio (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+
+268
+
+
+
+
+965
+
+
+
+
+CARMIGNANO DI BRENTA - Via Foscolo 21
+
+
+
+Ampliamento edificio esistente (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+1140
+
+
+
+3990
+
+
+
+SAN MARTINO DI LUPARI - Via Manin
+
+
+
+Nuovo edificio (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+
+217
+
+
+
+
+695
+
+
+
+
+TREBASELEGHE - Via D. Rupolo 1
+
+
+
+Ampliamento edificio esistente (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+
+254
+
+
+
+
+762
+
+
+
+
+VIGONZA - Via Paradisi 2
+
+
+
+Ampliamento edificio esistente (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+
+2951
+
+
+
+
+8853
+
+
+
+
+ESTE - Via S. Fermo 10
+
+
+
+Ampliamento edificio esistente (Casa di
+
+
+
+
+
+
+Comunità) - attivazione
+
+
+
+
+
+
+entro marzo 2026
+
+
+
+
+
+
+13.808.749
+11.903.724
+10.426.576
+
+
+AULSS9
+Unità
+Periodo
+Periodo
+Periodo
+
+
+
+
+POD
+
+
+
+MQ
+
+
+
+MC
+
+
+Consumi di ciascun punto di consegna (codice POD) identificativo della fornitura di energia elettrica oggetto dell'appalto
+
+
+
+Kw/h
+
+
+
+2020
+
+
+
+2021
+
+
+
+2022
+Tipologi a di fornitur a (BT,
+MT, AT)
+
+Potenza Impegn ata/MES E
+
+
+Livello Tension e
+
+
+
+Accisa Agevolata ?
+
+IT001E00118412
+
+8093
+
+24280
+
+SEDE OSPEDALIERA DI BOVOLONE
+Kw/h
+
+668342,4
+
+644427,5574
+
+771163,481
+MT
+363KW
+10000V
+NO
+
+IT001E00075849
+
+11690
+
+35070
+
+OSPEDALE DI NOGARA
+Kw/h
+
+1288705
+
+1196613,094
+
+1129840,679
+MT
+378KW
+10000V
+NO
+
+IT001E00125632
+
+10723
+
+32170
+
+SEDE OSPEDALIERA DI ZEVIO
+Kw/h
+
+355784
+
+491230,0558
+
+548848,993
+MT
+238KW
+20000V
+NO
+
+IT001E36968047
+
+591
+
+1773
+
+SERT "L'ARGINE" VIA BELFIORE, 49 - LOC. VIGO
+Kw/h
+
+92163,5
+
+76645,7505
+
+41958,521
+BT
+35KW
+380,00V
+NO
+
+IT001E36783356
+
+245
+
+735
+
+SERT
+Kw/h
+
+15919,2
+
+16045,57133
+
+15582,611
+BT
+20,2KW
+380,00V
+NO
+
+IT001E36952170
+
+150
+
+450
+
+CEOD "IL TIGLIO"
+Kw/h
+
+24203,3
+
+21194,316
+
+33339,251
+BT
+10KW
+380,00V
+NO
+
+IT001E36788274
+
+880
+
+2640
+
+DIP.TO DI PREVENZIONE - LEGNAGO
+Kw/h
+
+20860,4
+
+2994,354
+
+12487,167
+BT
+15KW
+380,00V
+NO
+
+IT001E31089197
+
+442
+
+1326
+
+DIP.TO DISTRETTO - PUNTO SANITÀ CEREA
+Kw/h
+
+18940,9
+
+19724,0648
+
+29622,8086
+BT
+20KW
+380,00V
+NO
+
+IT001E36961403
+
+220
+
+660
+
+DIP.TO DISTRETTO - PUNTO SANITÀ DI PORTO
+Kw/h
+
+21753,6
+
+33760,782
+
+80256,253
+BT
+25KW
+380,00V
+NO
+
+IT001E34646482
+
+1500
+
+4500
+
+EX FONTANINA BOVOLONE
+Kw/h
+
+114337,3
+
+51510,6372
+
+113740
+BT
+39KW
+380,00V
+NO
+
+IT001E00218237
+
+11063
+
+33190
+
+OSPEDALE VALEGGIO SUL MINCIO
+Kw/h
+
+655856,5
+
+635566,475
+
+630758,325
+MT
+350KW
+20000V
+NO
+
+IT001E36928198
+
+867
+
+2600
+
+UFFICI SANITARI BUSSOLENGO
+Kw/h
+
+22655
+
+17355,3377
+
+15777,2617
+BT
+25KW
+380,00V
+NO
+
+IT001E36836183
+
+353
+
+1060
+
+DISTRETTO SANITARIO DI BASE
+Kw/h
+
+37707,35
+
+28373,7522
+
+26272,4032
+BT
+20KW
+380,00V
+NO
+
+IT001E36888992
+
+471
+
+1413
+
+SETTORE FARMACEUTICO
+Kw/h
+
+9234,5
+
+25184,9333
+
+68971,25
+BT
+40KW
+380,00V
+NO
+
+IT001E36889892
+
+1710
+
+5131
+
+SUB DISTRETTO SANITARIO DI BASE
+Kw/h
+
+82856,35
+
+7059,88795
+
+9932,1452
+BT
+15KW
+380,00V
+NO
+
+IT001E36889689
+
+2933
+
+8799
+
+CENTRO SALUTE MENTALE
+Kw/h
+
+55288,55
+
+40527,60655
+
+92027,26995
+BT
+62,50K
+W
+380,00V
+NO
+
+IT001E00072195
+
+13064
+
+39193
+
+OSPEDALE DI ISOLA DELLA SCALA
+Kw/h
+
+430610,6
+
+311645,6944
+
+317212,0693
+MT
+318KW
+10000V
+NO
+
+IT001E36775606
+
+1733
+
+5200
+
+CLUB HOUSE LA GROLETTA
+Kw/h
+
+112095,1
+
+79127,83035
+
+94472,9646
+BT
+15KW
+380,00V
+NO
+
+IT001E36857271
+
+353
+
+1060
+
+DISTRETTO SANITARIO DI BASE DI PESCHIERA DEL GARDA
+Kw/h
+
+22770
+
+3393,5948
+
+14415,0913
+BT
+10KW
+380,00V
+NO
+
+IT001E36809010
+
+310
+
+930
+
+SERT DI VILLAFRANCA VERONESE
+Kw/h
+
+15883,8
+
+4774,21005
+
+18392,18345
+BT
+10KW
+220,00V
+NO
+
+IT001E36780799
+
+2933
+
+8799
+
+ARCHIVIO DI PONTON
+Kw/h
+
+444767,1
+
+79127,83035
+
+1,15
+BT
+3,30KW
+220,00V
+NO
+
+IT001E30041006
+
+2125
+
+6374
+
+CHIOSTRO DEI FRATI DI BUSSOLENGO
+Kw/h
+
+5614709,4
+
+23582,88785
+
+24602,1179
+BT
+10KW
+380,00V
+NO
+
+IT001E00245733
+
+7000
+
+21000
+
+CENTRO POLIFUNZIONALE DI BUSSOLENGO
+Kw/h
+
+619774,1
+
+354268,1398
+
+490252,9902
+MT
+400KW
+20000V
+NO
+
+IT001E00118248
+
+310
+
+930
+
+DISTRETTO SANITARIO DI BASE DI BARDOLINO
+Kw/h
+
+412482
+
+55629,4675
+
+72307,515
+BT
+38KW
+380,00V
+NO
+
+IT001E00118099
+
+10232
+
+30696
+
+MALCESINE, LOCALITÀ VAL DI SOGNO 9999
+Kw/h
+
+31312,2
+
+344941,9101
+
+1136936,645
+MT
+255KW
+20000V
+NO
+
+IT001E00074119
+
+10315
+
+30946
+
+OSPEDALE CAPRINO VERONESE
+Kw/h
+
+73016,95
+
+305224,7131
+
+318956,3778
+MT
+169KW
+20000V
+NO
+
+IT001E00071503
+
+14582
+
+43745
+
+OSPEDALE VILLAFRANCA VERONESE
+Kw/h
+
+4739769,582
+
+4471480,738
+
+5056538,5
+MT
+2500
+KW
+20000V
+NO
+IT001E00225359
+8930
+26790
+COLOGNA VENETA
+Kw/h
+900000
+850000
+789015
+MT
+128 KW
+20000V
+NO
+IT001E00234438
+13558
+40674
+TREGNAGO
+Kw/h
+320000
+350000
+317472
+MT
+76 KW
+20000V
+NO
+IT001E04200412
+458
+1374
+ARCOLE
+Kw/h
+500
+200
+99
+BT
+15 KW
+380,00V
+NO
+IT001E04200413
+2097
+6291
+COLOGNOLA AI COLLI
+Kw/h
+2000
+1500
+831
+BT
+63 KW
+380,00V
+NO
+IT001E04200428
+
+141
+
+423
+SAN BONIFACIO
+Kw/h
+7000
+12000
+5831
+BT
+6 KW
+220,00V
+NO
+IT001E04200429
+
+
+SAN BONIFACIO
+Kw/h
+5000
+9000
+4035
+BT
+6 KW
+220,00V
+NO
+IT001E04200438
+2150
+6450
+SAN GIOVANNI LUPATOTO
+Kw/h
+80000
+80000
+77567
+NT
+58,8 KW
+380,00V
+NO
+IT001E04200443
+627
+1881
+SAN GIOVANNI LUPATOTO
+Kw/h
+14000
+16000
+13705
+BT
+20 LW
+380,00V
+NO
+IT001E04200461
+428
+1284
+SAN MARTINO BUON ALBERGO
+Kw/h
+12000
+9000
+7693
+BT
+2 KW
+380,00V
+NO
+IT001E04200533
+1558
+4674
+COLOGNA VENETA
+Kw/h
+110000
+90000
+86020
+BT
+17,9 KW
+380,00V
+NO
+IT001E04240468
+297
+891
+SAN GIOVANNI ILARIONE
+Kw/h
+7000
+5000
+4317
+BT
+4,5 KW
+220,00V
+NO
+IT001E32271952
+620
+1860
+SOAVE
+Kw/h
+30000
+30000
+24431
+BT
+9,3 KW
+380,00V
+NO
+IT001E33666903
+75000
+225000
+SAN BONIFACIO
+Kw/h
+2500
+200
+562
+BT
+0,5 KW
+380,00V
+NO
+IT024E00165223
+1080
+3240
+VERONA
+Kw/h
+140000
+140000
+137550
+BT
+27,7 KW
+400,00V
+NO
+IT024E00165456
+86
+258
+VERONA
+Kw/h
+8500
+8500
+3732
+BT
+6,00 KW
+380,00V
+NO
+IT024E00165460
+166
+498
+VERONA
+Kw/h
+40000
+40000
+37558
+MT
+9,8 KW
+15000 V
+NO
+IT024E00166257
+125
+375
+VERONA
+Kw/h
+5900
+2000
+703
+BT
+10 KW
+380,00V
+NO
+IT024E00172978
+9126
+27378
+VERONA
+Kw/h
+500000
+530000
+497806
+MT
+103,80
+KW
+10000 V
+NO
+IT024E00175169
+66
+198
+VERONA
+Kw/h
+1300
+1300
+1518
+BT
+3 KW
+220,00V
+NO
+IT024E00181840
+90
+270
+VERONA
+Kw/h
+2700
+4900
+4670
+BT
+10 KW
+380,00V
+NO
+IT024E00182654
+1950
+5850
+VERONA
+Kw/h
+200000
+150000
+117446
+MT
+32,8 KW
+15000 V
+NO
+IT024E00185725
+35984
+107952
+VERONA
+Kw/h
+2800000
+2500000
+2239427
+MT
+381,80
+KW
+10000 V
+NO
+IT024E00188690
+105
+315
+VERONA
+Kw/h
+1000
+1000
+633
+BT
+20 KW
+400,00V
+NO
+IT024E00192208
+26
+78
+VERONA
+Kw/h
+1000
+500
+697
+BT
+3 KW
+220,00V
+NO
+IT024E00195272
+11496
+34488
+VERONA
+Kw/h
+500000
+450000
+374745
+MT
+58KW
+15000 V
+NO
+IT024E00202599
+40
+120
+VERONA
+Kw/h
+58000
+1500
+684
+NT
+3KW
+220,00V
+NO
+IT024E00203621
+147
+441
+VERONA
+Kw/h
+2400
+500
+111
+BT
+3 KW
+380,00V
+NO
+IT024E00208851
+115
+345
+VERONA
+Kw/h
+3000
+3600
+3813
+BT
+10 KW
+380,00V
+NO
+IT024E00217125
+1497
+4491
+VERONA
+Kw/h
+70000
+65000
+65565
+MT
+22,2 KW
+15000 V
+NO
+IT024E00218163
+
+238
+
+714
+VERONA
+Kw/h
+1700
+2000
+2735
+BT
+10 KW
+380,00V
+NO
+IT024E00218165
+
+
+VERONA
+Kw/h
+5500
+5500
+3326
+BT
+10 KW
+380,00V
+NO
+IT024E00219316
+694
+2082
+VERONA
+Kw/h
+35000
+40000
+35961
+MT
+25 KW
+15000 V
+NO
+IT024E00225483
+1200
+3600
+VERONA
+Kw/h
+200000
+180000
+158173
+MT
+32,0 KW
+15000 V
+NO
+IT024E00227857
+948
+2844
+VERONA
+Kw/h
+22000
+18000
+13483
+MT
+30 KW
+15000 V
+NO
+IT024E00234373
+1615
+4845
+GREZZANA
+Kw/h
+23000
+23000
+14482
+MT
+20 KW
+15000 V
+NO
+IT024E00393929
+57
+171
+VERONA
+Kw/h
+2200
+2000
+1728
+NT
+6 KW
+380,00V
+NO
+IT024E00409650
+5972
+17916
+VERONA
+Kw/h
+450000
+450000
+410640
+MT
+79,5 KW
+15000 V
+NO
+IT024E02003295
+443
+1329
+VERONA
+Kw/h
+20000
+20000
+17926
+BT
+15 KW
+380,00V
+NO
+IT024E00410455
+1812
+5436
+VERONA
+Kw/h
+35000
+30000
+22256
+MT
+16,6 KW
+15000 V
+NO
+IT024E00411612
+599
+1797
+VERONA
+Kw/h
+11000
+8000
+5247
+BT
+10 KW
+380,00V
+NO
+IT024E00413508
+
+210
+
+630
+VERONA
+Kw/h
+3000
+2000
+1033
+BT
+15 KW
+380,00V
+NO
+IT024E00423318
+86
+258
+VERONA
+Kw/h
+1500
+1500
+622
+BT
+6 KW
+380,00V
+NO
+IT024E00423670
+370
+1110
+VERONA
+Kw/h
+14000
+10000
+2728
+BT
+15 KW
+380,00V
+NO
+IT024E00455900
+38
+114
+VERONA
+Kw/h
+10000
+7000
+5675
+BT
+10 KW
+380,00V
+NO
+IT024E00457347
+1310
+3930
+VERONA
+Kw/h
+20000
+65000
+61246
+MT
+30 KW
+15000 V
+NO
+IT024E00474312
+305
+915
+VERONA
+Kw/h
+5000
+10000
+8178
+BT
+22 KW
+380,00V
+NO
+IT024E00497248
+4600
+13800
+VERONA
+Kw/h
+380000
+380000
+319902
+MT
+79,2 KW
+15000 V
+NO
+IT001E34697047
+141
+423
+SAN BONIFACIO
+Kw/h
+55000
+50000
+53000
+BT
+16,7 KW
+380,00V
+NO
+IT001E00074053
+27028
+81083
+BUSSOLENGO
+Kw/h
+2900529
+2000000
+953506
+MT
+353,6
+KW
+10000 V
+NO
+IT001E00074311
+63133
+189400
+LEGNAGO
+Kw/h
+1405232
+4500000
+3339597
+MT
+1173
+KW
+20000V
+SI
+IT001E36963424
+245
+735
+LEGNAGO
+Kw/h
+1405
+500
+919
+BT
+3 KW
+220,00V
+NO
+IT001E36808047
+310
+930
+VILLAFRANCA DI VERONA
+Kw/h
+11813
+11850
+8747
+BT
+6 KW
+220,00V
+NO
+IT024E00425579
+948
+2844
+VERONA
+Kw/h
+100
+200
+73
+MT
+30 KW
+15000 V
+NO
+
+
+
+VERONA
+
+12037571
+12408149
+12641833
+
+39.476.149	34.917.810	34.065.918
+
+AULSS7
+Unità
+Periodo
+Periodo
+Periodo
+
+
+POD
+
+MQ
+
+MC
+Consumi di ciascun punto di consegna (codice POD) identificativo della fornitura di energia elettrica
+oggetto dell'appalto
+
+Kw/h
+
+2020
+
+2021
+
+2022
+
+Tipologia
+
+Potenza
+
+Livello Te
+
+Accisa Agevolata ?
+IT001E00236554
+10624
+46386
+via Martiri di Granezza,30 Asiago vecchio po
+Kw/h
+1.143.427
+704.456
+387.384
+MT
+338
+20000
+NO
+IT001E35191050
+131
+662
+via Cairoli, 1/A Asiago
+Kw/h
+5.318
+4.571
+4.763
+BT
+6
+230
+NO
+IT001E33720680
+1106
+4732
+via Cappellari, 59 Enego
+Kw/h
+15.605
+15.336
+16.583
+BT
+20
+400
+NO
+IT001E35296681
+1318
+5834
+via Cereria,15 Bassano
+Kw/h
+49.016
+51.986
+48.175
+BT
+45
+400
+NO
+IT001E35144537
+5608
+33548
+via Mons E Negrin ,14/B Bassano
+Kw/h
+223.193
+224.944
+237.771
+BT
+100
+400
+NO
+IT001E00236550
+20553
+102880
+via Panica,17 Marostica
+Kw/h
+674.221
+680.534
+593.978
+MT
+213
+20000
+NO
+IT001E30564505
+2569
+15575
+via Patrioti Asiago
+Kw/h
+52.318
+53.094
+45.258
+BT
+30
+400
+NO
+IT001E35232386
+92
+369
+via Marco Poli, 1 Conco
+Kw/h
+2.714
+3.205
+3.208
+BT
+3
+230
+NO
+IT001E35151275
+1434
+5841
+via Rosmini, 40 Bassano
+Kw/h
+86.386
+80.686
+95.873
+BT
+62
+400
+NO
+IT001E35135367
+61
+257
+via Campo Marzio, 16 Bassano
+Kw/h
+784
+1.038
+936
+BT
+3
+230
+NO
+IT001E35297674
+57
+235
+via Campo Marzio, 12 Bassano
+Kw/h
+1.296
+1.689
+1.418
+BT
+3
+230
+NO
+IT001E35251572
+150
+666
+p.zza 4 Novembre , 5 San Nazario
+Kw/h
+1.797
+1.872
+1.521
+BT
+6
+400
+NO
+IT001E35276954
+759
+3085
+via Giardino, 6 Romano d'Ezzelino
+Kw/h
+23.751
+21.152
+20.045
+BT
+35
+400
+NO
+IT001E34135541
+435
+2009
+via Lepanto, 1 Rosà
+Kw/h
+36.901
+33.791
+32.027
+BT
+40
+400
+NO
+IT001E32184632
+87
+349
+contrà san Giorgio, 86 Bassano
+Kw/h
+4.686
+4.569
+2.116
+BT
+6
+400
+NO
+IT001E00071539
+93551
+413602
+Via dei Lotti, 40 - Bassano
+Kw/h
+11.345.450
+11.952.833
+11.924.501
+MT
+2348
+20000
+NO
+IT001E35188838
+2014
+11559
+via Linta, 15 Asiago
+Kw/h
+1.447
+0
+0
+BT
+27,5
+400
+NO
+IT001E35151553
+2920
+11864
+via Carducci,2 Bassano
+Kw/h
+10
+0
+0
+BT
+68
+400
+NO
+IT001E00117786
+432
+1349
+Via Roma,153 Rossano Veneto
+Kw/h
+17.121
+19.224
+17.318
+BT
+15
+400
+NO
+IT001E34431064
+20922
+54900
+via Martiri di Granezza,42 Asiago nuovo Ospedale
+Kw/h
+674.389
+1.498.345
+1.709.785
+MT
+800
+20000
+NO
+IT001E185056601
+5200
+17000
+Via Capitelvecchio 32 Bassano del Grappa
+Kw/h
+0
+202.284
+374.486
+BT
+100
+400
+NO
+IT001E00234471
+9081
+40067
+via Campiglio MezzaSelva di Roana
+Kw/h
+0
+0
+29.501
+MT
+252
+20000
+NO
+IT001E35129550
+426
+2255
+via Fermi 19, Zugliano DSB piano 0
+Kw/h
+27.291
+25.643
+26.003
+BT
+18
+400
+NO
+IT001E35129549
+269
+1424
+via Galileo Galilei snc,Zugliano DSB piano 1
+Kw/h
+21.178
+20.584
+21.654
+BT
+30
+400
+NO
+IT001E35206739
+340
+1375
+piazza Degli Alpini 19, Piovene Rocchette DSB
+Kw/h
+44.096
+45.804
+51.543
+BT
+15
+400
+NO
+IT001E35130241
+idem
+idem
+viale Vittoria 11, Piovene Rocchette DSB
+Kw/h
+2.349
+2.695
+2.944
+BT
+20
+400
+NO
+IT001E37383897
+979
+4235
+via Raffaello snc, Malo DSB
+Kw/h
+45.085
+44.680
+42.095
+BT
+20
+400
+NO
+IT001E32240792
+400
+2845
+DSB Breganze
+Kw/h
+2.181
+0
+0
+BT
+6
+400
+NO
+IT001E35211412
+270
+1200
+via Boschetti 59, Lugo CEOD
+Kw/h
+3.582
+3.769
+3.620
+BT
+6
+400
+NO
+IT001E35149160
+1308
+4286
+via San Rocco 60 Thiene SERD
+Kw/h
+14.759
+9.923
+0
+BT
+10
+400
+NO
+IT001E32266065
+384
+1890
+Via Rossi 50, Chiuppano CEOD
+Kw/h
+3.631
+5.000
+3.626
+BT
+6
+400
+NO
+IT001E31239553
+300
+1310
+via Garziere snc, Zanè Casa RUP Schio
+Kw/h
+1.481
+1.629
+1.596
+BT
+3
+230
+NO
+IT001E37472719
+170
+750
+viale Dell'industria 237, Schio Casa Specializzandi
+Kw/h
+2.700
+2.169
+2.189
+BT
+3
+230
+NO
+IT001E00066499
+19312
+61798
+Via San Camillo De Lellis 1, Schio Casa Salute
+Kw/h
+1.805.754
+1.622.046
+1.722.314
+MT
+1432
+10000
+NO
+
+IT001E00117726
+20133
+64425
+via Boldrini 1, Thiene CSP
+Kw/h
+2.194.264
+1.933.865
+1.827.482
+MT
+944
+20000
+NO
+IT001E30208478
+670
+2291
+via Righi snc,Schio CSM
+Kw/h
+7.681
+30.464
+26.106
+BT
+25
+400
+NO
+IT001E00066610
+4000
+area esterna
+via San Camillo De Lellis snc, Schio Piazzale
+Kw/h
+0
+32.671
+6.586
+BT
+10
+400
+NO
+18.535.862	19.336.551	19.284.405
+
+AULSS8
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+
+
+POD
+
+
+
+MQ
+
+
+
+MC
+
+
+Consumi di ciascun punto di consegna (codice POD) identificativo della fornitura di energia elettrica oggetto dell'appalto
+
+
+
+Kw/h
+
+
+
+2020
+
+
+
+2021
+
+
+
+2022
+Tipologi a di fornitur a (BT,
+MT, AT)
+
+
+Potenza Impegn ata (kW)
+
+
+Livello Tension e (V)
+
+
+
+Accisa Agevolata ?
+IT001E00065395
+1166,67
+3500,01
+Cornedo Vicentino - Piazza Aldo Moro, snc - 36073 (VI)
+Kw/h
+15.971
+16.782
+17.912
+BT
+15
+380
+No
+IT001E00065739
+244,55
+733,65
+Trissino - via Sauro, snc - 36070 (VI)
+Kw/h
+5.552
+5.292
+5.592
+BT
+10
+380
+No
+IT001E00066257
+46937,00
+187748,00
+Valdagno - via Galilei, 1 - 36078 (VI)
+Kw/h
+4.017.326
+4.149.608
+3.765.386
+MT
+936
+20.000
+No
+IT001E00066393
+1700,00
+5100,00
+Valdagno - via Ferrighi, snc - 36078 (VI)
+Kw/h
+59.492
+65.411
+61.914
+BT
+31
+380
+No
+IT001E00067131
+22315,12
+89260,48
+Arzignano - via del Parco, 1 - 36071 (VI)
+Kw/h
+3.475.077
+3.384.201
+3.655.310
+MT
+960
+20.000
+No
+IT001E00067144
+57,14
+199,99
+Arzignano - via Busa, snc - 36071 (VI)
+Kw/h
+928
+2.358
+2.335
+BT
+4,5
+220
+No
+IT001E00067180
+800,00
+2400,00
+Arzignano - via Duca D'Aosta, snc - 36071 (VI)
+Kw/h
+20.997
+21.920
+19.281
+BT
+15
+380
+No
+IT001E00067188
+474,33
+1422,99
+Arzignano - viale Industria, snc - 36071 (VI)
+Kw/h
+21.179
+28.186
+35.309
+BT
+25
+380
+No
+IT001E00067222
+1833,33
+5499,99
+Arzignano - via Trento, snc - 36071 (VI)
+Kw/h
+181.883
+155.538
+143.968
+BT
+113
+380
+No
+IT001E00067229
+3066,67
+9200,01
+Arzignano - via Kennedy, snc - 36071 (VI)
+Kw/h
+90.083
+95.525
+66.725
+BT
+44
+380
+No
+IT001E00067805
+23268,00
+69804,00
+Lonigo - via Sisana, 1 - 36045 (VI)
+Kw/h
+1.275.788
+1.401.088
+1.577.596
+MT
+506
+20.000
+No
+IT001E00068164
+31785,00
+97847,00
+Montecchio Maggiore - via Ca' Rotte, 9 - 36075 (VI)
+Kw/h
+1.628.875
+1.622.481
+1.446.463
+MT
+506
+20.000
+No
+IT001E00068287
+477,00
+1400,00
+Montecchio Maggiore - via Pieve, snc- 36075 (VI)
+Kw/h
+26.958
+30.320
+32.213
+BT
+50
+380
+No
+IT001E00068658
+20533,00
+93027,00
+Noventa Vicentina - via Capo di Sopra, 1- 36025 (VI)
+Kw/h
+2.767.120
+2.904.824
+2.953.552
+MT
+817
+20.000
+No
+IT001E00070784
+12223,00
+42780,00
+Sandrigo - Piazza Giacomo Zanella, 9 - 36066 (VI)
+Kw/h
+824.422
+885.092
+902.277
+MT
+560
+10.000
+No
+IT001E00116723
+287,45
+862,35
+Trissino - via Sauro, snc - 36070 (VI)
+Kw/h
+6.369
+6.942
+6.573
+BT
+6
+220
+No
+IT001E00117198
+351,67
+1055,01
+Montebello Vicentino, Piazzale Cenzi M, snc - 36054 (VI)
+Kw/h
+3.405
+3.679
+3.405
+BT
+6
+220
+No
+IT001E00117273
+1100,00
+3300,00
+Montecchio Maggiore - via Giuriolo A, snc - 36041 (VI)
+Kw/h
+39.546
+41.808
+30.246
+BT
+27,5
+380
+No
+IT001E04200904
+47,00
+140,00
+Valdagno - via Marzotto L., 5 - 36078 (VI)
+Kw/h
+1.005
+1.053
+974
+BT
+6
+220
+No
+IT001E04200905
+563,00
+1690,00
+Valdagno - via Marzotto L., 7A - 36078 (VI)
+Kw/h
+12.310
+12.151
+11.759
+BT
+27,5
+380
+No
+IT001E30291340
+6403,00
+36342,00
+Dueville - via Camillo Benso Conte di Cavour, 26 - 36031 (VI)
+Kw/h
+9.358
+11.194
+8.794
+BT
+33
+380
+No
+IT001E30501699
+1833,33
+5499,99
+Arzignano - via Trento, snc - 36071 (VI)
+Kw/h
+6.367
+2.563
+2.472
+BT
+6
+220
+No
+IT001E31437236
+170,00
+510,00
+Montegalda - Piazza G. Marconi, 92 -36047 (VI)
+Kw/h
+14.008
+13.954
+14.037
+BT
+10
+380
+No
+IT001E32120565
+0,00
+0,00
+Montecchio Maggiore - via Meneguzzo, 11 - 36075 (VI)
+Kw/h
+1.910
+-
+-
+BT
+10
+380
+No
+IT001E32186367
+2,88
+8,64
+Arzignano - via Fiume, snc - 36071 (VI)
+Kw/h
+638
+474
+472
+BT
+3
+220
+No
+IT001E32379952
+0,00
+0,00
+Montecchio Maggiore - via Meneguzzo, 37 - 36075 (VI)
+Kw/h
+-
+-
+7.342
+BT
+20
+380
+No
+IT001E32532722
+58,28
+174,84
+Arcugnano - via Torri, 19 - 36057 (VI)
+Kw/h
+1.452
+1.437
+173
+BT
+3
+220
+No
+IT001E32532725
+82,17
+246,51
+Arcugnano - via Torri, 19/21 - 36057 (VI)
+Kw/h
+2.475
+2.416
+257
+BT
+3
+220
+No
+IT001E34409225
+538,73
+1616,19
+Chiampo - via Baracca, 21 - 36072 (VI)
+Kw/h
+10.987
+13.294
+12.471
+BT
+27,5
+380
+No
+IT001E34630867
+665,97
+2330,89
+Arzignano - via Dei Mille, 2 -36071 (VI)
+Kw/h
+55.506
+27.601
+27.324
+BT
+40
+380
+No
+IT001E34634372
+886,40
+4432,00
+Arzignano - via Caboto, snc -36071 (VI)
+Kw/h
+87.464
+27.446
+75.287
+BT
+50
+380
+No
+IT001E34706747
+933,00
+2880,00
+Costabissara - via Roma, snc - 36030 (VI)
+Kw/h
+50.531
+48.200
+42.900
+BT
+50
+380
+No
+IT001E35043607
+213,00
+640,00
+Isola Vicentina - via Monte Grappa, snc - 36033 (VI)
+Kw/h
+13.148
+13.174
+12.595
+BT
+22
+380
+No
+IT001E35123134
+48,00
+144,00
+Grisignano di Zocco - via V. Veneto, 28 - 36040 (VI)
+Kw/h
+7.330
+8.603
+7.875
+BT
+6
+220
+No
+IT001E37375076
+
+
+Lonigo - Piazza Martiri della Libertà , snc - 36045 (VI)
+Kw/h
+3.745
+4.564
+3.727
+BT
+10
+380
+No
+IT001E37391652
+
+
+Torri di Quartesolo - via Vicenza, 6A - 36040 (VI)
+Kw/h
+15.982
+16.235
+8.866
+BT
+15
+380
+No
+IT001E37395682
+838,00
+2514,00
+Camisano Vicentino - via Rasega, 2 - 36043 (VI)
+Kw/h
+32.444
+37.340
+36.782
+BT
+50
+380
+No
+IT001E37483438
+0,00
+0,00
+Grisignano di Zocco - via Bedinella, 5 - 36040 (VI)
+Kw/h
+1.398
+295
+53
+BT
+6
+220
+No
+IT001E37510580
+0,00
+0,00
+Barbarano via Papa Giovanni XXIII, 4 - 36021 (VI)
+Kw/h
+675
+-
+-
+BT
+15
+380
+No
+IT001E37543310
+1557,00
+4671,00
+Creazzo - viale Italia, 14 36051 (VI)
+Kw/h
+53.002
+55.116
+54.319
+BT
+30
+380
+No
+IT001E37572935
+557,00
+1670,00
+Longare - via G. Marconi, 24 - 36023 (VI)
+Kw/h
+22.103
+40.702
+40.896
+BT
+30
+380
+No
+IT025E00000460
+0,00
+0,00
+Vicenza - via T. Albinoni, 9 - 36100 (VI)
+Kw/h
+3.717
+330
+-
+BT
+6
+380
+No
+IT025E00005703
+372,00
+1117,00
+Vicenza - via Arrigo Boito, 82 - 36100 (VI)
+Kw/h
+22.623
+23.779
+25.656
+MT
+22
+15.000
+No
+IT025E00005704
+14,00
+42,00
+Vicenza - via Arrigo Boito, 82 - 36100 (VI)
+Kw/h
+857
+866
+912
+BT
+10
+380
+No
+IT025E00014051
+679,00
+2037,00
+Vicenza - via Carlo Cattaneo, 8 - 36100 (VI)
+Kw/h
+2.234
+2.561
+4.195
+BT
+10
+380
+No
+IT025E00015424
+2519,00
+7557,00
+Vicenza - via Cialdini, 2 - 36100 (VI)
+Kw/h
+-
+95.039
+151.439
+BT
+120
+380
+No
+IT025E00028216
+0,00
+0,00
+Vicenza - via Giuriato, 64 - 36100 (VI)
+Kw/h
+867
+823
+-
+BT
+10
+380
+No
+IT025E00028244
+0,00
+0,00
+Vicenza - via Giuriato, 72 - 36100 (VI)
+Kw/h
+29.947
+19.106
+-
+MT
+27,5
+15.000
+No
+IT025E00036429
+607,00
+1820,00
+Vicenza - strada Marosticana, 87 - 36100 (VI)
+Kw/h
+28.372
+31.212
+31.210
+BT
+10
+380
+No
+IT025E00040166
+101,00
+303,00
+Vicenza - via dei Mille, 71 - 36100 (VI)
+Kw/h
+2.363
+2.129
+1.963
+BT
+3
+380
+No
+IT025E00040177
+81,00
+243,00
+Vicenza - via dei Mille, 85 - 36100 (VI)
+Kw/h
+1.664
+1.697
+1.584
+BT
+3
+380
+No
+IT025E00040181
+58,00
+174,00
+Vicenza - via dei Mille, 87 - 36100 (VI)
+Kw/h
+1.043
+1.110
+1.106
+BT
+3
+380
+No
+IT025E00042803
+2970,00
+8910,00
+Vicenza - Contrà Mure Porta Santa Lucia, 34 - 36100 (VI)
+Kw/h
+110.392
+114.215
+119.229
+MT
+68,5
+15.000
+No
+IT025E00042833
+1327,00
+3981,00
+Vicenza - Contrada Mure San Domenico, 8 - 36100 (VI)
+Kw/h
+1.478
+1.391
+1.303
+BT
+3
+380
+No
+IT025E00061160
+104,00
+800,00
+Vicenza - Contrà San Domenico, 37 - 36100 (VI)
+Kw/h
+20.552
+18.051
+16.560
+MT
+22
+15.000
+No
+IT025E00068125
+2596,00
+7788,00
+Vicenza - Contrà Santi Apostoli, 21 - 36100 (VI)
+Kw/h
+60.314
+64.449
+55.488
+MT
+60
+15.000
+No
+IT025E00071620
+184,00
+552,00
+Vicenza - viale Trento, 106 - 36100 (VI)
+Kw/h
+4.409
+4.689
+5.530
+BT
+3
+380
+No
+IT025E00075925
+192,00
+576,00
+Vicenza - via Giovanni Volpato, 14 - 36100 (VI)
+Kw/h
+7.390
+6.925
+7.383
+BT
+3
+380
+No
+IT025E00075926
+147,00
+441,00
+Vicenza - via Giovanni Volpato, 14 - 36100 (VI)
+Kw/h
+6.244
+5.545
+5.632
+BT
+10
+380
+No
+IT025E00075927
+126,00
+378,00
+Vicenza - via Giovanni Volpato, 14 - 36100 (VI)
+Kw/h
+3.716
+4.245
+4.844
+BT
+6
+220
+No
+IT025E00626375
+2252,00
+6756,00
+Vicenza - Via Mure Corpus Domini, 15 - 36100 (VI)
+Kw/h
+69.581
+71.361
+73.778
+MT
+70
+15.000
+No
+IT025E00631774
+37868,00
+113604,00
+Vicenza -Viale Fratelli Bandiera, 8- 36100 (VI)
+Kw/h
+3.921.207
+3.074.809
+4.599.214
+MT
+2937,5
+15.000
+No
+IT025E00638240
+558,00
+1674,00
+Vicenza -Viale Camisano, 61- 36100 (VI)
+Kw/h
+36.464
+35.817
+39.248
+MT
+35
+15.000
+No
+IT025E00648878
+27100,00
+81300,00
+Vicenza -Via Tasso, snc (Contrà San Bortolo, 37) -36100 (VI)
+Kw/h
+5.193.054
+5.465.551
+5.570.875
+MT
+1354
+15.000
+No
+IT025E00658865
+0,00
+0,00
+Vicenza -Via Mure Corpus Domini, 21- 36100 (VI)
+Kw/h
+167
+-
+-
+BT
+10
+380
+No
+IT025E00666380
+2506,00
+7519,00
+Vicenza -Via Raffaele Pasi, 25- 36100 (VI)
+Kw/h
+20.322
+23.038
+24.577
+MT
+100
+15.000
+No
+IT025E00666585
+10144,00
+41188,00
+Vicenza - Corso Santi Felice e Fortunato, 229 -36100 (VI)
+Kw/h
+401.323
+723.414
+723.788
+MT
+280
+20.000
+No
+IT025E00676910
+2954,00
+8862,00
+Vicenza -Via IV Novembre, 46 - 36100 (VI)
+Kw/h
+99.539
+96.173
+100.637
+MT
+110
+15.000
+No
+IT025E00871452
+9000,00	27000,00
+Vicenza - Contrà San Bortolo, 99 - 36100 (VI)
+Kw/h
+324.271
+367.874
+342.758
+MT
+150
+15.000
+No
+IT025E00950434
+666,50
+2000,00
+Vicenza - Contrà San Francesco, 41 - 36100 (VI)
+Kw/h
+184.117
+216.450
+221.544
+MT
+140
+15.000
+No
+IT025E00950435
+666,50
+2000,00
+Vicenza - Via S. Francesco, 41 - 36100 (VI)
+Kw/h
+209.582
+209.393
+213.826
+MT
+180
+15.000
+No
+IT025E00953249
+1097,00
+3293,00
+Vicenza - Via Giovanni Giuseppe Cappellari, 3 - 36100 (VI)
+Kw/h
+125.920
+209.577
+227.417
+MT
+850
+15.000
+No
+IT025E20000374
+69,00
+206,00
+Vicenza - Strada Postumia, 137 - 36100 (VI)
+Kw/h
+3.983
+4.247
+3.912
+MT
+33
+15.000
+No
+
+IT025E00631774
+
+77640,00
+232920,00
+Cogeneratore Ospedale San Bortolo i valori del 2020.2021.2022
+sono i kwh prodotti dal cogeneratore
+Kw/h
+
+9.638.461
+
+10.692.181
+
+9.429.052
+
+35.400.982	36.746.914	37.100.092
+
+
+AOPD
+
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+PDR
+
+Consumi di ciascun punto di riconsegna (codice PDR) identificativo della fornitura di gas oggetto dell'appalto - Indirizzo
+
+
+MQ
+
+
+MC
+
+
+MC
+
+
+2020
+
+
+2021
+
+
+2022
+11821001264803
+Ospedale - via Giustiniani 2 Padova (CT Est,
+via Cornaro, 6)
+
+144.717
+
+730.450
+m3
+3.387.332
+3.630.582
+3.341.020
+11821001264802
+Ospedale - via Giustiniani 2 Padova (CT
+Ovest, via Giustiniani, 2)
+
+
+m3
+3.779.937
+3.433.918
+4.028.095
+11821001102552
+Uffici - via Navigazione Interna, 38 Padova
+
+
+5.027
+
+
+28.950
+m3
+3.428
+1.783
+1.019
+11821001256752
+Uffici - via Navigazione Interna, 38 Padova
+
+
+m3
+4.075
+3.515
+3.439
+11821001350241
+Capannone - via Navigazione Interna, 38
+Padova
+
+
+m3
+9.248
+13.452
+13.838
+11821000251281
+Centro Clinico Ambulatoriale - via Modena,
+9 Padova
+2.203
+7.571
+m3
+20.374
+20.759
+18.703
+11821000973563
+Uffici amministrativi - via Falloppio, 17
+Padova
+1.863
+7.200
+m3
+11.054
+11.574
+10.154
+11821005007524
+Hospice Pediatrico - via Ospedale Civile, 55
+Padova
+746
+2.717
+m3
+12.016
+13.055
+14.178
+11821001412880
+Sede AVO - via Gattamelata, 60 Padova
+30
+120
+m3
+1.663
+1.941
+1.796
+11821005019485
+Campus Biomedico - via Orus, 2 Padova
+6.630
+18.981
+m3
+74.575
+76.254
+85.731
+11821006011904
+Ospedale S.Antonio - via Facciolati, 71
+113.581
+137.142
+m3
+750.470
+754.889
+665.014
+8.054.172	7.961.722	8.182.987
+AOVR
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+PDR
+Consumi di ciascun punto di riconsegna (codice PDR) identificativo della fornitura di gas oggetto dell'appalto
+
+MQ
+
+MC
+
+
+
+2020
+
+
+2021
+
+
+2022
+
+
+11610001051346
+cogenerazione 1 B.go Trento - Lungadige
+Attiraglio VR
+superficie pdr 2
+volume br 2
+m3
+1.931.149
+1.292.455
+1.117.007
+
+
+11610001050887
+cogenerazione B.go Roma - Via Golino,
+9999 VR
+superficie pdr 1
+volume br 1
+m3
+3.129.177
+2.459.535
+2.306.533
+
+
+11610001075953
+cogenerazione 2 B.go Trento - Lungadige
+Attiraglio VR
+superficie pdr 2
+volume br 2
+m3
+non attivo
+3.996.955
+3.937.228
+
+1
+BR c.le termica
+120.421
+432.163
+m3
+2.318.221
+2.838.453
+2.689.160
+
+2
+BT c.le termica
+239.182
+877.126
+m3
+4.290.477
+3.667.762
+3.538.561
+
+
+AULSS 6
+
+
+11.669.024
+14.255.160
+13.588.489
+
+
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+PDR
+Consumi di ciascun punto di riconsegna (codice PDR) identificativo della fornitura di gas oggetto dell'appalto
+
+
+
+
+m3
+
+
+2020
+
+
+2021
+
+
+2022
+
+NOTE
+11821000288611
+0203_002 - Padova - via dei colli 4
+490
+1981
+m3
+2.285
+7.380
+5.497
+
+11821000877421
+0203_002 - Padova - via dei colli 4
+154
+622
+m3
+496
+3.351
+2.448
+
+11821001434630
+0203_002 - Padova - via dei colli 4
+22737
+91924
+m3
+194.117
+616.865
+662.695
+
+11821000781941
+0203_003 - Padova - via Cave 299
+245
+689
+m3
+2.878
+8.278
+8.329
+
+11821001071761
+0203_004 - Padova - via S. Eufemia 8
+536
+1732
+m3
+1.935
+5.380
+5.016
+
+11821001414580
+0203_005 - Padova - via Scrovegni 12
+7884
+24282
+m3
+32.999
+77.673
+62.243
+
+11821000248580
+0203_007 - Padova - Piazza Mazzini 12
+0
+0
+m3
+2
+1
+3
+
+11821000525560
+0203_007 - Padova - Piazza Mazzini 12
+313
+1099
+m3
+460
+1.622
+1.529
+
+11821001381890
+0203_008 - Padova - via Temanza 1
+2202
+8026
+m3
+17.898
+33.770
+33.666
+
+11821005012044
+0203_010 - Albignasego - via Don Schiavon
+1176
+3547
+m3
+3.378
+11.114
+9.482
+
+11821001387400
+0203_011 - Padova - via Piovese 74
+1146
+3700
+m3
+4.558
+12.526
+11.398
+
+80000595817
+0203_012 - Rubano - via Spinelli 1
+1415
+4001
+m3
+2.961
+9.757
+9.492
+
+80000596086
+0203_012 - Rubano - via Spinelli 1
+1415
+4001
+m3
+2.660
+6.948
+6.867
+
+80000619314
+0203_013 - Selvazzano Dentro - Piazza B. de Claricini
+1
+1460
+4527
+m3
+6.405
+18.267
+18.045
+
+880001223253
+0203_014 - Montegrotto Terme - via Plinia 55
+427
+1321
+m3
+1.676
+5.747
+4.919
+
+881907021081
+0203_015 - Abano Terme - via Lazzaretto 1
+444
+1555
+m3
+3.428
+8.124
+7.131
+
+80000262255
+0203_016 - Selvazzano Dentro - via Papa Giovanni
+XXIII 13
+387
+1162
+m3
+2.101
+3.584
+3.908
+
+80000270420
+0203_018 - Cervarese Santa Croce - via Bresseo 57
+564
+1888
+m3
+2.976
+5.531
+6.145
+
+80000270421
+0203_018 - Cervarese Santa Croce - via Bresseo 57
+294
+983
+m3
+1.565
+3.605
+3.200
+
+80000280748
+0203_018 - Cervarese Santa Croce - via Bresseo 57
+51
+170
+m3
+3.119
+950
+554
+
+881906372840
+0203_019 - Abano Terme - via Malachin 15
+693
+2078
+m3
+3.291
+9.021
+7.179
+
+11821001344930
+0203_020 - Padova - via Granze Sud 41
+520
+1807
+m3
+4.676
+11.935
+11.091
+
+11821000849342
+0203_021 - Padova - via Fra P. Sarpi 76/2
+869
+2770
+m3
+2.208
+7.048
+7.059
+
+80000238040
+0203_022 - Selvazzano Dentro - via Bressan 4
+803
+3227
+m3
+2.582
+7.479
+4.943
+
+11821001239572
+0203_023 - Padova - via Fra P. Sarpi 76/2
+522
+1854
+m3
+1.232
+4.637
+3.554
+
+11821000683312
+0203_024 - Padova - via Buzzacarini 1/C
+376
+1189
+m3
+1.531
+5.002
+5.468
+
+11821001373350
+0203_025 - Padova - Via Eulero 80
+3200
+11233
+m3
+12.525
+68.735
+59.439
+
+11821001380330
+0203_026 - Saonara - via G. Falcone 4
+455
+1400
+m3
+949
+3.346
+3.703
+
+11821000166723
+0203_028 - Cadoneghe - via Gramsci 57
+461
+1780
+m3
+1.854
+6.623
+6.338
+
+11821000946120
+0203_029 - Ponte San Nicolò - via Cavour 36
+293
+829
+m3
+1.791
+4.887
+4.747
+
+15540000020415
+0203_035 - Conselve - via Vittorio Emanuele II 22
+16607
+51887
+m3
+311.930
+438.927
+364.879
+
+
+881902464047
+
+0203_036 - Este - via S. Fermo 10
+
+0
+
+0
+
+m3
+
+0
+
+200
+
+36
+consumo trascurabile - mq e mc imputati a teleriscaldamento allo
+stesso indirizzo
+881906297500
+0203_037 - Monselice - via G. Marconi 19
+37540
+121271
+m3
+628.472
+708.629
+535.721
+
+883202895847
+0203_038 - Montagnana - via Lovara 10
+11353
+33632
+m3
+260.856
+260.515
+246.334
+
+2090000092372
+0203_039 - Trebaseleghe - via Rupolo 1/A
+725
+2499
+m3
+7.636
+8.025
+6.621
+
+11821005005715
+0203_040 - Vigodarzere - via Don Luigi Sturzo 587
+1190
+4431
+m3
+10.473
+10.631
+9.300
+
+11821001167070
+0203_041 - Vigonza - via Paradisi 2
+852
+2981
+m3
+10.670
+12.080
+11.141
+
+2690000865689
+0203_042 - Villa del Conte - via Roma 91/A
+260
+977
+m3
+2.413
+2.774
+2.742
+
+1613372003843
+0203_043 - Campodarsego - via Antoniana 218
+327
+327
+m3
+1.292
+1.574
+1.326
+
+1613372003844
+0203_043 - Campodarsego - via Antoniana 218
+124
+371
+m3
+1.447
+1.825
+1.503
+
+1613372003845
+0203_043 - Campodarsego - via Antoniana 218
+94
+281
+m3
+2.001
+1.891
+1.139
+
+1613372003846
+0203_043 - Campodarsego - via Antoniana 218
+86
+258
+m3
+965
+1.381
+1.045
+
+1613372003847
+0203_043 - Campodarsego - via Antoniana 218
+89
+267
+m3
+1.240
+1.380
+1.081
+
+1613372004029
+0203_043 - Campodarsego - via Antoniana 218
+52
+157
+m3
+671
+788
+635
+
+15351810003536
+0203_044 - Camposanpiero - via Tentori
+106
+300
+m3
+2.217
+2.310
+1.880
+
+430220044300
+0203_045 - Campo San Martino - via Forese
+792
+2528
+m3
+5.266
+5.617
+4.112
+
+15351800001484
+0203_046 - Carmignano di Brenta - via Foscolo
+751
+2635
+m3
+9.002
+9.903
+8.723
+
+2690000896558
+0203_047 - Cittadella - via Copernico
+1570
+6281
+m3
+14.324
+14.069
+11.125
+
+1613386002234
+0203_048 - Piazzola sul Brenta - via Contarini 43/A
+1700
+5867
+m3
+21.405
+23.396
+17.765
+
+15350001013486
+0203_050 - Carmignano di Brenta - via Roma 33
+216
+596
+m3
+2.640
+3.489
+2.694
+
+15351800010113
+0203_051 - Carmignano di Brenta - via Spessa 23
+94
+308
+m3
+1.167
+1.435
+1.115
+
+2690000864363
+0203_052 - Fontaniva - via Pascoli 6
+3200
+24746
+m3
+30.182
+22.958
+0
+magazzino - cessato il 01/01/2022
+2690000864362
+0203_053 - Fontaniva - via Pascoli 6
+485
+1318
+m3
+30.228
+39.050
+6.878
+
+15350001053132
+0203_054 - Galliera Veneta - via Roma 63
+12438
+49027
+m3
+148.785
+175.130
+131.458
+
+1611289000003
+0203_034 - Piove di Sacco - via San Rocco 8
+45824
+132205
+m3
+497.044
+778.825
+847.709
+PO Piove di Sacco - principale
+1611289007226
+0203_034 - Piove di Sacco - via San Rocco 8
+90
+270
+m3
+27
+18
+13
+PO Piove di Sacco - casa
+cappellano
+
+
+2690000860602
+Via del Lavoro 4, Cittadella (PD)
+1062
+3100
+m3
+2.399
+2.315
+2.246
+cucina mensa PO Cittadella
+11821000443450
+Via Moretto da Brescia 8, Padova (PD)
+70
+190
+m3
+944
+1.656
+1.029
+
+1611289000289
+VIA Pio X 2, Piove di Sacco (PD)
+118
+390
+m3
+
+719,00
+836,00
+mensa PO Piove di Sacco
+2690000467539
+Via Monsignor Romero 6, Sant'Angelo di Piove di
+Sacco (PD)
+550
+1440
+m3
+
+487,00
+
+991,00
+
+1,00
+
+15540000019290
+Piazza XX Settembre, Conselve (PD)
+475
+1425
+m3
+13.276
+13.939
+11.461
+
+15540000019291
+Piazza XX Settembre, Conselve (PD)
+475
+1425
+m3
+10.801
+14.068
+9.083
+
+881907160715
+Via G. Marconi 19, Monselice (PD)
+0
+0
+m3
+228
+282
+61
+trascurabile rispetto utenza principale
+allo stesso indirizzo
+TELERISCALDAMENT
+O
+0203_036 - Este - via S. Fermo 10
+9877
+33744
+KW/H
+2.552.100
+2.782.000
+2.030.400
+
+
+
+
+PADOVA - Via Dei Colli 4
+
+
+590
+
+
+2360
+
+
+
+
+
+Ampliamento edificio esistente (pad.3) (Casa di Comunità) - attivazione entro marzo 2026
+
+
+SAONARA - Via Falcone 4
+
+995
+
+3480
+
+
+
+
+Ampliamento edificio esistente (Casa di Comunità) - attivazione
+entro marzo 2026
+
+
+CARMIGNANO DI BRENTA - Via Foscolo 21
+
+268
+
+965
+
+
+
+
+Ampliamento edificio esistente
+(Casa di Comunità) - attivazione entro marzo 2026
+
+
+TREBASELEGHE - Via D. Rupolo 1
+
+217
+
+695
+
+
+
+
+Ampliamento edificio esistente (Casa di Comunità) - attivazione
+entro marzo 2026
+
+
+VIGONZA - Via Paradisi 2
+
+254
+
+762
+
+
+
+
+Ampliamento edificio esistente (Casa di Comunità) - attivazione
+entro marzo 2026
+
+
+ESTE - Via S. Fermo 10
+
+2951
+
+8853
+
+
+
+
+Ampliamento edificio esistente
+(Casa di Comunità) - attivazione entro marzo 2026
+
+totale m3 gas
+naturale
+
+2.323.117
+
+3.496.287
+
+3.193.125
+
+
+totale kWh teleriscald amento
+
+
+2.552.100
+
+
+2.782.000
+
+
+2.030.400
+
+
+
+
+4.875.217	6.278.287	5.223.525
+
+AULSS9
+Unità
+Periodo
+Periodo
+Periodo
+
+PDR
+
+00881902656279
+Consumi di ciascun punto di riconsegna (codice PDR) identificativo della fornitura di gas oggetto dell'appalto
+
+MQ
+
+MC
+
+
+m3
+
+
+[Smc]
+
+
+2020
+
+
+2021
+
+
+2022
+
+OSPEDALE CIVILE DI LEGNAGO
+63133
+189400
+
+2615688,9
+2567444
+2424901,6
+01613358003160
+OSPEDALE DI NOGARA
+11690
+35070
+[Smc]
+196498,5
+227692,3
+160227,1
+10400000062238
+SEDE OSPEDALIERA DI BOVOLONE
+8093
+24280
+[Smc]
+289393,5
+338345,7
+267294,5
+15150000000021
+SEDE OSPEDALIERA DI ZEVIO
+10723
+32170
+[Smc]
+155168,2
+211831,4
+187399,3
+00881902630415
+SERT
+245
+735
+[Smc]
+6840,9
+6024,7
+5236
+01613358001699
+CEOD "IL TIGLIO"
+150
+450
+[Smc]
+7333,7
+8660,3
+6471,3
+04940004665494
+OSPEDALE VALEGGIO SUL MINCIO
+11063
+33190
+[Smc]
+280077,6
+283504,1
+235272,4
+00881901882207
+UFFICI SANITARI BUSSOLENGO
+867
+2600
+[Smc]
+14201
+21016,6
+14572,8
+10400000226791
+Distretto Sanitario di Base
+353
+1060
+[Smc]
+33533,5
+28613,63614
+21955,82523
+10400000385609
+Settore Farmaceutico
+471
+1413
+[Smc]
+5464,359461
+6829,9
+5302
+10400000385628
+Sub Distretto Sanitario di Base
+1710
+5131
+[Smc]
+24783
+30550,3
+23083,5
+10400000386148
+Centro Salute Mentale
+2933
+8799
+[Smc]
+21217,9
+26077,7
+18340,3
+10400000228960
+OSPEDALE DI ISOLA DELLA SCALA
+13064
+39193
+[Smc]
+186376,3
+202363,7
+182560,4
+16000051000014
+CLUB HOUSE LA GROLETTA
+1733
+5200
+[Smc]
+37979,7
+40001,5
+38644,1
+00600080005218
+DISTRETTO SANITARIO DI BASE DI PESCHIERA DEL G
+353
+1060
+[Smc]
+5335,270336
+5157,9
+4383,5
+16000014090036
+SERT DI VILLAFRANCA VERONESE
+310
+930
+[Smc]
+4581,388614
+7252,729077
+8086,741784
+16000051510043
+OSPEDALE CAPRINO VERONESE
+10315
+30946
+[Smc]
+87045,2
+121567,6
+122758,9
+16000016330041
+OSPEDALE VILLAFRANCA VERONESE
+14582
+43745
+[Smc]
+635300,6
+676563,8
+647198,2
+00881905210443
+OSPEDALE DI BUSSOLENGO
+27028
+81083
+[Smc]
+897768,3
+841716,7
+846808,6
+00881906173875
+OSPEDALE DI MALCESINE
+10232
+30696
+[Smc]
+190932,5
+169631
+179847,5837
+00881906600608
+PORTINERIA DI MALCESINE
+310
+930
+[Smc]
+6567,678161
+6634,287462
+4401,765368
+00881907201790
+CENTRO POLIFUNZIONALE
+7000
+21000
+[Smc]
+44514,8
+52852,8
+48688,2
+00880000203863
+CHIOSTRO DEI FRATI
+2125
+6374
+[Smc]
+1210,674883
+965,0718
+840,4
+00881906939986
+Distretto Sanitario di Bardolino
+310
+930
+[Smc]
+28630,80
+19499,7
+18986
+
+0106_003-Ulss 9 Scaligera-Nodo Rete Riabilitativ Mar
+35984
+107952
+[kg]
+832523,56
+382.788,23
+
+
+0106_003-Ulss 9 Scaligera-Nodo Rete Riabilitativ-Mar
+35984
+107952
+[kg]
+230
+350,00
+68
+11610000058425
+0106_003-Ulss 9 Scaligera-Nodo Rete Riabilitativ-mar
+35984
+107952
+[Smc]
+0
+0,00
+0
+11610001076074
+0106_003-Ulss 9 Scaligera-Nodo Rete Riabilitativ-mar
+35984
+107952
+[Smc]
+
+557466,02
+825786,38
+15210000009293
+0106_001 - 001 - Centro Sanitario Polifunzionale-CER
+11496
+34488
+[Smc]
+200573,83
+191174,73
+176184,09
+01680102013557
+0106_002 - 002 - Centro Sanitario Polifunzionale-CER
+11496
+34488
+[Smc]
+177909,73
+217408,67
+173958,84
+11610000381161
+0106_005 - 005 - Centro Riabilitativo di Ricerca-CERR
+11496
+34488
+[Smc]
+179754,87
+169463,96
+137244,17
+11610000381193
+0106_006 - 006 - Servizi Sociali - Porta Palio
+1812
+5436
+[Smc]
+13777,05
+14113,61
+10123,75
+
+0106_007 - 007 - Direzione Generale ULSS20 - Dis
+8472
+26226
+[Mcal]
+599649,19
+653622,96
+558785
+11610000125635
+0106_008 - 008 - CSM via Toti.
+1497
+4491
+[Smc]
+12102,36
+13592,87
+11540,65
+
+0106_009 - 009 - Palazzo Sanità
+9126
+27378
+[Mcal]
+511740,16
+569474,8
+461605
+
+0106_010 - 010 - Distretto n.1 via Campania
+1811
+5433
+[Mcal]
+171955,15
+191747,8
+120841,39
+11610000054206
+0106_011 - 011 - SERD via Germania
+1950
+5850
+[Smc]
+41079,01
+41100,61
+29989,14
+11610000082930
+0106_012 - 012 - Servizi Sociali/SERD via Pacino
+1549
+4647
+[Smc]
+14667,34
+14677,79
+11937,31
+11610000129700
+0106_013 - 013 - Distretto n.2 via Valeggio
+694
+2082
+[Smc]
+5410,41
+6220,63
+5915,65
+15210000010540
+0106_014 - 014 - Servizi Psichiatrici Ex Filanda
+1558
+4674
+[Smc]
+28009,23
+27322,15
+24115,39
+15690007092499
+0106_015 - 015 - Distretto n.2 San Giovanni Lupa
+2150
+6450
+[Smc]
+36331,86
+36762,21
+30607,2
+15690024095940
+0106_017 - 017 - Servizi Psichiatrici Raldon
+627
+1881
+[Smc]
+11122,51
+10417,58
+9281
+10400000018929
+0106_018 - 018 - Distretto n.1 San Martino Buon
+428
+1284
+[Smc]
+4604,52
+5332,58
+5528,15
+11610000020542
+0106_019 - 019 - Servizio Veterinario - Canile
+652
+1956
+[Smc]
+6138,23
+5930,45
+5673,71
+11610000029480
+0106_020 - 020 - Alloggio protetto via Chiocco
+57
+171
+[Smc]
+1764,03
+1696,06
+1133,4
+11610000107076
+0106_023 - 023 - CSM via S. Giacomo
+1499
+4497
+[Smc]
+25959,36
+29205,68
+21340,05
+11610000118220
+0106_024 - 024 - Consultorio Familiare via Sirac
+305
+915
+[Smc]
+11466,11
+11635,5
+9418,47
+15780078004827
+0106_026 - 026 - SPISAL S. Bonifacio
+141
+423
+[Smc]
+2826,76
+3093,71
+3315,22
+15780078003767
+0106_027 - 027 - Alloggio protetto San Bonifacio
+400
+1200
+[Smc]
+3460,55
+3178,23
+3091,36
+11610000052244
+0106_028 - 028 - Alloggio protetto via Galilei
+90
+270
+[Smc]
+1640,18
+1489,92
+1201,49
+
+0106_030 - 030 - Distretto n. 1 via del Capitel
+4600
+13800
+[Mcal]
+438809,49
+526252,05
+434826,08
+11610000063510
+0106_042 - 042 - Servizi sociali H Point VIA MACELLO
+105
+315
+[Smc]
+789,69
+908,48
+970,35
+15210000011359
+0106_045 - 045 - SERD Soave
+620
+1860
+[Smc]
+6840,57
+7778,52
+6339,32
+00500000316689
+0106_046 - 046 - Consultorio fam. (presso ex Osp
+700
+2100
+[Smc]
+7756,22
+8669,28
+4464,59
+11610000145248
+0106_047 - 047 - SERD via XXVIII Marzo
+984
+2952
+[Smc]
+9312,46
+10525,93
+8124,59
+11610000039584
+0106_049 - 049 - Alloggio protetto via Massimo D
+106
+318
+[Smc]
+14,09
+0
+0
+01613317000599
+0106_052 - 052 - Continuità Assistenziale San Gi
+291
+872
+[Smc]
+3488,14
+3975,31
+3402,44
+
+Opedale san bonifacio
+75000
+225000
+[Smc]
+2444756
+2540647
+2442558
+11.582.907	12.158.821	11.012.631
+
+Aulss7
+Unità
+Periodo
+Periodo
+Periodo
+
+PDR
+Consumi di ciascun punto di riconsegna (codice PDR) identificativo della fornitura di gas oggetto dell'appalto
+
+MQ
+
+MC
+
+
+m3
+
+
+2020
+
+
+2021
+
+
+2022
+0881906177207
+Asiago - via Martiri di Granezza 30-42
+vecchio ospedale
+10624
+46386
+mc
+112.361
+21.675
+5.292
+00880001497337
+Asiago - via Martiri di Granezza 42 nuovo
+ospedale
+20922
+54900
+mc
+-
+99
+94
+Teleriscaldamento
+Asiago - via Martiri di Granezza 30-42
+vecchio ospedale
+10624
+46386
+Mwh
+1.831
+1.697
+1.532
+Teleriscaldamento
+Asiago - via Martiri di Granezza 42 nuovo
+ospedale
+20922
+54900
+Mwh
+-
+3.199
+3.365
+00885100253128
+Asiago - via Cairoli, 1/A
+131
+662
+mc
+4.621
+4.584
+4.539
+
+
+00880000619483
+Enego - via Capellari, 23-29
+1106
+4732
+mc
+6.324
+6.255
+5.721
+00885100157030
+Bassano del Grappa - via Cereria, 15
+1318
+5834
+mc
+15.660
+17.743
+14.734
+00881902982261
+Bassano del Grappa -via Cereria, 14/B
+5608
+33548
+mc
+107.503
+103.155
+99.342
+00881903032033
+Marostica - via Panica, 17
+20553
+102880
+mc
+360.249
+323.841
+292.788
+00880000195394
+Bassano del Grappa - via Rosmini, 40
+1434
+5841
+mc
+23.372
+24.280
+26.171
+00881902914637
+Bassano del Grappa - via Campo Marzio, 12
+57
+235
+mc
+845
+1.278
+1.173
+00881902914447
+Bassano del Grappa - via Campo Marzio, 18
+61
+257
+mc
+750
+926
+917
+00881907156200
+San Nazario - piazza IV Novembre, 5
+150
+666
+mc
+1.780
+1.864
+1.516
+00880001321730
+Romano d'Ezzelino - via G. Giardino
+759
+3085
+mc
+3.009
+2.834
+2.359
+DIRETTO SNAM
+Bassano del Grappa - via dei Lotti, 40
+93551
+413602
+mc
+2.855.361
+2.739.486
+2.914.723
+00881906472657
+Rossano Veneto - via Roma, 153
+161
+483
+mc
+4.856
+4.697
+4.602
+00881906467665
+Rossano Veneto - via Roma, 153
+155
+496
+mc
+2.129
+1.570
+1.885
+00881906467673
+Rossano Veneto - via Roma, 153
+116
+371
+mc
+84
+153
+256
+Teleriscaldamento
+Asiago - via Sisemol, 2
+
+2569
+
+15575
+Mwh
+243
+259
+238
+Gasolio
+Mezzaselva di Roana
+9081
+40067
+Litri
+-
+-
+192.000
+15351050001185
+DSB Zugliano piano 1 - Via E. Fermi 19
+426
+2255
+mc
+3.493
+3.829
+3.202
+15351050001184
+DSB Zugliano piano 0 - Via G. Galilei 2
+269
+1424
+mc
+1.974
+2.162
+1.785
+00080000365895
+DSB Piovene R. Viale Vittoria 11
+340
+1375
+mc
+11.538
+12.424
+8.122
+15530000001960
+DSB Malo Via Raffaello
+979
+4235
+mc
+5.966
+6.213
+5.231
+15351010010209
+DSB Breganze
+400
+2845
+mc
+1.869
+0
+0
+15351060000661
+CEOD Lugo Via Boschetti 59
+270
+1200
+mc
+2.965
+3.555
+2.782
+15530000037022
+SERD Thiene Via San. Rocco
+1308
+4286
+mc
+6.856
+4.249
+0
+00080000600784
+CEOD Chiuppano Via Rossi 50c
+384
+1890
+mc
+2.149
+2.658
+2.292
+15351700002098
+Casa RUP Via Garziere 54 Schio
+300
+1310
+mc
+945
+2.058
+1.469
+15351700001495
+Casa Specializzandi Viale Dell'Industra 237
+Schio
+
+170
+
+750
+mc
+1.351
+1.571
+2.242
+15530001000571
+Casa Della Salute di Schio Via De Lellis
+19312
+61798
+mc
+283.681
+280.592
+242.156
+15530000045196
+CSP Thiene Via Boldrini 1
+20133
+64425
+mc
+259.851
+267.639
+229.765
+4.083.616	3.846.545	4.072.293
+
+AULSS8
+Unità
+Periodo
+Periodo
+Periodo
+
+PDR
+Consumi di ciascun punto di riconsegna (codice PDR) identificativo della fornitura di gas oggetto dell'appalto - indirizzo
+
+MQ
+
+MC
+
+
+m3
+
+
+2020
+
+
+2021
+
+
+2022
+15210000002497
+Lonigo - Via Sisana, 1
+106,00
+318,00
+m3
+3.980
+4.033
+2.082
+15530000809158
+Montecchio Maggiore Via Ca' Rotte, 11
+0,00
+0,00
+m3
+140
+-
+-
+15530000816438
+Montecchio Maggiore Largo Boschetti, 37
+288,00
+864,00
+m3
+-
+-
+5
+15540000006938
+NOVENTA - VIA C. DI SOPRA, 3
+125,00
+566,00
+m3
+4.890
+4.131
+3.353
+01613310010131
+Arzignano Via del Parco, 2
+97,00
+388,00
+m3
+1.982
+1.412
+2.083
+01613310013470
+Arzignano - Via Busa
+57,14
+199,99
+m3
+1.212
+1.761
+1.251
+02690000499600
+Dueville- VIA CAVOUR, 26
+0,00
+0,00
+m3
+-
+-
+-
+03670000000460
+Vicenza - via Albinoni, 9
+0,00
+0,00
+m3
+1.668
+-
+-
+03670000014051
+VICENZA - VIA CATTANEO, 8
+0,00
+0,00
+m3
+2
+2
+-
+03670000023672
+VICENZA - VIA FINCATO, 4
+241,00
+723,00
+m3
+4.360
+4.016
+2.622
+03670000040166
+Vicenza - VIA DEI MILLE, 71
+101,00
+303,00
+m3
+2.410
+1.951
+1.651
+03670000040177
+Vicenza - VIA DEI MILLE, 85
+81,00
+243,00
+m3
+2.107
+3.282
+2.181
+03670000040181
+Vicenza - VIA DEI MILLE, 87
+58,00
+174,00
+m3
+1.754
+2.356
+1.403
+03670000042824
+Vicenza - CONTRA' M. S. DOMENICO, 4
+0,00
+0,00
+m3
+-
+-
+-
+03670000060882
+VICENZA - Via San Bortolo
+28,00
+111,31
+m3
+1.102
+258
+916
+03670000060884
+VICENZA - Via San Bortolo
+0,00
+0,00
+m3
+25
+35
+32
+03670000060981
+VICENZA - Contrà San Bortolo, 85
+5,00
+19,88
+m3
+415
+237
+112
+03670000620743
+VICENZA - Via F.lli Bandiera
+0,00
+0,00
+m3
+1
+1
+1
+03670000061409
+VICENZA - CONTRA' S. FRANCESCO
+1333,00
+4000,00
+m3
+37.113
+31.499
+35.104
+03670000068826
+VICENZA - C.SO S. FELICE
+10,00
+40,60
+m3
+343
+194
+230
+03670000075926
+Vicenza - VIA VOLPATO 14
+0,00
+0,00
+m3
+135
+8
+-
+03670000672953
+VICENZA -VIA POSTUMIA 137
+69,00
+206,00
+m3
+887
+890
+403
+03670000805827
+Arcugnano via Torri, 75
+82,17
+246,51
+m3
+646
+368
+194
+03670000805829
+Arcugnano via Torri, 75
+58,28
+174,84
+m3
+184
+82
+8
+03670000915615
+VICENZA - VIA MANTOVANI
+82,00
+246,00
+m3
+821
+571
+1.069
+03670085310463
+VICENZA - VIALE CIALDINI, 2
+2519,00
+7557,00
+m3
+-
+4.094
+10.541
+03670064729701
+VICENZA Via Rodolfi caldaie
+61398,44
+244077,22
+m3
+1.888.244
+2.019.294
+1.932.059
+15540000006939
+NOVENTA VICENTINA VIA CAPO DI SOPRA, 3
+20408,00
+92461,00
+m3
+543.049
+597.322
+547.242
+00880000677799
+CAMISANO VICENTINO VIA RASEGA, 2
+838,00
+2514,00
+m3
+10.305
+12.614
+8.550
+03670000071620
+VICENZA VIALE TRENTO, 106
+184,00
+552,00
+m3
+5.541
+5.418
+5.082
+03670001000057
+VICENZAVIA TOMMASO ALBINONI, 7
+306,00
+1158,00
+m3
+3.986
+4.665
+3.816
+03670001000059
+VICENZA VIA GIURIATO, 72
+0,00
+0,00
+m3
+4.849
+2.164
+-
+03670001000060
+VICENZA CONTRA' S.S. APOSTOLI
+2596,00
+7788,00
+m3
+18.300
+19.197
+16.942
+
+03670064730001
+VICENZA CORSO SANTI FELICE E FORTUNATO,
+229
+10134,00
+41147,00
+m3
+252.449
+265.615
+240.770
+15351020002826
+SANDRIGO Piazza Zanella
+12223,00
+42780,00
+m3
+227.758
+265.062
+254.046
+155120100056830
+CREAZZO Viale Italia, 6
+1557,00
+4671,00
+m3
+24.356
+26.514
+23.299
+15530004003485
+COSTABISSARA Via Roma Dis. Pasubio, 6
+933,00
+2880,00
+m3
+7.654
+9.580
+6.804
+16240000000104
+VICENZA Via Marosticana, 87
+607,00
+1820,00
+m3
+9.796
+12.889
+10.610
+16240000000105
+VICENZA Via Contrà Mure S. Domenico, 4
+1431,00
+4293,00
+m3
+19.047
+20.929
+12.568
+
+02690000484676
+MONTICELLO CONTE OTTO - POVOLARO Via
+Cavour, 26
+6403,00
+36342,00
+m3
+25.815
+29.339
+17.649
+03670000638023
+VICENZA Viale Camisano, 67
+277,00
+831,00
+m3
+2.271
+2.360
+3.038
+03670000638024
+VICENZA Viale Camisano, 67
+173,00
+519,00
+m3
+1.674
+3.283
+1.903
+03670000637989
+VICENZA Viale Camisano, 67
+170,00
+510,00
+m3
+2.171
+2.056
+1.865
+03670000669225
+MONTEGALDA Piazza Marconi, 35
+170,00
+510,00
+m3
+2.022
+2.188
+2.011
+03670001000055
+TORRI DI QUARTESOLO Via Vicenza, 10
+390,00
+1170,00
+m3
+2.701
+3.450
+2.114
+03670001000058
+VICENZA Via G. Volpato, 14
+465,00
+1395,00
+m3
+9.106
+8.349
+7.964
+15530000700007
+MONTECCHIO MAGGIORE VIA CA' ROTTE
+31785,00
+97847,00
+m3
+351.729
+338.141
+278.915
+15530000700008
+MONTECCHIO MAGGIORE VIA PIEVE, 11
+477,00
+1431,00
+m3
+4.529
+5.206
+4.411
+
+15530000700009
+MONTECCHIO MAGGIORE VIA GIURIOLO
+ANTONIO, 17
+1100,00
+3300,00
+m3
+9.142
+10.977
+9.784
+01613310010132
+ARZIGNANO VIA TRENTO, 4
+195,33
+585,99
+m3
+2.220
+2.447
+2.037
+15210000001901
+LONIGO VIA SISANA, 1
+23162,00
+69486,00
+m3
+455.982
+502.329
+456.213
+15530000052494
+VALDAGNO VIA FERRIGHI FELICE, 18
+1700,00
+5100,00
+m3
+29.917
+32.215
+28.153
+15530001000024
+VALDAGNO VIA G.GALILEI, 1
+46937,00
+187748,00
+m3
+826.966
+858.050
+674.483
+01613310008770
+ARZIGNANO VIA KENNEDY J.F., 2
+3066,67
+9200,01
+m3
+17.288
+24.666
+27.160
+01613310010130
+ARZIGNANO VIA DUCA D'AOSTA, 35
+800,00
+2400,00
+m3
+10.741
+11.767
+9.113
+01613310011719
+ARZIGNANO VIA TRENTO, 4
+0,00
+0,00
+m3
+1.365
+-
+-
+01613310010475
+ARZIGNANO VIA DEL PARCO
+22218,12
+88872,48
+m3
+500.851
+541.801
+476.817
+01613310011743
+ARZIGNANO VIA SEBASTIANO CABOTTO, SN
+474,33
+1422,99
+m3
+5.378
+2.641
+2.877
+01613310012550
+ARZIGNANO VIA CABOTO GIOVANNI, 14
+886,40
+4432,00
+m3
+13.816
+16.200
+15.761
+01613310013462
+ARZIGNANO VIA TRENTO, 4
+1638,00
+4914,00
+m3
+12.165
+16.639
+17.100
+01613325002984
+CORNEDO VICENTINO PIAZZA MORO A.4
+1166,67
+3500,01
+m3
+6.177
+6.308
+5.762
+01613330003132
+TRISSINO VIA SAURO, 9
+532,00
+1596,00
+m3
+5.260
+5.543
+3.800
+
+
+90175,83
+358475,98
+m3
+2.920.406
+3.162.573
+2.837.613
+
+
+
+
+
+
+
+
+8.301.203	8.910.972	8.013.572
+
+
+
+
+AOPD
+Unità
+
+Unità
+Periodo
+Periodo
+Periodo
+Note
+
+UTENZA
+Consumi di ciascuna utenza della fornitura di acqua potabile oggetto dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+
+3011465495
+Biblioteca Pinali Via C. Battisti, 267
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+144.717
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+730.450
+m3
+854
+362
+647
+
+3011564270
+Uso antincendio Cardiochirurgia via Giustiniani,
+99999
+
+
+m3
+0
+0
+0
+
+3011542259
+Casa suore - psichiatria Via S. Massimo 10
+
+
+m3
+18.753
+17.563
+14.401
+
+3011466423
+Centrale Gas Est via Giustiniani, 2
+
+
+m3
+57
+70
+3
+
+
+3011591841
+
+Centrale Termica via Ospedale civile, 99999
+
+
+
+m3
+
+2.967
+
+-85
+
+-84
+In rosso consumo oggetto di rimborso
+3011589647
+Centro di Cardiochirurgia via Gattamelata, 134
+
+
+m3
+11.484
+10.161
+8.480
+
+3011551015
+Chiesa e all. Cappella via Gattamelata, 134
+
+
+m3
+569
+503
+663
+
+3011526807
+Chirurgia via Ospedale Civile, 1
+
+
+m3
+2.710
+3.080
+2.692
+
+3011552805
+Chirurgia via Ospedale Civile, 99999
+
+
+m3
+2.625
+2.961
+2.497
+
+3011512955
+Clinica Ortopedica via San massimo 4
+
+
+m3
+690
+983
+2.174
+
+3011596357
+Clinica pediatrica via Giustiniani, 1
+
+
+m3
+25.196
+11.447
+18.333
+
+3011467021
+Dermatologia via C. Battisti, 206
+
+
+m3
+831
+709
+528
+
+3011580022
+Uso antincendio Div. Pneumolog - Sanitario via
+Cornaro, 999
+
+
+m3
+0
+0
+0
+
+3011591565
+Uso antincendio Div. Psichiatria 2 via Ospedale
+Civile 9999
+
+
+m3
+0
+0
+0
+
+3011591571
+Uso antincendio Div. Psichiatria 2 via Ospedale
+Civile 99999
+
+
+m3
+0
+0
+0
+
+3011544562
+Div. Radioterapia via C. Battisti, 267
+
+
+m3
+7.647
+8.337
+5.930
+
+3011591569
+Uso antincendio Fabbricato Servizi personale via
+Ospedale Civile, 99999
+
+
+m3
+0
+0
+0
+
+3011497268
+Fontana Chiostro via Ospedale Civile 99999
+
+
+m3
+-9
+17
+40
+In rosso consumo oggetto
+di rimborso
+3011702314
+Ist. Semeiotica Medica via Ospedale Civile 105
+
+
+m3
+583
+1.358
+455
+
+3011529253
+Lavanderia via A. Cornaro, 99999
+
+
+m3
+4.044
+3.749
+5.344
+
+3011584419
+Malattie Infettive via Giustiniani, 99999
+
+
+m3
+232
+666
+-796
+In rosso consumo oggetto
+di rimborso
+3011573233
+Uso antincendio Med. Prima - Giustiniano EST via
+Giustiniani, 99999
+
+
+m3
+0
+0
+0
+
+3011573227
+Med. Prima - Giustiniano EST via Giustiniani,
+99999
+
+
+m3
+22.694
+23.612
+23.544
+
+3011573227
+Med. Prima - Giustiniano EST via Giustiniani,
+99999
+
+
+m3
+22.694
+23.612
+23.544
+
+3011573227
+Med. Prima - Giustiniano EST via Giustiniani,
+99999
+
+
+m3
+22.694
+23.612
+23.544
+
+3011562459
+Monoblocco cucine Via B. D'Alviano 99999
+
+
+m3
+1.986
+2.824
+1.767
+
+3011544669
+Uso antincendio Monoblocco via B. D'Alviano
+99999
+
+
+m3
+0
+0
+0
+
+3011562451
+Monoblocco via B. D'Alviano 99999
+
+
+m3
+68.034
+73.067
+63.862
+
+3011539302
+Neurochirurgia via A. Cornaro, 99999
+
+
+m3
+5.363
+6.249
+4.537
+
+3011543799
+Obitorio via A. Cornaro, 99999
+
+
+m3
+410
+518
+430
+
+3011445215
+Oncoematologia2 via Giustiniani, 99999
+
+
+m3
+198
+-35
+47
+In rosso consumo oggetto
+di rimborso
+3011465510
+Uso antincendio Osp. Giustinianeo Via C. Battisti,
+267
+
+
+m3
+0
+0
+0
+
+3011600953
+Ostetrica via Giustiniani, 99999
+
+
+m3
+12.652
+12.848
+14.769
+
+3011545764
+Uso antincendio Ostetrica-Ginecologia via
+Giustiniani, 21
+
+
+m3
+0
+0
+0
+
+3011545695
+Ostetrica-Ginecologia via Giustiniani, 21
+
+
+m3
+4.250
+4.565
+4.236
+
+3011519436
+PD Psichiatria n.2 via Ospedale Civile 99999
+
+
+m3
+387
+269
+326
+
+3011574303
+Pediatria via Giustiniani, 99999
+
+
+m3
+4.787
+15.809
+5.203
+
+3011531590
+Policlinico via Giustiniani, 99999
+
+
+m3
+54.791
+72.937
+68.449
+
+3011529636
+Policlinico-cucina via Giustiniani, 99999
+
+
+m3
+900
+1.109
+568
+
+3011535511
+Portineria via Giustiniani, 99999
+
+
+m3
+512
+592
+1.607
+
+3011544658
+Uso antincendio Psichiatria n.1 via S. Massimo, 10
+
+
+m3
+0
+0
+0
+
+3011516659
+Rep. Inf. Via Giustiniani, 1
+
+
+m3
+9.515
+8.740
+9.164
+
+3011579891
+Servizi Personale via Ospedale Civile 99999
+
+
+m3
+4.254
+4.932
+5.491
+
+3011512473
+Traumatologia via Giustiniani, 999993
+
+
+m3
+4.184
+4.509
+4.267
+
+3026597900
+Via Giustiniani 1 Cantiere Nuova Pediatria comm.
+1595
+
+
+m3
+0
+0
+117
+
+3027910554
+Via Ospedale Civile 28 (ex Banca)
+
+
+m3
+0
+0
+12
+
+3011565300
+Via San Massimo, 14 35129 Padova
+
+
+m3
+2.285
+2.130
+1.947
+
+3011584645
+Magazzino Ospedale viale Navigazione Interna 38
+5.027
+28.950
+m3
+1.405
+1.009
+693
+
+3011579534
+Via G. Orus, 2C 35129 Padova
+6.630
+18.981
+m3
+7.131
+6.066
+7.614
+
+3024288428
+OSA via facciolati, 71
+113.581
+137.142
+m3
+0
+22.036
+25.337
+
+3024118432
+OSA ex CTO via facciolati, 71
+
+
+m3
+0
+28.551
+30.431
+
+3011522255
+Servizi Amministrativi via S. Eufemia 6
+1.863
+7.200
+m3
+1.096
+1.807
+2.398
+
+3011701571
+Uso antincendio Autopark via Gattamelata, 60
+
+
+62.509
+
+
+24.239
+m3
+0
+0
+0
+
+3011503860
+Via Gattamelata, 60 (Autopark) 35128 Padova
+
+
+m3
+166
+330
+229
+
+3011461610
+Uso antincendio Via Gustavo Modena, 9 35128
+Padova
+
+2.203
+
+7.571
+m3
+0
+0
+0
+
+3011537852
+Via Gustavo Modena, 9 35128 Padova
+
+
+m3
+2.184
+2.048
+2.013
+
+3011536820
+Viale Navigazione Interna 36
+5.027
+28.950
+m3
+-2
+-8
+-8
+In rosso consumo oggetto
+di rimborso
+
+
+IOV
+
+
+
+333.803	405.619	387.445
+
+
+
+
+
+
+Unità
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+UTENZA
+Consumi di ciascuna utenza della
+fornitura di acqua potabile oggetto dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+
+
+
+ISTITUTO ONCOLOGICO PADOVA
+Ospedale Busonera
+
+
+
+
+22.525,00
+
+
+22.338
+
+
+20203
+
+
+
+
+
+
+
+
+
+22.525,00	22.338,00	20.203,00
+
+AOVR
+Unità
+
+Unità
+Periodo
+Periodo
+Periodo
+
+UTENZA
+Consumi di ciascuna utenza della
+fornitura di acqua potabile oggetto dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+550048
+Lavanderia Geriatrico -Via Goffredo Mameli 45 P
+
+
+
+293.000
+
+
+
+1.174.000
+m3
+447
+212
+4.955
+550111
+Geriatrico L.A. -Via Goffredo Mameli 45 P
+
+
+m3
+0
+0
+0
+16-7000001
+Geriatrico L.M. -Via Goffredo Mameli 45 P
+
+
+m3
+85.023
+81.474
+93.259
+1125001
+Alessandri -Via Goffredo Mameli 45 P
+
+
+m3
+64.120
+62.188
+63.936
+1100017
+Centrale Termica - Piazzale Aristide Stefani 1
+
+
+m3
+97.466
+127.606
+135.649
+1100018
+Centro Marani - Via San Camillo De Lellis 999 P
+
+
+m3
+14.039
+17.945
+18.258
+1100027
+Pronto Soccorso - Lungadige Attiraglio 1 P
+
+
+m3
+48.739
+45.823
+55.551
+3395681
+Maternità -Via Goffredo Mameli 45 P
+39.182
+126.126
+m3
+29.938
+61.452
+54.612
+
+
+AV19-9616204
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+26
+2
+0
+AV19-9616205
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+37
+111
+239
+AV19-9616206
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+41
+63
+32
+AV19-9616203
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+32
+27
+29
+AV19-9616202
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+17
+18
+36
+AV19-9616209
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+49
+49
+49
+AV19-9616210
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+17
+15
+24
+AV19-9616211
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+10
+16
+14
+AV19-9616208
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+26
+34
+27
+AV19-9616207
+Palazzina Esterna Via Mameli-Via Goffredo Mameli
+41
+100
+300
+m3
+59
+194
+269
+9563848
+Villa Fantelli-Via Goffredo Mameli 61
+100
+300
+m3
+2
+2.500
+2.046
+9546852
+Via Torretta 999 (Riva di Villasanta)
+88
+447
+m3
+38
+40
+36
+9550466
+Via Torretta 999 (Riva di Villasanta)
+chiuso
+chiuso
+m3
+0
+0
+chiuso
+9526725
+Psicologia Medica - Via Delle Menegone 10
+
+123.000
+
+491.000
+m3
+316
+367
+290
+1100013
+Impalcato A Ospedale- Via Delle Menegone 10
+
+
+m3
+93.213
+116.795
+110.164
+1100010
+Centrale Termica- Via Delle Menegone 10
+
+
+m3
+24.409
+41.946
+12.347
+AV18-0514411
+Officina- Via Delle Menegone 10
+
+
+m3
+585
+758
+643
+1100047
+Project- Piazzale Scuro Lodovico 1	29.421
+92.163
+m3
+22.564
+36.977
+20.399
+481.213	596.612	572.864
+
+Aulss6
+Unità
+
+Unità
+Periodo
+Periodo
+Periodo
+
+
+UTENZA
+Consumi di ciascuna utenza della fornitura di acqua potabile oggetto
+dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+
+note
+135574270
+Via Forese, Campo San Martino (PD)
+792
+2528
+m3
+739
+778
+951
+
+11183093
+Via Forese, Campo San Martino (PD) - idranti
+antincendio
+0
+0
+m3
+
+0
+
+1
+
+8
+
+102722794
+Via Antoniana 218B, Campodarsego (PD)
+74
+159
+m3
+17
+28
+49
+
+25408556
+Via Antoniana 218B, Campodarsego (PD)
+249
+537
+m3
+164
+227
+166
+
+25408455
+Via Antoniana 218C, Campodarsego (PD)
+334
+718
+m3
+146
+273
+222
+
+25408657
+Via Antoniana 218C, Campodarsego (PD)
+95
+204
+m3
+63
+95
+63
+
+25408354
+Via Antoniana 218B, Campodarsego (PD)
+20
+42
+m3
+17
+18
+13
+
+29085866
+Via P. Cosma 3, Camposampiero (PD) (P.O.)
+40366,5
+138323
+m3
+46.396
+56.161
+56.151
+
+29085967
+Via P. Cosma 3, Camposampiero (PD) (P.O.)
+40366,5
+138323
+m3
+65.729
+60.773
+59.761
+
+28346646
+Via P. Cosma 2, Camposampiero (PD)
+2480
+7920
+m3
+60
+58
+14
+
+29201357
+Via P. Cosma 2, Camposampiero (PD) - idranti
+antincendio
+0
+0
+m3
+
+0
+
+0
+
+0
+
+148727268
+Via Tentori 29/A, Camposampiero (PD)
+106
+300
+m3
+427
+534
+581
+
+107381424
+Via Cao del Mondo SN, Camposampiero (PD)
+0
+0
+m3
+0
+0
+0
+
+161257547
+Via U.Foscolo 3, Carmignano di Brenta (PD)
+751
+2635
+m3
+415
+552
+394
+
+132030437
+Via Spessa 23, Carmignano di Brenta (PD)
+94
+308
+m3
+47
+48
+53
+
+132334975
+Via Roma 33, Carmignano di Brenta (PD)
+216
+596
+m3
+54
+46
+80
+
+10042234
+Via U. Foscolo 3, Carmignano di Brenta (PD)
+0
+0
+m3
+0
+0
+0
+
+160501553
+Via Pilastroni 11, Cittadella (PD) - P.O. e Nuova
+Piastra
+60144
+227295
+m3
+
+128.546
+
+139.316
+
+140.513
+
+148568331
+Via Don Giuseppe Lago 108, Cittadella (PD)
+0
+0
+m3
+
+0
+
+0
+
+0
+utenza volturata a
+cooperativa
+148309865
+Via Don Giuseppe Lago 108, Cittadella (PD)
+0
+0
+m3
+
+312
+
+594
+
+851
+utenza volturata a
+cooperativa
+13226359
+Via Pascoli 6, Fontaniva (PD)
+485
+1318
+m3
+432
+404
+466
+
+97902706
+Via Pascoli 5, Fontaniva (PD)
+0
+0
+m3
+0
+0
+2
+
+13863529
+Via Roma 190, Galliera Veneta (PD)
+12438
+49027
+m3
+14.556
+15.417
+15.534
+
+44468565
+Via Contarini 49, Piazzol a sul Brenta (PD)
+1700
+5867
+m3
+929
+976
+1.028
+
+47099689
+Via Contarini 61, Piazzola sul Brenta (PD)
+0
+0
+m3
+0
+14
+8
+
+22613239
+Via Rupolo 1, Trebaseleghe (PD)
+725
+2499
+m3
+473
+1.031
+699
+
+22613340
+Via Rupolo 1, Trebaseleghe (PD)
+0
+0
+m3
+1
+0
+0
+
+28286022
+Via Don L. Sturzo 999, Vigodarzere (PD)
+1190
+4431
+m3
+365
+343
+686
+
+1778608816
+Via Paradisi 2, Vigonza (PD)
+0
+0
+m3
+0
+1
+0
+
+23367314
+Via Paradisi 2, Vigonza (PD)
+852
+2981
+m3
+1.044
+1.058
+1.019
+
+11145913
+Via Roma, Villa del Conte (PD)
+260
+977
+m3
+152
+140
+228
+
+149358172
+Via Nicolò Copernico 2/A, Cittadella (PD)
+1570
+6281
+m3
+317
+514
+624
+
+3011473032
+Galleria Degli Scrovegni 12, Padova (PD)
+0
+0
+m3
+0
+0
+0
+
+3011528531
+piazza Mazzini 12, Padova (PD)
+105
+368
+m3
+56
+157
+72
+
+3011528523
+piazza Mazzini 12, Padova (PD)
+208
+731
+m3
+226
+36
+143
+
+3011517487
+via Berchet 16, Padova (PD)
+983
+2847
+m3
+930
+1.670
+1.797
+
+3011517532
+via degli Scrovegni 12, Padova (PD) - uffici e
+ambulatori
+7884
+24282
+m3
+
+3.710
+
+4.409
+
+4.495
+
+3011490618
+via dei Colli 4. Padova (PD)
+205
+827
+m3
+301
+200
+145
+
+3011452663
+via dei Colli 4, Padova (PD) - cure e raggi
+590
+2385
+m3
+313
+309
+418
+
+3011525562
+via dei Colli 4, Padova (PD) - lavanderia
+22465
+90824
+m3
+8.645
+11.620
+15.916
+
+3011714960
+via dei Colli 4, Padova (PD) - cucina
+121
+491
+m3
+3.434
+-216
+86
+
+3011564250
+via delle Cave 299, Padova (PD) - "Focolare"
+245
+689
+m3
+412
+375
+742
+
+3011562085
+via delle Granze sud 41, Padova (PD)
+520
+1807
+m3
+978
+776
+833
+
+3011466750 3025478103
+Via Eulero 80, Padova (PD) - "Casa Breda"
+3200
+11233
+m3
+1.233
+1.586
+1.184
+
+3011548891
+via Fra' Paolo Sarpi 76 int 2, Padova (PD) - distretto
+veterinario
+869
+2770
+m3
+
+98
+
+138
+
+252
+
+3011547501
+via Fra' Paolo Sarpi 78, Padova (PD)
+522
+1854
+m3
+145
+65
+48
+
+3011705578
+via Lazzaretto 1, Abano Terme (PD)
+444
+1555
+m3
+1.004
+675
+825
+
+3011704718
+via Malachin 17, Abano Terme (PD)
+693
+2078
+m3
+1.218
+790
+3.426
+
+3013825592
+via Monsignor Romero 6, Sant'Angelo di Piove di
+Sacco (PD)
+550
+1440
+m3
+
+-243
+
+91
+
+42
+
+3011562513
+Via Moretto da Brescia 8, Padova (PD)
+70
+190
+m3
+72
+101
+166
+
+3011584278
+via Ospedale Civile 24, Padova (PD) - "Casa della
+Sanità"
+2062
+6786
+m3
+
+1.474
+
+1.617
+
+2.020
+
+3011480541
+via Ospedale Civile 57, Padova (PD)
+875
+2586
+m3
+763
+912
+627
+
+3011450690
+via Piovese 74, Padova (PD)
+1146
+3700
+m3
+336
+358
+345
+
+3011529791
+via Sant'Eufemia 8, Padova (PD)
+536
+1732
+m3
+10.090
+-9.886
+117
+
+3011467198
+via T. Temanza 1, Padova (PD)
+2202
+8026
+m3
+716
+1.140
+932
+
+3016031341
+via San Pio X 2, Piove di Sacco (PD) - idranti
+antincendio
+0
+0
+m3
+
+0
+
+0
+
+0
+
+ospedale Piove di Sacco
+3020447271
+via San Pio X 2, Piove di Sacco (PD)
+0
+0
+m3
+97
+94
+93
+ospedale Piove di Sacco
+3020447256
+via San Rocco 8, Piove di Sacco (PD)
+0
+0
+m3
+97
+-100.060
+181.323
+ospedale Piove di Sacco
+3020201382
+via San Rocco 8, Piove di Sacco (PD)
+45942
+132595
+m3
+
+36.166
+
+5.464
+
+16.520
+ospedale Piove di Sacco -
+contatore principale
+47015019
+via Bressan 4, Selvazzano Dentro (PD)
+803
+3227
+m3
+1.521
+2.068
+2.696
+
+143488561
+via Bresseo 57, Cervarese Santa Croce (PD)
+6
+18
+m3
+10
+14
+11
+
+49024737
+via Bresseo 57, Cervarese Santa Croce (PD)
+776
+2597
+m3
+1.131
+1.500
+1.552
+
+143489773
+via Bresseo 57, Cervarese Santa Croce (PD)
+128
+427
+m3
+165
+264
+255
+
+150863288
+via Spinelli 1, p.zza Mons. Frasson 99, Rubano (PD)
+0
+0
+m3
+
+1
+
+0
+
+0
+
+131373362
+p.zza Mons. Frasson, Rubano (PD)
+943
+2667
+m3
+1.020
+1.068
+1.006
+
+137748282
+p.zza B. de Claricini 1, Selvazzano Dentro (PD)
+1460
+4527
+m3
+1.574
+2.504
+3.508
+
+137648252
+via Euganea sn, piazza Claricini, Selvazzano Dentro
+(PD)
+0
+0
+m3
+
+2
+
+0
+
+0
+
+28697563
+via Gramsci 53, Cadoneghe (PD)
+461
+1780
+m3
+579
+787
+417
+
+118970904
+via Papa Giovanni XXIII 13, Selvazzano Dentro (PD)
+387
+1162
+m3
+
+100
+
+130
+
+117
+
+100628810
+via Roma 18, Noventa Padovana (PD)
+352
+950
+m3
+168
+139
+65
+
+142378317
+via Spinelli 5, Rubano (PD)
+1886
+5334
+m3
+1.827
+1.860
+2.242
+
+33007953
+via Cavour 36, Ponte S. Nicolò (PD)
+293
+829
+m3
+369
+517
+669
+
+
+via Schiavon 2, Albignasego (PD)
+1176
+3547
+m3
+232
+516
+372
+
+contatore 153028
+via G. de Menabuoi 2, via J. D'Avanzo, Padova (PD) - "Casa Rossa"
+0
+0
+m3
+
+0
+
+0
+
+0
+Casa Rossa - in uso Azienda
+Zero
+18008605
+Piazza C. Battisti 14, Conselve (PD)
+950
+2850
+m3
+138
+715
+718
+
+100003287
+Via Vittorio Emanuele 22, Conselve (PD)
+16607
+51887
+m3
+19.121
+13.569
+15.814
+
+18008607
+Via Beggiato 14, Conselve (PD)
+0
+0
+m3
+0
+0
+0
+
+18008606
+Via Vittorio Emanuele 10, Conselve (PD)
+0
+0
+m3
+37
+66
+35
+
+20022469
+Via Settabile 39/a, Este (PD)
+412
+1408
+m3
+334
+348
+623
+
+100003292
+Via Settabile 33, Este (PD)
+9465
+32336
+m3
+16.925
+11.622
+14.312
+
+20022470
+Via Salute 14/b. Este (PD)
+9000
+36000
+m3
+0
+0
+1.886
+
+100003288
+Via Marconi 1, Monselice (PD)
+37540
+121271
+m3
+31.778
+16.251
+44.724
+
+28019603
+Via Papa Giovanni XXIII 14, Monselice (PD)
+0
+0
+m3
+0
+0
+0
+
+100003293
+Via Lovara 5, Montegnana (PD)
+11353
+33632
+m3
+23.018
+17.524
+18.647
+
+
+
+	
+433.722	273.283	622.400
+
+AULSS9
+Unità
+
+Unità
+Periodo
+Periodo
+Periodo
+
+UTENZA
+Consumi di ciascuna utenza della
+fornitura di acqua potabile oggetto dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+7888827
+Via Campania,1
+1811
+5433
+
+
+451
+881
+105858625
+Via Campo Marzo,20
+166
+498
+
+
+1991
+1688
+84573185
+Via Del Capitel, 22
+4600
+13800
+
+
+2049
+1580
+29677047
+Via Capodistria, 7
+125
+375
+
+
+264
+222
+26356920
+Via Salvo D'Acquisto 5-7
+9126
+27378
+
+
+27622
+27839
+87070129
+Via Galilei , 102
+90
+270
+
+
+524
+221
+15729457
+Via Germania, 20
+1950
+5850
+
+
+513
+529
+36720055
+P.za Lambranzi, 1
+35984
+107952
+
+
+42463
+37231
+87404777
+Via Macello, 9
+105
+315
+
+
+11
+19
+45613541
+Via Monte Novegno, 4
+11496
+34488
+
+
+20796
+10065
+15046013
+Via Pacinotti, 16
+1549
+4647
+
+
+995
+859
+47589210
+Corso Porta Palio, 30
+1812
+5436
+
+
+4740
+4978
+1375275
+Via San Giacomo, 51
+1499
+4497
+
+
+1280
+1634
+89652955
+Via San Giacomo, 52
+115
+345
+
+
+80
+85
+3312952
+Via Siracusa, 4/A
+305
+915
+
+
+26
+42
+1580255
+Via Toti, 6
+1497
+4491
+
+
+415
+474
+15366416
+Via Valeggio, 39
+694
+2082
+
+
+727
+727
+1960107
+Via Valverde,42
+2500
+7500
+
+
+2445
+2448
+88042755
+Via Ventotto Marzo, 30
+984
+2952
+
+
+372
+267
+
+Via Bologna, 1 - Via Padov.
+458
+1374
+
+
+0
+0
+61062207
+V.le del Lavoro, 26 - VIA DANTE
+1558
+4674
+
+
+1101
+1602
+61174361
+Via Rinascimento
+8074
+24222
+
+
+20575
+19099
+7732655
+Via Montanara, 2
+2097
+6291
+
+
+0
+0
+99037303
+Fontanelle - tramosino - fossa
+1855
+5565
+
+
+8449
+7257
+105874890
+Fontanelle - tramosino - fossa
+75000
+225000
+
+
+140327
+122039
+29483554
+Via Sorte, 68/B
+141
+423
+
+
+33
+38
+29483553
+Via Kennedy, 2
+400
+1200
+
+
+233
+374
+29483556
+Viale Trieste, 19
+23157
+69471
+
+
+64
+150
+2226022
+Via degli Alpini, 12 - via Alcide de Gasperi
+291
+873
+
+
+61
+75
+85017739
+Via Belluno 12 - 14
+2150
+6450
+
+
+754
+673
+85023637
+Via Pinzon, 9 (Raldon)
+627
+1881
+
+
+1433
+1534
+39013093
+Via Nazionale, 13
+428
+1284
+
+
+27
+40
+51033563
+via don Minzoni, 15
+620
+1860
+
+
+181
+191
+50145452
+Via Massalongo 7
+13558
+40674
+
+
+4977
+5188
+112423505
+Via Carlo Alberto Dalla Chiesa
+4638
+13914
+
+
+4508
+6402
+112423303
+Via Ospedale 2/50
+520
+1560
+
+
+1950
+3007
+112425525
+Via Ospedale 52 - M. Magalini
+35000
+105000
+
+
+92865
+103560
+112426333
+Via Fantoni 1
+520
+1560
+
+
+31
+148
+112426131
+Via Spallanzani 26 SOCIALE
+130
+390
+
+
+223
+1056
+112424919
+VIA ROMA 60
+8135
+24405
+
+
+9214
+9827
+21589267
+Loc. Groletta
+1074
+3222
+
+
+604
+443
+21588863
+Via Milano 2
+302
+906
+
+
+73
+127
+21589974
+Via Gardesana 57
+5304
+15912
+
+
+5413
+5754
+21589166
+Via Stazione 27
+1324
+3972
+
+
+410
+318
+21589570
+Via De Gasperi 72
+286
+858
+
+
+32
+48
+21589469
+Via Domegliara 1 (Ponton)
+1309
+3927
+
+
+500
+545
+21588560
+Via S- Maria Crocefissa di Rosa
+6853
+20559
+
+
+7417
+9470
+215888964
+Via Gardesana dell'Acqua 9
+607
+1821
+
+
+216
+755
+21589065
+Via Cappuccini, 34/36
+10877
+32631
+
+
+9631
+9474
+21589671
+Via S. Pancrazio, 39
+733
+2199
+
+
+0
+0
+112421279
+Via Gianella 1
+68700
+206100
+
+
+62424
+109452
+112420875
+Via Matteotti 95
+259
+777
+
+
+91
+173
+111451986
+Via Belfiore 49
+590
+1770
+
+
+159
+286
+112121380
+P.le Fleming 1
+13000
+39000
+
+
+2444
+13891
+112421077
+Via Roma 5
+743
+2229
+
+
+160
+255
+112421683
+Via Chiarenzi 5
+15300
+45900
+
+
+4912
+5655
+0	489.258	530.695
+
+
+Aulss7
+Unità
+
+Unità
+Periodo
+Periodo
+Periodo
+
+UTENZA
+Consumi di ciascuna utenza della fornitura di acqua potabile oggetto
+dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+
+201606107
+OSPEDALE S.BASSIANO - VIA DEI LOTTI 40 -
+FOGNATURA
+
+93551
+
+413602
+m3
+
+90580
+
+127839
+
+127267
+
+201606107
+
+OSPEDALE S.BASSIANO - VIA DEI LOTTI 40 - ACQUA
+
+93551
+
+413602
+m3
+
+122622
+
+130511
+
+145302
+
+12 (1)
+OSPEDALE S.BASSIANO - VIA DEI LOTTI 40 -
+IRRIGAZIONE GIARDINO
+
+93551
+
+413602
+m3
+
+1
+
+0
+
+0
+120043329
+CCS " P. ALPINO " VIA PANICA 17 - MAROSTICA
+20553
+102880
+m3
+9678
+11987
+12497
+201004631
+CCS " P. ALPINO " VIA PANICA 17 - MAROSTICA
+20553
+102880
+m3
+0
+0
+0
+194998
+CCS " P. ALPINO " VIA PANICA 17 - MAROSTICA
+20553
+102880
+m3
+0
+0
+0
+200606876
+CSS " M. NEGRIN " VIA CERERIA 14/B - BASSANO
+5608
+33548
+m3
+3185
+3390
+3893
+
+827914
+
+CEOD " NOI E GLI ALTRI " VIA ROSMINI 40 - BASSANO
+
+1434
+
+5841
+m3
+
+1107
+
+1795
+
+1501
+
+3684633
+DIPARTIMENTO PREVENZIONE, VIA CERERIA 15 -
+BASSANO
+
+1318
+
+5834
+m3
+
+496
+
+766
+
+762
+833996
+VIA CARDUCCI 2 - BASSANO
+2920
+11864
+m3
+0
+0
+0
+3674
+VIA CAMPO MARZIO 12 - BASSANO
+61
+257
+m3
+14
+12
+46
+5290
+VIA CAMPO MARZIO 16 - BASSANO
+57
+235
+m3
+18
+14
+17
+426829
+P.ZZA IV NOVEMBRE, 5 - S.NAZARIO
+150
+666
+m3
+45
+35
+42
+201010483
+via Lepanto, 1 Rosà
+435
+2009
+m3
+154
+93
+39
+200611084
+OSPEDALE ASIAGO - VIA M. DI GRANEZZA 25
+10624
+46386
+m3
+6
+7
+41
+
+201531839
+NUOVO OSPEDALE ASIAGO - VIA M. DI GRANEZZA
+999/SNC
+
+20922
+
+54900
+m3
+
+1089
+
+7519
+
+13734
+
+200713821
+NUOVO OSPEDALE ASIAGO - VIA M. DI GRANEZZA 26 -
+FOGNATURA
+
+20922
+
+54900
+m3
+
+0
+
+3712
+
+54
+
+120074700
+NUOVO OSPEDALE ASIAGO - VIA M. DI GRANEZZA
+999/SNC
+
+20922
+
+54900
+m3
+
+528
+
+59
+
+128
+120043327
+OSPEDALE ASIAGO - VIA M. DI GRANEZZA 25
+10624
+46386
+m3
+12555
+14281
+8975
+201110367
+VIA CAIROLI - ASIAGO
+131
+662
+m3
+16
+22
+87
+159468
+DISTRETTO S.S. VIA PATRIOTI - ASIAGO
+2569
+15575
+m3
+326
+282
+377
+91150745
+VIA CAPPELLARI,59 - ENEGO
+1106
+4732
+m3
+161
+69
+120
+1967/51256780-233265
+San Camillo De Lellis Schio - AVS1601203
+19312
+61798
+m3
+10500
+9600
+10200
+
+1900/27002392-233245
+
+CSP Via Boldrini Thiene - contatore AVS1601201
+
+20133
+
+64425
+m3
+
+9500
+
+12500
+
+12000
+1986/27002386-233246
+SERD via San Rocco 60 Thiene 02/FB056984
+1308
+4286
+m3
+150
+86
+CHIUSO
+1967/51256781-233263
+CSM via Righi snc 08/TA048410
+670
+2291
+m3
+600
+620
+670
+2008/90003588-233249
+Casa RUP via Garziere snc, Zanè
+300
+1310
+m3
+46
+56
+41
+
+2009/90007762-233237
+Casa Specializzandi viale Dell'industria 237, Schio
+607359
+
+170
+
+750
+m3
+
+42
+
+280
+
+195
+1980/23026450-233238
+DSB Piovene Rocchette - contatore 7338622
+340
+1375
+m3
+692
+438
+690
+1980/41001478-233403
+DSB Malo - contatore 152609M
+979
+4235
+m3
+305
+221
+300
+
+1980/53000176-233267
+
+Punto prelievi Valli Del Pasubio - contatore 86230379
+
+130
+
+650
+m3
+
+23
+
+12
+
+5
+1998/33130655-233284
+DSB Zugliano - contatore 85186274
+426
+2255
+m3
+84
+86
+67
+
+2001/33411252-233234
+
+DSB Zugliano piano primo - contatore VIA220000604
+
+269
+
+1424
+m3
+
+78
+
+402
+
+320
+2000/20001639-233236
+CEOD Lugo - contatore 98/172640
+270
+1200
+m3
+126
+150
+175
+2007/23007797-233261
+CEOD Chiuppano - contatore 09/062629
+384
+1890
+m3
+162
+142
+486
+264.727	326.844	339.545
+
+AULSS8
+Unità
+
+Unità
+Periodo
+Periodo
+Periodo
+
+UTENZA
+Consumi di ciascuna utenza della fornitura di acqua potabile oggetto
+dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+dice Utenza 101149 -matr. 228844
+Arzignano Via del Parco, 1
+22315
+89260
+m3
+48395
+45009
+72764
+ice Utenza 111716- matr. 4016725
+Arzignano Via del Parco, 1
+-
+-
+m3
+0
+0
+0
+za 307097- matr. 8SEN0118798363
+Lonigo Via Sisana, 1
+17.922,00
+53.766,00
+m3
+41817
+40855
+48970
+za 307098 - matr. 8SEN0118792183
+Lonigo Via Sisana, 1
+5.344,34
+16.033,02
+m3
+18859
+18631
+14603
+Utenza 422919 -matr. 17BF082917
+Montecchio Maggiore Via Ca' Rotte, 9
+0
+0
+m3
+181
+0
+0
+ice Utenza 307100 -matr. 17738083
+Montecchio Maggiore Via Sardegna, 3
+166,00
+511,03
+m3
+240
+247
+87
+e utenza 127418 matr. 0000653335
+Arzignano Via Kennedy, 2
+0,00
+0
+m3
+12
+3
+0
+ce Utenza 111168 -matr. 10-702955
+Arzignano Via Trento, 4
+1666,66
+5000,00
+m3
+2
+4
+60
+Utenza 106355 - matr. 13-3102835
+Arzignano Via Trento, 4
+2000,00
+6000
+m3
+226
+424
+72
+tenza 108661 - matr. 10-12009129
+Arzignano Via Duca d'Aosta, 34
+800,00
+2400,00
+m3
+1002
+992
+911
+tenza 110428 -matr. 2016WT06644
+Arzignano Via Caboto, 19
+886,40
+4432,00
+m3
+240
+256
+283
+tenza 108267 -matr. 2023WT00337
+Arzignano Via Meneghini S.Rocco
+128,67
+386,01
+m3
+239
+262
+277
+tenza 104101 -matr. 2019WT00001
+Arzignano Via Kennedy, 2
+3066,67
+9200,01
+m3
+2839
+1808
+2569
+ce utenza 436046 -matr. 10-703080
+Arzignano Via Kennedy, 13
+47
+141
+m3
+0
+0
+35
+utenza 113271 - matr. 0000411989
+Arzignano Via Busa, 1
+57,14
+199,99
+m3
+4
+8
+8
+ce utenza 422269 -matr. 11-708430
+Arzignano Via Generale Diaz, 47/A
+50,67
+152
+m3
+160
+157
+143
+Utenza n. 2113 -matr. 90610926
+Montebello Vic.no Piazzale Cenzi, 3
+351,67
+1055,01
+m3
+215
+415
+275
+tenza 307101 -matr. MBL11-76080
+Montecchio Maggiore via Pieve, 11
+477,00
+1431,00
+m3
+292
+258
+387
+utenza 307102- matr. 0000840478
+Montecchio Maggiore via Giuriolo, 11
+1100,00
+3300,00
+m3
+249
+289
+261
+436512 -matr. MBL11-2005561658
+Montecchio Maggiore Largo Boschetti, 37
+288,00
+864,00
+m3
+0
+0
+16
+odice Utenza 307099 -matr. 209552
+Montecchio Maggiore viale Vittoria
+31619,00
+97335,92
+m3
+13871
+46705
+16571
+za 412906 -matr. MBL31-93088024
+Lonigo via Fiume, 1
+0
+0
+m3
+118
+183
+5
+60252377
+VICENZA - VIA RODOLFI -VECCHIO COMPL. OSPEDALIER
+13.340,79
+53.034,50
+m3
+25970
+26065
+15627
+60252375
+VICENZA - VIA RODOLFI
+20.329,19
+80.815,95
+m3
+17214
+17515
+23813
+60182530
+VICENZA - VIA RODOLFI
+115.187,39
+457.911,79
+m3
+134895
+134842
+134927
+60182594
+VICENZA - VIA SAN BORTOLO (Scuola Infermieri)
+1.071,40
+4.259,19
+m3
+1746
+1449
+1255
+60252379
+VICENZA - VIA RODOLFI (celle)
+0,00
+0,00
+m3
+0
+0
+0
+60284692
+VICENZA - VIA RODOLFI
+402,95
+1.601,86
+m3
+1959
+472
+472
+60182595
+VICENZA - VIA SAN BORTOLO (ex Ematologia)
+875,04
+3.478,62
+m3
+2472
+963
+1025
+60252348
+VICENZA - VIA SAN BORTOLO (ex De Giovanni)
+401,24
+1.595,07
+m3
+425
+425
+470
+60187042
+VICENZA - CORSO S. FELICE
+10144,00
+41188,00
+m3
+15515
+15622
+13143
+60238014
+SANDRIGO - PIAZZA ZANELLA
+12223,00
+42780,00
+m3
+11917
+8590
+7967
+60220811
+NOVENTA - VIA C. DI SOPRA, 3
+20334,83731
+92129
+m3
+39832
+39529
+31606
+60323324
+VICENZA - VIA IV NOVEMBRE 46
+2954,00
+8862,00
+m3
+704
+665
+341
+60314714
+VICENZA - CONTRA' M. S. LUCIA 34
+2970,00
+8910,00
+m3
+379
+276
+1376
+60273387
+VICENZA - CONTRA' M. S. LUCIA 34
+0
+0
+m3
+0
+0
+0
+70104991
+VICENZA - CONTRA' M. S. LUCIA 34
+0
+0
+m3
+0
+0
+1
+60314507
+VICENZA - CONTRA' M. C. DOMINI 13
+2252,00
+6756,00
+m3
+450
+453
+331
+60188837
+VICENZA- VIALE TRENTO 106
+184,00
+552,00
+m3
+226
+216
+246
+60191502
+VICENZA- VIA VOLPATO 14
+465
+1395
+m3
+597
+558
+626
+60313042
+VICENZA - VIA DEI MILLE 71
+101,00
+303,00
+m3
+337
+341
+287
+60313048
+VICENZA - VIA DEI MILLE 85
+81,00
+243,00
+m3
+307
+330
+570
+60313051
+VICENZA - VIA DEI MILLE 87
+58,00
+174,00
+m3
+158
+162
+173
+60231755
+VICENZA - VIALE CAMISANO 67
+250,25
+750,76
+m3
+78
+78
+74
+60231767
+VICENZA - VIALE CAMISANO 67
+307,75
+923,23
+m3
+80
+80
+91
+60186682
+VICENZA - VIA SS. APOSTOLI 21
+2596,00
+7788,00
+m3
+211
+388
+307
+60311140
+VICENZA- ST. MAROSTICANA 87
+248,99
+746
+m3
+144
+181
+169
+60282259
+VICENZA- ST. MAROSTICANA 87
+358,01
+1074
+m3
+40
+40
+243
+60290837
+VICENZA - VIA ALBINONI 7
+306,00
+1158,00
+m3
+677
+739
+478
+60267383
+CAMISANO VIC. - V. NEGRIN 90
+838,00
+2514,00
+m3
+218
+443
+141
+70052268
+COSTABISSARA - VIA ROMA 1/D
+933,00
+2880,00
+m3
+18
+33
+18
+60205105
+CREAZZO - VIALE ITALIA 6 - OLMO
+1557,00
+4671,00
+m3
+182
+283
+284
+60258815
+MONTEGALDA - PIAZZA MARCONI
+170
+510,00
+m3
+60
+61
+68
+60208692
+LONGARE - VIA MARCONI 24
+557,00
+1670,00
+m3
+112
+103
+279
+60271637
+NOVENTA VIC. - VIA C. DI SOPRA, 3 (DIST. EST SEDE DI
+198,1626872
+897,8
+m3
+957
+276
+308
+60314723
+VICENZA - CONTRA' M. S. DOMENICO 4
+1431,00
+4293,00
+m3
+247
+278
+465
+60282255
+VICENZA - VIA PASI 25
+0
+0
+m3
+0
+0
+0
+60273300
+VICENZA - VIA PASI 25
+0
+0
+m3
+0
+0
+0
+70060379
+VICENZA - VIA PASI 25
+2506,00
+7519,00
+m3
+1226
+1414
+1234
+60270510
+VICENZA - VIA CAPPELLARI
+1097
+3293
+m3
+414
+656
+925
+60273380
+VICENZA - VIA CAPPELLARI
+0
+0
+m3
+0
+0
+0
+60241240
+VICENZA - VIA POSTUMIA 137
+69
+206
+m3
+13
+11
+7
+60254564
+VICENZA- CONTRA' S.FRANCESCO
+256,41
+769,23
+m3
+332
+224
+151
+60254565
+VICENZA - CONTRA' S.FRANCESCO
+1076,6
+3229,8
+m3
+174
+571
+634
+70099337
+ISOLA VICENTINA - VIA MONTE GRAPPA 3
+213,00
+640,00
+m3
+73
+120
+97
+60273105
+VICENZA - VIA CATTANEO 8
+0
+0
+m3
+0
+0
+0
+60296326
+VICENZA - VIA CATTANEO 8
+679,00
+2037,00
+m3
+195
+96
+1
+60273239
+VICENZA - VIALE CIALDINI 2
+0
+0
+m3
+0
+0
+0
+60297198
+VICENZA - VIALE CIALDINI 2
+2519,00
+7557,00
+m3
+28
+401
+702
+
+
+70100006
+VICENZA- VIA MENTANA, 11 P
+378
+1134
+m3
+0
+0
+58
+A9144
+Valdagno via Galilei, 3
+3697,89
+14791,55
+m3
+5903
+3517
+3377
+A53014100
+Valdagno via Galilei, 1
+313,18
+1252,70
+m3
+19
+1224
+286
+A53014099
+Valdagno via Galilei, 1
+42925,94
+171703,75
+m3
+36995
+41315
+39201
+A28604
+Cornedo Vic.no Piazza Moro, 35
+1166,67
+3500,01
+m3
+244
+592
+464
+40383
+Trissino via Nazario Sauro, 11
+532,00
+1596,00
+m3
+1203
+250
+257
+20516
+Valdagno via Marzotto, 7
+563,00
+1690,00
+m3
+306
+337
+425
+A16895
+Valdagno via Ferrighi, 1
+1700,00
+5100,00
+m3
+1292
+1116
+1234
+435.505	459.806	444.531
+
+Consumi depuratori
+
+Impianti di depurazione - m3 acqua smaltiti ultimo triennio, per Aziende con depuratore interno aziendale
+
+
+
+Unità
+Periodo
+Periodo
+Periodo
+
+UTENZA
+
+Volume acqua smaltita oggetto dell'appalto
+
+MQ
+
+MC
+
+m3
+
+2020
+
+2021
+
+2022
+
+AOVR
+
+
+
+
+
+
+
+1000000110
+Piazzale Aristide Stefani 1 B.go Trento
+(VR)
+332.182
+1.300.126
+m3
+415.292
+447.112
+494.230
+100N1MD100161
+Via Delle Menegone 10 B.go Roma (VR)
+152.421
+583.163
+m3
+130.806
+161.133
+137.520
+AULSS6
+
+
+
+
+
+
+
+3011490618 - 3011452663 -
+3011525562 - 3011714960
+via Dei Colli 4, Padova (PD)
+23381
+94527
+m3
+12.693
+11.913
+16.565
+47015019
+via Bressan 4, Selvazzano Dentro (PD)
+803
+3227
+m3
+1.521
+2.068
+2.696
+3011466750 - 3025478103
+via Leonardo Eulero 80, Padova (PD)
+3200
+11233
+m3
+1.233
+1.586
+1.184
+3016031341 - 3020447271 -
+3020447256 - 3020201382
+via San Rocco 8, Piove di Sacco (PD)
+45942
+132595
+m3
+36.360
+-94.502
+197.936
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+597.905	529.310	850.131
+
+Cogeneratori Dati Ulteriori
+
+
+
+AOVR
+
+
+Cogeneratori
+
+
+PDR
+
+
+SEDE
+
+
+Intestazione officina elettrica
+
+Energia elettrica prodotta annua (kW/h)
+
+Potenza elettrica (kW)
+
+Livello Tensione (V)
+
+Consumo GAS metano (mc.)
+
+Accisa Agevolata (si/no)
+nei consumi di energia elettrica già comunicati sono sommati anche i consumi per il funzionamento dei cogeneratori SI/NO?
+Cogeneratore di Borgo
+Roma
+11610001050887
+Ospedale di B.go Roma Piazzale
+Ludovico Scuro, 10 Verona
+IT00VRE00156G
+8.645.065
+1.4 Mw
+20.000
+2.306.533
+si
+si
+Cogeneratore di Borgo Trento SEZIONE 1
+
+11610001051346
+Ospedale di B.go Trento Piazzale Stefani,1 Verona
+
+IT00VRE00155E
+
+4.022.924
+
+0,8 MW
+
+20.000
+
+1.117.007
+
+si
+
+si
+Cogeneratore di Borgo Trento SEZIONE 2
+
+11610001075953
+
+z
+
+IT00VRE00155E
+
+16.510.956
+
+2 MW
+
+20.000
+
+3.937.228
+
+si
+
+si
+AOPD
+
+
+
+
+
+
+
+
+
+COGE EST
+11821001264803
+AOP
+ENGIE SERVIZI SPA
+8.382.822
+1.416
+400
+2.481.558
+SI
+Si
+C0GE OVEST
+11821001264802
+AOP
+ENGIE SERVIZI SPA
+8.445.270
+1.416
+400
+2.591.723
+SI
+Si
+AULSS 7
+
+
+
+
+
+
+
+
+
+n.1
+35413201
+Ospedale "San Bassiano"
+Engie Servizi
+1.575.000,00
+1.048,00
+400V
+465.460,00
+si
+si
+n.2
+35413201
+Ospedale "San Bassiano"
+Engie Servizi
+1.575.000,00
+1.048,00
+400V
+465.460,00
+si
+si
+
+
+
+
+
+
+
+
+
+
+AULSS 6
+
+
+
+
+
+
+
+
+
+Viessmann Vitobloc
+200EM-260/390
+1611289000003
+Piove di Sacco
+Siram
+2006633,00
+260
+400
+599382
+si
+NO
+Viessmann Vitobloc
+200EM-140/207
+11821001434630
+Colli
+Siram
+1013916,00
+140
+400
+315311
+si
+NO
+Viessmann Vitobloc
+200EM-70/115
+15540000020415
+Conselve
+Siram
+492450,00
+70
+400
+157913
+si
+NO
+Viessmann Vitobloc
+200EM-70/115
+883202895847
+Montagnana
+Siram
+520652,00
+70
+400
+151200
+si
+NO
+
+
+
+
+
+
+
+
+
+
+AULSS 8
+
+
+
+
+
+
+
+
+
+si
+03670064729701
+Ospedale San Bortolo Viale Rodolfi, 37 -
+36100 Vicenza
+Edison Next Government s.r.l.
+10.500
+1.589
+400
+2.800.000
+si
+si
+
+
+
+
+
+
+
+
+
+
+Aulss 9
+
+
+
+
+
+
+
+
+
+Motore: MAN E 2842 LE 322
+Alternatore: Marelli MJB 355
+SB4
+
+
+088190265627
+
+
+Ospedale di Legnago
+
+
+IT00VRE00193C
+
+
+4.558.800,00
+
+
+500 kVA
+
+
+400V
+
+
+1.203.815,00
+
+
+SI
+
+
+SI
+Motore: J 208 GS- C02
+Alternatore:HCI
+534 D2
+
+8,81905E+11
+
+Ospedale di Bussolengo
+
+IT00VRE00195I
+
+1.831.976,00
+
+380 kVA
+
+400V
+
+534.342,00
+
+NO
+
+SI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

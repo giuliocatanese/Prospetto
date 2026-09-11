@@ -1,0 +1,84 @@
+InsiemeCodice famigliaCodice tipoAttivitàPeriodicitàImpianto produzione acqua dialisiV1.11Ispezione visivaG
+
+Impianto produzione acqua dialisi
+V1.1
+2Rilievo dei parametri di funzionamento dell'impianto previsti dal modulo di registrazione mo0214 in riferimento
+all'istruzione operativa io0218
+G
+Impianto produzione acqua dialisiV1.13Controllo display quadro comando (stato di funzionamento ed
+eventuale presenza di allarmi)GImpianto produzione acqua dialisiV1.14Ispezione visivaG
+Impianto produzione acqua dialisiV1.15Controllo del livello di cloro nel serbatoio ed eventuale
+reintegroG
+Impianto produzione acqua dialisiV1.16
+Controllo del livello della salamoia ed eventuale reintegroG
+Impianto produzione acqua dialisiV1.17Controllo display del quadro comando (stato di funzionamento
+ed eventuale presenza di allarmi)G
+
+Impianto produzione acqua dialisi
+V1.1
+8
+Accurato controllo di tutti i componenti dell'impianto e sostituzione di eventuali parti di ricambio giudicate difettose
+M
+Impianto produzione acqua dialisiV1.19Le analisi chimiche e la verifica dei dati di funzionamento
+dell'impiantoM
+Impianto produzione acqua dialisiV1.110Controllo della durezza totale residua in uscita da entrambi gli
+addolcitoreMImpianto produzione acqua dialisiV1.111Controllo del cloro attivo libero in ingresso addolcitoriM
+Impianto produzione acqua dialisiV1.112Controllo dell'assenza del cloro in uscita dei filtri a carbone
+attivoMImpianto produzione acqua dialisiV1.113Pulizia dei raccordi di iniezione ipoclorito di sodioM
+Impianto produzione acqua dialisiV1.114Controllo e regolazione dei rigetti, pressioni e ricircoli nei due
+stadi del biosmotizzatoreM
+Impianto produzione acqua dialisiV1.115Controllo delle varie fasi di regenerazione degli addolcitori e
+filtri a carboneMImpianto produzione acqua dialisiV1.116Controllo computer di comandoMImpianto produzione acqua dialisiV1.117Sostituzione mensile di tutte le cartucce filtriMImpianto produzione acqua dialisiV1.118Pulizia annua del contenitore di sale degli addolcitoriA/SNImpianto produzione acqua dialisiV1.119Disinfezione annua moduli del biosmotizzatoreA/SNImpianto produzione acqua dialisiV1.120Disinfezione dell'anello acqua dialisiMCappe e plenum a flusso laminareV1.21Misurazione velocità aria3M
+Cappe e plenum a flusso laminareV1.22Controllo particolare per ogni cappa con strumento specifico
+per cappe dotato di certificazione annua3MCappe e plenum a flusso laminareV1.23Controllo filtri e prefiltri3MCappe e plenum a flusso laminareV1.24Sostituzione dei filtri se necessaria3MCappe e plenum a flusso laminareV1.25Pulizia3MCappe e plenum a flusso laminareV1.26Verifica elettroventilatore3MCappe e plenum a flusso laminareV1.27Rilascio di stampe dati lettura strumento e tabelle3MCelle FrigorifereV1.31Verifica di funzionamenro e di temperaturaGCelle FrigorifereV1.32Verifica allarmi con simulazione reale di interventoMCelle FrigorifereV1.33Verifica temperaturaMCelle FrigorifereV1.34Verifica funzionamento compressoriMCelle FrigorifereV1.35Verifica funzionamento ventilatoriM
+Celle FrigorifereV1.36Controllo apparecchiature elettriche ed elettroniche:
+termostati, termometri, registratori di temperaturaMCelle FrigorifereV1.37Pulizia condensatoreMCelle FrigorifereV1.38Controllo cerniere e chiusureMCelle FrigorifereV1.39Controllo sistema filtraggioMFrigoemotecheV1.41Verifica di funzionamenro e di temperaturaGFrigoemotecheV1.42Verifica allarmi con simulazione reale di interventoSFrigoemotecheV1.43Verifica temperaturaSFrigoemotecheV1.44Verifica funzionamento compressoriSFrigoemotecheV1.45Verifica funzionamento ventilatoriS
+FrigoemotecheV1.46Controllo apparecchiature elettriche ed elettroniche:
+termostati, termometri, registratori di temperaturaSFrigoemotecheV1.47Pulizia condensatoreMFrigoemotecheV1.48Controllo cerniere e chiusureMFrigoemotecheV1.49Controllo sistema filtraggioMFrigorifero laboratorioV1.51Verifica di funzionamenro e di temperaturaGFrigorifero laboratorioV1.52Verifica allarmi con simulazione reale di interventoMFrigorifero laboratorioV1.53Verifica temperaturaMFrigorifero laboratorioV1.54Verifica funzionamento compressoriMFrigorifero laboratorioV1.55Verifica funzionamento ventilatoriM
+Frigorifero laboratorioV1.56Controllo apparecchiature elettriche ed elettroniche:
+termostati, termometri, registratori di temperaturaMFrigorifero laboratorioV1.57Pulizia condensatoreMFrigorifero laboratorioV1.58Controllo cerniere e chiusureMFrigorifero laboratorioV1.59Controllo sistema filtraggioM
+
+Frigoriferi reparti di degenzaV1.61Verifica di funzionamenro e di temperaturaGFrigoriferi reparti di degenzaV1.62Verifica allarmi con simulazione reale di intervento3MFrigoriferi reparti di degenzaV1.63Verifica temperatura3MFrigoriferi reparti di degenzaV1.64Verifica funzionamento compressori3MFrigoriferi reparti di degenzaV1.65Verifica funzionamento ventilatori3M
+Frigoriferi reparti di degenzaV1.66Controllo apparecchiature elettriche ed elettroniche:
+termostati, termometri, registratori di temperatura3MFrigoriferi reparti di degenzaV1.67Pulizia condensatore3MFrigoriferi reparti di degenzaV1.68Controllo cerniere e chiusure3MFrigoriferi reparti di degenzaV1.69Controllo sistema filtraggio3MFrigoriferi reparti di degenza-REV1V1.6 REV11Verifica di funzionamenro e di temperaturaMFrigoriferi reparti di degenza-REV1V1.6 REV12Verifica allarmi con simulazione reale di intervento3MFrigoriferi reparti di degenza-REV1V1.6 REV13Verifica temperatura3MFrigoriferi reparti di degenza-REV1V1.6 REV14Verifica funzionamento compressori3MFrigoriferi reparti di degenza-REV1V1.6 REV15Verifica funzionamento ventilatori3M
+Frigoriferi reparti di degenza-REV1V1.6 REV16Controllo apparecchiature elettriche ed elettroniche:
+termostati, termometri, registratori di temperatura3MFrigoriferi reparti di degenza-REV1V1.6 REV17Pulizia condensatore3MFrigoriferi reparti di degenza-REV1V1.6 REV18Controllo cerniere e chiusure3MFrigoriferi reparti di degenza-REV1V1.6 REV19Controllo sistema filtraggio3MGhiacciaieV1.71Verifica di funzionamenro e di temperaturaMGhiacciaieV1.72Verifica allarmi con simulazione reale di interventoMGhiacciaieV1.73Verifica temperaturaMGhiacciaieV1.74Verifica funzionamento compressoriMGhiacciaieV1.75Verifica funzionamento ventilatoriM
+GhiacciaieV1.76Controllo apparecchiature elettriche ed elettroniche:
+termostati, termometri, registratori di temperaturaMGhiacciaieV1.77Pulizia condensatoreMGhiacciaieV1.78Controllo cerniere e chiusureMGhiacciaieV1.79Controllo sistema filtraggioM
+Apparecchiature di refrigerazione frigofarmaciV1.81Controllo della temperatura su frigoemoteche, frigoriferi e
+congelatoriSApparecchiature di refrigerazione frigofarmaciV1.82Sostituzione dei discri di registrazione ove esistentiSApparecchiature di refrigerazione frigofarmaciV1.83Controllo degli allarmi dove esistentiSApparecchiature di refrigerazione frigofarmaciV1.84Controllo del liquido frigorigenoSApparecchiature di refrigerazione frigofarmaciV1.85Controllo della temperatura con tester elettronicoS
+Apparecchiature di refrigerazione frigofarmaciV1.86Controllo dei dispositivi elettronici di allarme e sicurezza, ove
+esistentiSApparecchiature di refrigerazione frigofarmaciV1.87Controllo di teleruttori e salvamotoriSApparecchiature di refrigerazione frigofarmaciV1.88Controllo dell'efficienza dei compressoriSApparecchiature di refrigerazione frigofarmaciV1.89Controllo dell'efficienza dei motori elettriciSApparecchiature di refrigerazione frigofarmaciV1.810Regolazione delle cinghieSApparecchiature di refrigerazione frigofarmaciV1.811Controllo e pulizia dei condensatori dei gruppi ad ariaS
+Apparecchiature di refrigerazione frigofarmaciV1.812Controllo dell'efficienza delle regolazioni, compresa la loro
+taraturaS
+
+Apparecchiature di refrigerazione frigofarmaci
+V1.8
+13
+Controllo dell'efficienza delle strumentazioni, compresa la taratura di pressostati, termostati e termometri
+SApparecchiature di refrigerazione frigofarmaciV1.814Controllo e pulizia delle sondeSApparecchiature di refrigerazione frigofarmaciV1.815Controllo e pulizia delle ventoleSApparecchiature di refrigerazione frigofarmaciV1.816Controllo e pulizia dei filtri e dei rilevatori di umiditàSApparecchiature di refrigerazione frigofarmaciV1.817Controllo dell'efficienza delle batterie allarmiS
+Apparecchiature di refrigerazione frigofarmaciV1.818Controllo e verifica di tenuta degli sportelli e dello stato di
+conservazione delle guarnizioniS
+Apparecchiature di refrigerazione frigofarmaciV1.819
+Controllo e segnalazione di eventuali perdite di gas refriferanteSLavapadelleV1.91Controllo e pulizia con lavaggio acido della caldaiaSN
+LavapadelleV1.92Verifiche periodiche del funzionamento lavapadelle, pulizia
+spruzzatori (ugelli)M
+
+
+
+Lavapadelle
+V1.9
+3
+Decalcificazione serpentine, resistenze e funzionamento bulbi termostatici delle vasche, verifica funzionamento meccanico di tutti i componenti
+6M
+LavapadelleV1.94
+Controllo elettrovalvole e tubazioni per chiamata disinfettante6M
+LavapadelleV1.95Controllo e pulizia filtri ingresso acqua, elettrovalvole solenoidi
+acqua cada, fredda e tubazioni.3M
+LavapadelleV1.96Controllo funzionamento del sistema di ribaltamento padella e
+corretto funzionamento lava pappagallo.M
+LavapadelleV1.97Verifica regolare funzionamento pompe dosatrici dei prodotti
+chimiciM
+LavapadelleV1.98
+Controllo dei dispositivi di protezione elettrica e di sicurezza.3MLavapadelleV1.99Verifica assorbimento resistenze elettriche3M
+LavapadelleV1.910Verifica generale come da manuale costruttoreA

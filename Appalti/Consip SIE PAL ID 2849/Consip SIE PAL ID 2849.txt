@@ -1,0 +1,44 @@
+CONSIP - AQ SERVIZIO INTEGRATO ENERGIA PER LE PAL (ID 2849)
+=============================================================
+Stazione appaltante: Consip S.p.A. (MEF)
+Procedura: Accordo Quadro multi-operatore aperta (art. 59 c.4 lett.a D.Lgs. 36/2023)
+Pubblicazione UE: GU UE S 51 del 13/03/2026, avviso 176703-2026
+
+IMPORTI:
+- Base stimata: 1.430.000.000 € (80 mln m³)
+- Importo globale con estensioni: 2.015.086.959,83 €
+
+DURATA AQ: 24 mesi + proroga fino a 12 mesi
+DURATA CONTRATTI: 3 o 6 anni + premiale +2 anni (art. 120 c.10)
+
+SUDDIVISIONE: 10 lotti geografici
+- Lotto 1: VdA + Piemonte | 170.507.358 €
+- Lotto 2: Lombardia + PA Bolzano | 284.282.268 €
+- Lotto 3: FVG + Veneto + PA Trento | 265.526.459 €
+- Lotto 4: ER + Liguria | 218.249.418 €
+- Lotto 5: Toscana + Umbria | 171.902.418 €
+- Lotto 6: Marche + Abruzzo | 129.275.579 €
+- Lotto 7: Lazio + Sardegna | 278.702.027 €
+- Lotto 8: Campania + Molise | 154.076.649 €
+- Lotto 9: Puglia + Basilicata | 140.901.080 €
+- Lotto 10: Calabria + Sicilia | 201.663.703 €
+
+BENEFICIARI: Amministrazioni Locali (esclusa sanità)
+CRITERIO: OEPV - PT 70 / PE 30
+LOTTI MULTI-AGG.: 2,3,4,7 (3 operatori 55/30/15%) - altri (1 op 100% o 2 op 70/30)
+
+RUP progetto: Ing. Simona Petetta
+RP affidamento: Dott. Matteo Cavallini
+Approvazione: Avv. Marco Reggiani (AD/DG)
+
+PARTECIPAZIONE CERTOSA: lotti 2, 3, 6, 7, 8, 9, 10 (Renovit/Tekal/Cecchini/Certosa 10%)
+
+PDF NEL PROGETTO:
+✓ AQ_SIE_PAL__ID_2849__Determina_a_contrarre.pdf (897 KB) - Determina v.1.9 del 12/11/2025
+✓ BANDO_ID_2849_GUUE_ONLINE_13_03_2026_S_051.pdf (2.3 MB) - Bando UE
+✓ ID_2849_AQ_SIE_PAL__Capitolato_doneri.pdf (18.8 MB) - Capitolato
+
+LINK UFFICIALI:
+- Portale Consip: https://www.acquistinretepa.it/
+- TED UE (176703-2026): https://ted.europa.eu/it/notice/-/detail/176703-2026
+- Consip news: https://www.consip.it/

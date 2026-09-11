@@ -1,0 +1,273 @@
+Allegato 12
+
+
+
+U.O.C. CRAV
+
+
+
+
+Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici
+delle Aziende Sanitarie della Regione del Veneto (G.V.E.) Numero gara: 9436015
+
+******
+
+
+
+
+PROGETTO DI GARA
+
+INDICE
+1. PREMESSE	3
+2. PUBBLICHE AMMINISTRAZIONI DESTINATARIE DELLA FORNITURA	5
+3. RELAZIONE TECNICO-ILLUSTRATIVA DI CONTESTO	5
+4. METODO DI ANALISI	5
+5. OGGETTO DELLA FORNITURA	6
+6. SUDDIVISIONE IN LOTTI	6
+7. IMPATTO ECONOMICO - ORGANIZZATIVO	6
+8. STIMA DEI FABBISOGNI ED EVENTUALI OPZIONI	7
+9. TIPO DI PROCEDURA E STRUMENTO CONTRATTUALE	7
+10. QUADRO ECONOMICO DELL'APPALTO E COSTRUZIONE DELLA BASE D'ASTA	8
+INDICAZIONI E DISPOSIZIONI PER LA STESURA DEI DOCUMENTI INERENTI ALLA SICUREZZA	8
+12.	RIDUZIONE DELLA SPESA	8
+CRITERIO DI AGGIUDICAZIONE	9
+METODO PER L'ATTRIBUZIONE DEL PUNTEGGIO QUALITÀ E SOGLIE DI SBARRAMENTO	9
+FORMULA PRESCELTA PER L'ELEMENTO PREZZO	9
+REQUISITI SPECIALI	9
+CLAUSOLA SOCIALE E ALTRE CONDIZIONI PARTICOLARI DI ESECUZIONE	10
+NORMATIVA DI RIFERIMENTO	10
+
+1. Premesse
+Il presente documento integra il progetto di cui all'art. 41 comma 12 del D.Lgs. n. 36/2023 per la procedura di gara per l'affidamento della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto (GVE).
+
+In particolare per i seguenti Enti della Regione del Veneto:
+
+? Azienda Ulss 6 Euganea, Azienda Ulss 7 Pedemontana, Azienda Ulss 8 Berica, Azienda Ulss 9 Scaligera, Azienda Ospedaliera Universitaria Integrata di Verona, Azienda Ospedaliera di Padova, Azienda Zero;
+
+? l'I.R.C.C.S. Istituto Oncologico Veneto (IOV).
+
+L'oggetto della gara GVE è l'affidamento di un multiservizio tecnologico integrato, con fornitura di energia e di acqua e prevede l'aggiudicazione ad un unico gestore di tutte le attività di gestione e di conduzione degli impianti tecnologici, di climatizzazione e di ricambio dell'aria, elettrici e speciali a servizio degli edifici in uso alle Aziende Sanitarie aderenti, compresa la produzione e la fornitura dei vettori energetici termico ed elettrico e dell'acqua per ogni uso, la realizzazione di interventi di manutenzione straordinaria sugli impianti e sulle apparecchiature, così come previsto nel Capitolato Tecnico e nei diversi documenti di gara.
+L'appalto prevede, in particolare, la gestione dei seguenti servizi:
+A) Servizio di climatizzazione invernale:
+? riscaldamento invernale;
+? condizionamento invernale;
+? esercizio e manutenzione degli impianti termici di climatizzazione invernale.
+B) Servizio di climatizzazione estiva:
+? raffrescamento estivo;
+? condizionamento estivo con ricambio dell'aria;
+? esercizio e manutenzione degli impianti termici di climatizzazione estiva.
+C) Altri servizi termici:
+? fornitura di acqua calda sanitaria;
+? fornitura di vapore.
+D) Servizio di gestione degli impianti idrico sanitari e delle reti fognarie e di scarico:
+? fornitura dell'acqua per ogni utilizzo;
+? esercizio e manutenzione degli impianti idrico sanitari;
+? esercizio e manutenzione delle riserve idriche;
+? esercizio e manutenzione degli impianti di trattamento e addolcimento dell'acqua;
+? esercizio e manutenzione degli impianti di trattamento e smaltimento dei reflui, delle reti fognarie e dei sistemi di smaltimento delle acque meteoriche.
+E) Servizio energia impianti elettrici:
+? fornitura di energia elettrica per ogni utilizzo;
+? fornitura di beni accessori (materiali di consumo, strumentazioni, combustibile per gruppi elettrogeni, ecc.);
+
+? esercizio e manutenzione ordinaria e straordinaria di impianti elettrici in MT e BT a partire dal punto di consegna della rete pubblica fino agli apparecchi utilizzatori, comprese reti elettriche, apparecchi illuminanti, prese, interruttori, dispositivi di comando, controllo e di protezione, sistemi di riserva e di emergenza, impianti di terra e di protezione contro le scariche atmosferiche, sistemi di produzione combinata di energia elettrica e termica (ove presenti), illuminazione esterna e di segnaletica;
+? esercizio e manutenzione di impianti fotovoltaici e di cogenerazione e trigenerazione.
+F) Servizio di gestione degli impianti speciali di sicurezza e di comunicazione. Esercizio e manutenzione ordinaria e straordinaria di:
+? impianti di diffusione sonora, filodiffusione e simili;
+? impianti rilevazione incendi e gas;
+? impianti antintrusione e controllo accessi;
+? impianti di chiamata e sistemi interfonici;
+? impianti orologi elettrici;
+? impianti antenna TV e TV a circuito chiuso;
+? impianti citofonici e videocitofonici;
+? impianti eliminacode;
+? impianti di supervisione allarmi, monitoraggio e telecontrollo e simili.
+G) Servizio di gestione di impianti e sistemi antincendio. Esercizio e manutenzione ordinaria e straordinaria di:
+? reti di idranti, naspi e simili;
+? estintori;
+? sistemi di compartimentazione;
+? porte antincendio;
+? dispositivi di evacuazione del fumo;
+? ogni altro dispositivo necessario alla protezione delle strutture e degli ambienti dal rischio incendio secondo le normative tecniche vigenti;
+? impianti di spegnimento automatico.
+H) Servizio di gestione di impianti elevatori e di trasporto verticale e orizzontale. Esercizio e manutenzione ordinaria e straordinaria di:
+? ascensori e impianti elevatori, montacarichi;
+? servoscale e montascale;
+? scale mobili e marciapiedi mobili, piattaforme mobili.
+J) Servizio di gestione di altri impianti tecnologici. Esercizio e manutenzione ordinaria e straordinaria di:
+? porte automatiche, sbarre, cancelli e accessi automatizzati;
+? impianti per la prevenzione della legionellosi;
+? impianti di irrigazione;
+? impianti di emungimento acqua di falda;
+
+? elisuperfici e impianti SOV;
+? vasche terapeutiche;
+? frigoriferi, frigocongelatori, frigoemoteche, celle frigorifere;
+? cappe chimiche, biologiche e a flusso laminare e tavoli e armadi aspirati;
+? impianti di posta pneumatica;
+? lavapadelle;
+? elettrodomestici vari tra cui frigoriferi domestici destinati alla conservazione di alimenti, forni a microonde, fornelli, forni domestici, lavastoviglie, cappe da cucina, fabbricatori di ghiaccio, lavatrici domestiche.
+K) Servizi di governo, presidio tecnologico, pronto intervento, sistema informativo, analisi energetica, ecc.
+L) Servizi per personale aggiuntivo giornaliero secondo le esigenze dell'Azienda Sanitaria e per la squadra di emergenza tecnologica e antincendio.
+I servizi elencati alle lettere A, B, C, D, E, F e G devono essere considerati ad adesione obbligatoria da parte delle Aziende Sanitarie elencate nella successiva sezione denominata Suddivisione in lotti, fermo restando quanto previsto dall'art. 7 della Convenzione in termini di modalità di adesione, mentre quelli elencati alle lettere H, J, L, devono essere considerati opzionali e quindi le Aziende Sanitarie potranno scegliere se aderirvi, anche parzialmente.
+Il sevizio K deve intendersi parte integrante degli altri servizi elencati.
+
+
+2. Pubbliche Amministrazioni destinatarie della fornitura
+La procedura è espletata da Azienda Zero per conto della Regione Veneto, in qualità di capofila per i seguenti Enti della Regione del Veneto:
+
+? Azienda Ulss 6 Euganea, Azienda Ulss 7 Pedemontana, Azienda Ulss 8 Berica, Azienda Ulss 9 Scaligera, Azienda Ospedaliera Universitaria Integrata di Verona, Azienda Ospedaliera di Padova e Azienda Zero;
+
+? l'I.R.C.C.S. Istituto Oncologico Veneto (IOV).
+
+
+
+3. Relazione tecnico-illustrativa di contesto
+> Facendo seguito a quanto richiesto dal Comitato dei Direttori Generali nella seduta del 31/05/2023 con DDG n. 407 del 23/06/2023 Azienda Zero ha provveduto ad avviare una nuova procedura di gara per affidare il servizio in argomento
+> PERIODO DI VALIDITA' DELLA CONVENZIONE: 3 anni dalla data di stipula della Convenzione (ed un ulteriore anno di proroga tecnica)
+> DURATA DEI CONTRATTI IN ADESIONE ALLA CONVENZIONE: massima di 3 anni dalla stipula del contratto (ordinativo di fornitura)
+> CORRISPETTIVO: canone per servizi attivati (obbligatori + opzionali)
+> VETTORI ENERGETICI E ACQUA: fornitura a carico dell'Appaltatore.
+
+
+4. Metodo di analisi
+Per quanto concerne l'analisi del fabbisogno esso è stato stimato con riferimento a quanto dichiarato in apposita raccolta fabbisogni da parte delle Aziende Sanitarie, Ospedaliere ed IRCSS coinvolti nell'iniziativa de quo.
+
+I fabbisogni sono stati riferiti ad ogni specifica voce oggetto dei servizi sopra elencati e facenti parte del modello di offerta economica da completarsi ad opera degli Operatori Economici che volessero partecipare alla procedura.
+
+A questo si aggiunga la richiesta di fotografare la situazione lavorativa Aziendale ai fini dell'applicazione dell'art. 57 del D. Lgs 36/2023.
+
+La Stazione Appaltante, con il qualificato supporto del Gruppo Tecnico ha preso in esame tutti i contributi, che sono stati opportunamente valutati e valorizzati negli atti di gara.
+
+5. Oggetto della fornitura
+Il contratto di appalto avrà ad oggetto il servizio di Gestione dei Vettori Energetici (GVE) degli impianti delle Aziende Sanitarie, Ospedaliere ed IRCSS della Regione del Veneto sopra indicati, per una durata massima di 3 anni.
+
+Il suddetto servizio è individuato mediante utilizzo del CPV 71314200 "Servizi di Gestione Energia".
+Per le specifiche tecniche e l'indicazione dei requisiti minimi che le offerte devono comunque garantire a pena di inammissibilità alla procedura si rinvia al Capitolato Tecnico.
+
+6. Suddivisione in lotti
+L'appalto sarà suddiviso come di seguito indicato:
+
+Lotto 1
+AOPD + IOV
+€	119.712.548,81
+Lotto 2
+AOVR
+€	189.766.329,07
+Lotto 3
+AULSS 6 + Azienda Zero
+€	68.003.016,52
+Lotto 4
+AULSS 7
+€	70.238.337,04
+Lotto 5
+AULSS 8
+€	171.502.453,89
+Lotto 6
+AULSS 9
+€	132.523.671,89
+
+I lotti sono stati individuati sulla base del criterio dell'omogeneità territoriale, in relazione al territorio di insistenza, ma anche sulla base della natura dell'Azienda beneficiaria degli interventi e della continuità che si vuole fornire alle Aziende pubbliche nel relazionarsi con un unico fornitore in ossequio ai principi di semplificazione dell'attività amministrativa, di efficienza ed efficacia della stessa. Sulla base di quanto affermato, nonostante le Aziende Ospedaliere insistano sulla medesima porzione di territorio di competenza delle Aziende Sanitarie, il favor partecipationis impone di identificare lotti dedicati a ciascuna di esse non potendo non considerarsi le specificità proprie delle une rispetto alle altre. Specificità gestionali e dimensionali, nel senso della loro differente estensione territoriale ma anche del differente numero di strutture sanitarie coinvolte. Da ciò ne deriva una naturale differenziazione e quantificazione che determina, per differenti tipologie di operatori economici, la possibilità di determinarsi nelle differenti modalità di partecipazione alla procedura in oggetto.
+
+7. Impatto economico - organizzativo
+L'impostazione di gara ha l'obiettivo di ricondurre ad omogeneità la gestione contrattuale relativa al servizio in oggetto e, contestualmente, di ottenere una complessiva riduzione di spesa.
+
+8. Stima dei fabbisogni ed eventuali opzioni
+Per quanto concerne l'analisi del fabbisogno esso è stato stimato con riferimento a quanto dichiarato in apposita raccolta fabbisogni da parte delle Aziende Sanitarie, Ospedaliere ed IRCSS coinvolti nell'iniziativa de quo.
+Le Aziende hanno quindi valorizzato i campi richiesti inserendo i fabbisogni relativi all'anno 2023.
+Al fine di fornire elementi utili alla formulazione dell'offerta, dalle Aziende sanitarie coinvolte sono stati acquisiti i consumi dell'ultimo triennio di:
+-Energia Elettrica
+-Gas
+-Acqua
+-Depuratori.
+Per il dettaglio si veda l'allegato al presente Progetto "Quadro economico".
+
+9. Tipo di procedura e strumento contrattuale
+La gara sarà espletata mediante procedura aperta ai sensi dell'art. 71 del D.Lgs. 36/2023 e per il tramite della piattaforma telematica di negoziazione Sintel di ARIA S.p.A..
+Azienda Zero stipulerà in nome e per conto del Committente con l'Aggiudicatario della gara, un contratto con il quale il Fornitore si obbligherà ad eseguire il servizio appaltato secondo le modalità descritte negli atti di gara. Restano di esclusiva competenza di Azienda Zero le seguenti attività e connessi adempimenti:
+? espletamento della procedura di gara;
+
+? richiesta e gestione del deposito cauzionale definitivo e, ove previsto, della polizza assicurativa;
+
+? autorizzazione o diniego del subappalto;
+
+? autorizzazione agli aggiornamenti tecnologici/affiancamenti;
+
+? stipula della convenzione/accordo quadro;
+
+? recesso o risoluzione della convenzione/accordo-quadro;
+
+? gestione dell'eventuale contenzioso legato alla procedura di gara o conseguente ad una delle attività di cui ai punti che precedono.
+Resta di esclusiva competenza di ciascun singolo Ente aderente alla presente iniziativa di acquisto la gestione dell'esecuzione contrattuale e, in particolare, delle seguenti attività:
+? nomina del Responsabile Unico del Progetto (RUP) ai sensi dell'art. 15 per lo svolgimento in particolare delle attività indicate nell'Allegato I.2 art. 8 del per la quota parte di attività di propria competenza;
+? nomina del Direttore dell'Esecuzione del Contratto (DEC), ai sensi dell'art. 8, comma 4 dell'Allegato
+I.2 dell'Allegato II.14 del Codice;
+
+? stipula dei contratti attuativi (Ordinativi di Fornitura);
+
+? emissione dei buoni d'ordine (Richieste di Consegna);
+
+? ricevimento delle fatture, verifica di conformità, liquidazione e corresponsione dei corrispettivi;
+
+? applicazione delle penali;
+
+? recesso o risoluzione dei contratti attuativi (Ordinativi di Fornitura);
+
+? annullamento dei buoni d'ordine (Richieste di Consegna);
+
+? gestione dell'eventuale contenzioso relativo a tutti i punti sopra citati;
+? ogni altra attività attinente all'esecuzione contrattuale. Durata del contratto
+Il contratto che sarà stipulato all'esito della procedura di gara avrà durata di 3 anni con facoltà di eventuale opzione quantitativa del 20% e possibilità di proroga per ulteriore un anno nelle more della conclusione della procedura per l'individuazione del nuovo contraente.
+
+10. Quadro economico dell'appalto e costruzione della base d'asta
+Si rimanda, nel dettaglio, all'analisi del quadro economico dell'appalto riportata nell'allegato al presente Progetto "Quadro economico".
+Il valore stimato del costo della manodopera è stato determinato dell'impiego presunto di risorse in FTE, per ciscun lotto, applicando un costo orario come da indice di adeguamento prezzi definito nello schema di Convenzione (Allegato 5), ovvero operaio di V° livello, Prezziario Interprovinciale degli Impianti Tecnologici pubblicato dalla Camera di Commercio di Vicenza su incarico di Unioncamere Veneto e delle Camere di Commercio del Veneto, e riferiti ai servizi a canone (si veda la Tabella 3 all'Art. 3 del Disciplinare di gara - Allegato 2).
+
+11. Indicazioni e disposizioni per la stesura dei documenti inerenti alla sicurezza 
+Per l'esecuzione del presente appalto non sono stati ravvisati rischi interferenziali. Pertanto il costo per la loro eliminazione è pari a € 0,00.
+
+12. Riduzione della spesa
+Con Deliberazione del Direttore Generale n. 282 del 12/6/2019 è stata indetta procedura aperta, finalizzata alla stipula di una Convenzione quadro per l'affidamento del servizio di Gestione Energetica e Tecnologica Integrata degli Impianti delle Aziende Sanitarie della Regione del Veneto (GETIS), de valore stimato di € 1.509.890.997,00, IVA esclusa, suddivisa in 5 lotti. Tale procedura ha avuto esistiti giurisdizionali tali per cui, allo stato, solamente i lotti 1 e 2 hanno potuto proseguire il proprio iter. Questi lotti, valutati gli indici di adeguamento delle offerte economiche presentate, soprattutto in anni caratterizzati da un contesto economico, nazionale ed internazionale avverso, hanno determinato un'apprezzabile riduzione della spesa. La presente procedura vuole proseguire questo processo di riduzione della spesa.
+Sono stati previsti i seguenti indici di adeguamento dei prezzi, con decorrenza dal 1°anno solare successivo a quello dell'offerta:
+> Manodopera: Listino Camere di Commercio del Veneto
+> Gas: NIC gas (codice COICOP 04521)
+> Energia elettrica: NIC En. Elettrica (codice COICOP 04510)
+> Acqua: NIC fornitura acqua (codice COICOP 04410)
+> Materiali e spese gestionali: NIC generale (codice COICOP 00ST).
+
+13. Criterio di aggiudicazione
+L'aggiudicazione avverrà mediante utilizzo del criterio dell'offerta economicamente più vantaggiosa sulla base dei criteri, dei metodi e delle formule previste dai documenti di gara, attribuendo 30/100 punti all'elemento prezzo e 70/100 punti al fattore qualità.
+Alla luce della suddivisione in lotti adottata, allo scopo di salvaguardare la concorrenza permettendo la più ampia partecipazione possibile moderando tuttavia, al contempo, gli effetti della centralizzazione sul mercato di riferimento, si è ritenuto opportuno inserire, in luogo del vincolo di partecipazione, il seguente vincolo di aggiudicazione ai sensi dell'art. 58, comma 4, del D.Lgs. n. 36/2023
+ciascun offerente potrà al massimo aggiudicarsi n. 1 Lotti
+Pertanto, nel caso in cui il medesimo offerente si collochi primo in graduatoria in più di un Lotto, lo stesso sarà chiamato a scegliere il Lotto nel quale riterrà di essere nominato come aggiudicatario. Gli operatori economici primi in graduatoria verranno chiamati ad effettuare la scelta in ordine decrescente rispetto al valore economico dei Lotti.
+Contestualmente, una volta assegnato il Lotto al concorrente, nei restanti Lotti dove era primo o utilmente posizionato in graduatoria si procederà allo scorrimento della stessa (espungendolo per aver già effettuato la propria scelta), e assegnando il lotto all'operatore economico divenuto primo salvo che lo stesso si trovi primo in altra graduatoria dovendosi in tale fattispecie applicare il precedente criterio della scelta da parte dell'OE.
+Analogamente si procederà allo scorrimento della graduatoria nel caso in cui un concorrente aggiudicatario sia escluso all'esito del sub-procedimento di verifica di anomalia dell'offerta economica o di esame della documentazione amministrativa ovvero, da ultimo, di controllo dei requisiti.
+- Eccezione
+Il vincolo di aggiudicazione non opererà tuttavia nel caso in cui, concluso il primo ciclo di assegnazioni di tutti i lotti, la graduatoria di uno o più lotti risulti esaurita; in tal caso si procederà ad un secondo ciclo di assegnazioni secondo il suddetto metodo di assegnazione.
+Si procederà allo stesso modo fin quando tutti i lotti non sono assegnati.
+
+14. Metodo per l'attribuzione del punteggio qualità e soglie di sbarramento
+I criteri premiali che saranno utilizzati per la valutazione discrezionale della qualità sono riportati nella tabella dedicata allegata al disciplinare di gara.
+Si è ritenuto di fissare la soglia di sbarramento qualitativo pari al 40 su 70 dato dalla somma del punteggi ottenuti in ognuno dei criteri presenti nell'allegato sopra indicato.
+
+15. Formula prescelta per l'elemento prezzo
+L'attribuzione del punteggio relativo all'elemento prezzo avverrà mediante utilizzo delle formule indicate all'Art.
+18.3 del Disciplinare di gara (Allegato 2) con a pari a 0,2, perseguendo l'obiettivo di ridurre il rischio di attribuzione di differenze di punteggio elevate anche a fronte di minimi scostamenti di prezzo, allo scopo di disincentivare ribassi eccessivi, mantenendo determinante il peso della qualità ai fini dell'aggiudicazione in considerazione della natura dei beni oggetto di gara.
+
+16. Requisiti speciali
+Per l'accesso alla procedura di gara è richiesto il possesso del requisito speciali richiamati allo specifico paragrafo
+n. 6 del Disciplinare di gara.
+
+17. Clausola sociale e altre condizioni particolari di esecuzione
+Al fine di dare attuazione alla clausola sociale di cui all'art. 57 del D.Lgs. 36/2023, è presente uno specifico allegato al Disciplinare denominato "Clausola Sociale".
+
+18. Normativa di riferimento
+Fermo il rispetto del Codice dei contratti pubblici D.Lgs. 36/2023, si dà atto che i documenti di gara sono stati redatti, per quanto applicabili alla specifica procedura di qui in intestazione, nel rispetto dei seguenti ulteriori atti normativi o regolamentari nei termini di cui qui sotto si elencano i principali:
+> DM 7 marzo 2012, ad oggetto "Adozione dei criteri ambientali minimi da inserire nei bandi di gara della Pubblica Amministrazione per l'acquisto di servizi energetici per gli edifici - servizio di illuminazione e forza	motrice	-	servizio	di	riscaldamento/raffrescamento" (htxtps://www.gazzettaufficiale.it/eli/gu/2012/03/28/74/so/57/sg/pdf.) - Caso A.
+
+
+
+
+
+Allegato: "Quadro economico".
+
+

@@ -1,0 +1,159 @@
+DAP CARCERI — LINEE DI INDIRIZZO PPP ENERGIA E EFFICIENTAMENTO ENERGETICO
+==========================================================================
+Pubblicate sul sito Ministero Giustizia il 3 aprile 2026
+(Documento datato 30 marzo 2025)
+
+FONTE UFFICIALE
+---------------
+URL pagina: https://www.giustizia.it/giustizia/page/it/scheda_di_sintesi_gare_o_contratti?contentId=SBG1498554
+URL elenco regolamenti: https://www.giustizia.it/giustizia/page/it/regolamenti_codice_contratti_pubblici
+Annuncio gNews (08/04/2026): https://www.gnewsonline.it/carceri-il-piano-di-efficientamento-energetico-del-dap/
+
+
+IDENTIFICAZIONE DOCUMENTO
+-------------------------
+Ente:               Ministero della Giustizia — Dipartimento Amministrazione Penitenziaria (DAP)
+Ufficio:            Direzione Generale per la gestione dei beni, dei servizi e degli interventi
+                    in materia di edilizia penitenziaria — Ufficio III (Coordinamento tecnico
+                    e gestione dei beni immobili)
+Firmatario:         Massimo Parisi — Vice capo del DAP e Direttore Generale reggente
+Tipo documento:     Linee di indirizzo (linee guida operative)
+Data documento:     30 marzo 2025
+Data pubblicazione sul sito Ministero: 3 aprile 2026
+
+
+OGGETTO
+-------
+Procedure di Partenariato Pubblico-Privato (PPP) per la realizzazione di un sistema
+integrato di fornitura e gestione dell'energia e interventi di efficientamento energetico
+per gli istituti penitenziari.
+
+Criteri e modalità operative per la pianificazione, progettazione e realizzazione
+di interventi di efficientamento energetico degli istituti penitenziari.
+
+
+PREMESSA / QUADRO NORMATIVO
+---------------------------
+Il documento si inserisce in coerenza con:
+- Piano Nazionale Integrato per l'Energia e il Clima (PNIEC)
+- D.Lgs. 8 novembre 2021, n. 199 (attuazione Direttiva UE 2018/2001 — RED II)
+- Piano Nazionale di Ripresa e Resilienza (PNRR)
+- DM 12/08/2024 (in vigore dal 27/12/2024) "Criteri Ambientali Minimi (CAM)
+  per l'affidamento integrato di un contratto a prestazione energetica (EPC)
+  di servizi energetici per i sistemi edifici-impianti"
+- D.Lgs. 36/2023 — Codice dei Contratti Pubblici (artt. 174 e ss. PPP)
+- Accordo ex art. 15 L. 241/90 tra DAP e Agenzia del Demanio
+
+
+OBIETTIVI PRINCIPALI DICHIARATI
+-------------------------------
+1. Ridurre i consumi energetici degli istituti penitenziari
+2. Migliorare il comfort ambientale interno nel rispetto delle normative
+   igienico-sanitarie e di sicurezza
+3. Garantire una riduzione delle emissioni climalteranti (CO₂)
+4. Favorire l'integrazione di fonti energetiche rinnovabili
+5. Assicurare il rispetto dei limiti di spesa delle pubbliche amministrazioni
+   in conformità alla normativa vigente sul partenariato pubblico-privato
+6. Assicurare il rispetto del ciclo di vita dei materiali, la riduzione
+   dell'impronta carbonica, l'applicazione dei piani di gestione ambientale
+   dei cantieri, la qualità indoor, il monitoraggio digitale
+
+
+DESCRIZIONE PATRIMONIO PENITENZIARIO
+------------------------------------
+Il patrimonio edilizio penitenziario italiano è costituito da una varietà di istituti
+costruiti nel corso dei secoli:
+- Compendi edilizi originariamente destinati ad altre funzioni e poi adattati
+  (ex conventi, castelli medievali) → SOTTOPOSTI A VINCOLO STORICO-ARCHITETTONICO-AMBIENTALE
+- Complessi edilizi realizzati specificamente come istituti nei primi del Novecento
+
+Tipologie strutturali tipiche: panottico, palo telegrafico, piastra.
+
+Un moderno istituto è organizzato in più corpi di fabbrica funzionalmente distinti,
+separati per livelli di sicurezza, collegati tramite percorsi controllati.
+
+
+PERIMETRO E COMPONENTI EDILIZIE
+-------------------------------
+Aree principali di un istituto:
+- Zona detentiva
+- Area amministrativa e direzionale
+- Spazi per il personale di polizia penitenziaria
+- Servizi sanitari
+- Aree per attività lavorative, scolastiche e ricreative
+- Aree tecnologiche e impiantistiche
+- Spazi esterni di pertinenza (cortili passeggi, perimetro di sicurezza)
+
+Struttura su due livelli di delimitazione:
+
+A) RECINZIONE METALLICA ESTERNA (area demaniale)
+   Accessi: varchi controllati, zone filtro, sistemi controllo accessi
+
+B) MURO DI CINTA INTERNO (barriera di sicurezza passiva)
+   Separa zone di custodia/detenzione da aree amministrative/logistiche
+
+Edifici tra recinzione demaniale e muro di cinta interno:
+- Edificio amministrativo e direzionale (Direzione, uffici, comando, archivi)
+- Alloggi demaniali e relative pertinenze
+- Edificio per detenuti semiliberi e locali per servizi generali, tecnici, logistici
+- Zone filtro, varchi di accesso, aree di controllo
+- Caserma Agenti di Polizia Penitenziaria
+- Centrali tecnologiche a servizio dell'istituto:
+    • centrale termica
+    • cabina elettrica MT/BT
+    • centrale idrica
+    • gruppo elettrogeno
+
+Edifici all'interno del muro di cinta interno (area custodia):
+- Sezioni detentive
+- Spazi comuni per attività trattamentali, lavorative, scolastiche e religiose
+- Servizi sanitari interni all'area di custodia
+- Cortili passeggi e spazi all'aperto riservati ai detenuti
+- Locali di servizio e controllo funzionali alla sorveglianza
+- Cucine per comunità
+- Zona colloqui, matricola e casellario
+
+
+PERIMETRO PNRR / FONTI DI FINANZIAMENTO
+---------------------------------------
+Il PNRR (M2C3 e collegati) destina risorse all'efficientamento del patrimonio
+pubblico. Le linee guida DAP-Demanio sono il presupposto operativo per:
+- Disciplinare le proposte di operatori economici in PPP ex art. 174 D.Lgs. 36/2023
+- Definire i parametri tecnici da rispettare nelle offerte
+- Definire le modalità di valutazione e selezione delle proposte
+
+
+NEXT STEP ATTESO
+----------------
+Pubblicazione del BANDO DI GARA vero e proprio sul sito del Ministero della Giustizia.
+Gli operatori economici che hanno presentato manifestazione di interesse (43 soggetti
+con elenco pubblicato il 20/05/2025) saranno informati con apposito avviso.
+
+
+AZIONI OPERATIVE PER CERTOSA SERVIZI
+------------------------------------
+1. Monitorare con cadenza settimanale:
+   - https://www.giustizia.it/giustizia/page/it/regolamenti_codice_contratti_pubblici
+   - https://www.giustizia.it/giustizia/page/it/scheda_di_sintesi_gare_o_contratti?contentId=SBG1416417
+   - gNews del Ministero per annunci
+
+2. Preparare in anticipo la documentazione ATI:
+   Opzione A) GETEC (capogruppo) + Certosa Servizi
+   Opzione B) RENOVIT (capogruppo) + DEVI + Certosa Servizi
+
+3. Acquisire familiarità con i Criteri Ambientali Minimi del DM 12/08/2024
+
+4. Verificare i requisiti di ordine speciale (art. 6 Avviso 2024) richiesti
+   per la futura partecipazione al bando
+
+5. Considerare che l'operazione ha durata stimata 15-20 anni e perimetro
+   di 178 istituti + 16 Provveditorati (al netto degli istituti già in
+   procedure PPP in corso, vedi Allegato B dell'Avviso 2024)
+
+
+CONTATTI DAP
+------------
+PEC presentazioni:  prot.dgbs.dap@giustiziacert.it
+Email informazioni: gestioneimmobili.dgbs.dap@giustizia.it
+Sede DAP:           Largo Luigi Daga, 2 — 00164 Roma
+Centralino:         +39 06.66591

@@ -1,0 +1,17 @@
+ASP PAVIA - EPC (Energy Performance Contract)
+==============================================
+Stato: IN CORSO
+ID Sintel: 219510451
+Importo: 21.665.189 €
+Durata: 12 anni
+Sopralluogo: sì
+Scadenza: 22/06/2026
+
+ATI prevista: 45% Consorzio Innova / 35% GETEC / 20% Santa Teresa
+Progettista: MENS - Costo progetto: 35.500 €
+Note: CS non sostiene costo, ribalta subito quanto ricevuto da progettista.
+
+DOCUMENTI: scaricabili da Sintel previa autenticazione (SPID/CIE/CNS).
+
+LINK:
+- Sintel: https://www.sintel.regione.lombardia.it/eprocdata/auctionDetail.xhtml?id=219510451

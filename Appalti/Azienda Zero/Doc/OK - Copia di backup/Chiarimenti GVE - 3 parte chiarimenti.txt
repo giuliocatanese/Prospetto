@@ -1,0 +1,1371 @@
+Numero
+Chiarimento
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+3 parte chiarimenti
+Data Richiesta Quesito
+22/12/2023 Nella gara bandita da codesta spett.le Amministrazione nel 2019 le strutture del project financing per policlinico di borgo Roma e ospedale civile di
+borgo Trento non erano oggetto del servizio energia. Si chiede conferma che anche in questa gara valga la stessa prescrizione.
+22/12/2023 Se i consumi di energia elettrica, gas, acqua dell'ospedale della Donna e del Bambino siano ricompresi nei consumi di cui all'allegato 12 progetto di
+gara - Quadro economico. Se sì, si chiede gentilmente di fornire la quota parte di consumi relativi all'ospedale della Donna e del Bambino
+22/12/2023 Se i consumi di energia elettrica, gas, acqua dell’ospedale in project financing per policlinico di borgo Roma siano ricompresi nei consumi di cui
+all’allegato 12 progetto di gara - Quadro economico. Se sì, si chiede gentilmente di fornire la quota parte di consumi relativi all’ospedale in project
+22/12/2023 Se la mancanza di quantità nelle voci di cui all’ Allegato 8 Schema di offerta economica relativamente al lotto 2 e 3 nello specifico: “PE5
+Apparecchiature diagnostiche e per terapia fisse” sia un refuso o corrisponda ad una quantità nulla. Nel secondo caso si chiede come possano
+essere nulle voci come numero prestazioni diagnostiche in un lotto su cui insistono ospedali con più di 1500 posti letto ed essendo, per esempio, nel
+lotto 1 pari a 110.015.
+22/12/2023 Relativamente all’allegato 8 Schema di offerta economica, per il lotto 5 e il lotto 4 sono inserite quantità pari rispettivamente a n. 18 e n. 22 “PE5
+Apparecchiature diagnostiche e per terapia fisse”. Essendo la quantità pari al numero di prestazioni annue, come definito a pagina 24 dello schemadi convenzione, appare alquanto inverosimile che il numero di prestazioni siano così esigue. Inoltre le quantità riportate nei lotto 4 e 5 sono
+completamente differenti rispetto ai numeri riportati negli altri lotti (Lotto 1: 110.015; Lotto 6: 65.299) a comprova del fatto che non c’è coerenza tra le
+quantità dei lotti 1 e 2 e delle quantità riportate negli altri lotti. Essendo però il base d’asta uguale per tutti i lotti (euro per ogni prestazione), si chiede
+di inserire per tutti i lotti il numero di prestazioni.
+22/12/2023 Relativamente alla squadra di pronto intervento antincendio, si legge, a pagina 26 dello schema di convenzione: “Numero di addetti costituenti la/e
+squadra/e di emergenza tecnica e antincendio richiesti dall’Azienda Sanitaria.”, mentre a pagina 28, si definisce il prezzo della squadra di pronto
+intervento antincendio come: “prezzo per addetto 24h x 7gg”. Il base d’asta risulta essere 107.787,58411 €/addetto.
+Si chiede quindi se con i 107.787,58411 € si intende remunerare un FTE che lavora in turno h24 oppure si intende remunerare una squadra che
+lavori h24, ossia 5 FTE necessari per coprire le 8760 ore annuali di lavoro.
+Natura del
+chiarimento
+Documento di
+riferimento
+Risposta
+Amministrativo/ Atti di gara
+Tecnico
+Tecnico
+ Progetto di
+gara
+Si conferma che anche nella attuale procedura non sono
+ricomprese le stutture in project.
+I consumi si riferiscono a tutti i POD dell'AOVR. Vedasi risposta
+quesito successivo.
+Tecnico
+Capitolato
+Tecnico
+Si confermano gli atti di gara non sono presenti strutture in project
+financing.
+SI precisa che i consumi vengono forniti totali poichè il servizio di
+climatizzazione estiva viene prodotto con l'energia elettrica e
+trigenerazione di AOUI.
+il servizio di climatizzazione invernale viene conguagliato e
+compensato con la produzione di calore derivante dalla
+cogenerazione.
+Amministrativo/ Schema Offerta Si confermano gli atti di gara.
+Tecnico
+ economica
+ Viene richiesto comunque di quotare anche le voci che hanno
+attualmente fabbisogno "0"/non presente.
+Amministrativo/ Schema Offerta SI confermano gli atti di gara.
+Tecnico
+ economica
+ Viene richiesto comunque di quotare anche le voci che hanno
+attualmente fabbisogno "0"/fabbisogni indicati.
+Tecnico
+Schema di
+convenzione
+Si intende remunerare una squadra che comprenda un addetto
+che sia presente h 24 7 giorni su 7. L'attivazione costituisce
+un'opzione per l'Azienda Sanitaria. Vedasi paragrafo 5.6 del
+Capitolato tecnico, in particolare laddove si precisa che "Il
+personale della Squadra potrà comunque essere utilizzato
+dall’Appaltatore anche per le attività manutentive e di presidio, ma
+dovrà comunque essere sempre disponibile per gli interventi in
+urgenza e in emergenza nel numero di addetti previsti dall’Azienda
+Sanitaria in sede di Preventivo".
+28/12/2023 In riferimento alle seguenti voci ricomprese nel servizio E Servizio energia impianti elettrici:
+Apparecchiature per la rigenerazione dei pasti in sistemi cook and chill
+Apparecchiature diagnostiche e per terapia fisse
+Si chiede di chiarire quali siano le attività e le prestazioni ricomprese nel canone per ciascuna di esse.
+Tecnico
+Capitolato
+Tecnico
+05/01/2024 In riferimento alla richiesta di proposta di interventi di efficientamento energetico e nello specifico di “[…] proposta di interventi di riqualificazione
+energetica con un breve tempo di rientro dell’investimento, in particolare per la classe energetica dell’edificio” si richiede di poter avere accesso alleinformazioni di anagrafica impiantistica e delle classi energetiche degli edifici oggetto di offerta o di poter effettuare un sopralluogo su un campione di
+edifici al fine di poter formulare proposte concrete e contestualizzate.
+Amminstrativo/Tecnico
+Capitolato
+Tecnico/Conve
+nzione
+05/01/2024 In riferimento alla richiesta di proposta di sistema informativo per la gestione dell’appalto, si chiede di poter conoscere gli attuali sistemi in uso presso Tecnico
+le Aziende Sanitarie o di poter effettuare un sopralluogo su un campione di edifici al fine di poter contestualizzare la proposta tecnica ed economica.
+A fronte di tali richieste, ritenute necessarie ai fini di una corretta valutazione, siamo a richiedere di voler concedere una congrua proroga del termine
+di scadenza della presentazione delle offerte per poter acquisire le informazioni, procedere alle dovute analisi ed formulare un’offerta competitiva e
+personalizzata.
+05/01/2024 Quesito 1:
+Facciamo riferimento al Capitolato Tecnico para 12.1. ed ai successivi paragrafi 12.2 e 12.3.
+Nel Capitolato Tecnico è indicato (para 12.1) che sono a carico dell’Assuntore e remunerati nel Canone la redazione del DIP, del DOCFAP e dei
+progetti (livello definitivo e esecutivo) per i sistemi automatici di gestione e monitoraggio degli impianti nonché la loro realizzazione. Nei paragrafi
+12.2 e 12.3 è specificato che tale criterio si applica laddove i suddetti sistemi di monitoraggio non sono realizzati. Per poter permettere agli Offerenti
+di valutare i costi di progettazione e realizzazione di tali interventi si chiede di determinare in quali presidi siano già stati realizzati i sistemi di
+monitoraggio degli impianti.
+Tecnico
+05/01/2024 Quesito 7:
+ Amministrativo/Al fine di poter determinare il corretto assetto organizzativo da inserire nelle Offerte Tecniche e di poter valutare i relativi costi per la determinazione Tecnico
+delle Offerte Economiche, si chiede cortesemente di specificare, per ciascun Lotto, il numero dei presidi fissi di conduzione richiesti dalle Aziende per
+ottemperare alle prescrizioni di legge o a propri modelli organizzativi.
+Capitolato
+Capitolato
+Atti di gara
+Vedasi paragrafo 3.4.1 CARATTERISTICHE DELLA FORNITURA
+del Capitolato tecnico
+L'estratto riportato dall'operatore economico nel quesito non si
+rinviene nei documenti di gara.
+Si confermano gli atti di gara. L'operatore economico è comunque
+tenuto a presentare la propria proposta sulla quale l'Azienda
+Sanitaria verifichera l'opportunità di attivarla o meno.
+Si confermano gli atti di gara. L'operatore economico è comunque
+tenuto a presentare la propria proposta sulla base degli elementi
+già forniti.
+Si confermano gli atti di gara.
+1
+70
+71
+72
+73
+74
+3 parte chiarimenti
+05/01/2024 Quesito 8:
+Considerata l’importanza della Procedura si richiede una congrua proroga ai termini di consegna per permettere agli Offerenti, una corretta
+valutazione degli assetti tecnici ed economici a pieno vantaggio delle Aziende Sanitarie.
+Amministrativo/Tecnico
+05/01/2024
+Nello schema di Convenzione (art. 8 – Modalità di adesione al Servizio) è richiesta la predisposizione dell’Attestato di Prestazione Energetica (APE)
+e di verifica dei consumi energetici in condizioni standard. Inoltre, all’art. 8.1 – Preventivo è specificato che nella richiesta di preventivo l’Azienda
+Sanitaria dovrà indicare la presenza di APE. Tuttavia, nel Capitolato Tecnico all’art. 11.2 è specificato che l’Appaltatore deve presentare all’Azienda
+Sanitaria la certificazione energetica (quindi APE) entro 90 giorni solari dalla data dell’Ordinativo di Fornitura (OdF). Mentre all’art. all’art. 11.3 del
+Capitolato Tecnico si richiama quanto prescritto all’art. 8.1.
+Si chiede a codesto Ente di specificare l’effettivo periodo di consegna del documento APE riferito alla singola sede qualora non nella disponibilità
+dell’Azienda Sanitaria, considerando che la redazione dell’APE richiede una modellazione dei fabbisogni energetici dell’edificio (attività da eseguirsi
+nella fase di Diagnosi Energetica anche in relazione alla necessità dei rilievi occorrenti delle caratteristiche del sistema edificio – impianto).
+In caso di risposta affermativa per redazione dell’APE nella fase di RdP (Richiesta di Preventivo) si chiede di indicare se tale APE:
+-
+ dovrà essere emesso da certificatore accreditato al registro Regionale;
+-
+ inviato, nelle modalità previste dalle Delibere Regionali, al Registro Regionale degli APE;
+-
+ corredato della ricevuta di trasmissione al Registro Regionale.
+Si specifica, inoltre, che l’emissione di tale APE nella fase di Richiesta di Preventivo presuppone una successiva emissione anche per
+aggiornamento o integrazioni di informazioni entro i termini di cui all’art. 11.2 del Capitolato tecnico dove l’APE prende la denominazione di
+Certificazione Energetica (ma di fatto è l’APE stesso).
+Amministrativo/Tecnico
+05/01/2024 Quesito 2
+Nell’art. 5.12 del Capitolato tecnico è specificato…” Nel caso in cui l’Azienda Sanitaria disponga di un proprio sistema informativo già in uso,
+l’Appaltatore, se richiesto, lo dovrà utilizzare in modo esclusivo in luogo di quello proposto.”
+Si chiede a codesto Ente di specificare a livello di singolo Lotto e Azienda Sanitaria quali sono gli Enti in possesso di tale infrastruttura software e di
+indicare, se trattasi di soluzione commerciale o proprietaria con l’eventuale denominazione della piattaforma informatica.
+Si chiede altresì di indicare le attuali specifiche minime dell’eventuale software già in suo affinché l’Offerente possa qualificare, in sede di offerta e
+successivamente nel Progetto Specifico dei Servizi, le prescrizioni capitolari in relazione alle modalità di governo dei servizi di commessa.
+Tecnico
+05/01/2024 Quesito 3
+A pagina 36 del Disciplinare di Gara e nell’Allegato 7 Criteri di Valutazione GVE è richiesto di allegare per il Criterio B il Programma di Manutenzionein max 10 pagine in formato A4 (documento confermato nelle diverse richieste di chiarimento).
+L’Allegato 6.2 riporta le schede di manutenzione organizzate per Servizi, fermo restando che nei diversi articoli del Capitolato Tecnico riferiti alle
+prescrizioni dei Servizi o prestazioni principali e secondarie sono specificate ulteriore attività manutentive, anche evidenziandone le relative
+frequenze.
+Si chiede a codesto Ente di specificare se il Programma di Manutenzione deve essere articolato secondo la struttura delle schede manutentive di cui
+all’Allegato 6.2 e, considerando il limitato numero di pagine rispetto alla pluralità di servizi e relative attività manutentive elementari, se l’Offerente
+deve solo dare evidenza delle attività migliorative e/o integrazioni rispetto a quanto riportato nelle singole schede manutentive dei servizi.
+Amministrativo/Tecnico
+05/01/2024 Quesito 4
+ Tecnico
+All’art. 5.15 del Capitolato tecnico è specificato che “l’Appaltatore dovrà utilizzare metodi e strumenti elettronici specifici di modellazione per l’edilizia
+e le infrastrutture (BIM) per la gestione e l’aggiornamento in continuo del patrimonio documentale e informativo relativo agli impianti in
+gestione oltreché per le fasi di progettazione, costruzione, e manutenzione, nonché per l’implementazione della base dati fornita dall’Azienda
+Sanitaria e la registrazione di tutti i dati relativi al patrimonio impiantistico in gestione”.
+L’Appaltatore dovrà assicurare all’Amministrazione, entro 6 mesi dalla firma del contratto con l’Azienda Sanitaria, la messa a disposizione di un
+numero di licenze software o di accessi all’eventuale piattaforma web
+utilizzata utili ad assicurare alla stessa il controllo e la gestione del patrimonio modellato, nonché la formazione specifica in continuo del personale
+dell’Azienda Sanitaria abilitato.
+All’art. 12.6 del Capitolato tecnico è specificato che “I progetti delle opere dovranno essere redatti con gli strumenti di modellazione elettronica
+descritti nel par. 5.15”.
+Tuttavia, all’art 5.14 del Capitolato Tecnico sono richieste attività di rilievo e restituzione con redazione di elaborati e documenti tipici della
+modellazione tradizionale, da eseguirsi entro 6 mesi dall’inizio del servizio.
+Si chiede a codesto Ente di specificare se:
+-
+ la messa a disposizione di un numero di licenze software per assicurare la gestione del patrimonio modellato deve essere assicurata entro i
+termini di 6 mesi dalla firma del contratto o entro i termini di 6 mesi dall’inizio del servizio;
+-
+ la singola Azienda Sanitaria appartenente al lotto è in possesso di modelli BIM 3D completi o parziali del patrimonio esistente;
+-
+ nel servizio di governo l’Appaltatore deve assicurare la modellazione parametrica del patrimonio esistente con restituzione di modelli BIM 3D
+disciplinari (es. architettonici, impiantistici, ecc.) e federati di tutte le sedi ospedaliere e sedi periferiche;
+-
+ in caso di risposta affermativa di cui al punto precedente, di specificare i termini di ultimazione della modellazione BIM 3D con relativa
+consegna e approvazione da parte dell’Ente;
+-
+ di indicare il livello di sviluppo informativo minimo da assicurare nelle fasi di modellazione.
+Atti di gara
+Atti di gara
+Capitolato
+Tecnico
+Criteri di
+Valutazione
+Capitolato
+Tecnico
+Con l'adozione del provvedimento di modifica degli atti di gara,
+verrà definita una congrua proroga del termne di presentazione
+offerte.
+In ogni caso si tenga monitorato l'aggiornamento del termine di
+presenteazione offerte indicato nell'applicativo Sintel.
+Trattasi di refuso (punto 8.1) si conferma quanto richiesto al punto
+11.2 del Capitolato di Gara nel rispetto della normativa.
+Con l'adozione del provvedimento di modifica degli atti di gara
+verrà emendato.
+Si confermano gli atti di gara. L'operatore economico è comunque
+tenuto a presentare la propria proposta sulla quale l'Azienda
+Sanitaria verifichera l'opportunità di attivarla o meno.
+Nel Programma di Manutenzione il concorrente dovrà esplicitare le
+sole attività migliorative e/o integrative proposte
+Si confermano gli atti di gara.
+Si rinvia inolte alla definizione di Contratto/i di Fornitura e
+Ordinativo di Fornitura di cui all'art. 2 dello schema di
+Convenzione.
+2
+75
+76
+77
+78
+79
+80
+81
+82
+83
+3 parte chiarimenti
+09/01/2024 si fa presente che i chiarimenti n. 20 e n.49 si contraddicono in quanto nel primo si conferma che, in caso di partecipazione a più lotti, è sufficiente
+produrre una sola cauzione del valore del lotto più elevato mentre nel secondo si conferma che, sempre nel caso di partecipazione a più lotti, si
+devono produrre tante cauzioni quanti sono i lotti a cui si partecipa oppure un'unica cauzione per tutti i lotti (in linea con quanto previsto dal
+disciplinare di gara). Appare - in ogni caso - più corretto il primo chiarimento alla luce del vincolo di aggiudicazione. Si chiede pertanto di confermare
+in via definitiva che - in caso di partecipazione a più lotti - è sufficiente produrre una cauzione che garantisca il lotto maggiore tra quelli a cui si
+partecipa.
+Amministrativo Disciplinare
+09/01/2024 Con la presente siamo a chiedere cortesemente di confermare che un Raggruppamento temporaneo d'imprese, di cui fanno parte n. 2 società
+appartenenti al medesimo gruppo societario, possono partecipare associate in raggruppamento temporaneo alla presente procedura di gara.
+09/01/2024 Con riguardo all’Allegato 5.7 – Clausola Sociale e in particolare al personale impiegato nel Lotto 4, si chiede di fornire precisazioni circa alcune
+diciture contenute nella Colonna “Osservazioni”. Nello specifico, laddove indicato “Lotto n. XX e Lotto n. XX”, si chiede di specificare presso quali
+strutture siano effettivamente impiegate le risorse, per poter disporre di un quadro più puntuale dell’attuale situazione, con l’obiettivo di voler
+garantire ai lavoratori il mantenimento - compatibilmente con l’organizzazione definita per la futura gestione - delle pregresse condizioni di lavoro e la
+stabilità lavorativa.
+09/01/2024 In relazione al chiarimento 41 pubblicato in data 5/1/2024, relativo alla revisione prezzi, si fa notare che la risposta fornita, che conferma quanto già
+riportato nel chiarimento n. 15, ossia che l'anno di riferimento n=0 è da intendersi l'anno di scadenza del termine di presentazione, ossia il 2024,
+rende completamente indeterminato il costo che l’Appaltatore dovrà sostenere a fronte di un ricavo offerto.
+Infatti, secondo la regola prevista nei documenti di gara l’importo di aggiudicazione, al netto dello sconto, verrebbe legato, per le future revisioni
+annuali, ad un valore di riferimento oggi non noto, ovvero all’andamento medio dei prezzi dell’interno 2024.
+L’imprevedibilità e l’indeterminatezza di un tale valore di riferimento è testimoniato dalla estrema volatilità dei prezzi registrati negli anni 2022 e 2023.
+A titolo di esempio, se il mercato dei vettori energetici nel 2024 subisse un forte aumento nei prossimi mesi, il valore offerto in gara rimarrebbe
+immutato a fronte di un aumento del costo per l’Appaltatore che potrebbe portare a l'insostenibilità del conto economico di commessa. Allo stesso
+modo, per converso, una significativa diminuzione nei mesi da febbraio a dicembre 2024 del costo dei vettori energetici, porterebbe ad una
+invarianza nel primo anno del canone corrisposto dalla PA ed a una riduzione significativa dei costi per l’Appaltatore che in questo caso si
+avvantaggerebbe di extraprofitti.
+Si chiede quindi che Azienda Zero modifichi gli atti di gara indicando, per i prezzi di riferimento N0, G0, E0, A0:
+“Il valore da utilizzare è l’indice XXX (codice COICOP XXXX) medio annuo relativo all’anno in cui è stata presentata l’offerta come pubblicato sul sito
+Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat”
+secondo quanto di seguito suggerito:
+“Il valore da utilizzare è l’indice XXX (codice COICOP XXXX) del mese precedente rispetto alla data di presentazione delle offerte di gara, come
+pubblicato sul sito Istat (dati.istat.it) o reso disponibile in altre pubblicazioni ufficiali Istat.”
+09/01/2024 In relazione ai chiarimenti 42 e 44 pubblicati in data 5/1/2024 si fa notare che la risposta fornita dalla Stazione Appaltante risulta insufficiente a
+colmare le lacune informative e documentali rispetto a quanto la stessa Azienda Zero ha voluto inserire tra i documenti di gara.
+In particolare nel chiarimento 44, la Stazione Appaltante conferma che i consumi totali di gas indicati per l'AULSS 8 (Lotto 5) siano 66.177,00 m³ nel
+2020, 61.181,00 m³ nel 2021 e 65.241,00 m³ nel 2022, come riportato nella tabella a pag. 10 del documento "Allegato 12 progetto di gara - Quadro
+economico".
+È evidente, invece, che tali dati siano parziali e non confacenti al perimetro del Lotto dal momento che è impossibile che per il medesimo lotto il
+valore a base d’asta per i servizi termici sia di oltre 7 milioni di €/anno a fronte di soli di circa 66.000 m³ di gas metano.
+Si chiede pertanto di rettificare il documento "Allegato 12 progetto di gara - Quadro economico" per quanto riguarda tutte le utenze del lotto 5.
+Dal momento che non sono stati forniti elementi sufficienti, ad oggi, per formulare l'offerta, si chiede la concessione di una proroga della data di
+scadenza per la presentazione delle offerte di non meno di 60 giorni dalla data di pubblicazione dei dati aggiornati.
+10/01/2024 Con riferimento all'art. 28 del disciplinare di gara - accesso agli atti - si chiede conferma che verrà applicato l'art. 36 del Dlgs 36/23.
+10/01/2024 Si osserva che lo Scheda di Offerta Economica in versione editabile Excel, relativa al Lotto 1, e la Scheda di Offerta Economica in versione editabileExcel, relativa al Lotto 4, - di cui all’Allegato 8 -, sono viziate da un errore di calcolo. Precisamente la casella dedicata al “Totale Annuo Offerto”
+genera, ad esito della compilazione della Scheda di Offerta, un importo errato. La circostanza emerge con chiarezza nel caso in cui la Scheda venga
+compilata offrendo prezzi unitari pari alla basa d’asta. In tale caso, il Totale Annuo Offerto risulta diverso dalla Base d’Asta, allorquando – stante la
+compilazione con importi unitari corrispondenti alla Base d’asta – il Totale offerto avrebbe dovuto risultare uguale alla Base d’Asta. L’errore si
+manifesta in relazione alla Scheda relativa al lotto 1 ed al lotto 4.
+10/01/2024 Si chiedi di confermare che il Lotto 3 relativo alla AULSS 6 non includa impianti di cogenerazione.
+10/01/2024 Si osserva che il consumo di gas relativo al Lotto 5 (AULSS 8), indicato nell’Allegato 12, ha un valore medio di circa 65.000 mc, a fronte di un
+importo complessivo del Servizio di Climatizzazione Invernale di Euro 7.040.717,00. Il ricavo unitario del Servizio risulta quindi pari circa 80 volte di
+più rispetto al ricavo medio unitario degli altri lotti. Precisamente il ricavo unitario risulta pari a circa a 78 Euro/m3/GG. Si chiede di chiarire.
+AmministrativoAmministrativoAmministrativoDisciplinare
+Convenzione
+Convenzione
+Amministrativo/ Atti di gara
+Tecnico
+AmministrativoAmministrativoDisciplinare
+Schema Offertaeconomica
+Tecnico
+Tecnico
+Atti di gara
+Quadro
+Economico
+Conformemente a quanto previsto nel Disciplinare di gara all'art.
+10, si conferma la risposta data nel quesito 49, e si rettifica quindi il
+precedente chiarimento n. 20.
+Pertanto, il chirimento definitivo è:
+1. In caso di partecipazione a più lotti, l’operatore economico
+potrà produrre un'unica cauzione provvisoria per tutti i lotti
+cui partecipa o disitnte cauzioni per ciascun lotto.
+2. L’importo della cauzione provvisoria dovrà essere pari al
+2% calcolato sull’importo complessivo del Lotto. Trattasi di
+refuso. Si provvederà a pubblicare quanto prima lo stesso
+documento emendato, con apposito provvedimento. Si
+riportano di seguito gli importi corretti.
+Cauzione 2% sul Totale complessivo:
+Lotto 1 € 2.394.250,98
+Lotto 2 € 3.795.326,58
+Lotto 3 € 1.360.060,33
+Lotto 4 € 1.404.766,74
+Lotto 5 € 3.430.049,08
+Lotto 6 € 2.650.473,44
+Si conferma quanto richiesto.
+Si confermano gli atti di gara.
+L'operatre economcio, nel formulare la propria offerta/progetto,
+dovrà tenere presente complessivamente anche del personale
+indicato nell'Allegato 5.7 e delle relative qualifiche.
+Si confermano gli atti di gara. L'operatore economico nel formulare
+l'offerta dovrà tener conto di tale variabile.
+Si confermano gli atti di gara.
+I fabbidsogni a cui riferirsi sono quelli indicati nell'offerta
+economica.
+E' prevista una proroga del termine di presentazione offerte.
+Si conferma.
+Trattasi di errore mariale nel rinvio tra due celle excell. Con
+l'adozione del provvedimento di modifica degli atti di gara verrà
+verrà pubblicato l'Allegato corretto.
+Gli impianti di cogenarazione se presenti sono indicati.
+Nell'allegato 12 sono indicati i POD intestati alle Aziende.
+Si confermano i fabbisogni indicati.
+3
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+3 parte chiarimenti
+10/01/2024 Con riferimento all’art. 20.5 (revisione periodica dei prezzi) dello schema di convenzione, si
+rileva che gli indici G0, E0, A0 risultano ancorati ad un valore non coerente con la data di presentazione dell’offerta: per l’effetto la revisione così
+calcolata è incapace di considerare ed assorbire le variazioni dei prezzi effettivamente intervenute tra la data dell’offerta e la data del calcolo di
+revisione. Il riferimento coerente è il mese di presentazione dell’offerta, non la media dell’anno che nel caso specifico è composto per 11/12 dai mesi
+successivi a quello di presentazione dell’offerta. La previsione del capitolato non assicura, ed anzi nega, la applicazione di quanto disposto dall’art.60
+del D.Lgs.36/2023.
+10/01/2024 Con riferimento all’art. 20.5 (revisione periodica dei prezzi) dello schema di convenzione, si
+rileva che l’indice previsto per aggiornare il prezzo del gas (G) non rispecchia l’andamento del costo del gas. Precisamente l’andamento dell’indice
+ISTAT 04520 non rispecchia l’andamento del PSVda, che rappresenta l’indice, sul mercato italiano, di acquisto del gas, componente materia prima. Il
+confronto tra l’andamento mensile dei due indici negli anni 2022 e 2023 evidenzia che non vi è alcuna correlazione tra l’indice Istat ed il costo
+effettivo del gas nel mercato italiano: in taluni casi, un indice sale e l’altro scende.
+10/01/2024 Con riferimento all’art. 20.5 (revisione periodica dei prezzi) dello schema di convenzione, si rileva che le formule di revisione ed altresì un paragrafo
+contenuto alla pagina 33/49 riportano il Coefficiente Sn. Tale coefficiente non è definito e appare frutto di un refuso. Si chiede di confermare che il
+Coefficiente Sn debba intendersi espunto sempre, nell’intero testo della Convenzione.
+10/01/2024 Si chiede di chiarire se sia ammessa la presentazione della garanzia fideiussoria firmata digitalmente e verificabile telematicamente presso
+l’emittente, ma non gestita mediante ricorso a piattaforme operanti con tecnologie basate su registri distribuiti ai sensi dell’articolo 8-ter, comma 1, del
+decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, conformi alle caratteristiche stabilite
+dall’AGID con il provvedimento di cui all’articolo 26, comma 1”, dovendosi ritenere, ai sensi dell’art.106 comma 8 del codice appalti, che la gestione,
+della fidejussione, “mediante ricorso a piattaforme operanti con tecnologie basate su registri distribuiti ai sensi del comma 3”, rilevi solo al fine della
+riduzione dell’importo della garanzia e del suo eventuale rinnovo.
+10/01/2024 In riferimento al calcolo della base d’asta del lotto 3 si chiede conferma della correttezza:
+1) del valore dei mq indicato per le voci relative al servizio “PC1 Impianto di acqua calda sanitaria e da altre utenze termiche” in quanto in tutti gli altri
+lotti il valore di mq indicato per tale voce è circa analogo a quello riportato nella voce PD1 mentre per il presente lotto il valore PC1 risulta molto
+inferiore (di circa il 50%) rispetto al valore PD1.
+2) del valore dei mq indicato per le voci relative al servizio “PD1 Impianti idrico-sanitari e di trattamento dell’acqua e impianti di trattamento e
+smaltimento reflui e reti fognari” in quanto il valore della base d’asta che ne deriva per il servizio, che remunera anche il costo del vettore energetico
+“Acqua Potabile”, non risulta coerente con i consumi di acqua da voi indicati nella documentazione di gara.
+10/01/2024 Si chiede di chiarire se il consumo di gas relativo al Lotto 5 (AULSS 8), indicati nell’Allegato 12, rappresenti effettivamente il consumo di gas
+complessivo del Lotto, dal momento che il valore indicato (64.200,00 smc) risulta incongruo con: (i) la somma (pari ad Euro 7.386.473,00)
+dell’Importo del Servizio di Climatizzazione Invernale (Euro 7.040.717,00) e dell’Importo del Servizio di produzione acqua calda sanitaria (Euro
+345.756,00); (ii) la presenza nel lotto di due cogeneratori. Si ritiene che la eventuale conferma del consumo sia logicamente impossibile, dal
+momento che in caso di conferma il ricavo unitario del Euro/m3/GG del Servizio di Climatizzazione del lotto (visto l’importo complessivo del Servizio)
+sarebbe pari a circa a 78 Euro/m3/GG, laddove, negli altri Lotti, tale valore è inferiore a 1 Euro/m3/GG (ossia inferiore di 75 volte). In ogni caso, si
+chiede di mettere a disposizione dell’Offerente le bollette di acquisto del gas (altrimenti dette fatture), relative al periodo considerato, in osservanza
+dall’obbligo previsto dal Decreto 7 marzo 2012 art. 4.3.
+11/01/2024 Al fine di proporre un progetto tecnico a misura dello specifico appalto e formulare un'offerta congrua allo stesso, si chiede di fornire documentazionerelativa alle diagnosi e certificazioni energetiche degli impianti ed edifici dei lotti n°3, n°5 e n°6.
+11/01/2024 Anche nell’elaborato quadro economico di consumo idrico rileviamo molte carenze di individuazione delle strutture. Quindi ribadiamo la necessità di
+avere per ogni Azienda Sanitaria un elenco completo con indirizzo, destinazione d’uso e superficie prevista di ogni immobile per cui dovremmo
+calcolare i costi di gestione necessari e progettare la struttura organizzativa e le necessità operative.
+AmministrativoAmministrativoAmministrativoAmministrativoAmministrativoAmministrativo/Tecnico
+Amministrativo/Tecnico
+Convenzione
+Convenzione
+Convenzione
+Disciplinare
+Offerta
+Economica
+Atti di gara
+Quadro
+economico
+11/01/2024 Relativamente l’“Allegato 9 Modello di giustificazioni dell’offerta economica”, si chiede di confermare che il numero di unità di personale impiegato
+nell’appalto è da intendersi come numero di FTE (Full Time Equivalent).
+15/01/2024 Con riferimento al paragrafo 18.1 del Disciplinare tecnico, si chiede di specificare a quante ore equivale 1 FTE;
+Amministrativo/Tecnico
+Modello
+giustificazioni
+Offerta
+economica
+Amministrativo Disciplinare
+15/01/2024 Si chiede di confermare che, in caso di partecipazione in RTI, i punteggi tabellari che prevedono il possesso di certificazioni, si intendono soddisfatti
+qualora posseduti anche da un solo partecipante al RTI.
+15/01/2024 1) Con riferimento all’elenco dei servizi analoghi riportato alla lettera a) del Paragrafo 6.2 ‘Requisiti di capacità tecnica e professionale’ del
+Disciplinare di Gara, si chiede quanto segue:
+- conferma che per gli impianti elettrici e antincendio è possibile considerare anche l’attività di ‘manutenzione’ quale servizio analogo, in conformità
+sia con quanto previsto nel medesimo elenco per gli impianti di climatizzazione invernale ed estiva e sia con le attività oggetto del presente appalto
+(cfr. lettera E del Paragrafo 3 del Disciplinare);
+- conferma che possono concorrere al raggiungimento del fatturato minimo richiesto anche gli importi relativi alla fornitura dei vettori energetici (gas
+e/o energia elettrica) qualora riferiti ad esempio ai contratti di ‘Servizio Integrato Energia’ e/o di ‘Multiservizio Tecnologico integrato con la fornitura di
+energia’ (e quindi non contratti di mera fornitura), in linea con l’oggetto del presente appalto che prevede anche la fornitura di energia;
+- di indicare cosa si intende per ‘servizi termici in genere’.
+AmministrativoAmministrativoDisciplinare
+Disciplinare
+Si confermano gli atti di gara. L'operatore economico nel formulare
+l'offerta dovrà tener conto di tale variabile.
+Nella convenzione non si fa riferimento all'indice ISTAT 04520. Si
+conferma altresì il disposto dell'articolo 60 D.Lgs 36/2023 Ai fini
+della determinazione della variazione dei costi e dei prezzi di cui al
+comma 1, si utilizzano i seguenti indici sintetici elaborati dall’ISTAT.
+Si confermano gli atti di gara.
+Come specificato a pagina 33 Sn = 1 per ogni valore di n. Si
+confermano gli atti di gara.
+Si conferma l' ammissibilità ma La riduzione opererà nel momento
+della creazione delle piattaforme previste e secondo gli standard
+AGID
+Si confermano gli atti di gara e, in particolare, i fabbisogni indicati.
+Ai fini della presentazione dell'offerta economica si devono tenere
+in consideraione i fabbisogni indicati nell'allegato offerta
+economica.
+Si vedano inoltre le informazioni di maggiore dettaglio fornite con i
+prospetti aggiornati dell'Allegato 12 progetto di gara “Quadro
+economico”.
+Si confermano gli atti di gara.
+Quanto richiesto costituisce oggetto di affidamento.
+Si ritiene che siano stati forniti elementi sufficienti per formulare
+l'offerta.
+Trattandosi di Convenzione, gli elementi di dettaglio richiesti
+saranno noti all'aggiudicatario preliminarmente alla formulazione
+del Preventivo, così come previsto dall'art. 8 dello Schema di
+Convenzione.
+Trattasi di modello messo a disposizione agli operatori economici,
+non vincolante, che potrà essere utilizzato/integrato/modifcato al
+fine di fornire elementi idonei alla Stazione Appaltante per la
+verifica della congruità dell'offerta, come previsto dall'art. 110 D.lgs
+36/2023.
+Le ore sono quelle previste dalla normativa di settore (Tabelle
+ministeriali costo manodopera CCIAA Metalmeccanici pari a 1600
+annue).
+Si conferma.
+Si intendono più in generale i servizi di gestione e manutenzione di
+impianti di climatizzazione invernale e/o climatizzazione estiva
+4
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+3 parte chiarimenti
+15/01/2024 2) Con riferimento al Paragrafo 6.2 ‘Requisiti di capacità tecnica e professionale’ del Disciplinare di Gara, si chiede conferma che il requisito richiestoalla lettera e) è pienamente soddisfatto tramite il possesso delle certificazioni UNI CEI 11352 e ISO 14001.
+AmministrativoDisciplinare
+15/01/2024 All’Art. 9 dell’Allegato 2-Disciplinare di Gara si legge:
+“L’elenco e i dati relativi al personale attualmente impiegato dal contraente uscente per l’esecuzione del contratto sono riportati nell’allegato alla
+Convenzione (5.7) “Clausola Sociale” e contiene il numero degli addetti con indicazione dei lavoratori svantaggiati ai sensi della legge n. 381/91,
+qualifica, livelli anzianità, sede di lavoro, monte ore, etc.]”. Tuttavia nel documento richiamato (Allegato alla Convenzione 5.7 - “Clausola Sociale”)
+non è reperibile alcuna informazione relativa a: lavoratori svantaggiati, sedi di lavoro (fatta eccezione per l’Elenco del personale impiegato nel Lotto
+4), livelli di anzianità.
+Si richiede pertanto di fornire tali informazioni per una compiuta elaborazione del Progetto di assorbimento da produrre in sede di offerta.
+15/01/2024 Nel chiarimento n. 57 viene precisato che anche per il Programma di manutenzione deve essere utilizzato il font Arial, dimensioni 11, interlinea
+singola. Si ritiene che tale specifica di formattazione non consenta di sviluppare adeguatamente tutto il programma di manutenzione all’interno delle
+10 pagine in formato A4 messe a disposizione. Si chiede pertanto di poter derogare, per il solo allegato del Programma di Manutenzione, dal vincolo
+delle dimensioni del carattere, del tipo di carattere e delle dimensioni dell’interlinea.
+15/01/2024 CHIARIMENTO 6
+Al fine di poter dimensionare tecnicamente ed economicamente in modo corretto l’offerta da esporre a codesto spettabile Ente, si chiede di poter
+avere, per ogni lotto, l’elenco degli impianti termici che necessitano della presenza continua 24 ore / giorno del conduttore di centrale termica, figura
+preposta, appunto, alla vigilanza diretta e continua di detti impianti e che esula rispetto alle attività svolte dai tecnici impiegati per la manutenzione
+degli impianti presenti nei reparti delle singole strutture.
+Amministrativo Disciplinare
+Amministrativo Atti di gara
+Amministrativo/ Atti di gara
+Tecnico
+15/01/2024 CHIARIMENTO 7
+In relazione all’attività di manutenzione dei punti di erogazione acqua potabile calda e fredda con filtro 0,2 micron si richiede chiarimento in merito
+alle modalità di contabilizzazione di detto servizio in quanto vi è palese discordanza tra le indicazioni presenti, infatti:
+- nel documento Allegato 5 Schema di Convenzione l’attività presenta codice PJ3 e viene contabilizzata con la modalità costo per dispositivo gestito
+€/cadauno;
+- nel documento Allegato 8 la stessa attività viene identificata con codice PD3 e viene contabilizzata con la modalità costo per unità di superficie
+gestita €/mq.
+Amministrativo Convenzione /
+Schema di
+offerta
+15/01/2024 CHIARIMENTO 8
+Al fine di dimensionare in modo specifico ed organico il personale della struttura operativa da predisporre per la conduzione e manutenzione degli
+impianti oggetto di gara si chiede a codesto spettabile Ente di indicare per ogni singolo lotto l’elenco sia delle strutture ad alta intensità, sia delle
+strutture sanitarie del territorio, complete di denominazione, indirizzo e superficie netta di riferimento.
+Amministrativo Atti di gara
+15/01/2024 CHIARIMENTO 9
+Considerato che l’art. 3.4.3 del CSA prescrive un funzionamento dei sistemi di cogenerazione di almeno 7.000 ore anno e considerato che detti
+sistemi determinano ingenti costi legati alla fornitura di vettori energetici, costi di manutenzione, la possibilità di sfruttare appieno le energie derivanti
+dallo stesso funzionamento dei cogeneratori in oggetto con profonde implicazioni sul budget dell’intero appalto, si ritiene sia indispensabile poter
+consultare i progetti esecutivi completi delle analisi tecnico economiche alla base del dimensionamento di ogni singolo cogeneratore oggetto di
+valutazione e indicato nell’Allegato 1 alla documentazione di gara. Per quanto esplicitato si richiede la documentazione citata.
+Tecnico
+Capitolato
+15/01/2024 CHIARIMENTO 10
+In considerazione della gran quantità di dati e attività legate al Programma di Manutenzione elaborato da codesto spettabile Ente, inserito nella
+documentazione di gara e pari a 1.936 tipologie diverse di interventi manutentivi, vista l’esigenza di ampliare detto Programma Manutentivo in modo
+da poter proporre un’offerta tecnica completa ed esaustiva e tale da includere ulteriori frequenze e tipologie di interventi manutentivi, al fine di poter
+far percepire alla Stazione Appaltante la qualità della proposta, si chiede di poter inserire nella documentazione di gara l’elaborato denominato
+Programma di Manutenzione, allegato alla relazione Criterio B – Piano di Manutenzione, che, vista l’articolazione degli argomenti debba essere
+esposto in un documento con numero illimitato di pagine.
+AmministrativoDisciplinare di
+gara
+15/01/2024 CHIARIMENTO 11
+In relazione alla compilazione del documento denominato “Allegato 9 - Modello di giustificazioni dell’offerta economica”, si chiede di esplicitare,
+definire e chiarire cosa debbano ricomprendere le seguenti voci di giustificazione prezzi:
+- Costi industriali
+- Costi di produzione / distribuzione
+- Costi di acquisto / ammortamento dei mezzi
+15/01/2024 CHIARIMENTO 14
+A pagina 30 dello SCHEMA DI CONVENZIONE nelle tabelle si riportano alcune formule dove uno degli addendi è Sn, ad esempio: KA1n = (0,25 ·
+Mn/M0 + 0,05 · Nn/N0 + 0,7 · Gn/G0) · Sn
+Tale indice Sn non viene mai definito, si chiede quindi di definirlo per avere piena chiarezza della formula revisionale.
+AmministrativoModello
+giustificazioni
+Offerta
+economica
+Amministrativo/ Schema di
+Tecnico
+ Convenzione
+Si conferma quanto richiesto e si rinvia alle precisaizoni riportate
+alla stessa lettera e), Paragrafo 6.2 ‘Requisiti di capacità tecnica e
+professionale’ del Disciplinare di Gara
+Si confermano gli atti di gara.
+L'operatre economcio, nel formulare la propria offerta, dovrà tenere
+presente complessivamente il personale indicato e le relative
+qualifiche.
+Nel Programma di Manutenzione il concorrente dovrà esplicitare le
+sole attività migliorative e/o integrative proposte.
+Si confermano gli atti di gara.
+Si conferma quanto indicato nello Schema di Convenzione.
+Si procederà alla correzione dell'errore materiale nel docuemnto
+Allegato 8 Schema di offerta economica.
+Si confermano gli atti gara.
+Si confermano gli atti di gara.
+Nel Programma di Manutenzione il concorrente dovrà esplicitare le
+sole attività migliorative e/o integrative proposte.
+Trattasi di modello messo a disposizione agli operatori economici,
+non vincolante, che potrà essere utilizzato/integrato/modifcato al
+fine di fornire elementi idonei alla Stazione Appaltante per la
+verifica della congruità dell'offerta, come previsto dall'art. 110 D.lgs
+36/2023.
+Come specificato a pagina 33 Sn = 1 per ogni valore di n. Si
+confermano gli atti di gara.
+5
+106
+3 parte chiarimenti
+15/01/2024 CHIARIMENTO 15
+ AmministrativoCon riferimento ai chiarimenti già pubblicati da codesto spettabile Ente (nel dettaglio il chiarimento n. 15 data richiesta del 18/12/2023) si ritiene utile
+suggerire a codesto spettabile Ente come l’anno di riferimento indicato da adottare in fase di offerta, ovvero scenario 2024, risulti alquanto incerto
+(spazio temporale di analisi di un unico mese gennaio 2024) lasciando ampio margine ad analisi e previsioni totalmente arbitrarie ed esponendo gli
+attori in campo ad elevati rischi ed indici di incertezza; tali rischi potranno presentarsi in sede di revisione prezzi tanto per l’Amministrazione
+contraente, quanto per l’Appaltatore aggiudicatario. Si sottolinea infatti che:
+1) Per presentare offerta sarà necessario fare delle stime sull’andamento dei prezzi di acqua, gas, energia elettrica, inflazione. Le stime potrebbero
+essere sottostimate (ed esporre le società ad un rischio economico) o sovrastimate (ed esporre l’amministrazione ad un extracosto).
+2) Come recentemente accaduto per l’anno 2022, quando crisi energetica e guerra hanno fatto schizzare i prezzi, risulta difficoltoso fare ipotesi certe
+in questo contesto globale. Fino a febbraio 2022 nessuno avrebbe potuto immaginare uno scenario prezzi per il prosieguo dell’anno 2022 come poi,
+in realtà, si è verificato.
+3) A conclusione, si suggerisce di adottare quale riferimento per l’elaborazione della proposta economica l’anno 2023, appena concluso, già definito
+e tale da poter fornire ai concorrenti e all’Ente valori certi e univoci esenti da interpretazioni e analisi arbitrarie. Ipotizzando come anno base un anno
+futuro e a tutt’oggi ricco di elementi geopolitici importanti, le concorrenti saranno costrette a elaborare ipotesi più o meno aggressive, rendendo le
+varie offerte non confrontabili e mettendo in difficoltà l’Amministrazione in caso di future giustifiche di gara. Le giustificazioni dei prezzi di acqua, gas,
+energia elettrica, infatti, saranno difficilmente analizzabili, esponendo l’Amministrazione ad un elevato rischio.
+Si suggerisce quindi, nell’ottica di offrire maggiori elementi di congruità dell’offerta sia ai partecipanti sia all’Amministrazione, di ridurre l’aleatorietà e i
+rischi, adottando come riferimento per l’anno base n=0 un anno certo, come potrebbe essere l’anno 2023 sopra citato.
+Convenzione
+Come riportato nel chiarimento n. 15 "Si precisa che l'anno di
+riferimento n=0 è da intendersi l'anno di scadenza del termine di
+presentazione, ossia 2024".
+6
+107
+ 15/01/2024 CHIARIMENTO 16
+ Amministrativo Convenzione
+ Si confermano gli attiCon riferimento all’Articolo 20.5 “Revisione periodica dei prezzi” dell’Allegato 5 “Schema di Convenzione e suoi allegati”, si evidenziano
+le seguenti criticità in merito alla tipologia di indicizzazione individuata per effettuare la revisione del corrispettivo annuo dei servizi
+oggetto della gara:
+• Indice NIC energia elettrica (codice COICOP 04510): si tratta di un indice statistico per il quale non è definito un algoritmo di calcolo
+esplicito e per il quale non vi è nessun chiaro riferimento all’indice di mercato (PUN). Da Gennaio 2019 il paniere è stato aggiornato
+introducendo il nuovo segmento di consumo Energia elettrica mercato libero, la cui rilevazione viene svolta centralmente dall’Istat
+attraverso procedure di raccolta automatica dei dati di web scraping, utilizzando un sito web, il portale offerte, previsto dalla legge
+124/17 realizzato e gestito da Acquirente Unico, secondo le modalità stabilite da ARERA per la raccolta e la pubblicazione delle offerte
+presenti sul mercato di vendita al dettaglio, al fine di migliorare la consapevolezza dei clienti. Il segmento di consumo Energia elettrica
+mercato libero prevede una stratificazione per tipo di contratto (residenti o non residenti), per tariffa applicata (monoraria o multioraria)
+e per tipologia di contratto (prezzo variabile o bloccato, cioè il prezzo non cambia per almeno un anno). Per ciascun prodotto si rilevano
+le spese dei principali fornitori selezionati con il criterio cut-off sulla base delle quote di mercato desunte dalla rilevazione Indagine sui
+settori regolati, svolta annualmente da ARERA (sulla base della legge n.481/1995), con un dettaglio regionale, per un totale di circa
+4.000 quotazioni mensili. Per ciascun fornitore e per ciascuno strato vengono calcolati gli indici elementari, dai quali si ottiene l’indice
+regionale di aggregato mediante la media aritmetica ponderata, con pesi proporzionali alla spesa dei consumi fatturati agli utenti
+domestici in ciascuna regione nel mercato libero (1).
+Considerati gli elementi sopra illustrati, la presenza di tariffe mercato libero rilevate nel web potrebbe introdurre elementi distorsivi
+rispetto all’andamento del mercato spot (ad esempio, offerte sotto-costo per posizionamento su compratori web, offerte a prezzo fisso
+su più anni).
+Inoltre, si consideri che, trattandosi di un indice statistico legato all’andamento della spesa complessiva di utenze domestiche, per
+costruzione non è rappresentativo dell’effettivo costo sostenuto dall’Appaltatore per le utenze oggetto della gara.
+• Indice NIC Gas naturale e gas di città (COICOP 04521): si tratta di un indice statistico per il quale non è definito un algoritmo di
+calcolo esplicito e per il quale non vi è nessun chiaro riferimento all’indice di mercato (PSV, TTF). Da Gennaio 2022 il paniere è stato
+aggiornato introducendo il nuovo segmento di consumo Gas di città e gas naturale mercato libero, la cui rilevazione viene svolta
+centralmente dall’Istat attraverso procedure di raccolta automatica dei dati di web scraping, utilizzando un sito web, il portale offerte,
+previsto dalla legge 124/17 realizzato e gestito da Acquirente Unico, secondo le modalità stabilite da ARERA per la raccolta e la
+pubblicazione delle offerte presenti sul mercato di vendita al dettaglio, al fine di migliorare la consapevolezza dei clienti. Il nuovo
+segmento di consumo Gas di città e gas naturale mercato libero prevede una stratificazione per tipologia di contratto (prezzo variabile o
+bloccato, cioè il prezzo non cambia per almeno un anno). Per ciascun prodotto si rilevano le spese stimate a fronte di un consumo
+medio annuo, da cui si seleziona un campione di unità di rilevazione, individuate con il criterio cut-off sulla base delle quote di mercato
+dei principali gruppi di vendita al dettaglio nel settore domestico, desunte dalla rilevazione Indagine sui settori regolati, svolta
+annualmente da ARERA (sulla base della legge n.481/1995), con una ripartizione regionale. Per ciascuno strato (dato dalla
+combinazione delle variabili prodotto/regione/unità di rilevazione - operatore) vengono calcolati gli indici elementari, dai quali si ottiene
+l’indice regionale di aggregato mediante la media aritmetica ponderata, con pesi proporzionali alla spesa dei consumi fatturati agli utenti
+domestici in ciascuna regione nel mercato libero. (1)
+Considerati gli elementi sopra illustrati, la presenza di tariffe mercato libero rilevate nel web potrebbe introdurre elementi distorsivi
+rispetto all’andamento del mercato spot (ad esempio, offerte sotto-costo per posizionamento su compratori web, offerte a prezzo fisso
+su più anni).
+Inoltre, si consideri che, trattandosi di un indice statistico legato all’andamento della spesa complessiva di utenze domestiche, per
+costruzione non è rappresentativo dell’effettivo costo sostenuto dall’Appaltatore per le utenze oggetto della gara.
+• Periodo di riferimento (Anno 2024): si evidenzia che la scelta di utilizzare quale anno di riferimento il 2024 implica utilizzare prezzi
+formulati sulla base di scenari del tutto indicativi e soggetti a continue ed imprevedibili modifiche a causa della forte volatilità dei prezzi,
+introducendo un significativo rischio mercato sia per l’Appaltatore che per l’Ente.
+108
+Alla luce di quanto sopra evidenziato, si suggerisce quindi quanto segue:
+• Sostituire l’indice Istat NIC energia elettrica (codice COICOP 04510) con il prezzo di mercato dell’energia elettrica per le utenze
+oggetto della gara, composto da PUN maggiorato degli oneri pubblicati dall’ARERA riferiti alle utenze di tipo BT altri usi se in bassa
+tensione o utenze di tipo MT altri usi se in media tensione (laddove previsto dalla normativa vigente, le componenti soggette a perdite
+di rete sono maggiorate secondo i coefficienti di perdita, così come definiti dall’ARERA e riferiti alla tipologia di utenza) e delle imposte
+(es. accise).
+• Sostituire l’ Indice NIC Gas naturale e gas di città (COICOP 04521) con il prezzo di mercato del gas naturale per le utenze oggetto
+della gara, composto dal prezzo “Condizioni economiche per i clienti del Servizio di tutela”, pubblicato mensilmente dall’ARERA per
+utenze domestiche (ambito e scaglione di consumo in base alla tipologia di utenze oggetto della gara), incluse le imposte relative agli
+usi applicabili ai consumi degli impianti oggetto della gara.
+(1) Informazioni estratte da “Indici dei prezzi al consumo. Aspetti generali e metodologia di rilevazione – Edizione 2022” (Istat)
+16/01/2024 essendo stato prorogato il termine per la presentazione delle offerte al 20/02/2024, si chiede conferma che sia stato ugualmente prorogato anche il
+termine per la presentazione delle richieste di chiarimenti fino a 14 giorni antecedenti il nuovo termine.
+In attesa di un vostro cortese riscontro porgiamo cordiali saluti.
+Amministrativo Atti di gara
+Si conferma.
+di gara.
+3 parte chiarimenti
+7
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+3 parte chiarimenti
+16/01/2024 L’art. 7 della Convenzione recita: “La presente Convenzione ha durata di 1 (UNO) anno ……. Le Aziende Sanitarie, nel periodo di validità della
+ Ammistrativo
+Convenzione, potranno aderirvi stipulando i contratti specifici (Ordinativi di Fornitura), che avranno una durata massima di 3 (tre) anni a decorrere
+dalla data di sottoscrizione della Convenzione”.
+Ciò significa che nessun OdF potrà avere durata pari a 3 anni; nel caso limite di perfezionamento di OdF l’ultimo giorno di validità della Convenzione,
+considerando i 90 giorni (3 mesi) previsti per la formulazione del preventivo da parte del Fornitore, nonchè i 6 mesi previsti per la valutazione dello
+stesso da parte dell’Azienda, il relativo OdF avrebbe durata pari a 1 anno e 3 mesi. Si chiede di confermare che la durata massima dei singoli
+Ordinativi di Fornitura (OdF) sia pari a 3 anni dalla data di sottoscrizione della Convenzione.
+Convenzione
+La durata contrattuale dell'ordinativo di fornitura decorre dalla
+sottoscrizione dello stesso da parte dell'Azienda sanitaria
+convenzionata. Si conferma quanto indicato nel punto 3.1 del
+Disciplinare di gara. Quanto riportato nella Convenzione all'art. 7
+co. 2 verrà modificato nello stesso senso, con appotio
+provvedimento.
+16/01/2024 Si chiede di confermare che la modalità di costituzione delle garanzie provvisorie attraverso la piattaforma PAGO PA sia alternativa al rilascio delle
+stesse da parte di imprese bancarie o assicurative che rispondano ai requisiti di solvibilità previsti dalle leggi che ne disciplinano le rispettive attività.
+16/01/2024 Alla luce del chiarimento n° 25 con cui si indica la proroga dei termini di presentazione delle offerte di 20 gg, e in considerazione del fatto che sulla
+piattaforma Sintel tale termine è già stato adeguato e pubblicato, si chiede gentilmente di sapere quando verrà pubblicata la formalizzazione della
+proroga. Si chiede, inoltre, che vengano prorogati i termini di scadenza per la presentazione di eventuali altri quesiti/chiarimenti e si chiede di
+indicare quale sarà, appunto, la nuova data ultima per porli.
+17/01/2024 Si chiede di chiarire la differenza tra le seguenti coperture assicurative richieste all'All. 5.6:
+RCT
+RC Professionale
+in quanto trattasi, in entrambi i casi, di coperture assicurative per la responsabilità civile verso terzi e/o cose di terzi derivanti da fatti dipendenti dalle
+attività espletate presso gli immobili oggetto del contratto.
+17/01/2024 QUESITO N. 3: Nel documento “Allegato 8 _ Schema di offerta economica”, con specifico riferimento alla voce di prezzo PD2, si chiede di chiarire
+come la quantità (mq) di riferimento di tale voce sia stata calcolata, in quanto non sembrerebbe esserci una analogia di proporzione con la quantità
+della voce PD1 rispetto invece a quanto calcolato e riportato per gli altri lotti“. Infatti La voce PD2 parrebbe essere stata interpretata in modo
+differente per le varie aziende sanitarie in quanto varia da 1.686.434 del Lotto 1 a 54.000 del Lotto 3; se tale superficie fosse area esterna non ha
+riscontro con la realtà e nemmeno con i valori di area di illuminazione esterna, e appunto, per derimere il dubbio interpretativo, servirebbe sapere
+come è essere calcolata e definita la quantità di riferimento.
+17/01/2024 QUESITO N. 4: Nel documento “Allegato 8 _ Schema di offerta economica”, con specifico riferimento alla voce di prezzo PD3 si , si chiede di chiarirese il canone unitario indicato pari a 150,00 euro/mq sia oggetto di refuso nell’unità di misura o meno, cioè sia da intendersi €/mq o €/cad. alla luce
+delle quantità espresse nei vari lotti.
+17/01/2024 QUESITO N. 5: Nel documento “Allegato 8 _ Schema di offerta economica”, con specifico riferimento alla voce di prezzo PL1 e PL2 il valore del
+personale aggiuntivo specializzato e antincendio indicato nei Lotti 1, 2, 3, 4 ci risulta congruente con l’assetto dei lotti mentre ci sembra
+sovrabbondante nel Lotto 5 e 6 rispetto all’assetto degli stessi: si chiede di verificare i dati e di sapere quali sono stati i criteri per l’assegnazione sui
+vari presidi/lotti.
+17/01/2024 1.Per permettere ai concorrenti di effettuare un’analisi capiente e corretta sull’impianto di gara, l’operatore economico chiede che vengano pubblicatigli elenchi delle strutture oggetto di gara con relative superfici (m2) e volumetrie (m3);
+17/01/2024 2.Si richiede conferma che le strutture ad alta intensità di cura afferenti alle aziende ospedaliere ULSS 1, ULSS 2, ULSS 3, ULSS 4, ULSS 5
+riportate nell’allegato 5.2 non siano oggetto di convenzione. Qualora lo fossero, si richiede il lotto di appartenenza.
+17/01/2024 3.Si richiede la rettifica dell’Allegato 8 “Schema di offerta economica” in formato excel, poiché nel foglio “Offerta Lotto 1” le moltiplicazioni della
+colonna L alle righe 20,21e 54, e nel foglio “Offerta Lotto 4” le moltiplicazioni della colonna L alle righe 11,14,20,26,29,32,37,50, sono errate;
+17/01/2024 4.In virtù della risposta al chiarimento n°40, si chiede se anche il termine di presentazione dei chiarimenti sia oggetto di proroga;
+17/01/2024 5.Si chiede di confermare se i consumi dei vettori (gas naturale, energia elettrica, acqua) indicati nell’allegato 12 siano corrispondenti alle volumetrie
+(m3) e alle superfici (m2) dei servizi A, B e D dichiarate alle voci Pa1, Pa2, Pb1, Pb2, Pd1 nei modelli di offerta economica dei singoli lotti
+dell’allegato 8, garantendo la coerenza dei dati;
+17/01/2024 6.Si chiede di dare evidenza del gestore attuale delle reti di teleriscaldamento oggetto di gara e dichiarate fra i consumi di energia nell’allegato 12;
+17/01/2024 7.Si chiede conferma del fatto che le risorse qualificate come personale aggiuntivo e squadra antincendio, indicate nelle quantità QL1 e QL2 del
+modulo offerta, siano in tutto o in parte incluse nel personale di cui all’Allegato 5.7;
+17/01/2024 8.Si chiede di precisare in quale modo trovino applicazione le clausole di cui al Capitolato (Allegato 6), Capitolo 12, commi 12.2 e 12.3, pagg. 132 e
+133: "Il progetto esecutivo deve essere ... realizzato dall’Appaltatore ... Il valore economico degli incentivi eventualmente ottenuti a seguito degli
+interventi andrà in detrazione del costo dell’intervento, ovvero sarà oggetto di accordo tra le parti", alla luce di quanto specificato nel Capitolato
+(Allegato 6), Capitolo 12, articolo 12.1, punto 3. del primo elenco numerato, “realizzazione dei sistemi automatici per la gestione e il monitoraggio
+degli impianti”;
+17/01/2024 9.;Si chiede di fornire le planimetrie delle strutture sanitarie oggetto di convenzione, al fine di permettere agli operatori economici di effettuare
+valutazioni su quanto citato all’art.5.15 del capitolato tecnico e nel criterio H dell’allegato 7.
+AmministrativoAmministrativoAmministrativoDisciplinare
+Bando
+Convenzione
+Si conferma. Si vedano le specifiche modalità indicate all'art. 10
+del Disciplinare di gara.
+Con l'adozione del provvedimento di modifica degli atti di gara,
+verrà definita una congrua proroga del termine di presentazione
+offerte.
+In ogni caso si tenga monitorato l'aggiornamento del termine di
+presenteazione offerte indicato nell'applicativo Sintel.
+Si tratta di coperture assicurative diverse: una generica, l'altra
+specifica.
+Amministrativo Schema Offerta Si confermano i fabbisogni di gara
+AmministrativoAmministrativoSchema Offerta L'indicazione €/mq costituisce un errore materiale. Si procederà
+alla sua correzione nel documento Allegato 8 Schema di offerta
+economica, con apposito provvedimento.
+Schema Offerta Si confermano gli atti di gara
+AmministrativoAmministrativoAmministrativoAmministrativoAmministrativoAtti di gara
+Si vedano le informazioni di maggiore dettaglio fornite con i
+prospetti aggiornati dell'Allegato 12 progetto di gara “Quadro
+economico”.
+Convenzione
+ Trattasi di rerfuso, tali Aziende sanitarie non sono interessate dalla
+presente procedura. Si procederà alla correzione dell'Allegato 5.2
+con apposito provvedimento.
+Schema Offerta Trattasi di errore materiale. Si procederà alla correzione
+dell'Allegato 8 con apposito provvedimento.
+Disciplinare
+ Si conferma. La modifica del termine di presentazione delle offerte
+comporta l'automatico adeguamento dei termini per i chiarimenti
+previsti dall'art. 2.2 del Disciplinare di gara.
+Schema Offerta Si confermano i fabbisogni espressi nell'Allegato 8 Schema di
+offerta economica.
+AmministrativoProgetto di
+gara
+Amministrativo/tecnico
+Convenzione
+Tecnico
+ Capitolato
+Si conferma la documentazione di gara fornita.
+Si confermano gli atti di gara. L'operatre economcio, nel formulare
+la propria offerta/progetto, dovrà tenere presente
+complessivamente anche del personale indicato nell'Allegato 5.7 e
+delle relative qualifiche.
+Quanto al Capitoto 12,2 e 12,3 si confermano gli atti di gara.
+Per quanto riguarda il Capitoto 12.1.3 (sistemi di monitoraggio) gli
+eventuali incentivi saranno a favaore dell'appaltatore.
+Tecnico
+ Capitolato
+ Si conferma la documentazione di gara fornita.
+8
+125
+126
+127
+128
+129
+130
+131
+132
+3 parte chiarimenti
+18/01/2024 Con riferimento ai chiarimenti già pubblicati da codesto spettabile Ente (nel dettaglio il chiarimento n. 15 data richiesta del 18/12/2023) si ritiene utilesuggerire a codesto spettabile Ente come l’anno di riferimento indicato da adottare in fase di offerta, ovvero scenario 2024, risulti alquanto incerto
+(spazio temporale di analisi di un unico mese gennaio 2024) lasciando ampio margine ad analisi e previsioni totalmente arbitrarie ed esponendo gli
+attori in campo ad elevati rischi ed indici di incertezza; tali rischi potranno presentarsi in sede di revisione prezzi tanto per l’Amministrazione
+contraente, quanto per l’Appaltatore aggiudicatario. Si sottolinea infatti che:
+1) Per presentare offerta sarà necessario fare delle stime sull’andamento dei prezzi di acqua, gas, energia elettrica, inflazione. Le stime potrebbero
+essere sottostimate (ed esporre le società ad un rischio economico) o sovrastimate (ed esporre l’amministrazione ad un extracosto).
+2) Come recentemente accaduto per l’anno 2022, quando crisi energetica e guerra hanno fatto schizzare i prezzi, risulta difficoltoso fare ipotesi certe
+in questo contesto globale. Fino a febbraio 2022 nessuno avrebbe potuto immaginare uno scenario prezzi per il prosieguo dell’anno 2022 come poi,
+in realtà, si è verificato.
+3) A conclusione, si suggerisce di adottare quale riferimento per l’elaborazione della proposta economica l’anno 2023, appena concluso, già definito
+e tale da poter fornire ai concorrenti e all’Ente valori certi e univoci esenti da interpretazioni e analisi arbitrarie. Ipotizzando come anno base un anno
+futuro e a tutt’oggi ricco di elementi geopolitici importanti, le concorrenti saranno costrette a elaborare ipotesi più o meno aggressive, rendendo le
+varie offerte non confrontabili e mettendo in difficoltà l’Amministrazione in caso di future giustifiche di gara. Le giustificazioni dei prezzi di acqua, gas,
+energia elettrica, infatti, saranno difficilmente analizzabili, esponendo l’Amministrazione ad un elevato rischio.
+Si suggerisce quindi, nell’ottica di offrire maggiori elementi di congruità dell’offerta sia ai partecipanti sia all’Amministrazione, di ridurre l’aleatorietà e i
+rischi, adottando come riferimento per l’anno base n=0 un anno certo, come potrebbe essere l’anno 2023 sopra citato
+18/01/2024 Dall’articolo 20.5 “Revisione periodica dei prezzi” dell’Allegato 5 “Schema di Convenzione e suoi allegati” si evince che l’indice di riferimento per la
+revisione prezzi per il gas di riferimento per la revisione prezzi è: Indice NIC Gas naturale e gas di città (COICOP 04521).
+Il calcolo di tale indice non è basato sulla tipologia di utenze oggetto della gara, quindi agevolazioni (es: accisa per usi ospedalieri) non verranno
+considerate con conseguente mancato beneficio per l’amministrazione. Si chiede quindi la possibilità di utilizzare un indice differente come quello
+ARERA sicuramente più aderente all’andamento del prezzo di mercato.
+18/01/2024 Nella gara bandita da codesta spett.le Amministrazione nel 2019 le strutture del project financing per Policlinico di Borgo Roma e Ospedale Civile
+Maggiore di Borgo Trento non erano oggetto del servizio energia. Si chiede conferma che anche in questa gara valga la stessa prescrizione.
+18/01/2024 Si chiede conferma se i consumi di energia elettrica, gas, acqua dell’ospedale della Donna e del Bambino siano ricompresi nei consumi di cui
+all’allegato 12 progetto di gara - Quadro economico. Se sì, si chiede gentilmente di fornire la quota parte di consumi relativi all’ospedale della Donna
+e del Bambino.
+Amministrativo/tecnico
+Convenzione
+Amministrativo/tecnico
+Convenzione
+Amministrativo/ Atti di gara
+Tecnico
+Amministrativo/ Allegato 12
+Tecnico
+ quadro
+economico
+18/01/2024 Si chiede conferma se i consumi di energia elettrica, gas, acqua dell’ospedale in project financing per Policlinico di Borgo Roma siano ricompresi neiconsumi di cui all’allegato 12 progetto di gara - Quadro economico. Se sì, si chiede gentilmente di fornire la quota parte di consumi relativi
+all’ospedale in project
+Amministrativo/ Allegato 12
+Tecnico
+ quadro
+economico
+18/01/2024 Si chiede se la mancanza di quantità nelle voci di cui all’ Allegato 8 Schema di offerta economica relativamente al lotto 2 e 3 nello specifico: “PE5
+Apparecchiature diagnostiche e per terapia fisse” sia un refuso o corrisponda ad una quantità nulla. Nel secondo caso si chiede come possano
+essere nulle voci come numero prestazioni diagnostiche in un lotto su cui insistono ospedali con più di 1500 posti letto ed essendo, per esempio, nel
+lotto 1 pari a 110.015.
+Amministrativo Allegato 8
+Schema di
+offerta
+economica
+18/01/2024 Relativamente all’allegato 8 Schema di offerta economica, per il lotto 5 e il lotto 4 sono inserite quantità pari rispettivamente a n. 18 e n. 22 “PE5
+Apparecchiature diagnostiche e per terapia fisse”. Essendo la quantità pari al numero di prestazioni annue, come definito a pagina 24 dello schema
+di convenzione, appare alquanto inverosimile che il numero di prestazioni siano così esigue. Inoltre le quantità riportate nei lotto 4 e 5 sono
+completamente differenti rispetto ai numeri riportati negli altri lotti (Lotto 1: 110.015; Lotto 6: 65.299) a comprova del fatto che non c’è coerenza tra le
+quantità dei lotti 1 e 2 e delle quantità riportate negli altri lotti. Essendo però il base d’asta uguale per tutti i lotti (euro per ogni prestazione), si chiede
+di inserire per tutti i lotti il numero di prestazioni effettive.
+Amministrativo Allegato 8
+Schema di
+offerta
+economica
+18/01/2024 Relativamente alla squadra di pronto intervento antincendio, si legge, a pagina 26 dello schema di convenzione: “Numero di addetti costituenti la/e
+squadra/e di emergenza tecnica e antincendio richiesti dall’Azienda Sanitaria.”, mentre a pagina 28, si definisce il prezzo della squadra di pronto
+intervento antincendio come: “prezzo per addetto 24h x 7gg”. Il base d’asta risulta essere 107.787,58411 €/addetto.
+Amministrativo/Tecncico
+Convenzione
+SI confermano gli atti di gara. L'N0=2024 riguarda il meccanismo
+di rivalutazione dei prezzi non l'importo relativo alla presenzaione
+dell'offerta il quale verra, se necessario, rivalutato come da atti di
+gara.
+SI confermano gli atti di gara.
+Si conferma che anche nella attuale procedura non sono
+ricomprese le stutture in project.
+Si confermano gli atti di gara.
+I consumi saranno calcolati sulla base dei dati del periodo di
+riferimento e delle tariffe in vigore in tale periodo.
+I fabbisogni richiesti ai fini della formulazione dell'offerta sono quelli
+espressi nell'allegato offerta economica.
+Si confermano gli atti di gara.
+I consumi saranno calcolati sulla base dei dati del periodo di
+riferimento e delle tariffe in vigore in tale periodo.
+I fabbisogni richiesti ai fini della formulazione dell'offerta sono quelli
+espressi nell'allegato offerta economica.
+Si confermano gli atti di gara.
+Viene richiesto comunque di quotare anche le voci che hanno
+attualmente fabbisogno "0/non presente."
+Si confermano gli atti di gara
+Si intende remunerare un servizio antincendio che garantisca la
+presenza di risorse che comprenda un addetto (ruolo) che sia
+presente h24 7su7. L'attivazione costituisce di un'opzione per
+l'Azienda Sanitaria. Vedasi paragrafo 5.6 del Capitolato tecnico, in
+particolare laddove si precisa che "Il personale della Squadra potrà
+comunque essere utilizzato dall’Appaltatore anche per le attività
+manutentive e di presidio, ma dovrà comunque essere sempre
+disponibile per gli interventi in urgenza e in emergenza nel numero
+di addetti previsti dall’Azienda Sanitaria in sede di Preventivo".
+9
+133
+134
+135
+136
+137
+138
+3 parte chiarimenti
+19/01/2024 Riferimento art. 17 – Offerta economica, del disciplinare di gara
+ AmministrativoAll’articolo citato è riportato quanto segue:
+“Ciascun concorrente dovrà, compilare ed allegare negli appositi campi predisposti a Sistema, per ciascun lotto per cui intende presentare offerta,
+un’offerta economica analitica redatta secondo il documento Modello di Offerta Economica Allegato 8 degli Atti di gara, da caricare sia in formato .xls,
+sia in formato .pdf, sottoscritta digitalmente a pena di esclusione nella versione .pdf
+….. omissis ………..
+L’allegato modello di offerta è stato predisposto inserendo le formule per il calcolo automatico del canone; in ogni caso è onere del concorrente
+verificare la correttezza dei risultati ottenuti.”
+1. In riferimento a quanto sopra esposto, si chiede a codesta spettabile Amministrazione di rendere disponibile il documento di cui all’Allegato 8
+anche in formato .xls predisposto con le formule per il calcolo automatico del canone.
+2. Si chiede altresì di confermare che tale file, compilato nel dettaglio, oltre al documento .pdf, dovrà altresì essere caricato a sistema.
+Disciplinare
+19/01/2024 in riferimento all’installazioni di sistemi di monitoraggio degli impianti, al punto “12.1 Generalità” del Capitolato Tecnico si riporta quanto di seguito:
+“Le prestazioni a carico dell’Appaltatore e remunerate nell’ambito del canone relativo ai servizi sono:
+[..]
+3. realizzazione dei sistemi automatici per la gestione e il monitoraggio degli impianti”
+Mentre nei successivi paragrafi viene riportato:
+“L’Appaltatore, previa approvazione dell’Azienda Sanitaria, deve realizzare sistemi automatici di gestione e monitoraggio degli impianti. A questo
+scopo deve presentare all’Azienda Sanitaria entro 90 giorni solari dalla richiesta di preventivo (RdP), un documento di indirizzo alla progettazione
+(DIP) degli interventi necessari a realizzare”.
+Tecnico/Amministrativo
+Capitolato
+Tecnico
+Si chiede conferma che l’installazione di sistemi di monitoraggio degli impianti sia una attività extra canone e pertanto remunerata come
+manutenzione straordinaria.
+22/01/2024 Nel chiarimento n.20 del 20/12/23 confermate la possibilita di presentare una cauzione calcolata solo sull'importo del lotto di maggior valore (lotto 2),pur partecipando a tutti i lotti. Nel chiarimento n. 49 del 02/01/2024 confermate che si può produrre un'unica cauzione ma d'importo pari alla somma
+degli importi di tutti i lotti. Siamo a chiedere quale delle due possibilità confermate definitivamente, dato che gli importi delle cauzioni sono molto alti.
+Amministrativo Disciplinare
+23/01/2024 Vista la data pubblicata sul portale del 20/02/2024, si chiede se è da intendersi come termine di presentazione dell'offerta effettivo
+ Amministrativo Bando
+23/01/2024 Con riferimento al paragrafo 3.4 del Capitolato Tecnico, atteso che la normativa di recepimento delle Direttive 2018/2001 (RED II) e 2019/944 (IEM)
+determina nuove opportunità nell’ambito della valorizzazione e condivisione dell’energia.
+Considerato in particolare che, ai sensi della lettera b), comma 1 dell’articolo 31 del D.Lgs. 199/2021, possono far parte di Comunità Energetiche
+Rinnovabili, tra gli altri soggetti, le “amministrazioni locali contenute nell'elenco delle amministrazioni pubbliche divulgato dall'Istituto Nazionale di
+Statistica”, comprese quindi le Aziende Sanitarie.
+Considerato altresì che gli ultimi decreti attuativi e le regole operative previste dal D.Lgs. 199/2021 sono ormai di prossima adozione, aprendo
+importanti opportunità di risparmio disponibili, per un determinato lasso temporale, per tutti i soggetti aventi diritto.
+Tanto considerato, al fine di non precludere alle Aziende Sanitarie la partecipazione ai benefici economici derivanti dalla normativa, si chiede di
+esplicitare, nel Capitolato Tecnico, nell’ambito dell’articolo 3.4, quanto segue: “l’Appaltatore è obbligato, in caso di esplicita e formale richiesta
+dell’Azienda Sanitaria contraente, a conferire specifico mandato e/o quant’altro necessario per la valorizzazione dell’energia elettrica consumata o
+prodotta, ad una o più Configurazioni di Autoconsumo per la Condivisione dell’Energia Rinnovabile (CACER).
+Il mandato dovrà essere conferito dall’Appaltatore secondo le modalità che saranno definite nelle Regole Operative di prossima emanazione e
+interesserà la valorizzazione dell’energia prodotta da uno o più POD compresi nel perimetro dell’appalto. L’Appaltatore si dovrà altresì impegnare a
+trasferire i benefici economici derivanti dalla valorizzazione dell’energia prodotta/consumata ai POD compresi nel perimetro dell’Ordinativo di
+Fornitura all’Azienda Sanitaria contraente in quanto soggetto beneficiario”
+Tecnico/Amministrativo
+Capitolato
+Tecnico
+24/01/2024 Con riferimento al paragrafo 5.3 dell'Allegato 6 Capitolato Tecnico, si chiede di indicare quali strutture ospedaliere, Lotto per Lotto, richiedono la
+presenza di personale per il presidio tecnologico.
+Tecnico/Amministrativo
+Capitolato
+Tecnico
+1.Il file XLS è reso disponibile sin dall'inizio, in ogni caso si rende
+disponibile da subito una nuova verione emendata di ogni errore
+materiale presente nelle formule.
+2. Si conferma anche la necessità di caricare il file pdf.
+Non si conferma quanto richiesto.
+Conformemente a quanto previsto nel Disciplinare di gara all'art.
+10, si conferma la risposta data nel quesito 49, e si rettifica quindi il
+precedente chiarimento n. 20.
+Pertanto, il chirimento definitivo è:
+1. In caso di partecipazione a più lotti, l’operatore economico
+potrà produrre un'unica cauzione provvisoria per tutti i lotti
+cui partecipa o disitnte cauzioni per ciascun lotto.
+2. L’importo della cauzione provvisoria dovrà essere pari al
+2% calcolato sull’importo complessivo del Lotto. Trattasi di
+refuso. Si provvederà a pubblicare quanto prima lo stesso
+documento emendato, con apposito provvedimento. Si
+riportano di seguito gli importi corretti.
+Cauzione 2% sul Totale complessivo:
+Lotto 1 € 2.394.250,98
+Lotto 2 € 3.795.326,58
+Lotto 3 € 1.360.060,33
+Lotto 4 € 1.404.766,74
+Lotto 5 € 3.430.049,08
+Lotto 6 € 2.650.473,44
+Con l'adozione del provvedimento di modifica degli atti di gara,
+verrà definita una congrua proroga del termine di presentazione
+offerte. In ogni caso si tenga monitorato l'aggiornamento del
+termine di presenteazione offerte indicato nell'applicativo Sintel.
+Si confermano gli atti di gara
+Si confermano gli atti di gara. L'Operatore Economico dovra
+formulare l'offerta sulla base del modello organizzativo proposto.
+10
+139
+140
+141
+142
+143
+144
+145
+146
+147
+3 parte chiarimenti
+24/01/2024 Chiedo cortesemente di poter ricevere risposta al chiarimento inviato dalla scrivente in data 29 Dicembre 2023 che di seguito riporto:
+ Tecnico/Ammin Disciplinare
+“In merito ai requisiti di capacità tecnica e professionale indicati nel disciplinare di gara (pag. 21), chiediamo conferma che, in caso di Consorzio di
+ istrativo
+cui all’articolo 65, comma 2, lettera b) del codice, la certificazione UNI CEI 11352 è sufficiente che sia posseduta dal consorzio e da almeno una delle
+consorziate indicate come esecutrici.
+Si chiede inoltre una proroga di 20 giorni (diconsi giorni venti), in considerazione della complessità dello studio in argomento, al fine di consentire una
+accurata e puntuale formulazione dell’offerta, economica e tecnica.”
+24/01/2024 con riferimento ai servizi analoghi di cui all'art. 6.2 del Disciplinare di gara, si chiede conferma che:
+- in un contratto pluriennale remunerato a canone avente ad oggetto la manutenzione impianti elettrici compresa la fornitura energia e combustibili,
+comprovato con CEL nel quale la “manutenzione impianti elettrici” e la “ fornitura energia e combustibili” (annessa agli impianti stessi) sono indicati
+per decisione dell’ente Contraente con voci separate, l’importo relativo alla fornitura energia possa essere utilizzato per il soddisfacimento del
+requisito;
+- la “gestione calore comprensiva di manutenzione termica e fornitura gas metano ed energia elettrica” possa essere considerato servizio analogo e
+pertanto utilizzato per il soddisfacimento del requisito;
+- il “servizio energia e manutenzione impianti di climatizzazione” possa essere considerato servizio analogo e pertanto utilizzato per il
+soddisfacimento del requisito.
+Tecnico/Amministrativo
+Disciplinare
+24/01/2024 Con la presente vi preghiamo confermare che, in deroga a quanto previsto dal disciplinare di gara, in caso di partecipazione a più lotti, si possa
+presentare un'unica polizza fideiussoria, con l’indicazione dei lotti a cui si partecipa, ma calcolata sul valore del Lotto maggiore.
+Amministrativo Disciplinare
+24/01/2024 Nello schema di convenzione sono riportate le regole di misurazione riferite alle voci di prezzo riportate in offerta economica. Per alcune voci
+chiediamo di chiarire quando segue:
+1. Servizio D idrico sanitario – Pd3, chiediamo se l’unità di misura in euro/mq sia un refuso, in quanto trattandosi di filtri antilegionella sembra più
+appropriato un canone a pezzo unitario anche considerando la tariffa indicata che sembra riferita all’unità e non al mq.
+Tecnico/Ammin Allegato 8
+istrativo
+ Schema di
+offerta
+economica
+24/01/2024 2. Servizio E impianti elettrici – Pe5, il canone corrisponde al numero di prestazioni annue delle apparecchiature di diagnostica per immagini. Per il
+lotto 1 e 6 nei moduli offerta sono state riportate delle quantità compatibili con attività ospedaliera. Considerando che il servizio retribuisce anche il
+fabbisogno di energia elettrica della prestazione, chiediamo di controllare perché nei moduli offerta dei lotti 2 – 3 – 4 – 5 non è stato riportato una
+quantità plausibile o delle quantità minime che potrebbero corrispondere al numero delle apparecchiature esistenti e non a quello delle prestazioni.
+Inoltre chiediamo insieme al dato corretto se è possibile avere ad oggi il dato di base delle prestazioni 2023.
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 3. Sempre al riguardo del servizio energetico elettrico chiediamo invece, per tutte le altre apparecchiature non attinenti agli impianti tecnologici in
+manutenzione ne a quelli di diagnostica appena citati, dovendo fornire e monitorare i consumi energetici delle strutture, come richiesto dal capitolato
+tecnico, come si procederà al controllo dell’aumento del numero di apparecchiature elettriche che non competono al controllo dell’appaltatore (da
+apparecchi elettromedicali, macchine da ufficio, alimentatori e caricatori di utenti e personale sanitario e non, che però incidono nella migliaia di
+attività giornaliere per ogni apparecchiatura. È possibile avere un parametro di base 0 ad esempio con le giornate di degenza, con il numero dei
+cespiti e con le giornate lavorative del personale dipendente, in modo da poter annualmente verificare la variazione incidente sul consumo?
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 4. Servizio F impianti speciali – Pf1, è corretto interpretare che rientrano nella superficie tutti i vani in cui insiste almeno 1 impianto tra quelli elencati
+nella specifica?
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 5. Servizio J altri impianti tecnologici – nelle specifiche di misurazione troviamo Qj3 utenze protette da filtri antilegionella, è corretto che tale specificacorrisponde a quella probabilmente errata segnalata prima nel servizio idrico?
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 6. Impianti posta pneumatica, il metodo di conteggio richiede il quantitativo di stazioni costituenti l’impianto. Per i lotti 4 e 6 sembra che invece siano
+stati indicati gli impianti nel complesso, è possibile avere il numero corretto delle stazioni esistenti?
+Tecnico/Amministrativo
+Convenzione
+Nel caso di consozio si conferma.
+Con l'adozione del provvedimento di modifica degli atti di gara,
+verrà definita una congrua proroga del termine di presentazione
+offerte. In ogni caso si tenga monitorato l'aggiornamento del
+termine di presenteazione offerte indicato nell'applicativo Sintel.
+I servizi analoghi sono dettagliatamente definiti all'art. 6.2 del
+Disciplinare. Si tenga presente che è esclusa la mera fornitura di
+energia elettrica e di combustibili.
+Non si conferma. Conformemente a quanto previsto nel
+Disciplinare di gara all'art. 10, si conferma la risposta data nel
+quesito 49, e si rettifica quindi il precedente chiarimento n. 20.
+Pertanto, il chirimento definitivo è:
+1. In caso di partecipazione a più lotti, l’operatore economico potrà
+produrre un'unica cauzione provvisoria per tutti i lotti cui partecipa
+o disitnte cauzioni per ciascun lotto.
+2. L’importo della cauzione provvisoria dovrà essere pari al 2%
+calcolato sull’importo complessivo del Lotto. Trattasi di refuso. Si
+provvederà a pubblicare quanto prima lo stesso documento
+emendato, con apposito provvedimento. Si riportano di seguito gli
+importi corretti.
+Cauzione 2% sul Totale complessivo:
+Lotto 1 € 2.394.250,98
+Lotto 2 € 3.795.326,58
+Lotto 3 € 1.360.060,33
+Lotto 4 € 1.404.766,74
+Lotto 5 € 3.430.049,08
+Lotto 6 € 2.650.473,44
+Si conferma quanto richiesto. Trattasi di refuso per quanto riguarda
+l'unità di misura nell'Offerta Economica.
+Con l'adozione del provvedimento di modifica degli atti di gara
+verrà adeguato lo schema di offerta economica e integrato lo
+schema di Convenzione.
+Si confermano gli atti di gara.
+Non si conferma. Trattasi di un servizio pagato a canone
+omnicomprensivo.
+Si confermano i fabbisogni indicati.
+Si confermano i fabbisogni indicati.
+Si confermano i fabbisogni indicati.
+11
+148
+149
+150
+151
+152
+153
+154
+155
+156
+3 parte chiarimenti
+24/01/2024 7. Servizio L personale aggiuntivo – considerando la notevole variabilità di personale richiesto nei diversi lotti, considerando che la variabilità non è
+proporzionale alla dimensione delle strutture del relativo lotto, chiediamo di chiarire, per il presidio giornaliero specializzato, in cui si definiscono
+operai specializzati impiantisti elettrici, termotecnica e idraulica ospedaliera, se nella tariffa indicata è possibile che vengano richieste altre figure
+tecniche per altri servizi e con qualifiche da tecnici e/o impiegati invece che operai?
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 8. Per la squadra di pronto intervento antincendio, il capitolato tecnico definisce una squadra, non un operatore, ma quindi 2 operatori insieme in
+servizio, con presenza 24h x 7gg, quindi 2 h24 corrispondenti a 8760 ore annue per 2 operatori, uguale 17.520 ore annue. La tariffa indicata è di
+107.787, 58 euro annui, quindi 6,15 euro/ora. Considerando che il CCNL metalmeccanico per gli operai livello D1 (ex2°), il più basso previsto, la
+tariffa minima oraria ministeriale è di 20,80 euro/ora a cui si dovrebbe integrare circa il 10% per turnazione H24, chiediamo se ci sia un errore nella
+tariffa riportata e se debba essere rettificata.
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 9. Analizzando e comparando i consumi energetici dei vari lotti, abbiamo rilevato una incongruenza di cui chiediamo il controllo ed eventuale rettifica. Tecnico/Ammin Convenzione
+Per il lotto 4 in cui, l’Ospedale di Bassano dichiarato in allegato 5.2 struttura ad alta intensità di cura, lo stesso incide per circa il 60% dei consumi dei istrativo
+vettori energetici. Il modulo offerta al capitolo E servizi elettrici, alle voci Pe1 e Pe2 sembra riportare delle superfici invertite tra i due canoni e questo
+causa un valore del servizio elettrico non congruo con la necessità di acquisto sul mercato di circa 30.000.000 di kWh al netto di quella prodotta dagli
+impianti di cogenerazione. Questa anomalia così accentuata si riscontra solo in questo lotto ed è causa di una carenza importante nell’ordine di
+milioni di euro annui nel canone complessivo. Chiediamo pertanto una verifica e la rettifica dei dati esposti e conseguentemente della base d’asta di
+questo lotto.
+24/01/2024 10. Sempre raffrontando i dati tra i vari lotti, al riguardo della clausola sociale, abbiamo rilevato che mentre per i lotti 2 – 3 – 4 – 5 – 6 il rapporto tra
+addetti da riassorbire oscilla in un campo variabile in un massimo del 15/20% rispetto alle superfici da prendere in carico, nel lotto 1 tale rapporto ha
+una incidenza doppia di personale da riassorbire. Chiediamo un controllo del personale inserito in clausola sociale per il lotto 1 per verificare se non
+siano stati inseriti anche addetti alla manutenzione straordinaria, ovvero, visto che al servizio L personale aggiuntivo, questo lotto richiede 18
+operatori, questi non siano compresi tra quelli indicati in clausola sociale. Considerando anche che negli altri lotti, visti i numeri dichiarati come
+personale aggiuntivo, sicuramente questo, non è stato inserito tra quelli di clausola sociale.
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 11. Al riguarda della gestione con sistema informativo, chiediamo di sapere se attualmente tutti i lotti sono gestiti con un sistema informativo dotato diDataBase alfanumerico che resterà di proprietà delle aziende sanitarie e se per tutti i fabbricati esiste documentazione di base grafica sia
+architettonica e se sia presente su essa la componentistica a vista. In caso di non uniformità, chiediamo per singolo lotto la percentuale media di
+documentazione grafica architettonica, grafica impiantistica e database alfanumerico dei componenti e dati delle strutture.
+Tecnico/Amministrativo
+Convenzione
+24/01/2024 13. Non essendo previsti i sopralluoghi presso gli impianti, chiediamo quali siano le strutture in cui sono presenti centrali termiche a vapore, potenza
+e numero dei generatori ed anzianità di servizio dei generatori ed a quali utenze è dedicato il vapore. Tale dato è necessario per il calcolo della
+maggiore incidenza del consumo sulle tariffe espresse.
+Tecnico
+Convenzione
+24/01/2024 14. Per quanto riguarda il funzionamento delle centrali termiche in emergenza per mancanza gas metano, chiediamo quali siano le centrali dotate di
+generatori funzionanti a doppio combustibile con serbatoi di stoccaggio del gasolio.
+Tecnico
+Convenzione
+24/01/2024 15. Non avendo una consistenza specifica, e dovendo prevedere campionature periodiche, comprese nel canone per controllo di inquinamento
+chimico o batteriologico, chiediamo per ogni lotto il numero di campioni annui medi da analizzare considerati per tutte le categorie di impianti.
+24/01/2024 16. Al fine di valutare la tipologia di sviluppo BIM, chiediamo la possibile consegna delle planimetrie delle strutture ospedaliere, per valutarne la
+completezza e definire i LOD applicabili.
+Tecnico/Amministrativo
+Convenzione
+Tecnico/Amministrativo
+Convenzione
+Si confermano i fabbisogni indicati.
+Si intende remunerare un servizio antincendio che garantisca la
+presenza di risorse che comprenda un addetto (ruolo) che sia
+presente h24 7su7. L'attivazione costituisce di un'opzione per
+l'Azienda Sanitaria. Vedasi paragrafo 5.6 del Capitolato tecnico, in
+particolare laddove si precisa che "Il personale della Squadra potrà
+comunque essere utilizzato dall’Appaltatore anche per le attività
+manutentive e di presidio, ma dovrà comunque essere sempre
+disponibile per gli interventi in urgenza e in emergenza nel numero
+di addetti previsti dall’Azienda Sanitaria in sede di Preventivo".
+Si confermano i fabbisogni indicati.
+Si confermano gli atti di gara.
+L'operatre economico, nel formulare la propria offerta, dovrà tenere
+presente complessivamente il personale indicato e le relative
+qualifiche.
+Si confermano gli atti di gara. Quanto disponibile è stato fornito
+con la documentazione già pubblicata.
+I fabbisogni richiesti ricomprendono anche la produzione di vapore.
+Si confermano, quindi, gli atti di gara.
+Tutte.
+Si confermano gli atti di gara.
+Si confermano gli atti di gara.
+12
+157
+158
+159
+160
+161
+162
+163
+164
+165
+3 parte chiarimenti
+26/01/2024 La presente per chiedere conferma che, in caso di partecipazione a più lotti, dato che l’aggiudicazione può riguardare un lotto solo per ogni
+Operatore Economico, l’importo della cauzione provvisoria da presentare debba essere pari al 2% dell’importo del lotto di maggior valore, e pertanto
+pari a € 3.795.326,58, sul quale applicare poi le riduzioni ai sensi di legge.
+Formuliamo la suddetta domanda in quanto c’è discordanza tra quanto scritto sul disciplinare e quanto indicato al chiarimento n. 20.
+Si chiede inoltre conferma che non sia richiesto, in fase di offerta, l’impegno al rilascio della cauzione definitiva.
+Amministrativo Disciplinare
+26/01/2024 Si chiede altresì, visto l’avvicinarsi del termine di scadenza per la presentazione delle offerte, se il disciplinare, come indicato in alcuni chiarimenti, è
+stato rettificato e, se sì, dove poterlo visionare.
+Amministrativo Atti di gara
+26/01/2024 Con riferimento al file “Allegato 12 progeto di gara - Quadro economico” si chiede di chiarire:
+- Indicare a quale combustibile si faccia riferimento per i consumi afferenti alla parte termica per tutte le utenze, in particolare per quelle in cui l’unità
+di misura è differente da [smc]
+- Indicare a quali POD faccia riferimento la produzione di energia eletrica da cogenerazione per gli impianti individuati nell’allegato “Allegato
+6.1_CAPITOLATO_IMPIANTI COGENERAZIONE”, ove mancante.
+- Indicare a quali PDR faccia riferimento il consumo di metano per alimentare gli impianti di cogenerazione individuati nell’allegato “Allegato
+6.1_CAPITOLATO_IMPIANTI COGENERAZIONE”, ove mancante.
+26/01/2024 Si chiede di chiarire come venga remunerata l’energia eletrica prodota dagli impianti di cogenerazione individuata nell’allegato “Allegato
+6.1_CAPITOLATO_IMPIANTI COGENERAZIONE” e ceduta in autoconsumo alle utenze oggeto dell’appalto.
+26/01/2024 Si chiede di chiarire come venga remunerata l’energia eletrica prodota dagli impianti fotovoltaici presenti e ceduta in autoconsumo alle utenze oggetodell’appalto.
+26/01/2024 Si chiede il censimento degli impianti fotovoltaici presenti nelle utenze oggeto dell’appalto.
+29/01/2024 QUESITO 1
+In riferimento alla procedura di Gara in esame, come riportato all’art. 20.5 del relativo “Schema di Convenzione”, si evince che la
+revisione periodica dei prezzi verrà effettuata attraverso l’applicazione di una formula matematica basata sull’utilizzo dell’indice
+nazionale dei prezzi al consumo per l’intera collettività (NIC) ...
+Amministrativo/ Progetto di
+Tecnico
+ gara
+Amministrativo/ Progetto di
+Tecnico
+ gara
+Amministrativo/ Progetto di
+Tecnico
+ gara
+Amministrativo Progetto di
+gara
+Amministrativo/ Convenzione
+Tecnico
+(si veda il quesito integrale nell'allegato Quesito 163.1)
+29/01/2024 QUESITO 2
+In riferimento all’art. 7.2.2.3 del Capitolato Tecnico, in cui è introdotta la possibilità – da parte della Stazione Appaltante – di richiedere una variazione
+della temperatura di comfort indoor in uno o più luoghi di fornitura (come peraltro riscontrabile in tutte le gestioni ospedaliere e sanitarie), si chiede
+conferma che il calcolo dei Gradi Giorno reali avverrà anche in ragione di tali variazioni, dato che avranno un diretto impatto sui consumi di
+combustibile ad uso riscaldamento. Tale conferma, consentirebbe alle Amministrazioni Convenzionate di avere piena libertà rispetto alle condizioni
+termo igrometriche da garantirsi in ambiente e agli appaltatori di essere adeguatamente remunerati in ragione delle richieste di queste ultime.
+Tecnico
+Capitolato
+Tecnico
+29/01/2024 QUESITO 3
+In riferimento a quanto riportato nel modello di Offerta Economica per il servizio C del lotto 3, si segnala che la superficie indicata pari a 21.925 mq
+appare fortemente anomala rispetto al dato di consumo dei vettori energetici dichiarati (gas ed energia elettrica). Si ritiene necessario reperire tale
+informazione per eliminare questo forte fattore di ambiguità, che consentirebbe agli operatori economici di disporre di informazioni coerenti rispetto al
+patrimonio posto a base di gara.
+Amministrativo/Tecnico
+Offerta
+Economica
+Non si conferma. Conformemente a quanto previsto nel
+Disciplinare di gara all'art. 10, si conferma la risposta data nel
+quesito 49, e si rettifica quindi il precedente chiarimento n. 20.
+Pertanto, il chirimento definitivo è:
+1. In caso di partecipazione a più lotti, l’operatore economico potrà
+produrre un'unica cauzione provvisoria per tutti i lotti cui partecipa
+o disitnte cauzioni per ciascun lotto.
+2. L’importo della cauzione provvisoria dovrà essere pari al 2%
+calcolato sull’importo complessivo del Lotto. Trattasi di refuso. Si
+provvederà a pubblicare quanto prima lo stesso documento
+emendato, con apposito provvedimento. Si riportano di seguito gli
+importi corretti.
+Cauzione 2% sul Totale complessivo:
+Lotto 1 € 2.394.250,98
+Lotto 2 € 3.795.326,58
+Lotto 3 € 1.360.060,33
+Lotto 4 € 1.404.766,74
+Lotto 5 € 3.430.049,08
+Lotto 6 € 2.650.473,44
+Si conferma che la vigente normativa non richiede l’impegno al
+rilascio della cauzione definitiva.
+Con l'adozione del provvedimento di modifica degli atti di gara, gli
+stessi atti verranno pubblicati con un congruo anticipo rispetto al
+termine di presentazione offerte.
+In ogni caso si tenga monitorato l'aggiornamento dei documenti
+pubblicati nell'applicativo Sintel.
+Per quanto riguarda la prima domanda l combustibile nell'allegato
+12, lotto 6 con le quantità espresse in Kg è riferito ad "OLIO
+combustibile BTZ" e le quantità espresse in Mcal si intendono
+"Megacaloria" riferite alle strutture collegate al teleriscaldamento.
+Per la seconda e terza domanda domanda vedasi allegato
+"cogenerartori dati ulteriori"
+Non è prevista la remunerazione in quanto il servizio elettrico è
+remunerato al mq.
+I fabbisogni indicati non tengono conto di eventuali impianti
+fotovoltaici attivi.
+I fabbisogni indicati non tengono conto di eventuali impianti
+fotovoltaici attivi.
+Si confermano gli atti di gara.
+Si conferma.
+Si confermano i fabbisogni indicati. Il fabbisogno può essere
+diverso rispetto alla consistenza immobiliare e relativi consumi.
+13
+166
+167
+168
+169
+170
+171
+172
+3 parte chiarimenti
+31/01/2024 Con riferimento al modello di offerta economica messo a disposizione dalla Spett.le Stazione Appaltante, segnaliamo un errore nel foglio Offerta
+Lotto 1 e nel foglio Offerta Lotto 4: se si compilano le celle in verde riportando i prezzi unitari a base d’asta, la cella “TOTALE CANONE ANNUO
+CONVENZIONALE DI OFFERTA” non riporta lo stesso importo della cella “TOTALE CANONE ANNUO CONVENZIONALE A BASE D’ASTA”.
+Si chiede, pertanto, di mettere a disposizione il modello di offerta economica corretto.
+31/01/2024 Con la presente si chiede cortesemente di sapere quale sia la data certa di presentazione delle offerte.
+AmministrativoAmministrativoOfferta
+Economica
+Bando
+31/01/2024 - Lotto 2 AOVR – presso le strutture ospedaliere di Borgo Trento e Borgo Roma, in entrambi i casi la produzione di energia è centralizzata in una rete Amministrativo/ Capitolato
+unica di distribuzione, sia per la parte termica che per quella elettrica. Le due strutture sono dotate di centrale di produzione ed impianto di
+ Tecnico
+ Tecnico
+cogenerazione. Le tariffe previste per la composizione dei relativi canoni, sono espresse in unità di volume/superficie comprensive di oneri di
+approvvigionamento di energia termica ed elettrica, di oneri di manodopera, materiali servizio di governo ed accessori. Non è stato previsto uno
+metodo di scorporo/retribuzione del solo consumo energetico. In entrambe le strutture ospedaliere risulterebbero presenti alcune parti di dimensione
+considerevoli della struttura, che attualmente hanno in corso una procedura di project financing e non sono prossime alla scadenza. Chiediamo di
+chiarire come dovranno essere gestite queste parti delle strutture, rimanendo la produzione energetica all’appaltatore che vincerà il lotto e la parte
+manutentiva ai titolari del PF e come si dovrà suddividere il canone unitario?
+31/01/2024 - Capitolato tecnico articolo 11.2 – diagnosi energetiche – il presente articolo richiede la elaborazione entro 90 giorni solari dalla data dell’Ordinativodi Fornitura (OdF) delle diagnosi energetiche delle strutture consegnate. Chiediamo di chiarire quanto segue:
+o È corretto interpretare che i giorni decorreranno da quando le Aziende sanitarie consegneranno tutta la documentazione, soprattutto quella grafica
+indispensabile per la elaborazione delle diagnosi, anche considerando che nel caso la documentazione consegnata non sia completa, la tempistica
+per la restituzione dell’anagrafe tecnica è di 180 gg e pertanto prima sarà impossibile procedere alla elaborazione delle diagnosi?
+o Inoltre vogliamo ricordare che la elaborazione delle diagnosi ricade nella responsabilità professionale di chi elabora e firma tale documento. La
+Legge 102/2014 per l’elaborazione rimanda ai criteri contenuti nelle norme tecniche UNI CEI EN 16247 (parti da 1 a 4) in cui si definiscono
+criteri/metodi che è possibile perseguire solo attraverso lo storico dei consumi degli ultimi 3 anni. Ulteriore riferimento è quello delle “Linee guida DE
+edifici pubblici” redatto da ENEA - ES-PA “Energia e Sostenibilità per la Pubblica Amministrazione” a gennaio 2019 dove è fatto esplicito riferimento
+all’analisi dei 3 anni di bollette e ultimo anno di consumi effettivi. Considerando l’importanza dell’argomento da trattare in modo professionalmente
+ineccepibile, considerando che le varie convenzioni potranno verosimilmente essere avviate non prima dell’autunno 2024, che quindi gli ultimi 3 anni,
+2 storici e 1 da rilevare in loco sotto controllo del certificatore, che quindi scadrà in autunno 2025, chiediamo se la decorrenza dei giorni utili di
+elaborazione, sia corretto che parta dopo 1 anno dall’avvio del servizio.
+Amministrativo/Tecnico
+Capitolato
+31/01/2024 Con l’occasione chiediamo notizie al riguardo della pubblicazione dei documenti di gara in revisione come precedentemente comunicato e della
+pubblicazione ufficiale della proroga attualmente visibile sul portale Sintel.
+Amministrativo Atti di gara
+08/02/2024 CHIARIMENTO N. 1 Si chiede di confermare che nel caso in cui l'operatore economico partecipi a tutti i lotti, l'mporto della cauzione provvisoria sia
+di € 3.795.326,58, corrispondente al lotto n. 2 (Lotto di maggiore importo), fatte salve le riduzioni di cui all'art. 106 comma 8.
+Amministrativo Disciplinare
+08/02/2024 CHIARIMENTO N. 2 Si chiede di confermare che verrà pubblicato il documento emendato con apposito provvedimento come indicato nella risposta
+al chiarimento n. 49
+Amministrativo Disciplinare
+Si conferma quanto richiesto. Trattasi di refuso per quanto riguarda
+l'unità di misura nell'Offerta Economica.
+Con l'adozione del provvedimento di modifica degli atti di gara
+verrà adeguato lo schema di offerta economica e integrato lo
+schema di Convenzione.
+Con l'adozione del provvedimento di modifica degli atti di gara,
+verrà definita una congrua proroga del termne di presentazione
+offerte.
+In ogni caso si tenga monitorato l'aggiornamento del termine di
+presenteazione offerte indicato nell'applicativo Sintel.
+I consumi saranno calcolati sulla base dei dati del periodo di
+riferimento e delle tariffe in vigore in tale periodo.
+Si confermano le tempisitche indicate negli atti di gara.
+Con l'adozione del provvedimento di modifica degli atti di gara,
+verrà definita una congrua proroga del termne di presentazione
+offerte.
+In ogni caso si tenga monitorato l'aggiornamento del termine di
+presenteazione offerte indicato nell'applicativo Sintel.
+Non si conferma. Conformemente a quanto previsto nel
+Disciplinare di gara all'art. 10, si conferma la risposta data nel
+quesito 49, e si rettifica quindi il precedente chiarimento n. 20.
+Pertanto, il chirimento definitivo è:
+1. In caso di partecipazione a più lotti, l’operatore economico potrà
+produrre un'unica cauzione provvisoria per tutti i lotti cui partecipa
+o disitnte cauzioni per ciascun lotto.
+2. L’importo della cauzione provvisoria dovrà essere pari al 2%
+calcolato sull’importo complessivo del Lotto. Trattasi di refuso. Si
+provvederà a pubblicare quanto prima lo stesso documento
+emendato, con apposito provvedimento. Si riportano di seguito gli
+importi corretti.
+Cauzione 2% sul Totale complessivo:
+Lotto 1 € 2.394.250,98
+Lotto 2 € 3.795.326,58
+Lotto 3 € 1.360.060,33
+Lotto 4 € 1.404.766,74
+Lotto 5 € 3.430.049,08
+Lotto 6 € 2.650.473,44
+Non si conferma. Si veda inoltre la risposta al precedente
+chiarimento.
+14

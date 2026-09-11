@@ -1,0 +1,97 @@
+COMUNE DI ALGHERO — PPP ENERGIA: ANOMALIA SCADENZA
+====================================================
+Segnalazione del 19 giugno 2026
+
+
+COSA È STATO TROVATO
+--------------------
+Durante le verifiche incrociate del 19/06/2026 è emersa una discrepanza
+tra la scadenza riportata nel Prospetto Attività Commerciale Pubblico
+e quanto segnalato da fonte di settore.
+
+
+CONFRONTO
+---------
+DATI NEL PROSPETTO (sezione "In Valutazione", riga 7):
+- Oggetto: PPP termico + pubblica illuminazione
+- Importo: 33.835.000 €
+- Durata: 20 anni
+- Scadenza: 24/04/2026
+- Stato: NON ANCORA PUBBLICATO
+
+DATI SU QUALENERGIA.IT PRO (testata energia/efficientamento):
+- Oggetto: "Avviso pubblico per la presentazione di proposte di P.P.P.
+  per la riqualificazione e gestione energetica di immobili di proprietà
+  della pubblica amministrazione del comune di Alghero (SS)"
+- Importo: n.d. (non disponibile)
+- Scadenza: 27/02/2026
+- Link: https://www.qualenergia.it/pro/documenti/riqualificazione-energetica-immobili-di-proprieta-comune-di-alghero-ss/
+
+
+POSSIBILI SPIEGAZIONI
+---------------------
+Ipotesi 1 — PRE-PUBBLICAZIONE RITIRATA
+   Il Comune di Alghero avrebbe pubblicato un primo avviso con scadenza
+   27/02/2026, poi ritirato. QualEnergia avrebbe indicizzato la prima
+   versione. La data 24/04/2026 nel prospetto sarebbe la nuova pianificazione.
+
+Ipotesi 2 — DUE PROCEDURE DIFFERENTI
+   Si tratta di due bandi distinti:
+   - QualEnergia segnala una procedura più limitata (solo riqualificazione
+     immobili, importo n.d.)
+   - Il prospetto traccia una procedura più ampia (termico + illuminazione,
+     33,8 M€, 20 anni)
+
+Ipotesi 3 — PROSPETTO DA AGGIORNARE
+   La scadenza 24/04/2026 è obsoleta. La gara si è chiusa il 27/02/2026
+   e non è stata aggiornata internamente.
+
+
+PERCHÉ ATTENDE CHIARIMENTO
+--------------------------
+La data 27/02/2026 è già passata da diversi mesi. Se è la stessa procedura,
+significa che la gara è chiusa (potenzialmente persa, se non si è presentata
+offerta). Se è una procedura diversa, occorre identificarla con precisione.
+
+Il portale appalti Comune Alghero (Maggioli Cloud) è il canale primario
+per la verifica:
+https://alghero.maggiolicloud.it/portaleappalti/it/homepage.wp
+
+
+AZIONI CONSIGLIATE
+------------------
+1. Verifica interna a Certosa Servizi:
+   - Chi ha inserito la scadenza 24/04/2026 nel prospetto?
+   - Su quale fonte?
+   - Risale a quando?
+
+2. Verifica esterna sul portale Comune:
+   - Cercare avvisi con scadenza 27/02/2026
+   - Cercare avvisi con scadenza 24/04/2026
+   - Confrontare descrizione (importo, durata, oggetto)
+
+3. Richiesta diretta al Comune (Ufficio Appalti):
+   - PEC: protocollo@pec.comune.alghero.ss.it
+   - Domanda: stato della procedura PPP termico + pubblica illuminazione
+
+4. Verificare con potenziali partner ATI (RENOVIT, GETEC) se hanno
+   ricevuto comunicazioni o aggiornamenti.
+
+
+LINK UTILI
+----------
+- Portale appalti Alghero: https://alghero.maggiolicloud.it/portaleappalti/
+- Comune di Alghero (avvisi): https://comune.alghero.ss.it/it/amministrazione/documenti-dati/documenti-albo-pretorio/
+- QualEnergia.it PRO (fonte segnalazione): https://www.qualenergia.it/pro/documenti/riqualificazione-energetica-immobili-di-proprieta-comune-di-alghero-ss/
+
+
+NOTA
+----
+Questo tipo di discrepanza emerge tipicamente quando:
+- Il monitoraggio interno (assistenza alla preparazione delle gare) non è
+  sincronizzato col monitoraggio commerciale (prospetto attività).
+- Una procedura viene pubblicata, ritirata e ripubblicata sul portale.
+- Una procedura viene annunciata informalmente ma non ancora bandita.
+
+Per evitare ricorrenze, è consigliabile attivare un alert RSS o e-mail
+sul portale appalti Alghero Maggioli e su QualEnergia.it.

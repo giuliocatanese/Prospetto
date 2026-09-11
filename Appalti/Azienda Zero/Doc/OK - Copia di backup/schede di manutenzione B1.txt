@@ -1,0 +1,1082 @@
+
+InsiemeCodice
+famigliaCodice
+tipoAttivitàPeriodicitàCabine elettriche di consegna e di trasformazione MT/BTB1.11Rimozione degli eventuali materiali in deposito non attinenti e pulizia del locale4MCabine elettriche di consegna e di trasformazione MT/BTB1.12
+Verifica della presenza dei dispositivi di protezione individuali e di estinzione incendi4MCabine elettriche di consegna e di trasformazione MT/BTB1.13Verifica della presenza dei cartelli monitori e della documentazione di impianto4MCabine elettriche di consegna e di trasformazione MT/BTB1.14Controllo dello stato di conservazione delle strutture di protezione contro i contatti
+diretti: reti, cancelli, serramenti, plexiglas, ecc.4MCabine elettriche di consegna e di trasformazione MT/BTB1.15Verifica dell'integrità dei dispositivi di blocco che impediscono l'accesso alle parti in
+tensione4MCabine elettriche di consegna e di trasformazione MT/BTB1.16Eseguire la pulizia ed il controllo visivo dell'integrità degli isolatori4MCabine elettriche di consegna e di trasformazione MT/BTB1.17Eseguire il controllo del serraggio dei collegamenti elettrici agli isolatori4MCabine elettriche di consegna e di trasformazione MT/BTB1.18Eliminare le ossidazioni e proteggere i morsetti con opportuno materiale4MCabine elettriche di consegna e di trasformazione MT/BTB1.19Eseguire il controllo dell'efficienza dei leverismi di apertura automatica (comando
+intervento fusibili e/o bobinadi apertura) e delle leve di rinvio a terra dei comandi4MCabine elettriche di consegna e di trasformazione MT/BTB1.110Verificare l'efficienza degli interblocchimeccanicie/o elettrici tra sezionatore di linea e
+sezionatore di terra4M
+
+
+Cabine elettriche di consegna e di trasformazione MT/BT
+
+
+B1.1
+
+
+11
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNQuadri di MTB1.21Rilevazione anomalie e segnalazione allarmiMQuadri di MTB1.22Esame a vista stato materialiMQuadri di MTB1.23Verifica funzionalità delle chiavi e delle serratureMQuadri di MTB1.24Misura dei valori delle grandezze elettriche e annotazione su apposito registroMQuadri di MTB1.25Pulizia interna e esterna con aspirapolvere e aria secca a bassa pressione6MQuadri di MTB1.26Rimozione della polvere dalle parti isolanticon stracci bel asciutti6MQuadri di MTB1.27Verifica dell'integrità dell'apparecchiatura4MQuadri di MTB1.28
+Controllo dello stato di conservazione delle strutture di protezione contro i contatti diretti4MQuadri di MTB1.29Controllo del serraggio dei bulloni e pulizia delle connessioni4MQuadri di MTB1.210Verifica della continuità dei conduttori di terra delle strutture metalliche (quadri, portelle,
+schermi e reti di protezione) e delle apparecchiature installate4MQuadri di MTB1.211Verifica dell'efficienza dei dispositivi di blocco (serrature di sicurezza, fine corsa, ecc.)
+che impediscono l'accesso alle parti in tensione4MQuadri di MTB1.212Verifica dell'efficienza delle resistenze anticondensa e dei termostati4MQuadri di MTB1.213Verifica dell'efficienza dell'illuminazione interna al quadro4MQuadri di MTB1.214Pulire i poli con stracci asciutti e controllarne visivamente l'integrità6MQuadri di MTB1.215Per interruttore estraibile: verificare l'integrità delle pinze di potenza, rimuovere le
+eventuali ossidazioni e perlinature e proteggere con prodotto specifico6MQuadri di MTB1.216
+Verificare il serraggio delle connessioni dei circuiti ausiliari a bordo dell'interruttore6MQuadri di MTB1.217Verificare l'efficienza dei comandi manuali ed elettrici di apertura e chiusura6MQuadri di MTB1.218Verificare l'efficienza dei circuiti di apertura simulando intervento delle protezioni6MQuadri di MTB1.219Verificare l'efficienza dei segnalatori meccanici di posizione6MQuadri di MTB1.220Verificare l'efficienza delle connessioni a terra del sezionatore di terra6M
+Quadri di MT
+B1.2
+21Verificare il livello dell'olio dei poli dell'interruttore. eventuali rabbocchi dovranno essere effettuati con olio dielettrico, già trattato, dello stesso tipo di quello esistente.
+eliminazione di eventuali perdite secondo le indicazioni del costruttore.
+6MQuadri di MTB1.222Richiudere il quadro e verificare l'efficacia dei sistemi di blocco meccanici che devono
+impedire l'accesso a tutte le parti in tensione6MQuadri di MTB1.223Eseguire la procedure prevista nel manuale del costruttoreA
+
+
+
+Quadri di MT
+
+
+
+B1.2
+
+
+
+24Per protezioni di massima corrente di tipo diretto:
+- controllare visivamente il buono stato dell'apparecchiatura
+- verificare i valori di taratura dei parametri elettrici con quelli progettuali
+- simulare l'intervento della protezione agendo meccanicamente sul dispositivo di sgancio
+dell'interruttore
+
+
+
+6M
+
+
+
+
+Quadri di MT
+
+
+
+
+B1.2
+
+
+
+
+25Per protezioni di massima corrente (50-51), di terra (50n-51n-64) e di minima tensione
+(27), di tipo indiretto:
+- verificare i valori di taratura dei parametri elettrici con quelli previsti nel progetto
+- verificare il corretto intervento delle protezioni di massima corrente e di terra con l'apposito strumento
+- verificare il relè di minima tensione con l'apposito strumento
+- per ulteriori interventi seguire le istruzioni del costruttore
+- prima della messa in tensione verificare che i circuiti amperometrici non siano rimasti aperti
+
+
+
+
+6MQuadri di MTB1.226Verificare il serraggio dei collegamenti elettrici dei circuiti ausiliari6MQuadri di MTB1.227Collaudare l'integrità, la funzionalità e l'efficienza di commutatori, pulsanti, lampade,
+ecc. verificando che vengano abilitati i circuiti previsti dal progetto6MQuadri di MTB1.228Controllare l'integrità e la funzionalità degli strumenti di misura6M
+
+Quadri di MT
+
+B1.2
+
+29Verificare l'efficienza delle apparecchiature ausiliarie (contattori, relè, ecc.)
+alimentandole e
+disalimentandole, ove possibile, o effettuando verifiche con strumento
+
+6MQuadri di MTB1.230Lubrificare con prodotto specifico le parti che nel funzionamento sono soggette a
+movimento (fine corsa, rinvii, manopole, ecc. )6M
+
+
+Quadri di MT
+
+
+B1.2
+
+
+31
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNInterruttori e sezionatori di MTB1.31Eseguire il controllo visivo esterno per verificare l'integrità dell'apparecchiaturaMInterruttori e sezionatori di MTB1.32Ove accessibili, eseguire il controllo a vista delle condutture di alimentazioneMInterruttori e sezionatori di MTB1.33Verifica temperatura trafoM
+Interruttori e sezionatori di MT
+B1.3
+4Controllare lo stato di conservazione della verniciatura del cassonetto, dei radiatori e dei cassonetti ingresso cavi; se si riscontrano segni evidenti di corrosione, programmare
+un intervento per la verniciatura parziale o totale
+M
+Interruttori e sezionatori di MT
+B1.3
+5Eseguire la pulizia degli isolatori passanti e dei relativi cassonetti di contenimento controllandone l'integrità, l'assenza di rotture, di incrinature e di tracce di scariche
+superficiali che potrebbero comprometterne l'efficienza
+6MInterruttori e sezionatori di MTB1.36Controllare il serraggio dei cavi di potenza sui relativi passanti con chiave
+dinamometrica come da indicazione del costruttore6MInterruttori e sezionatori di MTB1.37Eliminare le eventuali ossidazioni dai morsetti di potenza e proteggere gli stessi con
+prodotto specifico6M
+Interruttori e sezionatori di MT
+B1.3
+8
+Controllare il serraggio dei bulloni, la pulizia delle connessioni, la continuità dei conduttori di messa a terra e sostituire gli eventuali morsetti e conduttori deteriorati
+6MInterruttori e sezionatori di MTB1.39Verificare l'efficienza del dispositivo di blocco del comando del variatore di tensione a
+vuoto6MInterruttori e sezionatori di MTB1.310Effettuare la pulizia della cassetta dei circuiti ausiliari6MInterruttori e sezionatori di MTB1.311Verificare il serraggio dei conduttori6MInterruttori e sezionatori di MTB1.312Proteggere la morsettiera con prodotto specifico6M
+Interruttori e sezionatori di MT
+B1.3
+13Controllare che non vi siano perdite di olio e verificare la manovrabilità di tutta la rubinetteria installata sui circuiti; nel caso si riscontrassero delle perdite di olio dal
+cassone del trasformatore, rivolgersi al costruttore
+6MInterruttori e sezionatori di MTB1.314Controllare che il livello dell'olio non sia sotto il minimo, eventuali rabbocchi dovranno
+essere effettuati con olio dielettrico dello stesso tipo e provato6MInterruttori e sezionatori di MTB1.315Effettuare la pulizia ed il controllo visivo per verificare lo stato di conservazione
+dell'apparecchiatura6MInterruttori e sezionatori di MTB1.316Verificare il perfetto serraggio dei conduttori6M
+Interruttori e sezionatori di MTB1.317Dopo aver rialimentato i circuiti ausiliari, causare l'intervento dello strumento e
+verificare che lo stesso provochi l'intervento di allarme6MInterruttori e sezionatori di MTB1.318Effettuare la pulizia ed il controllo visivo per verificare lo stato di conservazione
+dell'apparecchiatura6M
+Interruttori e sezionatori di MT
+B1.3
+19Dopo aver rialimentato i circuiti ausiliari, causare l'intervento di allarme e di blocco dello strumento, impostando il set di taratura fino a farlo coincidere con l'indicazione dello
+strumento stesso
+6M
+Interruttori e sezionatori di MT
+B1.3
+20Verificare che l'intervento dei vari livelli provochi l'intervento di allarme e/o l'apertura degli interruttori a monte e a valle del trasformatore come previsto nel manuale di
+istruzione del costruttore
+6MInterruttori e sezionatori di MTB1.321Dopo aver effettuate le verifiche, riportare i set di taratura del termostato ai valori
+prefissati6MInterruttori e sezionatori di MTB1.322Effettuare la pulizia ed il controllo visivo per verificare lo stato di conservazione
+dell'apparecchiatura6MInterruttori e sezionatori di MTB1.323Dopo aver rialimentato i circuiti ausiliari, causare l'intervento di allarme e di blocco dello
+strumento, agendo sull'apposito pulsante di prova6M
+Interruttori e sezionatori di MT
+B1.3
+24Verificare che l'intervento dei vari livelli provochi l'intervento di allarme e/o l'apertura
+degli interruttori a monte e a valle del trasformatore come previsto nel manuale di istruzione del costruttore
+6M
+Interruttori e sezionatori di MT
+B1.3
+25Controllare l'efficienza della vasca e del pozzetto raccolta dell'olio verificando che il tubo di collegamento tra questi non sia intasato ed eliminare l'eventuale acqua
+accumulatasi nel pozzetto
+6M
+
+
+Interruttori e sezionatori di MT
+
+
+B1.3
+
+
+26
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNRelè di protezioneB.1.41Eseguire il controllo visivo esterno per verificare l'integrità dell'apparecchiatura3MRelè di protezioneB.1.42Ove accessibili, eseguire il controllo visivo delle condutture di alimentazione3MRelè di protezioneB.1.43Eseguire la pulizia interna ed esterna6MRelè di protezioneB.1.44Controllare la stato di conservazione delle strutture di protezione contro i contatti diretti
+(schermi metallici, plexiglas, ecc.)6MRelè di protezioneB.1.45Controllare il serraggio dei bulloni e pulire le connessioni6MRelè di protezioneB.1.46Verifica la continuità dei conduttori di messa a terra delle strutture metalliche (quadri,
+portelle, schermi, e reti di protezione) e delle apparecchiature installate6MRelè di protezioneB.1.47Sostituire i morsetti ed i conduttori deteriorati6MRelè di protezioneB.1.48Verificare l'efficienza dei dispositivi di blocco6MRelè di protezioneB.1.49Verificare il serraggio delle connessioni di potenza6MRelè di protezioneB.1.410Controllare ed eventualmente sostituire le guarnizioni delle porte6MRelè di protezioneB.1.411Eseguire la pulizia dei componenti soffiando aria secca a bassa pressione e usando
+stracci puliti ed asciutti6M
+Relè di protezione
+B.1.4
+12Smontare le camere di interruzione (ove esistenti), pulirle ed eseguire una verifica visiva dell'integrità; rimontarle perfettamente alloggiate nelle loro sedi (riferirsi anche al
+manuale del costruttore)
+6M
+
+Relè di protezione
+
+B.1.4
+
+13Controllare lo stato di usura dei contatti fissi, mobili e spegni arco (ove esistenti) avendo
+cura di eliminare ossidazioni, bruciature o perlinature usando tela smeriglio fine e antiossidante; in caso di bruciature o perlinature prossime ad uno stato di usura maggiore/uguale del 50% è necessaria la sostituzione dei contatti fissi e mobili (riferirsi anche al manuale del costruttore)
+
+6MRelè di protezioneB.1.414Verificare che i setti separatori delle fasi siano integri e fissati6MRelè di protezioneB.1.415Verificare l'efficienza della bobina ed il suo ancoraggio e che non presenti segni di
+surriscaldamento6MRelè di protezioneB.1.416Verificare l'efficienza e la funzionalità dei contatti ausiliari e delle bobine6MRelè di protezioneB.1.417Controllare lo stato di conservazione dei conduttori elettrici6MRelè di protezioneB.1.418Eseguire il serraggio dei morsetti6MRelè di protezioneB.1.419Eseguire qualche manovra e verificare con il tester l'effettivo stato dei circuiti di potenza
+(aperto/chiuso) e delle bobine (eccitata/diseccitata)6MRelè di protezioneB.1.420Effettuare il controllo visivo del buono stato di conservazione delle protezioni (fusibili,
+relè termici, interruttori automatici6MRelè di protezioneB.1.421Per i fusibili verificare le caratteristiche elettriche di progetto6MRelè di protezioneB.1.422Per i relè verificare le tarature di sovraccarico di progetto6MRelè di protezioneB.1.423Per gli interruttori automatici verificare le tarature e le caratteristiche elettriche di
+progetto6MRelè di protezioneB.1.424Per le protezioni di tipo indiretto (ove esistono) verificare il corretto intervento delle
+protezioni di massima corrente e di terra utilizzando l'apposito strumento6MRelè di protezioneB.1.425Prima della messa in tensione verificare che i circuiti amperometrici siano chiusi6MRelè di protezioneB.1.426Per i relè e gli interruttori differenziali verificare il corretto intervento utilizzando
+l'apposito strumento6MRelè di protezioneB.1.427Eseguire il controllo visivo esterno per verificare l'integrità dell'apparecchiatura6MRelè di protezioneB.1.428Eliminare la polvere dai condensatori e dalle eventuali resistenze di scarica6MRelè di protezioneB.1.429Verificare lo stato dei collegamenti elettrici, degli isolatori e dei morsetti6MRelè di protezioneB.1.430Verifica lo stato degli isolatori6MRelè di protezioneB.1.431Verificare lo stato dei morsetti6MRelè di protezioneB.1.432Verificare il serraggio dei collegamenti6MRelè di protezioneB.1.433Proteggere i morsetti con prodotti specifici6MRelè di protezioneB.1.434Verificare lo stato delle eventuali cuffie di protezione6MRelè di protezioneB.1.435Controllare il serraggio dei collegamenti elettrici dei circuiti ausiliari6M
+Relè di protezione
+B.1.4
+36Posizionare il selettore aut/man in man e controllare l'integrità, la funzionalità e
+l'efficienza degli interruttori di inserimento manuale delle batterie di condensatori, verificando che, agendo su questi, vengano inseriti i gradini previsti
+6MRelè di protezioneB.1.437Verificare le lampade di segnalazione6MRelè di protezioneB.1.438Posizionare il selettore aut/man in man e verificare l'integrità e l'efficienza della
+centralina di regolazione agendo sulla variazione di carico6MRelè di protezioneB.1.439Verificare che il fattore di potenza rientri nei parametri impostati senza esitazioni e/o
+pendolazioni6M
+Relè di protezione
+B.1.4
+40
+Verificare l'efficienza delle apparecchiature ausiliarie (es. contattori, relè, ecc.) alimentandole e disalimentandole, ove possibile, o effettuare una verifica strumentale
+6M
+
+
+Relè di protezione
+
+
+B.1.4
+
+
+41
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SN
+Comandi e circuiti prese
+B.1.5
+1Pulsante emergenza - Eseguire il controllo visivo esterno per verificare l'integrità dell'apparecchiatura e la presenza della
+cartellonistica
+3MComandi e circuiti preseB.1.52Pulsante emergenza - Ove accessibili, eseguire il controllo visivo delle
+condutture3MComandi e circuiti preseB.1.53Pulsante emergenza - Eseguire la pulizia interna ed esterna
+dell'apparecchiatura6M
+Comandi e circuiti prese
+B.1.5
+4Pulsante emergenza - Eseguire la verifica del corretto funzionamento del comando di emergenza controllando che si apra
+l'interruttore di mt
+6MComandi e circuiti preseB.1.55Pulsante emergenza - Verificare, con apposito strumento, l'assenza di tensione6MComandi e circuiti preseB.1.56Pulsante emergenza - Ripristinare il comando di emergenza6MComandi e circuiti preseB.1.57Pulsante emergenza - Chiudere l'interruttore precedentemente aperto6M
+Comandi e circuiti prese
+B.1.5
+8Impianto prese di servizio tipo CEE 400 V - 230 V - Eseguire il controllo visivo esterno per verificare
+l'integrità dell'apparecchiatura
+2M
+Comandi e circuiti prese
+B.1.5
+9Impianto prese di servizio tipo CEE 400 V - 230 V - Ove accessibili, eseguire il controllo visivo delle
+condutture
+2M
+Comandi e circuiti prese
+B.1.5
+10Impianto prese di servizio tipo CEE 400 V - 230 V - Eseguire la pulizia interna ed esterna
+dell'apparecchiatura
+6M
+
+Comandi e circuiti prese
+B.1.5
+11Impianto prese di servizio tipo CEE 400 V - 230 V - Controllare il serraggio dei collegamenti elettrici e di
+messa a terra
+6M
+Comandi e circuiti prese
+B.1.5
+12Impianto prese di servizio tipo CEE 400 V - 230 V - Verificare l'efficienza del dispositivo di blocco e/o
+dell'interruttore
+6MComandi e circuiti preseB.1.513Impianto prese di servizio tipo CEE 400 V - 230 V - Verificare lo stato e la taglia dei
+fusibili6M
+
+Comandi e circuiti prese
+
+B.1.5
+
+14Impianto prese di servizio tipo CEE 400 V - 230 V - Dopo aver chiuso la presa e la
+relativa cassetta,
+rialimentare la presa e verificare, con opportuno strumento, la presenza di tensione
+
+6M
+
+
+Comandi e circuiti prese
+
+
+B.1.5
+
+
+15
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNImpianto di illuminazione normaleB1.61Corpi illuminanti - Eseguire il controllo visivo esterno per verificare l'integrità
+dell'apparecchiatura2MImpianto di illuminazione normaleB1.62Corpi illuminanti - Eseguire il controllo visivo dell'efficienza delle lampade2MImpianto di illuminazione normaleB1.63
+Corpi illuminanti - Sostituire le lampade guaste con evidenti segni di invecchiamento2MImpianto di illuminazione normaleB1.64Corpi illuminanti - Ove accessibili, eseguire il controllo visivo delle condutture2MImpianto di illuminazione normaleB1.65
+Controllo generale e pulizia - Eseguire la pulizia interna ed esterna dell'apparecchiatura6MImpianto di illuminazione normaleB1.66Controllo generale e pulizia - Eseguire il controllo visivo dello stato dei componenti
+interni dell'apparecchio6MImpianto di illuminazione normaleB1.67Controllo generale e pulizia - Sostituire i componenti che presentano evidenti segni di
+surriscaldamento e/o corrosione6MImpianto di illuminazione normaleB1.68Controllo generale e pulizia - Controllare il serraggio dei bulloni6M
+Impianto di illuminazione normale
+B1.6
+9Controllo generale e pulizia - Verifica stato di conservazione del corpo illuminante interno ed esterno all'immobile e corretto funzionamento del relativo dispositivo di
+accensione.
+6M
+Impianto di illuminazione normale
+B1.6
+10
+Controllo generale e pulizia - Eventuale sostituzione di componente inefficiente quale: lampada, starter, condensatore, reattore, accenditore, fusibili, dispositivo antidisturbo.
+6M
+
+
+Impianto di illuminazione normale
+
+
+B1.6
+
+
+11
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNImpianto illuminazione di sicurezzaB1.71Provocare la mancanza della tensione di alimentazione normale e verificare
+l'accensione dell'illuminazione di sicurezza6M
+Impianto illuminazione di sicurezza
+B1.7
+2Eseguire il controllo visivo dell'efficienza delle lampade annotando quelle guaste o
+malfunzionanti per l'eventuale sostituzione dopo aver verificato anche i gruppi batteria - inverter
+6MImpianto illuminazione di sicurezzaB1.73Eseguire la pulizia ed il controllo visivo dello stato di conservazione dei gruppi autonomi
+di emergenza6MImpianto illuminazione di sicurezzaB1.74Sostituire le batterie scariche6MImpianto illuminazione di sicurezzaB1.75Eseguire il controllo visivo esterno per verificare l'integrità dell'apparecchiatura6MImpianto illuminazione di sicurezzaB1.76Ove accessibili, eseguire il controllo visivo delle condutture di alimentazione6MImpianto illuminazione di sicurezzaB1.77Eseguire la pulizia interna ed esterna dell'apparecchiatura6MImpianto illuminazione di sicurezzaB1.78Sostituire le lampade guaste con evidenti segni di invecchiamento6MImpianto illuminazione di sicurezzaB1.79Eseguire il controllo visivo dello stato dei componenti interni dell'apparecchio6MImpianto illuminazione di sicurezzaB1.710Sostituire i componenti che presentano evidenti segni di surriscaldamento e/o
+corrosione;6MImpianto illuminazione di sicurezzaB1.711Controllare il serraggio dei bulloni6M
+
+
+Impianto illuminazione di sicurezza
+
+
+B1.7
+
+
+12
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNImpianto di terraB1.81Prove e misure - Verifica conduttori interrati, collettori di terra e masse metallicheAImpianto di terraB1.82Prove e misure - Misura resistenza di isolamento. la prova intende verificare se
+l'isolamento dei cavi e delle relative connessioni sia rimasto adeguato nel tempoAImpianto di terraB1.83Prove e misure - Misura impedenza anello di guasto in fondo al circuito,cioè nel punto
+più lontano dal relativo dispositivo di protezioneA
+
+Impianto di terra
+
+B1.8
+
+4Dispersori - Apertura dei pozzetti di terra; controllo dello stato dei collegamenti della
+rete di terra con i dispersori. in presenza di ossidazioni provvedere allo smontaggio deicollegamenti, alla rimozione dell'ossido, all'ingrassaggioed al nuovo serraggio dei morsetti.
+
+AImpianto di terraB1.85Dispersori - Verificare che il tipo di giunzione e il tipo di contatto con il conduttore di
+terra sia conforme alle norme vigenti.AImpianto di terraB1.86Controllo stato di conservazione - Eseguire il controllo visivo per verificare l'integrità
+dell'impiantoAImpianto di terraB1.87Controllo stato di conservazione - Verificare il serraggio delle connessioni nei punti
+accessibiliAImpianto di terraB1.88Controllo stato di conservazione - Sostituire i componenti che presentano evidenti segni
+di ossidazioneAImpianto di terraB1.89Controllo stato di conservazione - Verificare che il dispersore non presenti tracce di
+corrosione e/o alterazioni meccaniche.AImpianto di terraB1.810Controllo stato di conservazione - Ripristinare quelle parti che non dovessero risultare in
+condizioni ottimali per il buon funzionamento dell'impianto.AImpianto di terraB1.811Controllo stato di conservazione - Verifica, pulizia e serraggio delle giunzioni e
+capicorda,ricoprire con pasta neutralizzante tutte le connessioni.A
+
+Impianto di terra
+
+B1.8
+
+12Assistenza alle verifiche periodiche dpr 462/01 - Garantire, al tecnico dell'asl/arpa o
+dell'organismo abilitato, tutta l'assistenza necessaria, anche continuativa, per l'esecuzione delle verifiche periodiche dell'impianto di terra eseguite ai sensi del dpr 462/01 e s.m.i.
+
+SN
+
+
+Impianto di terra
+
+
+B1.8
+
+
+13
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNLocale di consegna energia in BTB1.91Rimuovere gli eventuali materiali in deposito non attinenti agli impianti ed eseguire la
+pulizia del locale6MLocale di consegna energia in BTB1.92
+Verificare la presenza dei dispositivi di protezione individuali e di estinzione incendi6MLocale di consegna energia in BTB1.93Verificare la presenza dei cartelli monitori e della documentazione di impianto6MLocale di consegna energia in BTB1.94Componenti - Sezionatore : Controllo integrità ed efficienza alimentazione3MLocale di consegna energia in BTB1.95Componenti - Sezionatore : Controllo morsetti e serraggio connessioni varie3MLocale di consegna energia in BTB1.96Componenti - Interruttore : Controllo integrità ed efficienza alimentazione3MLocale di consegna energia in BTB1.97Componenti - Interruttore : Controllo morsetti e serraggio connessioni varie3MLocale di consegna energia in BTB1.98
+Componenti - Interruttore : Prova di intervento dell'eventuale dispositivo differenziale3MLocale di consegna energia in BTB1.99Componenti - Interruttore : Controllo integrità ed efficienza alimentazione3MLocale di consegna energia in BTB1.910Componenti - Interruttore : Controllo morsetti e serraggio connessioni varie3MLocale di consegna energia in BTB1.911Componenti - Fusibile : Controllo integrità ed eventuale sostituzione6MLocale di consegna energia in BTB1.912Componenti - Fusibile : Controllo ed eventuale integrazione fusibili di scorta6MLocale di consegna energia in BTB1.913Trasformatore di isolamento - Pulizia generale della macchina compresi i cavi in arrivo
+e in partenza6MLocale di consegna energia in BTB1.914Trasformatore di isolamento - Verifica stato degli isolatori con rilevazione di eventuali
+tracce di scariche, incrinature etc.6M
+Locale di consegna energia in BTB1.915Trasformatore di isolamento - Controllo efficienza dei limitatori di sovratensione6MLocale di consegna energia in BTB1.916Trasformatore di isolamento - Controllo isolamento avvolgimenti tra loro6M
+Locale di consegna energia in BT
+B1.9
+17
+Trasformatore di isolamento - Verifica efficienza e serraggio connessioni varie dei collegamenti di terra del limitatore di sovratensione e dello schermo elettrostatico
+6MLocale di consegna energia in BTB1.918Componenti - Linee di alimentazione - Verifica integrità ed efficienza, verifica
+isolamento, verifica e serraggio dei terminali e della morsettiera di attestazione.ALocale di consegna energia in BTB1.919Componenti - Struttura autoportante : Pulizia interna ed esterna con solventi specifici
+compresi tutti i componenti ed eventuale ripristino sigillatureALocale di consegna energia in BTB1.920Componenti - Struttura autoportante : Lubrificazione serrature e cerniereALocale di consegna energia in BTB1.921Componenti - Struttura autoportante : Verifica corretta chiusura portello con eventuale
+ripristinoALocale di consegna energia in BTB1.922Componenti - Schema elettrico : Controllo rispondenza dello schema elettrico alle reali
+situazioni impiantisticheALocale di consegna energia in BTB1.923Componenti - Schema elettrico : Eventuale aggiornamento dell'elaborato con le
+modifiche riscontrateA
+
+
+Locale di consegna energia in BT
+
+
+B1.9
+
+
+24
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNQuadro generale bassa tensioneB.1.101Eseguire il controllo visivo esterno per verificare l'integrità dell'apparecchiaturaMQuadro generale bassa tensioneB.1.102Ove accessibili, eseguire il controllo a vista delle condutture di alimentazioneMQuadro generale bassa tensioneB.1.103Quadro - Eseguire la pulizia interna ed esterna6MQuadro generale bassa tensioneB.1.104Quadro - Controllare lo stato di conservazione delle strutture di protezione contro i
+contatti diretti (schermi metallici, plexigas)6MQuadro generale bassa tensioneB.1.105Quadro - Controllare il serraggio dei bulloni e pulire le connessioni6M
+Quadro generale bassa tensione
+B.1.10
+6Quadro - Verificare la continuità delle connessioni di messa a terra delle strutture metalliche (quadri, portelle, schermi e reti di protezione, e delle apparecchiature
+installate
+3MQuadro generale bassa tensioneB.1.107Quadro - Sostituire i morsetti ed i conduttori deteriorati6MQuadro generale bassa tensioneB.1.108Quadro - Verificare l'efficienza dei dispositivi di blocchi (serrature di sicurezza, fine
+corsa, ecc.) che impediscono l'accesso alle parti in tensione3MQuadro generale bassa tensioneB.1.109Quadro - Verificare l'efficienza delle resistenze anticondensa e dei termostati3MQuadro generale bassa tensioneB.1.1010Quadro - Verificare l'efficienza dell'illuminazione interna al quadro3MQuadro generale bassa tensioneB.1.1011Quadro - Verificare il serraggio delle connessioni di potenza6M
+Quadro generale bassa tensione
+B.1.10
+12Quadro - Verificare i contatti principali fissi (sul quadro) dell'interruttore estraibile (ove esistente), eliminando con tela smeriglio fine eventuali ossidazioni e perlinature e
+proteggere con leggero strato di vasellina neutra
+3MQuadro generale bassa tensioneB.1.1013Quadro - Controllare ed eventualmente sostituire le guarnizioni delle porte3MQuadro generale bassa tensioneB.1.1014Controllo componenti di potenza - Eseguire la pulizia dei componenti soffiando aria
+secca a bassa pressione e usando stracci puliti ed asciutti6M
+Quadro generale bassa tensione
+B.1.10
+15Controllo componenti di potenza - Smontare le camere di interruzione (ove esistenti), pulirle ed eseguire una verifica visiva dell'integrità; rimontarle perfettamente alloggiate
+nelle loro sedi (riferirsi anche al manuale del costruttore)
+6M
+
+
+Quadro generale bassa tensione
+
+
+B.1.10
+
+
+16
+Controllo componenti di potenza - Controllare lo stato di usura dei contatti fissi, mobili e spegni arco (ove esistenti) avendo cura di eliminare ossidazioni, bruciature o perlinature usando tela smeriglio fine e antiossidante; in caso di bruciature o perlinature prossime ad uno stato di usura maggiore/uguale del 50% è necessaria la sostituzione dei contatti fissi e mobili (riferirsi anche al manuale del costruttore)
+
+
+3MQuadro generale bassa tensioneB.1.1017Controllo componenti di potenza - Verificare che i setti separatori delle fasi siano integri
+e fissati3MQuadro generale bassa tensioneB.1.1018Controllo componenti di potenza - Verificare l'efficienza della bobina ed il suo
+ancoraggio e che non presenti segni di surriscaldamento3MQuadro generale bassa tensioneB.1.1019Controllo componenti di potenza - Verificare l'efficienza e la funzionalità dei contatti
+ausiliari e delle bobine3MQuadro generale bassa tensioneB.1.1020Controllo componenti di potenza - Controllare lo stato di conservazione dei conduttori
+elettrici3MQuadro generale bassa tensioneB.1.1021Controllo componenti di potenza - Eseguire il serraggio dei morsetti3M
+Quadro generale bassa tensione
+B.1.10
+22
+Controllo componenti di potenza - Eseguire qualche manovra e verificare con il tester l'effettivo stato dei circuiti di potenza (aperto/chiuso) e delle bobine (eccitata/diseccitata)
+6MQuadro generale bassa tensioneB.1.1023Verifica protezioni - Effettuare il controllo visivo del buono stato di conservazione delle
+protezioni (fusibili, relè termici, interruttori automatici)6MQuadro generale bassa tensioneB.1.1024Verifica protezioni - Per i fusibili verificare le caratteristiche elettriche di progetto3MQuadro generale bassa tensioneB.1.1025Verifica protezioni - Per i relè verificare le tarature di sovraccarico di progetto3MQuadro generale bassa tensioneB.1.1026Verifica protezioni - Per gli interruttori automatici verificare le tarature e le
+caratteristiche elettriche di progetto3M
+Quadro generale bassa tensione
+B.1.10
+27Verifica protezioni - Per le protezioni di tipo indiretto (ove esistono) verificare il corretto intervento delle protezioni di massima corrente e di terra utilizzando l'apposito
+strumento
+3MQuadro generale bassa tensioneB.1.1028Verifica protezioni - Prima della messa in tensione verificare che i circuiti amperometrici
+siano chiusi3MQuadro generale bassa tensioneB.1.1029Verifica protezioni - Per i relè e gli interruttori differenziali verificare il corretto intervento
+utilizzando l'apposito strumento3MQuadro generale bassa tensioneB.1.1030Verifica ausiliari elettrici - Controllare il serraggio dei collegamenti elettrici dei circuiti
+ausiliari3MQuadro generale bassa tensioneB.1.1031Verifica ausiliari elettrici - Controllare l'integrità degli interruttori verificandone con il
+tester l'effettiva apertura e chiusura3M
+Quadro generale bassa tensione
+B.1.10
+32Verifica ausiliari elettrici - Verificare l'integrità, la funzionalità e l'efficienza di
+commutatori, pulsanti, lampade, ecc. verificando che vengano abilitati i circuiti di progetto
+3M
+Quadro generale bassa tensione
+B.1.10
+33Verifica ausiliari elettrici - Controllare l'integrità e la funzionalità degli strumenti di
+misura agendo sui commutatori di tensione per i voltmetri e sulla variazione di carico per gli amperometri
+3MQuadro generale bassa tensioneB.1.1034Verifica ausiliari elettrici - Verificare l'efficienza delle apparecchiature ausiliarie
+alimentandole e disalimentandole, o effettuare la verifica con il tester3M
+
+
+Quadro generale bassa tensione
+
+
+B.1.10
+
+
+35
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.111Componenti - Sezionatore : Controllo integrità ed efficienza alimentazione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.112Componenti - Sezionatore : Controllo morsetti e serraggio connessioni varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.113Componenti - Interruttori : Controllo integrità ed efficienza alimentazione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.114Componenti - Interruttori : Controllo morsetti e serraggio connessioni varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.115
+Componenti - Interruttori : Prova di intervento dell'eventuale dispositivo differenziale6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.116Componenti - Trasformatori di misura : Controllo efficienza e serraggio connessioni
+varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.117Componenti - Trasformatori di misura : Controllo resistenza di isolamento6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.118
+Componenti - Trasformatori di misura : Controllo integrità ed efficienza alimentazione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.119Strumenti di misura - Controllo corretto azzeramento ed eventuale ripristino6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1110Strumenti di misura - Controllo morsettiera e serraggio connessioni varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1111Strumenti di misura - Controllo efficienza commutatori di misura6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1112Componenti - Fusibili : Verifica integrità ed eventuale sostituzione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1113Componenti - Fusibili : Controllo ed eventuale integrazione dei fusibili di scorta6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1114Protezione dei circuiti - Controllo integrità ed efficienza alimentazioneQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1115Protezione dei circuiti - Controllo morsettiera e serraggio connessioni varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1116Protezione dei circuiti - Controllo taratura con trascrizione delle anomalie su foglio
+prestazioni6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1117Protezione dei circuiti - Controllo segnalazioni di allarme, inserzione e disinserzione
+utenza6M
+Quadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1118Componenti - Teleruttori : Controllo integrità ed efficienza alimentazione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1119Componenti - Teleruttori : Controllo morsettiera e serraggio connessioni varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1120Componenti - Teleruttori : Verifica efficienza contatti fissi e mobili6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1121Componenti - Relè ausiliari : Controllo integrità ed efficienza alimentazione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1122Componenti - Relè ausiliari : Controllo morsettiera e serraggio connessioni varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1123Componenti - Segnalatori : Controllo integrità ed efficienza alimentazione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1124Componenti - Segnalatori : Controllo morsettiera e serraggio connessioni varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1125Componenti - Segnalatori : Controllo lampade spia ed eventuale loro sostituzione6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1126Componenti - Segnalatori : Controllare il serraggio dei collegamenti elettrici dei circuiti
+ausiliari6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1127Componenti - trasformatori ausiliari6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1128Componenti - trasformatori ausiliari : Controllo morsettiera e serraggio connessioni
+varie6MQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1129Componenti - Linee di alimentazione : Verifica serraggio dei terminali e della
+morsetteria di attestazioneAQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1130Componenti - Linee di alimentazione : Verifica isolamentoAQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1131Componenti - Struttura autoportante : Pulitura interna ed esterna con solventi specifici,
+compresi tutti i componenti ed eventuale ripristino sigillatureAQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1132Targhette identificative - Verifica corretta applicazione sulle apparecchiature inrelazione
+al circuito alimentatoAQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1133Targhette identificative - Eventuale identificazione dei circuiti e conseguente
+applicazione targhette mancantiAQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1134Componenti - Schema elettrico : Controllo rispondenza dello schema elettrico alle reali
+situazioni impiantisticheAQuadri elettrici generali di edificio e sottoquadri di piano e zonaB.1.1135Componenti - Schema elettrico : Eventuale aggiornamento dell'elaborato con le
+modifiche riscontrateA
+
+
+Quadri elettrici generali di edificio e sottoquadri di piano e zona
+
+
+B.1.11
+
+
+36In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNDistribuzione secondariaB.1.121
+Componenti - Cassette di derivazione : Controllo integrità ed efficienza alimentazione6MDistribuzione secondariaB.1.122Componenti - Cassette di derivazione : Controllo morsetteria e serraggio connessioni
+varie6M
+Distribuzione secondaria
+B.1.12
+3
+Componenti - Cassette di derivazione : Verifica ed eventuale aggiornamento targhettistica interna ed esterna (da effettuarsi solo dove la targhetta è già presente)
+6MDistribuzione secondariaB.1.124Componenti - Cassette di derivazione : Eventuale sostituzione coperchio6MDistribuzione secondariaB.1.125Componenti - Tubazioni : Verifica integrità e fissaggio con eventuale ripristino6MDistribuzione secondariaB.1.126
+Componenti - Canalizzazioni : Verifica integrità e fissaggio con eventuale ripristino6MDistribuzione secondariaB.1.127Componenti - Canalizzazioni : Verifica posa conduttori con eventuale ripristino nella
+sede e chiusura dei coperchi con fornitura di pezzi mancanti6MDistribuzione secondariaB.1.128Componenti - Interruttori e pulsanti tipo civile : Controllo integrità ed efficienza
+alimentazione6MDistribuzione secondariaB.1.129Componenti - Interruttori e pulsanti tipo civile : Controllo morsetteria e serraggio
+connessioni varie6MDistribuzione secondariaB.1.1210Componenti - Interruttori e pulsanti tipo civile : Eventuale sostituzione6MDistribuzione secondariaB.1.1211
+Componenti prese e spine tipo civile : Controllo integrità ed efficienza alimentazione6MDistribuzione secondariaB.1.1212Componenti prese e spine tipo civile : Controllo morsetteria e serraggio connessioni
+varie6MDistribuzione secondariaB.1.1213Componenti prese e spine tipo civile : Eventuale sostituzione di spina/presa di
+utilizzazione mobile non conforme alla rispettiva presa/spina6MDistribuzione secondariaB.1.1214Componenti - Prese e spine tipo industriale : Controllo integrità ed efficienza
+alimentazione6MDistribuzione secondariaB.1.1215Componenti - Prese e spine tipo industriale : Controllo morsetteria e serraggio
+connessioni varie6MDistribuzione secondariaB.1.1216Componenti - Prese e spine tipo industriale : Controllo efficienza dispositivo di
+protezione della presa ed eventuale ripristino della sua funzionalità6M
+
+
+Distribuzione secondaria
+
+
+B.1.12
+
+
+17In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNGruppo ElettrogenoB.1.131Controllo visivo - eseguire il controllo visivo per verificare l'integrità
+dell'apparecchiaturaMGruppo ElettrogenoB.1.132Controllo visivo - ove accessibile eseguire il controllo visivo delle
+condutture collegate al gruppoMGruppo ElettrogenoB.1.133Prove di funzionamento - Avviamento a vuoto del Gruppo soprattutto per verificare
+l'efficacia dell'avviamentoSGruppo ElettrogenoB.1.134Prove di funzionamento - Prova sotto carico per almeno trenta minutiMGruppo ElettrogenoB.1.135Prove di funzionamento - Prova funzionale dei dispositivi di commutazioneM
+Gruppo Elettrogeno
+B.1.13
+6Prove di funzionamento - Verifica dei tempi intercorrenti tra la mancanza della tensione di rete ed il comando di commutazione (chiusura del relè), che deve essere superiore a
+3 sec.
+M
+Gruppo Elettrogeno
+B.1.13
+7Prove di funzionamento - Verifica dei tempi intercorrenti tra la commutazione e la
+rialimentazione dei servizi di sicurezza (tempo di commutazione), che non deve essere superiore a 15 sec.
+MGruppo ElettrogenoB.1.138
+Serbatoio combustibile - Operazioni di pulizia e asportazione dei depositi di fondo2AGruppo ElettrogenoB.1.139Serbatoio combustibile - Eliminazione dell'acquaAGruppo ElettrogenoB.1.1310Serbatoio combustibile - Operazioni di ispezione interna ed esterna se ubicati fuori terra
+e relativi interventi di ripristino3MGruppo ElettrogenoB.1.1311Serbatoio combustibile - Controllo e, se del caso, sostituzione della guarnizione del
+passo d'uomo3MGruppo ElettrogenoB.1.1312Serbatoio combustibile - Controllo e pulizia del filtro di fondo e controllo della eventuale
+valvola di fondo3MGruppo ElettrogenoB.1.1313Serbatoio combustibile - controllo della reticella rompifiamma del tubo di sfiato3MGruppo ElettrogenoB.1.1314
+Serbatoio combustibile - Controllo del limitatore di riempimento della tubazione di carico3MGruppo ElettrogenoB.1.1315Serbatoio combustibile - Controllo dello stato e della tenuta dell'eventuale serpentina di
+preriscaldamento (solo per olio combustibile)3MGruppo ElettrogenoB.1.1316Serbatoio combustibile - Controllo della tenuta delle tubazioni di alimentazione del
+bruciatore e di ritorno3MGruppo ElettrogenoB.1.1317Serbatoio combustibile - Controllo dell'efficienza della valvola automatica di
+intercettazione e della valvola a chiusura rapida3MGruppo ElettrogenoB.1.1318
+Serbatoio combustibile - Controllo dell'efficienza dell'eventuale indicatore di livello3MGruppo ElettrogenoB.1.1319Serbatoio combustibile - Controllo dell'ermeticità all'acqua del pozzetto del passo
+d'uomo e del suo drenaggio3M
+
+
+Gruppo Elettrogeno
+
+
+B.1.13
+
+
+20Serbatoio combustibile - Controllo della tenute del serbatoio e della messa a terra:
+ - Controllo della tenuta del serbatoio al fine di individuare le eventuali perdite di combustibile;
+- Controllo della tenuta dei vari attacchi sul coperchio del passo d'uomo
+- Controllo dell'efficienza della messa a terra.
+
+
+6M
+
+Gruppo Elettrogeno
+
+B.1.13
+
+21Serbatoio combustibile - Certificazioni:
+le attestazioni della effettuazione delle operazioni di cui al punto precedente devono essere riportate in un certificato rilasciato dall'operatore che vi ha provveduto. Tale attestato va conservato dall'utente, allegato al libretto di centrale ed alle altre certificazioni
+
+AGruppo ElettrogenoB.1.1322Impianto e quadro elettrico, Componenti - Sezionatore : Controllo integrità ed efficienza
+alimentazione4MGruppo ElettrogenoB.1.1323Impianto e quadro elettrico, Componenti - Sezionatore : Controllo morsetti e serraggio
+connessioni varie4M
+Gruppo ElettrogenoB.1.1324Impianto e quadro elettrico, Componenti - Interruttori : Controllo integrità ed efficienza
+alimentazione4MGruppo ElettrogenoB.1.1325Impianto e quadro elettrico, Componenti - Interruttori : Controllo morsetti e serraggio
+connessioni varie4MGruppo ElettrogenoB.1.1326Impianto e quadro elettrico, Componenti - Interruttori : Prova di intervento dell'eventuale
+dispositivo differenzialeGruppo ElettrogenoB.1.1327Impianto e quadro elettrico, Componenti - Trasformatori di misura : Controllo efficienza
+e serraggio connessioni varie4MGruppo ElettrogenoB.1.1328Impianto e quadro elettrico, Componenti - Trasformatori di misura : Controllo resistenza
+di isolamento4MGruppo ElettrogenoB.1.1329Impianto e quadro elettrico, Componenti - Trasformatori di misura : Controllo integrità
+ed efficienza alimentazione4MGruppo ElettrogenoB.1.1330Impianto e quadro elettrico, Componenti - Strumenti di misura : Controllo corretto
+azzeramento ed eventuale ripristino4MGruppo ElettrogenoB.1.1331Impianto e quadro elettrico, Componenti - Strumenti di misura : Controllo morsettiera e
+serraggio connessioni varie4MGruppo ElettrogenoB.1.1332Impianto e quadro elettrico, Componenti - Strumenti di misura : Controllo efficienza
+commutatori di misura4MGruppo ElettrogenoB.1.1333Impianto e quadro elettrico, Componenti - Fusibili : Verifica integrità ed eventuale
+sostituzione4MGruppo ElettrogenoB.1.1334Impianto e quadro elettrico, Componenti - Fusibili : Controllo ed eventuale integrazione
+dei fusibili di scorta4MGruppo ElettrogenoB.1.1335Impianto e quadro elettrico, Componenti - Protezione dei circuiti : Controllo integrità ed
+efficienza alimentazione4MGruppo ElettrogenoB.1.1336Impianto e quadro elettrico, Componenti - Protezione dei circuiti : Controllo morsettiera
+e serraggio connessioni varie4MGruppo ElettrogenoB.1.1337Impianto e quadro elettrico, Componenti - Protezione dei circuiti : Controllo taratura con
+trascrizione delle anomalie su foglio prestazioni4MGruppo ElettrogenoB.1.1338Impianto e quadro elettrico, Componenti - Protezione dei circuiti : Controllo segnalazioni
+di allarme, inserzione e disinserzione utenza4MGruppo ElettrogenoB.1.1339Impianto e quadro elettrico, Componenti -Teleruttori : Controllo integrità ed efficienza
+alimentazione4MGruppo ElettrogenoB.1.1340Impianto e quadro elettrico, Componenti -Teleruttori : Controllo morsettiera e serraggio
+connessioni varie4MGruppo ElettrogenoB.1.1341Impianto e quadro elettrico, Componenti -Teleruttori : Verifica efficienza contatti fissi e
+mobili4MGruppo ElettrogenoB.1.1342Controllo integrità ed efficienza alimentazione.4MGruppo ElettrogenoB.1.1343Controllo morsettiera e serraggio connessioni varie.4MGruppo ElettrogenoB.1.1344Controllo integrità ed efficienza alimentazione.4MGruppo ElettrogenoB.1.1345Controllo morsettiera e serraggio connessioni varie.4MGruppo ElettrogenoB.1.1346Controllo lampade spia ed eventuale loro sostituzione.4MGruppo ElettrogenoB.1.1347Controllo integrità ed efficienza alimentazione4MGruppo ElettrogenoB.1.1348Controllo morsettiera e serraggio connessioni varie.4MGruppo ElettrogenoB.1.1349Impianto e quadro elettrico, Componenti - Linee di alimentazione : Verifica serraggio dei
+terminali e della morsetteria di attestazione.4MGruppo ElettrogenoB.1.1350Verifica isolamento.4M
+Gruppo Elettrogeno
+B.1.13
+51Impianto e quadro elettrico, Componenti - Struttura autoportante : Pulitura interna ed esterna con solventi specifici, compresi tutti i componenti ed eventuale ripristino
+sigillature.
+4MGruppo ElettrogenoB.1.1352Impianto e quadro elettrico, Componenti - Targhette identificative : Verifica corretta
+applicazione sulle apparecchiature in relazione al circuito alimentato.6MGruppo ElettrogenoB.1.1353Impianto e quadro elettrico, Componenti - Targhette identificative : Eventuale
+identificazione dei circuiti e conseguente applicazione targhette mancanti6MGruppo ElettrogenoB.1.1354Impianto e quadro elettrico, Componenti - Schema elettrico : Controllo rispondenza
+dello schema elettrico alle reali situazioni impiantistiche.6MGruppo ElettrogenoB.1.1355Impianto e quadro elettrico, Componenti - Schema elettrico : Eventuale aggiornamento
+dell'elaborato con le modifiche riscontrate6MGruppo ElettrogenoB.1.1356Impianto e quadro elettrico, Alimentazione combustibile : Verifica quantità di gasolio
+presente nel serbatoioM
+Gruppo Elettrogeno
+B.1.13
+57
+Impianto e quadro elettrico, Alimentazione combustibile : Revisione filtro combustibile con: lavaggio del filtro a bicchiere, pulizia del filtro a rete, sostituzione della cartuccia.
+AGruppo ElettrogenoB.1.1358Impianto e quadro elettrico, Motore diesel : Controllo ed eventuale sostituzione filtro
+aria4MGruppo ElettrogenoB.1.1359Impianto e quadro elettrico, Motore diesel : Controllo tesatura cinghie ed eventuale
+ripristino/sostituzione4MGruppo ElettrogenoB.1.1360Impianto e quadro elettrico, Motore diesel : Sostituzione filtri combustibile4MGruppo ElettrogenoB.1.1361Impianto e quadro elettrico, Motore diesel : Pulizia iniettori4MGruppo ElettrogenoB.1.1362Impianto e quadro elettrico, Motore diesel : Sostituzione olio motore secondo
+indicazioni costruttoreSNGruppo ElettrogenoB.1.1363Impianto e quadro elettrico, Motore diesel : Pulizia dei filtri dell'aria3MGruppo ElettrogenoB.1.1364Impianto e quadro elettrico, Motore diesel : Controllo delle batterie ed eventuale
+rabbocco3MGruppo ElettrogenoB.1.1365Impianto e quadro elettrico, Motore diesel : Controllo della tensione e frequenza3MGruppo ElettrogenoB.1.1366Impianto e quadro elettrico, Motore diesel : Verifica serraggi meccanici3MGruppo ElettrogenoB.1.1367Impianto e quadro elettrico, Motore diesel : Verifica dei parametri delle schede
+elettroniche3MGruppo ElettrogenoB.1.1368Impianto e quadro elettrico, Motore diesel : Verifica della commutazione dei
+commutatori3MGruppo ElettrogenoB.1.1369Impianto e quadro elettrico, Motore diesel : Verifica dei circuiti di ventilazione e
+termostato di sovratemperatura3MGruppo ElettrogenoB.1.1370Impianto e quadro elettrico, Motore diesel : Prova di funzionamento delle segnalazioni
+di allarme3MGruppo ElettrogenoB.1.1371Impianto e quadro elettrico, Motore diesel : Controllo del collegamento del regolatore di
+velocità alla pompa di iniezioneM
+
+Gruppo Elettrogeno
+
+B.1.13
+
+72
+Impianto e quadro elettrico, Motore diesel : regolatore di velocità: se meccanico, verifica l'olio interno, se elettronico verifica del Pik-up delle tarature sulla scheda elettronica. (Si consiglia l'intervento di uno specialista che controlli il comportamento a vuoto e a carico e che rilasci un listato delle tarature dei parametri di funzionamento)
+
+6MGruppo ElettrogenoB.1.1373Impianto e quadro elettrico, Sistema di raffreddamento : Controllo livello del liquido
+refrigeranteMGruppo ElettrogenoB.1.1374Impianto e quadro elettrico, Sistema di raffreddamento : Controllo antigeloAGruppo ElettrogenoB.1.1375
+Impianto e quadro elettrico, Sistema di raffreddamento : Pulizia scambiatore di caloreA
+
+Gruppo Elettrogeno
+
+B.1.13
+
+76
+Impianto e quadro elettrico, Sistema di raffreddamento : Verifica che l'aria al radiatore sia sufficiente (il ventilatore del radiatore nel suo funzionamento richiama aria dalle aperture di ventilazione del locale che non devono essere ma ostruite)
+
+4MGruppo ElettrogenoB.1.1377Impianto e quadro elettrico, Sistema di raffreddamento : Pulizia esterna (lato aria) del
+radiatoreAGruppo ElettrogenoB.1.1378Impianto e quadro elettrico, Sistema di raffreddamento : Controllo cinghie del
+ventilatore (o motore elettrico) del radiatoreMGruppo ElettrogenoB.1.1379
+Impianto e quadro elettrico, Sistema di raffreddamento : Controllo pompa/e dell'acqua4MGruppo ElettrogenoB.1.1380Impianto e quadro elettrico, Sistema di raffreddamento : Controllo stato delle
+connessioni e dei tubi flessibili4M
+
+Gruppo Elettrogeno
+
+B.1.13
+
+81
+Impianto e quadro elettrico, Sistema di raffreddamento : prova riscaldatore acqua e relativo circuito-termostato (la potenza delle scaldiglie dell'acqua dovrebbe essere tale che, anche se il termostato di controllo non funziona, l'acqua non raggiunge 70°C o comunque quella di funzionamento a carico del gruppo elettrogeno 80 - 90°C
+
+MGruppo ElettrogenoB.1.1382Impianto e quadro elettrico, Sistema di raffreddamento : Ispezioni condotti aria alle
+serrande (elettriche/a gravità)AGruppo ElettrogenoB.1.1383Impianto e quadro elettrico, Sistema di raffreddamento : prova i motorini elettrici delle
+serrande e relativi circuiti di controllo6MGruppo ElettrogenoB.1.1384Impianto e quadro elettrico, Sistema gas combusti : Controllo perditeM
+Gruppo ElettrogenoB.1.1385
+Impianto e quadro elettrico, Sistema gas combusti : Controllo drenaggio condensaMGruppo ElettrogenoB.1.1386
+Impianto e quadro elettrico, Sistema gas combusti : Controllo isolamento parti calde4M
+
+Gruppo Elettrogeno
+
+B.1.13
+
+87
+Impianto e quadro elettrico, Sistema gas combusti : Controllo eccessiva contropressione (verificare che non ci siano ostruzioni nei condotti di scarico dei gas combusti e che in occasione di lavori non sia stata aumentata la loro lunghezza)
+
+AGruppo ElettrogenoB.1.1388Impianto e quadro elettrico, Sistema gas combusti : Controllo staffe di sostegno delle
+tubazioniAGruppo ElettrogenoB.1.1389Impianto e quadro elettrico, Sistema gas combusti : Controllo sezione delle tubazioni
+flessibili6M
+Gruppo Elettrogeno
+B.1.13
+90
+Impianto e quadro elettrico, Alternatore : Controllo lunghezza spazzole, porta spazzole, movimento spazzole, superficie anelli, ecc (per alternatori con spazzole)
+6MGruppo ElettrogenoB.1.1391Impianto e quadro elettrico, Alternatore : Controllo diodi rotanti, scaricatore/resistore,
+disco porta diodi rotanti (alternatori brushless)AGruppo ElettrogenoB.1.1392Impianto e quadro elettrico, Alternatore : Controllo rotore e statore principali, serraggio
+cavi di potenza e ausiliariA
+
+Gruppo Elettrogeno
+
+B.1.13
+
+93
+Impianto e quadro elettrico, Alternatore : Controllo cuscinetti - lubrificazione. (sulla maggior parte dei recenti alternatori brusheless sono montati cuscinetti a rotolamento che devono essere lubrificati con il tipo di grasso indicato dal costruttore. Dimenticare la lubrificazione può portare al blocco completo del rotore.)
+
+AGruppo ElettrogenoB.1.1394
+Impianto e quadro elettrico, Alternatore : Controllo eccitatrice (incorporata/separata).AGruppo ElettrogenoB.1.1395Impianto e quadro elettrico, Alternatore : controllo regolatore di tensione automatico e
+relativi accessoriA
+
+Gruppo Elettrogeno
+
+B.1.13
+
+96
+Impianto e quadro elettrico, Alternatore : Misura (e trascrizione) della resistenza di isolamento. Prima di effettuare la prova di isolamento di consiglia di controllare lo schema dell'alternatore per definire i circuiti che potrebbero danneggiarsi, o compromettere i risultati della prova, ad esempio il regolatore di tensione).
+
+AGruppo ElettrogenoB.1.1397Impianto e quadro elettrico, Alternatore : Controllo dei sensori di temperatura dello
+statore principaleA
+
+
+Gruppo Elettrogeno
+
+
+B.1.13
+
+
+98
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNGruppo statico di continuitàB.1.141Pulizia generale3MGruppo statico di continuitàB.1.142Pulizia dei filtri dell'aria3MGruppo statico di continuitàB.1.143Controllo stato delle batterie3MGruppo statico di continuitàB.1.144Controllo della tensione e frequenza3MGruppo statico di continuitàB.1.145Verifica del corretto funzionamento del gruppo3MGruppo statico di continuitàB.1.146Verifica serraggi meccanici3MGruppo statico di continuitàB.1.147Verifica dei parametri delle schede elettroniche3MGruppo statico di continuitàB.1.148Verifica della commutazione dei commutatori3MGruppo statico di continuitàB.1.149Verifica dei circuiti di ventilazione, ventole e termostato di sovratemperatura3MGruppo statico di continuitàB.1.1410Prova di funzionamento delle segnalazioni di allarme3MGruppo statico di continuitàB.1.1411Controllo stato condensatori secondo indicazioni del costruttoreSN
+
+
+Gruppo statico di continuità
+
+
+B.1.14
+
+
+12
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNImpianto protezione contro le scariche atmosfericheB.1.151Verifica connessioni e bulloneriaAImpianto protezione contro le scariche atmosfericheB.1.152Misure secondo cei 81-1 e normativa tecnica applicabileAImpianto protezione contro le scariche atmosfericheB.1.153Verifica di continuità degli organi di captazione e di calataA
+Impianto protezione contro le scariche atmosferiche
+B.1.15
+4Garantire, al tecnico dell'asl/arpa o dell'organismo abilitato, tutta l'assistenza necessaria, anche continuativa, per l'esecuzione delle verifiche periodiche dell'impianto
+di terra eseguite ai sensi del dpr 462/01 e s.m.i.
+SN
+
+
+Impianto protezione contro le scariche atmosferiche
+
+
+B.1.15
+
+
+5
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNImpianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla
+norma CEI 64-8 sezione 710B.1.161Prova funzionale dei dispositivi di controllo di isolamento dei sistemi it-m e dei
+dispositivi di allarme ottico-acustico: col tasto di provaM
+
+Impianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla norma CEI 64-8 sezione 710
+
+B.1.16
+
+2
+Prova funzionale dei dispositivi di controllo di isolamento dei sistemi it-m e dei dispositivi di allarme ottico-acustico: con reostato (verificare che dispositivo di allarme intervenga quando la resistenza verso terra scende al di sotto di 50 k? e che l'allarme si disattivi quando la resistenza ritorna ad un valore superiore a 50 k?)
+
+AImpianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla
+norma CEI 64-8 sezione 710B.1.163
+Controllo, mediante esame a vista, delle tarature dei dispositivi di protezione regolabiliAImpianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla
+norma CEI 64-8 sezione 710B.1.164
+Verifica del collegamento equipotenziale supplementare2AImpianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla
+norma CEI 64-8 sezione 710B.1.165Prova funzionale dell'alimentazione dei servizi di sicurezza con motori a combustione:
+prova a vuotoSImpianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla
+norma CEI 64-8 sezione 710B.1.166Prova funzionale dell'alimentazione dei servizi di sicurezza con motori a combustione:
+prova a caricoMImpianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla
+norma CEI 64-8 sezione 710B.1.167Prova funzionale dell'alimentazione dei servizi di sicurezza a batteria secondo le
+istruzioni del costruttore6MImpianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla
+norma CEI 64-8 sezione 710B.1.168
+Prova dell'intervento, con idn, degli interruttori differenzialiA
+Impianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla norma CEI 64-8 sezione 710
+
+B.1.16
+
+9Verifica che le correnti di dispersione dell'avvolgimento secondario e la corrente di
+dispersione sull'involucro del trasformatore per uso medicale, misurate a vuoto e con lil trasformatore alimentato alla tensione e frequenza nominali, non siano superiore a 0,5 ma
+
+A
+
+Impianti elettrici nei locali ad uso medico di gruppo 1E gruppo 2 così come definiti dalla norma CEI 64-8 sezione 710
+
+
+B.1.16
+
+
+10
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNImpianto di illuminazione esternaB.1.171Ricambio a programma dell'intero lotto delle lampade dopo un certo numero di ore di
+funzionamento (vedi scheda tecnica del costruttore)2MImpianto di illuminazione esternaB.1.172Operazioni di pulizia da effettuare in concomitanza con il ricambio delle lampade2M
+
+Impianto di illuminazione esterna
+
+B.1.17
+
+3Verifica delle connessioni elettriche:
+connessione tra il cavo di derivazione con i cavi di dorsale; connessione tra attacco lampada e portalampada; connettore a spina (eventuale) per il distacco dalla
+rete del singolo apparecchio.
+
+3M
+Impianto di illuminazione esterna
+B.1.17
+4Impianti elettrici utilizzatori CEI 64-8/6 sez. 62 - Misura delle correnti di dispersione dell'avvolgimento secondario a vuoto e sull'involucro dei trasformatori di isolamento ad
+uso medicale
+4MImpianto di illuminazione esternaB.1.175Controllo dello stato di conservazione dell'impianto:
+verniciatura dei pali e delle mensole d'acciaio4M
+
+
+Impianto di illuminazione esterna
+
+
+B.1.17
+
+
+6
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SN
+Verifiche periodicheB.1.181Esame a vista dei conduttori, controllo dell'impianto principale, delle apparecchiature
+elettriche2A
+Verifiche periodiche
+B.1.18
+2Impianti elettrici utilizzatori CEI 64-8/6 sez. 62 - Verifica degli organi di comando e protezione dei
+collegamenti di terra
+2AVerifiche periodicheB.1.183Impianti elettrici utilizzatori CEI 64-8/6 sez. 62 - Verifica della protezione dai contatti
+diretti, controllo differenziali2A
+Verifiche periodiche
+B.1.18
+4
+Impianti di produzione trasporto e distribuzione dell'energia elettrica (Norma CEI 0-15) - Verifiche periodiche copmponenti di cabina per stabilirne il grado di efficienza
+2A
+Verifiche periodiche
+B.1.18
+5
+Impianti di produzione trasporto e distribuzione dell'energia elettrica (Norma CEI 0-15) - Preparazione e compilazione del registro degli interventi di verifica e manutentivi
+2AVerifiche periodicheB.1.186Impianti di protezione contro i fulmini (Norma CEI 81-10/3)(EN 62305-3) - Ispezione
+visiva dell'impianto2AVerifiche periodicheB.1.187Impianti di protezione contro i fulmini (Norma CEI 81-10/3)(EN 62305-3) - Verifica della
+resistenza elettrica dei ferri di armatura e di continuità dell'impianto2A
+
+
+Verifiche periodiche
+
+
+B.1.18
+
+
+8
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNImpianto di supervisione e telecontrolloB.1.191Valvole di regolazione climatica, Operazioni generali : verifica funzionamentoM/SNImpianto di supervisione e telecontrolloB.1.192Valvole di regolazione climatica, Operazioni generali : verifica dell'assenza di
+trafilamenti attraverso gli organi di tenuta delle valvole6MImpianto di supervisione e telecontrolloB.1.193Valvole di regolazione climatica, Operazioni generali : verifica del campo di azione
+degli attuatori e eventuale taratura dello stesso6MImpianto di supervisione e telecontrolloB.1.194Valvole di regolazione climatica, Operazioni generali : sostituzione di parti in
+movimento danneggiate (levismi, motorini, manopole, ecc.)SNImpianto di supervisione e telecontrolloB.1.195Valvole di regolazione climatica, Operazioni generali : lubrificazione dei perni6MImpianto di supervisione e telecontrolloB.1.196Valvole di regolazione climatica, Operazioni generali : effettuare il rabbocco di
+lubrificante nei servomeccanismi a bagno di olio6MImpianto di supervisione e telecontrolloB.1.197Valvole di regolazione climatica, Operazioni generali : pulizia dei filtri e sostituzione
+delle cartucceAImpianto di supervisione e telecontrolloB.1.198Valvole di regolazione climatica, Operazioni generali : pulizia di tutti i componenti dei
+regolatori (ugelli, relè, flaps, ecc.)AImpianto di supervisione e telecontrolloB.1.199Valvole di regolazione climatica, Operazioni generali : sostituzione di parti in
+movimento danneggiate (levismi, motorini, manopole, ecc.)SNImpianto di supervisione e telecontrolloB.1.1910Valvole di regolazione climatica, Operazioni generali : taraturaA/SN
+Impianto di supervisione e telecontrollo
+B.1.19
+11
+Valvole di regolazione climatica, Apparecchiature pneumatiche azionate ad aria compressa : verifica della presenza di una corretta pressione nella linea aria compressa
+MImpianto di supervisione e telecontrolloB.1.1912Valvole di regolazione climatica, Apparecchiature pneumatiche azionate ad aria
+compressa : verifica dell'efficienza della membrana dell'attuatore6MImpianto di supervisione e telecontrolloB.1.1913Valvole di regolazione climatica, Apparecchiature pneumatiche azionate ad aria
+compressa : sostituzione dei diaframmi elasticiSN
+Impianto di supervisione e telecontrollo
+B.1.19
+14
+Valvole di regolazione climatica, Apparecchiature azionate elettricamente : verifica che tensione di alimentazione dell'attuatore sia quella prevista dal costruttore
+6MImpianto di supervisione e telecontrolloB.1.1915Valvole di regolazione climatica, Apparecchiature azionate elettricamente : controllo
+dell'efficienza dei fine corsa6MImpianto di supervisione e telecontrolloB.1.1916Valvole di regolazione climatica, Apparecchiature azionate elettricamente : pulizia delle
+morsettiereAImpianto di supervisione e telecontrolloB.1.1917Valvole di regolazione climatica, Apparecchiature azionate elettricamente : serraggio
+dei morsettiAImpianto di supervisione e telecontrolloB.1.1918Valvole di regolazione climatica, Apparecchiature azionate elettricamente : sostituzione
+dei conduttori danneggiati o male isolatiAImpianto di supervisione e telecontrolloB.1.1919Centraline di regolazione a punto fisso : Verifica generale funzionamentoMImpianto di supervisione e telecontrolloB.1.1920Centraline di regolazione a punto fisso : Verifica che la tensione di alimentazione
+elettrica sia correttaAImpianto di supervisione e telecontrolloB.1.1921Centraline di regolazione a punto fisso : Verifica del grado di isolamento IPAImpianto di supervisione e telecontrolloB.1.1922Centraline di regolazione a punto fisso : Sostituzione di parti in movimento danneggiate
+(levismi, motorini, manopole, ecc.)AImpianto di supervisione e telecontrolloB.1.1923Centraline di regolazione a punto fisso : Verificare che la temperatura di erogazione del
+fluido termovettore sia la stessa impostata nel regolatoreMImpianto di supervisione e telecontrolloB.1.1924Centraline di regolazione a punto fisso : Pulizia delle morsettiereAImpianto di supervisione e telecontrolloB.1.1925Centraline di regolazione a punto fisso : Serraggio dei morsettiAImpianto di supervisione e telecontrolloB.1.1926Centraline di regolazione a punto fisso : Sostituzione dei conduttori danneggiati o male
+isolatiAImpianto di supervisione e telecontrolloB.1.1927
+Centraline di regolazione climatica (a quattro punti) : Verifica generale funzionamentoMImpianto di supervisione e telecontrolloB.1.1928Centraline di regolazione climatica (a quattro punti) : Verifica che la tensione di
+alimentazione elettrica sia correttaAImpianto di supervisione e telecontrolloB.1.1929
+Centraline di regolazione climatica (a quattro punti) : Verifica del grado di isolamento IPAImpianto di supervisione e telecontrolloB.1.1930Centraline di regolazione climatica (a quattro punti) : Sostituzione di parti in movimento
+danneggiate (levismi, motorini, manopole, ecc.)AImpianto di supervisione e telecontrolloB.1.1931Centraline di regolazione climatica (a quattro punti) : Pulizia delle morsettiereAImpianto di supervisione e telecontrolloB.1.1932Centraline di regolazione climatica (a quattro punti) : Serraggio dei morsettiAImpianto di supervisione e telecontrolloB.1.1933Centraline di regolazione climatica (a quattro punti) : Sostituzione dei conduttori
+danneggiati o male isolatiA
+
+Impianto di supervisione e telecontrollo
+
+B.1.19
+
+34Centraline di regolazione climatica (a quattro punti) : Misurazione, a stabilità raggiunta e
+per ogni circuito regolato, della temperatura di mandata e di quella di ritorno (ove provvista di sonda di ritorno) e confronto con la temperatura di set point calcolato del regolatore
+
+6M
+Impianto di supervisione e telecontrollo
+B.1.19
+35Centraline di regolazione climatica (a quattro punti) : Misurazione della temperatura
+ambiente (o ambienti in caso di più sonde installate) e di quella esterna e confronto con i valori misurati dal regolatore
+6M
+Impianto di supervisione e telecontrollo
+B.1.19
+36Centraline di regolazione climatica (a quattro punti) : Controllo delle restanti funzioni del regolatore quali ad esempio le funzioni manuali di accensione/ spegnimento, cut-off,
+orari funzionamento ecc.
+6MImpianto di supervisione e telecontrolloB.1.1937Centraline di regolazione a microprocessore : Verifica generale funzionamentoMImpianto di supervisione e telecontrolloB.1.1938Centraline di regolazione a microprocessore : Verifica che la tensione di alimentazione
+elettrica sia correttaAImpianto di supervisione e telecontrolloB.1.1939Centraline di regolazione a microprocessore : Verifica del grado di isolamento IPAImpianto di supervisione e telecontrolloB.1.1940Centraline di regolazione a microprocessore : Sostituzione di parti in movimento
+danneggiate (levismi, motorini, manopole, ecc.)AImpianto di supervisione e telecontrolloB.1.1941Centraline di regolazione a microprocessore : Pulizia delle morsettiereAImpianto di supervisione e telecontrolloB.1.1942Centraline di regolazione a microprocessore : Serraggio dei morsettiAImpianto di supervisione e telecontrolloB.1.1943Centraline di regolazione a microprocessore : Sostituzione dei conduttori danneggiati o
+male isolatiA
+
+Impianto di supervisione e telecontrollo
+
+B.1.19
+
+44
+Centraline di regolazione a microprocessore : Misurazione, a stabilità raggiunta e per ogni circuito regolato, della temperatura di mandata e di quella di ritorno (ove provvista di sonda di ritorno) e confronto con la temperatura di set point calcolato del regolatore
+
+6M
+Impianto di supervisione e telecontrollo
+B.1.19
+45Centraline di regolazione a microprocessore : Misurazione della temperatura ambiente (o ambienti in caso di più sonde installate) e di quella esterna e confronto con i valori
+misurati dal regolatore
+6M
+Impianto di supervisione e telecontrollo
+B.1.19
+46Centraline di regolazione a microprocessore : Controllo delle restanti funzioni del regolatore quali ad esempio le funzioni manuali di accensione/ spegnimento, cut-off,
+orari funzionamento ecc.
+6MImpianto di supervisione e telecontrolloB.1.1947Centraline di regolazione a microprocessore : Verifica della funzionalità della batteria
+tampone6M
+Impianto di supervisione e telecontrollo
+B.1.19
+48Centraline di regolazione a microprocessore : Verifica che i parametri di taratura (es. curva riscaldamento, banda proporzionale attuatori, ecc) siano correttamente
+memorizzate
+6M
+
+Impianto di supervisione e telecontrollo
+B.1.19
+49
+Centraline di regolazione a microprocessore : Collegamento con computer portatile ( se preddisposto) e verifica che la lista di programmazione non abbia subito variazioni
+6MImpianto di supervisione e telecontrolloB.1.1950Modem : Verifica generale funzionamentoMImpianto di supervisione e telecontrolloB.1.1951Modem : Verifica che la tensione di alimentazione elettrica sia correttaAImpianto di supervisione e telecontrolloB.1.1952Modem : Controllo della presenza della linea telefonicaAImpianto di supervisione e telecontrolloB.1.1953Modem : Controllo dell'integrità dei connettori tra la centralina e lo stesso modemAImpianto di supervisione e telecontrolloB.1.1954Sonde di temperatura : Verifica del corretto funzionamento per mezzo di
+strumentazione calibrata6MImpianto di supervisione e telecontrolloB.1.1955Sonde di temperatura : Pulizia delle incrostazioni e verifica del buon stato di contatto
+del capillare6MImpianto di supervisione e telecontrolloB.1.1956Sonde di temperatura : Serraggio dei morsetti6MImpianto di supervisione e telecontrolloB.1.1957Sonde di temperatura : Sostituzione dei conduttori danneggiati6MImpianto di supervisione e telecontrolloB.1.1958Sonde di temperatura : Verifica ed eventuale intervento di fissaggio della sonda alla
+tubazione, parete, ecc.AImpianto di supervisione e telecontrolloB.1.1959Sonde di pressione : Verifica del corretto funzionamento per mezzo di strumentazione
+calibrata6MImpianto di supervisione e telecontrolloB.1.1960Sonde di pressione : Pulizia delle incrostazioni o ostruzioni presenti nel serpentino
+ammortizzatore in rame o acciaio6MImpianto di supervisione e telecontrolloB.1.1961Sonde di pressione : Verifica del collegamento e dell'assenza di perdite di fluido6MImpianto di supervisione e telecontrolloB.1.1962Sonde di pressione : Serraggio dei morsetti6MImpianto di supervisione e telecontrolloB.1.1963Sonde di pressione : Sostituzione dei conduttori danneggiati6MImpianto di supervisione e telecontrolloB.1.1964Sistemi centrali di supervisione : Esame di funzionalità generale de'unità centrale e
+della componentistica in campo6MImpianto di supervisione e telecontrolloB.1.1965Sistemi centrali di supervisione : Controllo connessioni alle periferiche, gateways,
+modem e rete6MImpianto di supervisione e telecontrolloB.1.1966Sistemi centrali di supervisione : Controllo frammentazione disco fisso6MImpianto di supervisione e telecontrolloB.1.1967Sistemi centrali di supervisione : Compattazione files e directories6MImpianto di supervisione e telecontrolloB.1.1968Sistemi centrali di supervisione : Riorganizzazione files, data base e dati storici6MImpianto di supervisione e telecontrolloB.1.1969Sistemi centrali di supervisione : Analisi dell'utilizzo della memoria e parametri di
+configurazione sistema6MImpianto di supervisione e telecontrolloB.1.1970Sistemi centrali di supervisione : Analisi delle performance6MImpianto di supervisione e telecontrolloB.1.1971Sistemi centrali di supervisione : Diagnostica e procedure di verifica server6MImpianto di supervisione e telecontrolloB.1.1972Sistemi centrali di supervisione : Software back-up6MImpianto di supervisione e telecontrolloB.1.1973Sistemi centrali di supervisione : Aggiornamenti software update6MImpianto di supervisione e telecontrolloB.1.1974Sistemi centrali di supervisione : Evoluzione software upgrade6MImpianto di supervisione e telecontrolloB.1.1975Terminali e postazione operatori : Controllo dei dispositivi di rete ed interfaccia
+gateways-BNA6MImpianto di supervisione e telecontrolloB.1.1976Terminali e postazione operatori : Verifica della sequenza di aggiornamento parametri
+ed unità ingegneristica6MImpianto di supervisione e telecontrolloB.1.1977Terminali e postazione operatori : Verifica sequenze di visualizzazione e segnalazione
+acustica terminali6MImpianto di supervisione e telecontrolloB.1.1978
+Terminali e postazione operatori : Controllo dei dispositivi di conversione ed interfaccia6MImpianto di supervisione e telecontrolloB.1.1979Terminali e postazione operatori : Controllo e pulizia interna stampanti di sistema6MImpianto di supervisione e telecontrolloB.1.1980Terminali e postazione operatori : Verifica cartucce ed eventuale sostituzione6MImpianto di supervisione e telecontrolloB.1.1981Sistema periferico di automazione e regolazione : Controllo alimentazione fusibili6MImpianto di supervisione e telecontrolloB.1.1982Sistema periferico di automazione e regolazione : Controllo bus di comunicazione e
+morsettiere di connessione6MImpianto di supervisione e telecontrolloB.1.1983Sistema periferico di automazione e regolazione : Verifica delle connessioni elettriche di
+campo e del quadro6MImpianto di supervisione e telecontrolloB.1.1984Sistema periferico di automazione e regolazione : Varifica data e ora di calendario e dei
+parametri di settaggio CPU6MImpianto di supervisione e telecontrolloB.1.1985Sistema periferico di automazione e regolazione : Verifica parametri di regolazione ed
+eventuale allineamento all'impianto6MImpianto di supervisione e telecontrolloB.1.1986Sistema periferico di automazione e regolazione : Verifica della "risposta" degli impianti
+di regolazione in caso di malfunzionamento del sistema regolante6MImpianto di supervisione e telecontrolloB.1.1987Sistema periferico di automazione e regolazione : Prova di funzionamento e/o
+simulazione per i punti di ingresso ed uscita6M
+Impianto di supervisione e telecontrollo
+B.1.19
+88Sistema periferico di automazione e regolazione : Controllo di buon funzionamento
+delle sequenze di avviamento e spegnimento impianti, con le eventuali applicazioni di contenimento energetico
+6MImpianto di supervisione e telecontrolloB.1.1989Sistema periferico di automazione e regolazione : Esecuzione test diagnistici in caso di
+riscontri non corretti6MImpianto di supervisione e telecontrolloB.1.1990Sistema periferico di automazione e regolazione : Salvataggio del software applicativo
+se apportate modifiche6MImpianto di supervisione e telecontrolloB.1.1991Sistema periferico di automazione e regolazione : Controllo scadenza batterie tampone
+su quadri elettrici e moduli6MImpianto di supervisione e telecontrolloB.1.1992Sistema periferico di automazione e regolazione : Pulizia controllore e/o del quadro di
+contenimento6M
+
+
+Impianto di supervisione e telecontrollo
+
+
+B.1.19
+
+
+93
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNBlindosbarre, blindoluce, condotti elettrificatiB.1.201Sistema periferico di automazione e regolazione : Pulizia controllore e/o del quadro di
+contenimento3M
+
+
+Blindosbarre, blindoluce, condotti elettrificati
+
+
+B.1.20
+
+
+2
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+3MBlindosbarre, blindoluce, condotti elettrificatiB.1.203
+Verifica a vista dello stato di conservazione delle intestature dei cavi di alimentazione3MBlindosbarre, blindoluce, condotti elettrificatiB.1.204Verifica presenza di roditori (tracce)ABlindosbarre, blindoluce, condotti elettrificatiB.1.205Pulizia di carattere generale con eliminazione di eventuali strati di polvere o sudiciume
+depositatiABlindosbarre, blindoluce, condotti elettrificatiB.1.206Verifica del grado di protezione in relazione all'ambienteABlindosbarre, blindoluce, condotti elettrificatiB.1.207Verifica dello stato di conservazione dei vari componenti, verifica presenza di eventuali
+danneggiamentiABlindosbarre, blindoluce, condotti elettrificatiB.1.208Eliminazione delle cause di danneggiamento di cui al p.to precedente (es.
+derattizzazione, repellenti, protezioni, impedimenti, ecc.)ABlindosbarre, blindoluce, condotti elettrificatiB.1.209Serraggio delle connessioniABlindosbarre, blindoluce, condotti elettrificatiB.1.2010Verifica di continuità del circuito di terraABlindosbarre, blindoluce, condotti elettrificatiB.1.2011Rilievo delle cadute di tensione a campioneABlindosbarre, blindoluce, condotti elettrificatiB.1.2012Verifica delle protezioni contro i sovraccarichi e i corto circuitiABlindosbarre, blindoluce, condotti elettrificatiB.1.2013Controllo della sequenza fasi sulle alimentazioni trifasiABlindosbarre, blindoluce, condotti elettrificatiB.1.2014Verifica del corretto fissaggio delle blindosbarre alle strutture di sostegnoABlindosbarre, blindoluce, condotti elettrificatiB.1.2015Verifica surriscaldamenti con termocamera3M
+
+
+Blindosbarre, blindoluce, condotti elettrificati
+
+
+B.1.20
+
+
+16
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SNAlimentatori ausiliari di cabinaB.1.211Controllo condizione normale con correnti di ingresso e uscitaGAlimentatori ausiliari di cabinaB.1.212Controllo corrente di carica e tensione delle batterieMAlimentatori ausiliari di cabinaB.1.213Controllo corrente erogata dall'eventuale ramo serviziMAlimentatori ausiliari di cabinaB.1.214Controllo tempo di carica a fondo delle batterieMAlimentatori ausiliari di cabinaB.1.215Controllo tempo di mantenimento di carica delle batterieMAlimentatori ausiliari di cabinaB.1.216Lettura display/strumenti con registrazione misure3MAlimentatori ausiliari di cabinaB.1.217Controllo sistema di ventilazione con pulizia filtriMAlimentatori ausiliari di cabinaB.1.218Rilievo temperatura ambiente e parametri principali di macchinaMAlimentatori ausiliari di cabinaB.1.219Pulizia del locale e del quadro6MAlimentatori ausiliari di cabinaB.1.2110Verifica serraggio morsettiere
+
+Alimentatori ausiliari di cabinaB.1.2111Verifica della continuità elettrica del conduttore di protezioneAlimentatori ausiliari di cabinaB.1.2112Ulteriori manutenzioni secondo le istruzioni del costruttoreSN
+
+
+Alimentatori ausiliari di cabina
+
+
+B.1.21
+
+
+13In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SN

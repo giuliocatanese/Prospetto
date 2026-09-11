@@ -1,0 +1,211 @@
+
+
+Insieme Codice famigliaCodice tipo
+Attività
+Periodicità
+Tubazioni in rame per gas medicali ed aria compressaD1.11Controllo a vista delle tubazioni delle centrali, sottocentrali, reti nelle gallerie e negli scantinati
+degli edifici
+2S
+Tubazioni in rame per gas medicali ed aria compressaD1.12Spurgo di eventuali impurità mediante apertura delle valvole di scarico dei barilotti e dei
+terminali di linea
+2STubazioni in rame per gas medicali ed aria compressaD1.13Verifica del serraggio nelle congiunzioni a flangia e a bocchettone2SGruppi di riduzione di 1 e 2 stadio per gas medicali ed aria compressaD1.21Smontaggio placche di copertura per accesso all'apparecchiaturaM
+Gruppi di riduzione di 1 e 2 stadio per gas medicali ed aria compressaD1.22
+Pulizia mediante soffiaggio con aria compressa ed aspirazione delle polveri e delle impurità
+MGruppi di riduzione di 1 e 2 stadio per gas medicali ed aria compressaD1.23Controllo funzionalità valvole e manometriM
+Gruppi di riduzione di 1 e 2 stadio per gas medicali ed aria compressaD1.24
+Smontaggio filtri e verifica integrità, controllo e/o sostituzione guarnizioni, rimontaggio
+M
+
+
+
+Gruppi di riduzione di 1 e 2 stadio per gas medicali ed aria compressa
+
+D1.2
+
+5
+Verifica regolarità funzionale del gruppo riduttore sia del vapore della pressione ridotta in erogazione sia del mantenimento di valore inalterato in condizione di mancato utilizzo a valle, eventuale sostituzione delle membrane o delle molle per inattività
+
+
+
+MPrese gas medicaliD1.31Smontaggio borchie di copertura per accesso al blocco presa3MPrese gas medicaliD1.32Pulizia mediante soffiaggio con aria compressa ed aspirazioni di polveri ed impurità3M
+Prese gas medicaliD1.33Verifica funzionalità del blocco presa con apposito strumento campione munito di flussometro e
+manometro
+3MPrese gas medicaliD1.34Eventuale sostituzione in caso di irregolare funzionalità3MCentrale produzione aria compressa medicaleD1.41Controllo visivo dello stato generale e del funzionamentoGCentrale produzione aria compressa medicaleD1.42Scaricare la condensa accumulata all'interno del serbatoio olioSCentrale produzione aria compressa medicaleD1.43Controllare la pulizia della cartuccia filtro di aspirazioneSCentrale produzione aria compressa medicaleD1.44Controllo del funzionamento di tutte le apparecchiature di sicurezza ed esercizioM
+
+Centrale produzione aria compressa medicale
+D1.4
+5Controllo apparecchiature essicatore (compressore frigorifero, condensatore d'aria, evaporatore, scambiatore separatore e scaricatore di condensa, termostato, strumenti di
+taratura), pulizia del condensatore
+
+MCentrale produzione aria compressa medicaleD1.46Controllo taratura del punto di rugiadaMCentrale produzione aria compressa medicaleD1.47Controllo integrità giunti accoppiamento motore - compressoreMCentrale produzione aria compressa medicaleD1.48Controllo della temperatura di lavoro testate compressoriMCentrale produzione aria compressa medicaleD1.49Controllo integrità giunti flessibili e supporti antivibrantiMCentrale produzione aria compressa medicaleD1.410Spurgo drenaggi, pulizia filtriM
+
+Centrale produzione aria compressa medicale
+D1.4
+11
+Sostituire le cartucce filtranti quando alla portata massima si verifica una differenza di pressione pari a: 0,06 bar per i prefiltri grado "rc" e 0,12 bar per i prefiltri grado "ra"
+
+M
+Centrale produzione aria compressa medicaleD1.412Controllo dello stato della cartuccia del filtro di aspirazione del compressore e sostituzione in
+caso di presenza di rotture o se particolarmente intasata
+500hCentrale produzione aria compressa medicaleD1.413Controllo del livello dell'olio contenuto nel serbatoio olio500hCentrale produzione aria compressa medicaleD1.414Verifica dell'assenza di trafilamenti di olio dalle tubazioni1000hCentrale produzione aria compressa medicaleD1.415Controllo del serraggio della raccorderia delle tubazioni e dell'impianto in genere1000h
+Centrale produzione aria compressa medicaleD1.416
+Sostituzione completa dell'olio scaricandolo tramite il tappo posto sotto il serbatoio
+2000h
+Centrale produzione aria compressa medicaleD1.417Analisi dell'olio esausto per effettuare eventuali modifiche alle tempistiche di programmazione
+della sostituzione dell'olio
+2000hCentrale produzione aria compressa medicaleD1.418Sostituzione della cartuccia del filtro olio2000hCentrale produzione aria compressa medicaleD1.419Controllare la perfetta pulizia delle alette del radiatore di raffreddamento olio3000h
+Centrale produzione aria compressa medicaleD1.420Sostituzione del filtro disoleatore a cartuccia avvitabile (anticipare la sostituzione quando la
+caduta di pressione supera 1 bar)
+3000h
+Centrale produzione aria compressa medicaleD1.421Sostituzione del filtro disoleatore all'interno del serbatoio dell'olio (anticipare la sostituzione
+quando la caduta di pressione supera 1 bar)
+4000hCentrale produzione aria compressa medicaleD1.422Sostituzione prefiltri grado rcCentrale produzione aria compressa medicaleD1.423Sostituzione prefiltri grado raCompressori per aria riuniti odontoiatriciD1.51Controllo visivo dello stato generale e del funzionamentoSCompressori per aria riuniti odontoiatriciD1.52Scaricare la condensa accumulata all'interno del serbatoio olioSCompressori per aria riuniti odontoiatriciD1.53Controllare la pulizia della cartuccia filtro di aspirazioneMCompressori per aria riuniti odontoiatriciD1.54Controllo del funzionamento di tutte le apparecchiature di sicurezza ed esercizioMCompressori per aria riuniti odontoiatriciD1.55Controllo integrità giunti accoppiamento motore - compressore serbatoioMCompressori per aria riuniti odontoiatriciD1.56Controllo della temperatura di lavoro testate compressoriMCompressori per aria riuniti odontoiatriciD1.57Controllo integrità giunti flessibili e supporti antivibrantiMCompressori per aria riuniti odontoiatriciD1.58Spurgo drenaggi, pulizia filtriM
+
+Compressori per aria riuniti odontoiatrici
+D1.5
+9
+Sostituire le cartucce filtranti quando alla portata massima si verifica una differenza di pressione pari a: 0,06 bar per i prefiltri grado "rc" e 0,12 bar per i prefiltri grado "ra"
+
+M
+Compressori per aria riuniti odontoiatriciD1.510Controllo dello stato della cartuccia del filtro di aspirazione del compressore e sostituzione in
+caso di presenza di rotture o se particolarmente intasata
+SNCompressori per aria riuniti odontoiatriciD1.511Controllo del livello dell'olio contenuto nel serbatoio olio2MCompressori per aria riuniti odontoiatriciD1.512Verifica dell'assenza di trafilamenti di olio dalle tubazioni2MCompressori per aria riuniti odontoiatriciD1.513Controllo del serraggio della raccorderia delle tubazioni e dell'impianto in genere2M
+Compressori per aria riuniti odontoiatriciD1.514
+Sostituzione completa dell'olio scaricandolo tramite il tappo posto sotto il serbatoio
+ACentrale di aspirazione (Vuoto)D1.61Controllo visivo dello stato generale e del funzionamentoGCentrale di aspirazione (Vuoto)D1.62Controllo del funzionamento di tutte le apparecchiature di sicurezza ed esercizioMCentrale di aspirazione (Vuoto)D1.63Controllo livello olioMCentrale di aspirazione (Vuoto)D1.64Verifica dell'assenza di perdite nel circuito olioMCentrale di aspirazione (Vuoto)D1.65Sostituzione olio500Centrale di aspirazione (Vuoto)D1.66Controllo e pulizia filtri di aspirazioneMCentrale di aspirazione (Vuoto)D1.67Controllo motori elettrici, inversione dei cicli di funzionamentoMCentrale di aspirazione (Vuoto)D1.68Controllo della temperatura di lavoro dei corpi pompaMCentrale di aspirazione (Vuoto)D1.69Controllo integrità giunti flessibili e supporti antivibrantiMCentrale di aspirazione (Vuoto)D1.610Controllo integrità dei giunti di accoppiamento motore pompaMCentrale di aspirazione (Vuoto)D1.611Spurgo drenaggiMCentrale di aspirazione (Vuoto)D1.612Pulizia filtriMCentrale di aspirazione (Vuoto)D1.613Controllo dello stato di filtraggio6MPompe di aspirazione (vuoto) riuniti odontoiatriciD1.71Controllo visivo dello stato generale e del funzionamentoMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.72Controllo livello olioMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.73Verifica dell'assenza di perdite nel circuito olioMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.74Sostituzione olioA/SNPompe di aspirazione (vuoto) riuniti odontoiatriciD1.75Controllo e pulizia filtri di aspirazioneMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.76Controllo motore elettrico, verifica assorbimento elettricoMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.77Controllo della temperatura di lavoro del corpo pompaMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.78Controllo integrità giunti flessibili e supporti antivibrantiMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.79Controllo integrità dei giunti di accoppiamento motore pompaMPompe di aspirazione (vuoto) riuniti odontoiatriciD1.710Spurgo drenaggiMImpianto di stoccaggio ossigeno in pacchi bomboleD1.81Controllo visivo dello stato generale e lettura manometriGImpianto di stoccaggio ossigeno in pacchi bomboleD1.82Simulazione di allarme verificando l'effettiva segnalazione di rampa scaricaSImpianto di stoccaggio ossigeno in pacchi bomboleD1.83Controllo del funzionamento della centrale (rampe, quadro, valvole, rampe)M
+Impianto di stoccaggio ossigeno in pacchi bomboleD1.84Controllare che ogni bombola di ossigeno sia correttamente posizionata e provvista di catena di
+fissaggio
+M
+Impianto di stoccaggio ossigeno in pacchi bomboleD1.85Verifica del funzionamento dei riduttori di pressione ed eventuale taratura degli stessi secondo
+la pressione prestabilita
+M
+
+Impianto di stoccaggio ossigeno in pacchi bombole
+D1.8
+6
+Controllo che l'invertitore automatico scambi la rampa di servizio con quella di riserva quando la pressione della rampa di servizio scende sotto il valore prestabilito di taratura
+
+M
+
+Impianto di stoccaggio ossigeno in pacchi bombole
+D1.8
+7
+Verificare che i contattori chiudano quando la pressione scende sotto il valore nominale prestabilito e che istantaneamente si inserisca la spia di allarme indicante rampa scarica
+
+MImpianto di stoccaggio ossigeno in pacchi bomboleD1.88Verifica della funzionalità dell'eventuale allarme a distanzaM
+Impianto di stoccaggio ossigeno in pacchi bomboleD1.89Verificare che al superamento della pressione nominale di sicurezza la valvola di sicurezza entri
+in funzione
+MImpianto di stoccaggio ossigeno in pacchi bomboleD1.810Prova di controllo della tenuta della centraleMImpianto di stoccaggio ossigeno in pacchi bomboleD1.811Taratura dei riduttoriMImpianto di stoccaggio ossigeno in pacchi bomboleD1.812Controllo del buon funzionamento dell'inversoreM
+Impianto di stoccaggio ossigeno in pacchi bomboleD1.813Controllo del buon funzionamento dei contattori (o pressostati) di alta pressione e degli
+indicatori elettrici dei circuiti allarme
+M
+Impianto di stoccaggio ossigeno in pacchi bomboleD1.814
+Verifica che in centrale non siano presenti bombole di ossigeno presenti da oltre sei mesi
+6M
+
+
+Impianto di stoccaggio ossigeno in pacchi bomboleD1.815Verifica che ogni bombola di scorta sia posta nell'apposito poggia bombola completa di catena e
+coperchio di protezione e sicurezza
+MImpianto di stoccaggio protossido d'azoto in pacchi bomboleD1.91Controllo visivo dello stato generale e lettura manometriGImpianto di stoccaggio protossido d'azoto in pacchi bomboleD1.92Simulazione di allarme verificando l'effettiva segnalazione di rampa scaricaSImpianto di stoccaggio protossido d'azoto in pacchi bomboleD1.93Controllo del funzionamento della centrale (rampe, quadro, valvole, rampe)M
+Impianto di stoccaggio protossido d'azoto in pacchi bomboleD1.94Controllare che ogni bombola di ossigeno sia correttamente posizionata e provvista di catena di
+fissaggio
+M
+Impianto di stoccaggio protossido d'azoto in pacchi bomboleD1.95Verifica del funzionamento dei riduttori di pressione ed eventuale taratura degli stessi secondo
+la pressione prestabilita
+M
+
+Impianto di stoccaggio protossido d'azoto in pacchi bombole
+D1.9
+6
+Controllo che l'invertitore automatico scambi la rampa di servizio con quella di riserva quando la pressione della rampa di servizio scende sotto il valore prestabilito di taratura
+
+M
+
+Impianto di stoccaggio protossido d'azoto in pacchi bombole
+D1.9
+7
+Verificare che i contattori chiudano quando la pressione scende sotto il valore nominale prestabilito e che istantaneamente si inserisca la spia di allarme indicante rampa scarica
+
+MImpianto di stoccaggio protossido d'azoto in pacchi bomboleD1.98Verifica della funzionalità dell'eventuale allarme a distanzaM
+Impianto di stoccaggio protossido d'azoto in pacchi bomboleD1.99Verificare che al superamento della pressione nominale di sicurezza la valvola di sicurezza entri
+in funzione
+MImpianto di stoccaggio protossido d'azoto in pacchi bomboleD1.910Prova di controllo della tenuta della centraleMImpianto di stoccaggio protossido d'azoto in pacchi bomboleD1.911Taratura dei riduttoriMImpianto di stoccaggio protossido d'azoto in pacchi bomboleD1.912Controllo del buon funzionamento dell'inversoreM
+Impianto di stoccaggio protossido d'azoto in pacchi bomboleD1.913Controllo del buon funzionamento dei contattori (o pressostati) di alta pressione e degli
+indicatori elettrici dei circuiti allarme
+M
+Impianto di stoccaggio protossido d'azoto in pacchi bomboleD1.914
+Controllo del buon funzionamento del preriscaldatore dei quadri inversione protossido d'azoto
+M
+Impianto di stoccaggio protossido d'azoto in pacchi bomboleD1.915Verifica che in centrale non siano presenti bombole di protossido d'azoto presenti da oltre sei
+mesi
+6M
+Impianto di stoccaggio protossido d'azoto in pacchi bomboleD1.916Verifica che ogni bombola di scorta sia posta nell'apposito poggia bombola completa di catena e
+coperchio di protezione e sicurezza
+MImpianto di stoccaggio anidride carbonica in pacchi bomboleD1.101Controllo visivo dello stato generale e lettura manometriGImpianto di stoccaggio anidride carbonica in pacchi bomboleD1.102Simulazione di allarme verificando l'effettiva segnalazione di rampa scaricaSImpianto di stoccaggio anidride carbonica in pacchi bomboleD1.103Controllo del funzionamento della centrale (rampe, quadro, valvole, rampe)M
+Impianto di stoccaggio anidride carbonica in pacchi bomboleD1.104Controllare che ogni bombola di ossigeno sia correttamente posizionata e provvista di catena di
+fissaggio
+M
+Impianto di stoccaggio anidride carbonica in pacchi bomboleD1.105Verifica del funzionamento dei riduttori di pressione ed eventuale taratura degli stessi secondo
+la pressione prestabilita
+M
+
+Impianto di stoccaggio anidride carbonica in pacchi bombole
+D1.10
+6
+Controllo che l'invertitore automatico scambi la rampa di servizio con quella di riserva quando la pressione della rampa di servizio scende sotto il valore prestabilito di taratura
+
+M
+
+Impianto di stoccaggio anidride carbonica in pacchi bombole
+D1.10
+7
+Verificare che i contattori chiudano quando la pressione scende sotto il valore nominale prestabilito e che istantaneamente si inserisca la spia di allarme indicante rampa scarica
+
+MImpianto di stoccaggio anidride carbonica in pacchi bomboleD1.108Verifica della funzionalità dell'eventuale allarme a distanzaM
+Impianto di stoccaggio anidride carbonica in pacchi bomboleD1.109Verificare che al superamento della pressione nominale di sicurezza la valvola di sicurezza entri
+in funzione
+MImpianto di stoccaggio anidride carbonica in pacchi bomboleD1.1010Prova di controllo della tenuta della centraleMImpianto di stoccaggio anidride carbonica in pacchi bomboleD1.1011Taratura dei riduttoriMImpianto di stoccaggio anidride carbonica in pacchi bomboleD1.1012Controllo del buon funzionamento dell'inversoreM
+Impianto di stoccaggio anidride carbonica in pacchi bomboleD1.1013Controllo del buon funzionamento dei contattori (o pressostati) di alta pressione e degli
+indicatori elettrici dei circuiti allarme
+M
+Impianto di stoccaggio anidride carbonica in pacchi bomboleD1.1014Verifica che in centrale non siano presenti bombole di anidride carbonica presenti da oltre sei
+mesi
+6M
+Impianto di stoccaggio anidride carbonica in pacchi bomboleD1.1015Verifica che ogni bombola di scorta sia posta nell'apposito poggia bombola completa di catena e
+coperchio di protezione e sicurezza
+MImpianto di evacuazione gas anesteticiD1.111Controllo funzionamento di ogni ripetitoreMImpianto di evacuazione gas anesteticiD1.112Controllo elettrovalvole linea aria compressaMImpianto di evacuazione gas anesteticiD1.113Verifica intervento allarmiMImpianto di evacuazione gas anesteticiD1.114Controllo e pulizia dell'impianto3MImpianto di evacuazione gas anesteticiD1.121Controllo visivo dello stato generale e del corretto funzionamentoGImpianto di evacuazione gas anesteticiD1.122Controllo del funzionamento di tutte le apparecchiature di sicurezza ed esercizioMImpianto di evacuazione gas anesteticiD1.123Controllo livello olio, con eventuale rabboccoMImpianto di evacuazione gas anesteticiD1.124Verifica dell'assenza di perdite dai circuiti dell'olioMImpianto di evacuazione gas anesteticiD1.125Controllo ed eventuale pulizia filtri di aspirazioneM
+
+Impianto di evacuazione gas anestetici
+D1.12
+6
+Controllo apparecchiature essicatore (compressore frigorifero, condensatore aria, evaporatore, scambiatore separatore e scaricatore di condensa, termostato e strumenti di taratura)
+
+MImpianto di evacuazione gas anesteticiD1.127Controllo taratura punto di rugiadaMImpianto di evacuazione gas anesteticiD1.128Controllo dell'integrità dei giunti di accoppiamento motore-compressoreMImpianto di evacuazione gas anesteticiD1.129Controllo della temperatura di lavoro delle testate dei compressoriMImpianto di evacuazione gas anesteticiD1.1210Controllo dell'integrità dei giunti flessibili e supporti antivibrantiMImpianto di evacuazione gas anesteticiD1.1211Spurgo drenaggio e pulizia filtriM
+
+Impianto di evacuazione gas anestetici
+D1.12
+12
+Sostituire le cartucce filtranti quando alla portata massima si verifica una differenza di pressione pari a: 0,06 bar per i prefiltri grado "rc" e 0,12 bar per i prefiltri grado "ra"
+
+MImpianto di evacuazione gas anesteticiD1.1213Sostituzione olio500h
+Compressori d'aria non medicaleD1.131Verifica e controllo funzionalità sistemi di controllo e regolazione scarichi condense di tipo
+manuale
+G
+Compressori d'aria non medicaleD1.132
+Controllo livello olio con eventuale rabbocco e cambio ogni 12 mesi (compresa fornitura)
+3MCompressori d'aria non medicaleD1.133Controllo e pulizia del filtro aria e cambio ogni 12 mesi (compresa fornitura)3MCompressori d'aria non medicaleD1.134Controllo filtro olio e cambio ogni 12 mesi (compresa fornitura)3M
+Compressori d'aria non medicaleD1.135
+Controllo e pulizia del radiatore e se necessario smontaggio e lavaggio con idropulitrice a caldo
+3MCompressori d'aria non medicaleD1.136Controllo e pulizia scaricatori di condensa3MCompressori d'aria non medicaleD1.137Controllo del diaframma delle elettrovalvole ed eventuale sostituzione3MCompressori d'aria non medicaleD1.138Controllo valvola di sicurezza di alta pressione e valvola di minima pressione3MCompressori d'aria non medicaleD1.139Controllo servovalvola sostituzione anelli di tenuta3M
+Compressori d'aria non medicaleD1.1310
+Controllo e smontaggio valvola di aspirazione ed eventuale sostituzione anelli di tenuta
+3M
+Compressori d'aria non medicaleD1.1311Controllo e smontaggio valvole recupero olio e valvole di soccorso a vuoto ed eventuale
+sostituzione
+3MCompressori d'aria non medicaleD1.1312Verifica temperatura olio compressore3MCompressori d'aria non medicaleD1.1313Controllo ed eventuale taratura di tutti i pressostati3M
+Compressori d'aria non medicaleD1.1314Controllo e smontaggio candele separatori disoleatori e cambio ogni 12 mesi (compresa
+fornitura)
+3MCompressori d'aria non medicaleD1.1315Controllo tenuta corteco del lato giunto ed eventuale sostituzione3MCompressori d'aria non medicaleD1.1316Verifica contattori, temporizzatori, collegamenti elettrici, sistemi di sicurezza3MCompressori d'aria non medicaleD1.1317Verifica assorbimento motore elettrico3MEssicatoriD1.141Controllo epulizia blocco valvola principale e del distributotre di flusso3MEssicatoriD1.142Controllo elettrovalvole e sostituzione bobine ogni 12 mesi3MEssicatoriD1.143Controllo diaframma delle ellettrovalvole3MEssicatoriD1.144Controllo funzionamento e pulizia degli scaricatori di condensa3MEssicatoriD1.145Controllo funzionamento e pulizia degli scaricatori di condensa3MEssicatoriD1.146Controllo funzionamento del commutatore a passi3M
+EssicatoriD1.147Controllo efficienza dei filtri silenziatori, valvole di non ritorno, cartuccia prefilro, cartuccia
+postfiltro, carica allumina, ed eventuale loro sostituzione
+3MEssicatoriD1.148Controllo e verifica scheda elettronica, automasmi e dispositivi di sicurezza3MEssicatoriD1.149Controllo scaricatori automatici di condensa3MEssicatoriD1.1410Verifica e controllo con eventuale rabbocco a carica gas freon3MEssicatoriD1.1411Controllo efficienza delle colonne di refrigerazione ad acqua3MEssicatoriD1.1412Sostituzione dei filtri catena filtrante aria industrialeAEssicatoriD1.1413Sostituzione dei filtri catena filtrante aria medicale6MEssicatoriD1.1414Pulizia generale dell'appaecchiatura6MEssicatoriD1.1415Pulizia e/o sostituzione filtri per l'aria in circolazione nel localeSN

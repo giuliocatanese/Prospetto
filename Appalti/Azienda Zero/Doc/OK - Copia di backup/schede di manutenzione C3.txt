@@ -1,0 +1,419 @@
+
+
+Insieme
+Codice famiglia
+Codice tipo
+Attività
+Periodicità
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.11
+Operazioni connesse al controllo periodico - locale macchina : pulizia del locale2M
+
+Ascensori montacarichi e montalettighe per n.fermate 1>5
+C3.1
+2
+Operazioni connesse al controllo periodico - locale macchina : verifica buono stato conservativo e funzionamento sistema di illuminazione del locale
+A
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.13Operazioni connesse al controllo periodico - locale macchina : verifica del
+funzionamento della lampada portatileA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.14Operazioni connesse al controllo periodico - argano: lubrificazione bronzine, supporto e
+riduttoreA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.15
+Operazioni connesse al controllo periodico - argano: apertura e chiusura frenoA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.16
+Operazioni connesse al controllo periodico - argano: verifica del gioco vite corona6M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.17Operazioni connesse al controllo periodico - argano: verifica stato d'uso delle gole della
+puleggia di frizione3M
+
+Ascensori montacarichi e montalettighe per n.fermate 1>5
+C3.1
+8
+Operazioni connesse al controllo periodico - argano: verifica dello stato di conservazione delle funi di trazione, delle catene di compensazione e dei loro attacchi;
+2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.19Operazioni connesse al controllo periodico - argano: verifica dello della complanarità
+delle funi2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.110Operazioni connesse al controllo periodico - argano: verifica stato d'uso delle gole della
+puleggia di deviazione2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.111
+Operazioni connesse al controllo periodico - argano: pulizia del locale pulegge di rinvio2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.112Operazioni connesse al controllo periodico - centralina oleodinamica: verifica del livello
+olio serbatoio2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.113Operazioni connesse al controllo periodico - centralina oleodinamica: verifica delle
+tenuta delle guarnizioni2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.114Operazioni connesse al controllo periodico - centralina oleodinamica: verifica del
+dispositivo di ripescamentoA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.115Operazioni connesse al controllo periodico - quadro di manovra: verifica dello stato dei
+contatti e relativa usura degli stessi2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.116Operazioni connesse al controllo periodico - quadro di manovra: verifica del dispositivo
+di emergenza2M
+
+Ascensori montacarichi e montalettighe per n.fermate 1>5
+C3.1
+17
+Operazioni connesse al controllo periodico - quadro di manovra: verifica
+dell'isolamento dell'impianto elettrico e dell'efficienza dei collegamenti di terra
+2MAscensori montacarichi e montalettighe per n.fermate 1>5C3.118Operazioni connesse al controllo periodico - limitatore: ingrassaggio2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.119Operazioni connesse al controllo periodico - limitatore: verifica dello stato di
+conservazione della fune2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.120Operazioni connesse al controllo periodico - limitatore: verifica dello stato di
+conservazione della fune2MAscensori montacarichi e montalettighe per n.fermate 1>5C3.121Operazioni connesse al controllo periodico - vano e tetto cabina:2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.122Operazioni connesse al controllo periodico - vano e tetto cabina: verifica della tensione
+delle funi3M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.123Operazioni connesse al controllo periodico - contrappeso : verifica dei tiranti e della
+tensione delle funi3M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.124Operazioni connesse al controllo periodico - contrappeso : verifica dei pattini di
+scorrimento3M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.125Operazioni connesse al controllo periodico - cilindro e pistone : verifica della tenuta
+della guarnizione2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.126Operazioni connesse al controllo periodico - arcata e cabina: verifica dei tiranti delle
+funi2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.127Operazioni connesse al controllo periodico - arcata e cabina: verifica dei pattini di
+scorrimento2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.128Operazioni connesse al controllo periodico - operatore automatico e scorrevole :
+verifica dell'operatore2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.129Operazioni connesse al controllo periodico - operatore automatico e scorrevole :
+verifica dello scorrevole2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.130
+Operazioni connesse al controllo periodico - serrature: verifica dei contatti elettrici6MAscensori montacarichi e montalettighe per n.fermate 1>5C3.131Operazioni connesse al controllo periodico - serrature: verifica del serraggio6M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.132Operazioni connesse al controllo periodico - porte dei piani: verifica del funzionamento
+delle porte semiautomaticheA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.133Operazioni connesse al controllo periodico - porte dei piani: verifica del funzionamento
+delle spie di segnalazioneAAscensori montacarichi e montalettighe per n.fermate 1>5C3.134Operazioni connesse al controllo periodico - cabina: verifica dell'allarmeA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.135
+Operazioni connesse al controllo periodico - cabina: verifica del sistema citofonicoA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.136
+Operazioni connesse al controllo periodico - cabina: verifica del funzionamento alt/stopA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.137Operazioni connesse al controllo periodico - cabina: verifica del funzionamento
+dell'illuminazioneA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.138Operazioni connesse al controllo periodico - cabina: verifica del funzionamento delle
+spie di segnalazioneA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.139Operazioni connesse al controllo periodico - cabina: verifica del buon funzionamento
+delle ante manualiA
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.140Operazioni connesse al controllo periodico - fossa : verifica dello stato di conservazione
+della fune tenditrice e del limitatore di velocità2M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.141
+Operazioni connesse al controllo periodico - fossa : verifica tiranti filoni contrappeso6M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.142
+Operazioni connesse al controllo periodico - fossa : verifica tiranti funi oleodinamici3M
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.143
+Operazioni connesse al controllo periodico - fossa : verifica tiranti funi oleodinamici
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.144Operazioni connesse al controllo periodico - dispositivi di sicurezza : verifica accurata di
+tutti i dispositivi di sicurezzaA
+
+Ascensori montacarichi e montalettighe per n.fermate 1>5
+C3.1
+45
+Operazioni connesse al controllo periodico - libretto di esercizio: annotazione dei risultati delle verifiche sul libretto diesercizio, secondo quanto previsto dalla legge
+A
+Ascensori montacarichi e montalettighe per n.fermate 1>5C3.146Operazioni connesse al controllo periodico - rapporto d'intervento: esame completo di
+tutta l'installazione con compilazione di un rapporto di sintesi.A
+
+
+
+
+
+Ascensori montacarichi e montalettighe per n.fermate 1>5
+
+
+C3.1
+
+
+47Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SN
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.21
+Operazioni connesse al controllo periodico - locale macchina : pulizia del locale2M
+
+
+
+Ascensori montacarichi e montalettighe per n.fermate >5<10
+C3.2
+2
+Operazioni connesse al controllo periodico - locale macchina : verifica buono stato conservativo e funzionamento sistema di illuminazione del locale
+A
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.23Operazioni connesse al controllo periodico - locale macchina : verifica del
+funzionamento della lampada portatileA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.24Operazioni connesse al controllo periodico - argano: lubrificazione bronzine, supporto e
+riduttoreA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.25
+Operazioni connesse al controllo periodico - argano: apertura e chiusura frenoA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.26
+Operazioni connesse al controllo periodico - argano: verifica del gioco vite corona6M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.27Operazioni connesse al controllo periodico - argano: verifica stato d'uso delle gole della
+puleggia di frizione3M
+
+Ascensori montacarichi e montalettighe per n.fermate >5<10
+C3.2
+8
+Operazioni connesse al controllo periodico - argano: verifica dello stato di conservazione delle funi di trazione, delle catene di compensazione e dei loro attacchi;
+2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.29Operazioni connesse al controllo periodico - argano: verifica dello della complanarità
+delle funi2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.210Operazioni connesse al controllo periodico - argano: verifica stato d'uso delle gole della
+puleggia di deviazione2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.211
+Operazioni connesse al controllo periodico - argano: pulizia del locale pulegge di rinvio2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.212Operazioni connesse al controllo periodico - centralina oleodinamica: verifica del livello
+olio serbatoio2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.213Operazioni connesse al controllo periodico - centralina oleodinamica: verifica delle
+tenuta delle guarnizioni2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.214Operazioni connesse al controllo periodico - centralina oleodinamica: verifica del
+dispositivo di ripescamentoA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.215Operazioni connesse al controllo periodico - quadro di manovra: verifica dello stato dei
+contatti e relativa usura degli stessi2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.216Operazioni connesse al controllo periodico - quadro di manovra: verifica del dispositivo
+di emergenza2M
+
+Ascensori montacarichi e montalettighe per n.fermate >5<10
+C3.2
+17
+Operazioni connesse al controllo periodico - quadro di manovra: verifica
+dell'isolamento dell'impianto elettrico e dell'efficienza dei collegamenti di terra
+2MAscensori montacarichi e montalettighe per n.fermate >5<10C3.218Operazioni connesse al controllo periodico - limitatore: ingrassaggio2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.219Operazioni connesse al controllo periodico - limitatore: verifica dello stato di
+conservazione della fune2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.220Operazioni connesse al controllo periodico - limitatore: verifica dello stato di
+conservazione della fune2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.221Operazioni connesse al controllo periodico - vano e tetto cabina: verifica delle guide
+della cabina e del contrappeso2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.222Operazioni connesse al controllo periodico - vano e tetto cabina: verifica della tensione
+delle funi3M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.223Operazioni connesse al controllo periodico - contrappeso: verifica dei tiranti e della
+tensione delle funi3M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.224Operazioni connesse al controllo periodico - contrappeso: verifica dei pattini di
+scorrimento3M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.225Operazioni connesse al controllo periodico - cilindro e pistone: verifica della tenuta
+della guarnizione2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.226Operazioni connesse al controllo periodico - arcata e cabina: verifica dei tiranti delle
+funi2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.227Operazioni connesse al controllo periodico - arcata e cabina: verifica dei pattini di
+scorrimento2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.228Operazioni connesse al controllo periodico - operatore automatico e scorrevole:
+verifica dell'operatore2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.229Operazioni connesse al controllo periodico - operatore automatico e scorrevole:
+verifica dello scorrevole2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.230
+Operazioni connesse al controllo periodico - serrature: verifica dei contatti elettrici6MAscensori montacarichi e montalettighe per n.fermate >5<10C3.231Operazioni connesse al controllo periodico - serrature: verifica del serraggio6M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.232Operazioni connesse al controllo periodico - porte dei piani : verifica del funzionamento
+delle porte semiautomaticheA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.233Operazioni connesse al controllo periodico - porte dei piani : verifica del funzionamento
+delle spie di segnalazioneAAscensori montacarichi e montalettighe per n.fermate >5<10C3.234Operazioni connesse al controllo periodico - cabina: verifica dell'allarmeA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.235
+Operazioni connesse al controllo periodico - cabina: verifica del sistema citofonicoA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.236
+Operazioni connesse al controllo periodico - cabina: verifica del funzionamento alt/stopA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.237Operazioni connesse al controllo periodico - cabina: verifica del funzionamento
+dell'illuminazioneA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.238Operazioni connesse al controllo periodico - cabina: verifica del funzionamento delle
+spie di segnalazioneA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.239Operazioni connesse al controllo periodico - cabina: verifica del buon funzionamento
+delle ante manualiA
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.240Operazioni connesse al controllo periodico - fossa: verifica dello stato di conservazione
+della fune tenditrice e del limitatore di velocità2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.241
+Operazioni connesse al controllo periodico - fossa: verifica tiranti filoni contrappeso6M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.242
+Operazioni connesse al controllo periodico - fossa: verifica tiranti funi oleodinamici3M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.243
+Operazioni connesse al controllo periodico - fossa: verifica tiranti funi oleodinamici2M
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.244Operazioni connesse al controllo periodico - dispositivi di sicurezza: verifica accurata di
+tutti i dispositivi di sicurezzaA
+
+Ascensori montacarichi e montalettighe per n.fermate >5<10
+C3.2
+45
+Operazioni connesse al controllo periodico - libretto di esercizio: annotazione dei risultati delle verifiche sul libretto diesercizio, secondo quanto previsto dalla legge
+A
+Ascensori montacarichi e montalettighe per n.fermate >5<10C3.246Operazioni connesse al controllo periodico - rapporto d'intervento: esame completo di
+tutta l'installazione con compilazione di un rapporto di sintesiA
+
+
+
+
+
+Ascensori montacarichi e montalettighe per n.fermate >5<10
+
+
+C3.2
+
+
+47Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+Ascensori montacarichi e montalettighe per n.fermate >10C3.31
+Operazioni connesse al controllo periodico - locale macchina : pulizia del locale2M
+
+Ascensori montacarichi e montalettighe per n.fermate >10
+C3.3
+2
+Operazioni connesse al controllo periodico - locale macchina : verifica buono stato conservativo e funzionamento sistema di illuminazione del locale
+A
+Ascensori montacarichi e montalettighe per n.fermate >10C3.33Operazioni connesse al controllo periodico - locale macchina : verifica del
+funzionamento della lampada portatileA
+
+
+Ascensori montacarichi e montalettighe per n.fermate >10C3.34Operazioni connesse al controllo periodico - argano: lubrificazione bronzine, supporto e
+riduttoreA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.35
+Operazioni connesse al controllo periodico - argano: apertura e chiusura frenoA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.36
+Operazioni connesse al controllo periodico - argano: verifica del gioco vite corona6M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.37Operazioni connesse al controllo periodico - argano: verifica stato d'uso delle gole della
+puleggia di frizione3M
+
+Ascensori montacarichi e montalettighe per n.fermate >10
+C3.3
+8
+Operazioni connesse al controllo periodico - argano: verifica dello stato di conservazione delle funi di trazione, delle catene di compensazione e dei loro attacchi;
+2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.39Operazioni connesse al controllo periodico - argano: verifica dello della complanarità
+delle funi2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.310Operazioni connesse al controllo periodico - argano: verifica stato d'uso delle gole della
+puleggia di deviazione2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.311
+Operazioni connesse al controllo periodico - argano: pulizia del locale pulegge di rinvio2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.312
+Operazioni connesse al controllo periodico - verifica del livello olio serbatoio :2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.313Operazioni connesse al controllo periodico - verifica del livello olio serbatoio : verifica
+delle tenuta delle guarnizioni2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.314Operazioni connesse al controllo periodico - verifica del livello olio serbatoio : verifica
+del dispositivo di ripescamentoA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.315Operazioni connesse al controllo periodico - quadro di manovra: verifica dello stato dei
+contatti e relativa usura degli stessi2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.316Operazioni connesse al controllo periodico - quadro di manovra: verifica del dispositivo
+di emergenza2M
+
+Ascensori montacarichi e montalettighe per n.fermate >10
+C3.3
+17
+Operazioni connesse al controllo periodico - quadro di manovra: verifica
+dell'isolamento dell'impianto elettrico e dell'efficienza dei collegamenti di terra
+2MAscensori montacarichi e montalettighe per n.fermate >10C3.318Operazioni connesse al controllo periodico - limitatore: ingrassaggio2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.319Operazioni connesse al controllo periodico - limitatore: verifica dello stato di
+conservazione della fune2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.320Operazioni connesse al controllo periodico - limitatore: verifica dello stato di
+conservazione della fune2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.321Operazioni connesse al controllo periodico - vano a tetto cabina : verifica delle guide
+della cabina e del contrappeso2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.322Operazioni connesse al controllo periodico - vano a tetto cabina : verifica della
+tensione delle funi3M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.323Operazioni connesse al controllo periodico - contrappeso: verifica dei tiranti e della
+tensione delle funi3M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.324Operazioni connesse al controllo periodico - contrappeso: verifica dei pattini di
+scorrimento3M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.325Operazioni connesse al controllo periodico - cilindro e pistone: verifica della tenuta
+della guarnizione2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.326Operazioni connesse al controllo periodico - arcata e cabina : verifica dei tiranti delle
+funi2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.327Operazioni connesse al controllo periodico - arcata e cabina : verifica dei pattini di
+scorrimento2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.328Operazioni connesse al controllo periodico - operatore automatico e scorrevole:
+verifica dell'operatore2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.329Operazioni connesse al controllo periodico - operatore automatico e scorrevole:
+verifica dello scorrevole2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.330
+Operazioni connesse al controllo periodico - serrature: verifica dei contatti elettrici6M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.331
+Operazioni connesse al controllo periodico - serrature: verifica del serraggio6M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.332Operazioni connesse al controllo periodico - porte dei piani: verifica del funzionamento
+delle porte semiautomaticheA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.333Operazioni connesse al controllo periodico - porte dei piani: verifica del funzionamento
+delle spie di segnalazioneAAscensori montacarichi e montalettighe per n.fermate >10C3.334Operazioni connesse al controllo periodico - cabina: verifica dell'allarmeA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.335
+Operazioni connesse al controllo periodico - cabina: verifica del sistema citofonicoA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.336Operazioni connesse al controllo periodico - cabina: verifica del funzionamento
+alt/stopA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.337Operazioni connesse al controllo periodico - cabina: verifica del funzionamento
+dell'illuminazioneA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.338Operazioni connesse al controllo periodico - cabina: verifica del funzionamento delle
+spie di segnalazioneA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.339Operazioni connesse al controllo periodico - cabina: verifica del buon funzionamento
+delle ante manualiA
+Ascensori montacarichi e montalettighe per n.fermate >10C3.340Operazioni connesse al controllo periodico - fossa: verifica dello stato di conservazione
+della fune tenditrice e del limitatore di velocità2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.341
+Operazioni connesse al controllo periodico - fossa: verifica tiranti filoni contrappeso6M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.342
+Operazioni connesse al controllo periodico - fossa: verifica tiranti funi oleodinamici3M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.343
+Operazioni connesse al controllo periodico - fossa: verifica tiranti funi oleodinamici2M
+Ascensori montacarichi e montalettighe per n.fermate >10C3.344Operazioni connesse al controllo periodico - dispositivi di sicurezza: verifica accurata di
+tutti i dispositivi di sicurezzaA
+
+Ascensori montacarichi e montalettighe per n.fermate >10
+C3.3
+45
+Operazioni connesse al controllo periodico - libretto di esercizio: annotazione dei risultati delle verifiche sul libretto diesercizio, secondo quanto previsto dalla legge
+A
+Ascensori montacarichi e montalettighe per n.fermate >10C3.346Operazioni connesse al controllo periodico - rapporto d'intervento: esame completo di
+tutta l'installazione con compilazione di un rapporto di sintesiA
+
+
+
+
+
+Ascensori montacarichi e montalettighe per n.fermate >10
+
+
+C3.3
+
+
+47Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SN
+Servoscala / MontascaleC3.41
+Operazioni connesse al controllo periodico : verifica quadro elettrico di comando2MServoscala / MontascaleC3.42Operazioni connesse al controllo periodico : verifica pulsantiere di comando2MServoscala / MontascaleC3.43Operazioni connesse al controllo periodico : verifica dispositivi di sicurezza2M
+Servoscala / MontascaleC3.44Operazioni connesse al controllo periodico : lubrificazione e ingrassaggio parti
+meccaniche in movimento2M
+
+
+
+
+
+Servoscala / Montascale
+
+
+C3.4
+
+
+5Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SN
+
+
+Scale mobili / marciapiedi mobiliC3.51
+Operazioni connesse al controllo periodico : verifica quadro elettrico di comando2M
+Scale mobili / marciapiedi mobiliC3.52
+Operazioni connesse al controllo periodico : verifica pulsantiere di comando2MScale mobili / marciapiedi mobiliC3.53Operazioni connesse al controllo periodico : verifica dispositivi di sicurezza2M
+Scale mobili / marciapiedi mobiliC3.54Operazioni connesse al controllo periodico : lubrificazione e ingrassaggio parti
+meccaniche in movimento2M
+
+
+
+
+
+Scale mobili / marciapiedi mobili
+
+
+C3.5
+
+
+5Altre manutenzioni e controlli - in agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo
+per tempo vigente
+
+
+SN

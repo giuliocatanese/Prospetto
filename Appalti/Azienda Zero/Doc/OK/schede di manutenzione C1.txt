@@ -1,0 +1,2006 @@
+
+InsiemeCodice
+famigliaCodice
+tipoAttivitàPeriodicitàEstintori di incendioC1.11Controllo inizile presa in carico - controllare che: gli estintori siano manutenzionabili ovvero non siano da
+considerarsi fuori servizioNAEstintori di incendioC1.12Controllo inizile presa in carico -controllare che:le marcature siano presenti e leggibiliNAEstintori di incendioC1.13Controllo inizile presa in carico -controllare che: esistano le registrazioni delle attività di manutenzione
+precedentiNAEstintori di incendioC1.14
+Controllo inizile presa in carico-controllare che :sia disponibile il libretto di manutenzione ove previstoNA
+
+
+
+
+
+Estintori di incendio
+
+
+
+
+
+C1.1
+
+
+
+
+
+5
+Controllo periodico-Verificare che (verifiche di cui alla fase di sorveglianza):
+• l'estintore ed il supporto siano integri;
+• l'estintore sia presente e segnalato con apposito cartello;
+• il cartello sia chiaramente visibile, l'estintore sia immediatamente utilizzabile e l'accesso allo stesso sia libero da ostacoli;
+• l'estintore non sia stato manomesso, in particolare risulti sigillato il dispositivo di sicurezza per evitare azionamenti accidentali;
+• le iscrizioni (etichette) siano ben leggibili;
+• l'indicatore di pressione, se presente, indichi un valore di pressione compreso all'interno del campo verde;
+• il cartellino di manutenzione sia presente sull'apparecchio e che non sia stata superata la data per le attività previste;
+• l'estintore portatile non sia collocato a pavimento.
+
+
+
+
+
+6MEstintori di incendioC1.16
+Controllo periodico -verificare che: per gli estintori pressurizzati: accertamento della pressione interna6MEstintori di incendioC1.17Controllo periodico -Verificare che: per gli estintori a CO2: accertamento dello stato di carica tramite
+pesatura6MEstintori di incendioC1.18Controllo periodico - controllo della presenza, del tipo e della caricdelle bombole di gas ausiliario per gli
+estintori pressurizzati con tale sistema6MEstintori di incendioC1.19Controllo periodico - verificare che: l'estintore non presenti anomalie quali ugelli ostruiti, perdite, tracce di
+corrosione, sconnessioni o incrinature dei tubi fl essibili, ecc.6MEstintori di incendioC1.110Controllo periodico - verificare che :l'estintore sia esente da danni alle strutture di supporto e alla maniglia
+di trasporto; se carrellato, abbia ruote funzionanti6MEstintori di incendioC1.111Controllo periodico - verificare che : sia esente da danni ed ammaccature al serbatoio6M
+
+
+
+
+
+
+Estintori di incendio
+
+
+
+
+
+
+C1.1Revisione programmate degli estintori consistente in:
+• esame interno dell'apparecchio per la verifica del buono stato di conservazione;
+• esame e controllo funzionale di tutte le parti;
+• controllo di tutte le sezioni di passaggio del gas ausiliario, se presente, e dell'agente estinguente, in particolare il tubo pescante, i tubi flessibili, i raccordi e gli ugelli, per verificare che siano liberi da incrostazioni, occlusioni e sedimentazioni;
+• controllo dell'assale e delle ruote, quando esistenti;
+• ripristino delle protezioni superficiali, se danneggiate;
+• sostituzione dei dispositivi di sicurezza contro le sovrappressioni se presenti;
+• sostituzione dell'agente estinguente;
+• sostituzione delle guarnizioni;
+• sostituzione della valvola erogatrice per gli estintori a biossido di carbonio per garantire sicurezza ed efficienza;
+• rimontaggio dell'estintore in perfetto stato di efficienza.Estintori di incendioC1.112Revisione programmata estintori a polvere3AEstintori di incendioC1.113Revisione programmata estintori a Biossido di carbonio5AEstintori di incendioC1.114Revisione programmata estintori a base d'acqua con serbatoio in acciaio al carbonio e agente estinguente
+premiscelato2AEstintori di incendioC1.115Revisione programmata estintori a base d'acqua con serbatoio in acciaio al carbonio contenente solo acqua
+ed eventuali altri additivi in cartuccia4AEstintori di incendioC1.116
+Revisione programmata estintori a base d'acqua con serbatoio in acciaio inox o lega di alluminio4A
+Estintori di incendio
+C1.1Il collaudo (tipo CE/PED o PRE-PED) consiste:
+- nell'esecuzione di tutte le attività di cui al controllo periodico e alla revisione programmata;
+- nella sostituzione della valvola di comando
+Estintori di incendio
+C1.1"Collaudo CE-PED" - mediante prova idraulica della durata 30 s alla pressione di prova (PT) indicata sul serbatoio - di estintori che non siano già soggetti a verifiche periodiche secondo la legislazione vigente e
+costruiti in conformità al Decreto Legislativo n. 93/2000Estintori di incendioC1.117"Collaudo CE-PED" estintori a polvere12AEstintori di incendioC1.118"Collaudo CE-PED" estintori a Biossido di carbonio10AEstintori di incendioC1.119"Collaudo CE-PED" estintori a base d'acqua con serbatoio in acciaio al carbonio e agente estinguente
+premiscelato6AEstintori di incendioC1.120"Collaudo CE-PED" estintori a base d'acqua con serbatoio in acciaio al carbonio contenente solo acqua ed
+eventuali altri additivi in cartuccia8AEstintori di incendioC1.121"Collaudo CE-PED" estintori a base d'acqua con serbatoio in acciaio inox o lega di alluminio12AEstintori di incendioC1.122"Collaudo CE-PED" estintori a idrocarburi alogenati, di tutti i tipi12A
+Estintori di incendio
+C1.1
+23
+"Collaudo PRE-PED" - mediante prova idraulica della durata di 1 min a una pressione di 3,5 Mpa, o come da valore punzonato sul serbatoio se maggiore - di estintori che non siano già soggetti a verifiche periodiche secondo la legislazione vigente e non conformi al Decreto Legislativo n. 93/2000Estintori di incendioC1.124"Collaudo PRE-PED" estintori a polvere6AEstintori di incendioC1.125"Collaudo PRE-PED" estintori a Biossido di carbonio10AEstintori di incendioC1.126"Collaudo PRE-PED" estintori a base d'acqua con serbatoio in acciaio al carbonio e agente estinguente
+premiscelato6AEstintori di incendioC1.127"Collaudo PRE-PED" estintori a base d'acqua con serbatoio in acciaio al carbonio contenente solo acqua ed
+eventuali altri additivi in cartuccia6AEstintori di incendioC1.128"Collaudo PRE-PED" estintori a base d'acqua con serbatoio in acciaio inox o lega di alluminio6AEstintori di incendioC1.129"Collaudo PRE-PED" estintori a idrocarburi alogenati, di tutti i tipi6A
+
+
+Estintori di incendio
+
+C1.1
+
+30Manutenzione straordinaria - La manutenzione straordinaria si attua, durante la vita dell'estintore, ogni volta che le operazioni di manutenzioe ordinaria non sono sufficienti a ripristinare le condizioni di efficienza dell'estintore. Le attività comprendono:
+- le sostituzioni di alcune componenti dell'apparecchio come, ad esempio, pulsanti, valvole, sostituzioni secondo quanto riportato sul manuale del costruttore, ecc.
+- la sostituzione integrale dell'agente estingunte degli estintori utilizzati anche parzialmente.
+
+SN
+Estintori di incendio
+C1.1
+31
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+SNReti di idrantiC1.21Operazioni connesse alla prea in carico - Controllare che gli estintori siano manutenzionabili ovvero non
+siano da considerarsi fuori servizioNAReti di idrantiC1.22Operazioni connesse alla prea in carico - richiedere al committente la documentazione storica relativa ai
+pregressi interventi di controllo e manutenzioneNAReti di idrantiC1.23Operazioni connesse alla prea in carico - richiedere il libretto d'uso e manutenzione dei componenti oltre
+all'eventuale ulteriore documentazione a corredoNAReti di idrantiC1.24Operazioni connesse al controllo periodico - Controlli attacchi VVF:presenza, corretta ubicazione,
+chiaramente segnalati e accessibili senza ostacoli6M
+Reti di idranti
+C1.2
+5
+Operazioni connesse al controllo periodico - Controlli attacchi VVF: controllare che non sia danneggiato ed i componenti non presentino segni di corrosione o perdite protezione da urti accidentali
+6MReti di idrantiC1.26Operazioni connesse al controllo periodico - Controlli attacchi VVF: presenza tappo filettato secondo norme
+UNI apribile con chiave per raccordi di tipo A6M
+Reti di idranti
+C1.2
+7
+Operazioni connesse al controllo periodico - Controlli attacchi VVF: manovrabilità delle valvole mediante la completa apertura e chiusura delle stesse verificando la tenuta della valvola di ritegno
+6MReti di idrantiC1.28Operazioni connesse al controllo periodico - Controlli attacchi VVF: alla fine delle operazioni assicurarsi che
+le valvole di intercettazione degli attacchi autopompa siano in posizione aperta6MReti di idrantiC1.29Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: presenza, corretta ubicazione,
+chiaramente segnalati e accessibili senza ostacoli6M
+Reti di idranti
+C1.2
+10
+Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: non sia danneggiato ed i componenti non presentino segni di corrosione o perdite protezione da urti accidentali
+6M
+Reti di idrantiC1.211Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: presenza tappo filettato
+secondo norme UNI apribile con chiave per raccordi di tipo A6M
+Reti di idranti
+C1.2
+12
+Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: manovrabilità delle valvole mediante la completa apertura e chiusura delle stesse verificando la tenuta della valvola di ritegno
+6MReti di idrantiC1.213Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: il sistema di drenaggio funzioni
+correttamente6MReti di idrantiC1.214Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: le cassette a corredo degli
+idranti siano dotate di tubazione con raccordi UNI 8046MReti di idrantiC1.215Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: le cassette a corredo degli
+idranti siano dotate di lancia di erogazione secondo la norma UNI 114236M
+Reti di idranti
+C1.2
+16
+Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: le cassette a corredo degli idranti siano dotate di chiavi di manovra per l'apertura dell'idrante e per il serraggio dei raccordi
+6M
+Reti di idranti
+C1.2
+17
+Operazioni connesse al controllo periodico - Idranti soprasuolo e sottosuolo: le cassette a corredo degli idranti sottosuolo siano dotate di dispositivi di attacco (colli cigno) per consentirne un rapido utilizzo
+6MReti di idrantiC1.218Operazioni connesse al controllo periodico - Idranti a muro e naspi: presenza della marcatura CE della
+cassetta se impianto costruito dopo 20046MReti di idrantiC1.219Operazioni connesse al controllo periodico - Idranti a muro e naspi: presenza, corretta ubicazione,
+chiaramente segnalati e accessibili senza ostacoli6M
+Reti di idranti
+C1.2
+20Operazioni connesse al controllo periodico - Idranti a muro e naspi: non sia danneggiato, i componenti non
+presentino segni di corrosione o perdite e la cassetta non sia danneggiata, si apra agevolmente non ostacoli le vie di esodo e sia saldamente fissata al supporto
+6MReti di idrantiC1.221
+Operazioni connesse al controllo periodico - Idranti a muro e naspi: protezione da urti accidentali6MReti di idrantiC1.222Operazioni connesse al controllo periodico - Idranti a muro e naspi: in caso di presenza di manometro esso
+funzioni correttamente;6M
+Reti di idranti
+C1.2
+23Operazioni connesse al controllo periodico - Idranti a muro e naspi: che la lancia erogatrice sia di tipo appropriato, di facile manovrabilità ed abbia almeno 3 posizioni di regolazione (intercettazione di getto,
+getto pieno e frazionato)
+6MReti di idrantiC1.224Operazioni connesse al controllo periodico - Specificità in caso di idranti a muro: Per quanto attiene la
+tubazione verificare che6MReti di idrantiC1.225Operazioni connesse al controllo periodico - Specificità in caso di idranti a muro: non vi sia presenza di
+screpolature, deformazioni e danneggiamenti6MReti di idrantiC1.226Operazioni connesse al controllo periodico - Specificità in caso di idranti a muro: i raccordi siano a norma
+UNI 8046M
+Reti di idranti
+C1.2
+27Operazioni connesse al controllo periodico - Specificità in caso di idranti a muro: sia presente un adeguato
+sistema di protezione dell'operatore in prossimità del raccordo (ad es. manicotto copri legatura) UNI 7422 punto 4
+6MReti di idrantiC1.228Operazioni connesse al controllo periodico - Specificità in caso di idranti a muro: abbia legature secondo UNI
+74226M
+Reti di idranti
+C1.2
+29Operazioni connesse al controllo periodico - Specificità in caso di idranti a muro: sia presente la fascetta
+vincolata al sistema di fissaggio riportante i dati del produttore, la massima pressione di esercizio, l'anno di costruzione ed il riferimento alla norma UNI 7422
+6MReti di idrantiC1.230Operazioni connesse al controllo periodico - Specificità in caso di naspi: la bobina (se presente) ruoti
+agevolmente in entrambe le direzioni6MReti di idrantiC1.231Operazioni connesse al controllo periodico - Specificità in caso di naspi: mancata presenza di screpolature,
+deformazioni e danneggiamenti sulla tubazione6MReti di idrantiC1.232Operazioni connesse al controllo periodico - Specificità in caso di naspi: per i naspi orientabili, il supporto
+pivotante ruoti agevolmente fino a 180°6MReti di idrantiC1.233Operazioni connesse al controllo periodico - Specificità in caso di naspi: per i naspi manuali la valvola
+d'intercettazione sia adeguata e di facile e corretta manovrabilità6M
+Reti di idranti
+C1.2
+34
+Operazioni connesse al controllo periodico - Specificità in caso di naspi: per i naspi fissi la guida di scorrimento della tubazione funzioni correttamente e sia fissata correttamente e saldamente
+6MReti di idrantiC1.235Operazioni connesse al controllo periodico - Specificità in caso di naspi: la tubazione di alimentazione sia in
+buone condizioni6MReti di idrantiC1.236Operazioni connesse alla manutenzione annuale - eseguire tutte le operazioni previste nel controllo
+periodico semestraleA
+
+Reti di idranti
+
+C1.2
+
+37Operazioni connesse alla manutenzione annuale - mettere la tubazione semirigida secondo UNI EN 694 in caso di naspi o appiattibile secondo UNI EN 14540 in caso di idranti a muro alla pressione di esercizio della rete
+• È ammesso il collaudo ad aria fino a pressioni di 6 bar
+• Se pressioni dell'impianto sono superiori è necessario utilizzare collaudo idraulico
+
+A
+Reti di idranti
+C1.2
+38
+Operazioni connesse alla manutenzione annuale - prova di funzionalità degli idranti a muro e dei naspi
+controllando che la portata e la gittata siano costanti e sufficienti (è consigliato l'uso di indicatori di flusso)
+A
+Reti di idranti
+C1.2
+39Operazioni connesse al collaudo periodico quinquennale: Mettere alla massima pressione di esercizio 1,2 MPa (12 Bar) la tubazione flessibile (in caso di idranti a muro) o la tubazione semirigida (in caso di naspi
+antincendio) così come specificato nelle norma UNI EN 671/3
+5AReti di idrantiC1.240Operazioni connesse alla manutenzione ordinaria: Consistono in una serie di operazioni atte a eliminare le
+anomalie di modesta entità riscontrate nei componenti delle reti idrantiNAReti di idrantiC1.241Operazioni connesse alla manutenzione ordinaria: Terminata la manutenzione, il tecnico è tenuto alla
+compilazione del rapporto di interventoNA
+Reti di idranti
+C1.2
+42
+Operazioni connesse alla manutenzione straordinaria: Consistono in un intervento che richiede attrezzature o strumentazioni particolari o che comporti ad esempio la sostituzione degli accessori o dell'idrante a muro, naspo o la completa sostituzione di idranti a colonna o attacchi per gruppi autopompa
+NA
+
+Reti di idranti
+
+C1.2
+
+43
+Altre manutenzioni e controlli: In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigentePorte e finestre apribili resistenti al fuocoC1.31Con la fase di presa in carico il tecnico manutentore, partendo dall'esame del sito, dovrebbe:valutare lo
+stato delle porte installateNA
+Porte e finestre apribili resistenti al fuoco
+C1.3
+2
+Con la fase di presa in carico il tecnico manutentore, partendo dall'esame del sito, dovrebbe:verificare la disponibilità del libretto d'uso e manutenzione Acquisire le registrazioni degli interventi passati
+NAPorte e finestre apribili resistenti al fuocoC1.33Con la fase di presa in carico il tecnico manutentore, partendo dall'esame del sito, dovrebbe: verificare la
+conformità della posa in opera delle porteNA
+Porte e finestre apribili resistenti al fuoco
+C1.3
+4
+Con la fase di presa in carico il tecnico manutentore, partendo dall'esame del sito, dovrebbe: verificare l'integrità e la tenuta dei sistemi di fissaggio, la stabilità della porta nel suo complesso
+NA
+Porte e finestre apribili resistenti al fuoco
+C1.3
+5Con la fase di presa in carico il tecnico manutentore, partendo dall'esame del sito, dovrebbe: verificare
+l'integrità della porta e degli accessori, e che non siano state apportate modifiche non previste dal produttore
+NA
+
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+6
+Operazioni connesse al controllo periodico - Verifica presenza targhetta (marchio di conformità) apposto dal produttore: Verificare la presenza della targhetta sulle porte (ove esistente).
+La targhetta deve essere leggibile e riportare la classificazione della resistertza al fuoco, anno di produzione
+e numero progressivo di fabbricazione, estremi del certificato di prova e dell'atto di omologazione, nome del produttore
+
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+7
+Operazioni connesse al controllo periodico - Verifica presenza di ritegni impropri: Si dave verificare che la porta sia libera da ritegni impropri di qualsiasi geriere quaii per esempio: legacci, catenelle, oggetti posti per tenere aperte le ante (portaombrelli, estintori, sedie, zeppe, ecc.)
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+8
+Operazioni connesse al controllo periodico -Verifica presenza di ritegni impropri: Non devono esserci oggetti che ostacolino il passaggio delle persone riducendo la larghezza o altaltezza del passaggio
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+9
+Operazioni connesse al controllo periodico -Verifica guarnizioni-Si deve verificare che le guarnizioni perirnetrali termo-espandenti e di tenuta al fumo siano efficienti,
+si deve controllare che: le guarnizioni non siano danneggiate, siano intere e non siano state modificate
+6M
+
+Porte e finestre apribili resistenti al fuoco
+C1.3
+10Operazioni connesse al controllo periodico -Verifica guarnizioni-Si deve verificare che le guarnizioni perirnetrali termo-espandenti e di tenuta al fumo siano efficienti,
+si deve controllare che: le guarnizioni siano fissate in maniera sicura alla porta o al telaio e non coperte da
+verrticiature
+6M
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+11
+
+Operazioni connesse al controllo periodico -Verifica fissaggio e giochi- Si deve verificare che la porta sia fissata e in posizione corretta (giochi rispettati).Si deve coritrollare che: non ci siano crepe, fessure o distacchi che indicano una riduzione di continuità e di solidità dell'ancoraggio al supporto murario
+
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+12
+Operazioni connesse al controllo periodico -Verifica fissaggio e giochi- Si deve verificare che la porta sia fissata e in posizione corretta (giochi rispettati).Si deve coritrollare che: siano mantenuti i piani verticali ed orizzontali di posa in particolare delle parti mobili (anche tra di esse)
+6M
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+13
+Operazioni connesse al controllo periodico -Verifica fissaggio e giochi- Si deve verificare che la porta sia fissata e in posizione corretta (giochi rispettati).Si deve coritrollare che: i giochi fra la porta ed il telaio e fra le ante delle porte a due ante siano entro i valori indicati dal costruttore della porta.
+Operare analogamente per i Labirinti delle porte scorrevoli, ecc.
+
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+14Operazioni connesse al controllo periodico -Verifica integrità costruttiva- Si dave verificare che la porta sia integra. Si deve controllare che: non ci siano forature, ammaccature, distorsioni, corrosioni, spaccature,
+cedimenti, ccc. che modificano i giochi tra parti fisse ed apribili
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+15Operazioni connesse al controllo periodico -Verifica integrità costruttiva- Si dave verificare che la porta sia
+integra. Si deve controllare che: i vetri inseriti siano esenti da fessurazioni, opacizzazioni, incrinature, scagliature, ecc.
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+16
+Operazioni connesse al controllo periodico -Verifica integrità costruttiva- Si dave verificare che la porta sia integra. Si deve controllare che: non ci siano danneggiamenti, manomissioni o, comunque, indicatori di alterazione della integrità costruttiva iniziale (elementi aggiunti o eliminati)
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+17
+Operazioni connesse al controllo periodico -Verifica dispositivi apertura, verificare che la porta presenti adeguata maneggevotezza in apertura e chiusura.Controllare che scrocco e serratura e le relativa contro- bocchette ove presenti:siano fissati e lubrificati come indicato dal fabbricante della porta o del dispositivo
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+18Operazioni connesse al controllo periodico -Verifica dispositivi apertura, verificare che la porta presenti adeguata maneggevotezza in apertura e chiusura.Controllare che scrocco e serratura e le relativa contro- bocchette ove presenti: abbiano un valore corretto della forza di riaggancio e della forza o coppia di
+apertura
+6M
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+19Operazioni connesse al controllo periodico -Verifica dispositivi apertura, verificare che la porta presenti adeguata maneggevotezza in apertura e chiusura:forza di riaggancio dello scrocco delta serratura (vedere UNI EN 12209).
+La porta deve essere provata con anta accostata e poi spinta nell'area dello scrocco, per effettuare il
+riaggancio
+
+6M
+
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+20
+Operazioni connesse al controllo periodico -Verifica dispositivi apertura, verificare che la porta presenti adeguata maneggevotezza in apertura e chiusura: Forza di riaggancio del dispositivo antipanico o di emergenza (vedere UNI EN 1125 e UNI EN 179).
+La forza di riaggancio deve essere misurata accostando l'anta fino ad appoggiare lo scrocco al telaio ed
+applicando la forza di chiusura a (50 ÷ 100) mm dal bordo battente e a (800 ÷ 1200) mm dal pavimento
+
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+21Operazioni connesse al controllo periodico -Verifica dispositivi apertura, verificare che la porta presenti
+adeguata maneggevotezza in apertura e chiusura: Forza e coppia di sgancio del dispositivi antipanico o di emergenza (vedere UNI EN 1125 e UNI EN 179)
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+22Operazioni connesse al controllo periodico - Dispositivi di apertura e chiusura:Verifica facilità di manovra- Verificare la facilità di mariovra, costituita dalla possibilità di ruotare liberamente sui cardini o scorrere agevolmente sulle guide fino alla completa apertura (tenuto conto di eventuali azioni contrarie di chiudi
+porta, attriti di rotaie, pavimento, pareti, parti fisso, ecc.).
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+23Operazioni connesse al controllo periodico - Dispositivi di apertura e chiusura: verificare la verticalità degli assi cerniere (stabilità meccanica assiale), controllare: che siano fissate e lubrificate come indicato dal
+costruttore delta porta o dal cosiruttore dell'accessorio;
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+24Operazioni connesse al controllo periodico - Dispositivi di apertura e chiusura: verificare la verticalità degli assi cerniere (stabilità meccanica assiale), controllare: che le cerniere abbiano un valore corretto delta
+coppia di attrito
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+25
+Operazioni connesse al controllo periodico - Dispositivi di apertura e chiusura: verificare la verticalità degli assi cerniere (stabilità meccanica assiale), controllare: che l'asse delle cemiere sia verticale
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+26Operazioni connesse al controllo periodico - Verificare la integrità e scorrevolezza delle parti mobili (carrelli, perni, pulegge, cavi e/o catene, contrappesi, ecc.) anche per assialità, planarità, verticalità o orizzontalità, pulizia, non ossidazione, ecc.Per porte scorrevoli si deve: effettuare le regolazioni e la lubrificazione prevista
+da libretto di uso e manutenzione;
+6M
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+27
+Operazioni connesse al controllo periodico - Verificare la integrità e scorrevolezza delle parti mobili (carrelli, perni, pulegge, cavi e/o catene, contrappesi, ecc.) anche per assialità, planarità, verticalità o orizzontalità, pulizia, non ossidazione, ecc.Per porte scorrevoli si deve: verificare la chiusura (riaggancio) e la velocità regolare di chiusura e le eventuali regolazioni indicate nel libretto di uso e manutenzione
+
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+28
+Operazioni connesse al controllo periodico - Verificare i dispositivi di autochiusura (molle interne alle cerniere, chiudiporta, contrappesi, eec.) devono fare chiudere la porta (scatto di aggancio)
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+29
+Operazioni connesse al controllo periodico - Verifica dispositivi di autochiusura: Controllare, registrare ed ove necessario, reintegrare e/o lubrificare i dispositivi di autochiusura ed i relativi accessori (molle, chiudiporta, contrappesi, ammortizzatori, regobatori di velocità, regolatori di precessione in chiusura, eec.)
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+30Operazioni connesse al controllo periodico - Verifica dispositivi di autochiusura: Le ante, anche se aperte parzialmente, devono richiudersi completamente sino allo "scatto" del dispositivi di ritegno (scrocco della
+serratura, paletti, ecc.)
+6MPorte e finestre apribili resistenti al fuocoC1.331Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 1154), controllare che: il prodotto
+sia fissato e lubrificato come indicato dal costruttore della porta o dell'accessorio6MPorte e finestre apribili resistenti al fuocoC1.332Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 1154), controllare che: il braccio sia
+in condizioni tali da poter funzionare correttamente6MPorte e finestre apribili resistenti al fuocoC1.333Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 1154), controllare che: il corpo del
+chiudiporta non perda olio6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+34Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 1154), controllare che: nel chiudiporta a pavimento, la porta sia allineata con il telaio, se la porta é ad un'anta, e le ante siano allineate
+fra di loro, se la porta é a due ante
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+35Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 1154), controllare che: la corsa di apertura delta porta non sottoponga l'arresto od il braccio ad uno stress eccessivo che può ovalizzate la
+sede delta boccola del perno con conseguenti perdite di olio
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+36Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 1154), controllare che: le viti della valvola di regolazione della velocità di chiusura e della valvola di regolazione del colpo finale (quando é
+presente) svolgano correttamente la funzione di regolazione
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+37Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 14600), controllare che: le porte resistenti al fuoco che non sono destinate ad essere normalmente chiuse a chiave, devono essere
+autochiudenti
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+38
+Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 14600), controllare che: regolare il chiudiporta e/o la cerniera a molla in modo che la porta si richiuda da un angolo di apertura di 90 in un tempo non inferiore a a quello previsto (prospetto 5 della norma UNI 11473-1)
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+39Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 14600), controllare che: per le porte ad un'ania: aprire l'anta a 10°+2° (aprirla a 30±20 se l'anta é dotata di una cerniera a molla), tenere l'anta nella posizione per (20±2) s, rilasciarla senza scosse e verificare che la porta si riagganci in posizione di
+chiusura (UNI EN 14600)
+6MPorte e finestre apribili resistenti al fuocoC1.340Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 14600), controllare che: per le
+porte a due ante procedere come per l'anta principale (UNI EN 14600)6M
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+41Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 14600), controllare che: di seguito entrambe le ante devono essere aperte assieme azionando l'anta secondaria ad un angobo di non piet di 100±20 (300±2° se si usano cerniere a molla) oltre la posizione di attesa minima del coordinatore di sequenza di chiusura, tenere le ante nella posizione per (20 ± 2) s, rilasciarle senza scosse e verificare che le
+ante si riaggancino in posizione di chiusura
+
+6M
+
+Porte e finestre apribili resistenti al fuoco
+C1.3
+42
+Operazioni connesse al controllo periodico - Chiudiporta (vedere UNI EN 14600), controllare che: se la porta non si chiude alla velocità impostata, aurnentare il valore delta velocità di chiusura delta porta diminuendo il tempo di chiusura rispetto ai valori previsti (prospetto 5 della norma UNI 11473-1) e ripetere la prova
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+43
+Operazioni connesse al controllo periodico - Cerniere a molla-Controllare che le cerniere: siano fissate e lubrificate come specificato dal fabbricante delta porta o dell'accessorio non presentino rotture, deformazioni, grippature, usure od ossidazioni che impediscano al prodotto di funzionare correttamente
+6MPorte e finestre apribili resistenti al fuocoC1.344Operazioni connesse al controllo periodico - Cerniere a molla-Controllare che le cerniere: verificare che la
+porta si riagganci come specificato sopra al 2)6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+45
+Operazioni connesse al controllo periodico - Verificare il coordinatore della sequenza di chiusura aprendo e rilasciando le ante, da qualunque posizione, deve chiudere prima l'anta secondaria e poi l'anta primaria, Controllare che: la forza del dispositivo sia coerente con la massa e/o dimensione dell'anta
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+46
+Operazioni connesse al controllo periodico - Verificare il coordinatore della sequenza di chiusura aprendo e rilasciando le ante, da qualunque posizione, deve chiudere prima l'anta secondaria e poi l'anta primaria, Controllare che: il prodotto sia fissato e lubrificato come indicato dal costruttore della porta odell'accessorio
+6M
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+47
+Operazioni connesse al controllo periodico - Verificare il coordinatore della sequenza di chiusura aprendo e rilasciando le ante, da qualunque posizione, deve chiudere prima l'anta secondaria e poi l'anta primaria, Controllare che: mediante la barra di trascinamento od altri mezzi, le ante chiudano con la sequenza corretta anche quando l'anta secondaria é aperta ad un angolo inferiore alla posizione di attesa
+
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+48
+Operazioni connesse al controllo periodico - Verifica dei dispositivi di ritegno (fermo in apertura), controllare che :il prodotto sia fissato e lubrificato come indicato dal costruttore delta porta o dell'accessorio
+6MPorte e finestre apribili resistenti al fuocoC1.349Operazioni connesse al controllo periodico - Verifica dei dispositivi di ritegno (fermo in apertura), controllare
+che : il cavo di alimentazione sia in buono stato6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+50
+Operazioni connesse al controllo periodico - Verifica dei dispositivi di ritegno (fermo in apertura), controllare che : la tensione di alimentaziorie e la potenza assorbita siano quelle indicate nelle istruzioni
+6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+51Operazioni connesse al controllo periodico - Verifica dei dispositivi di ritegno (fermo in apertura), controllare
+che : sia possibile rilasciare / sganciare l'anta con comando manuale od elettrico e che l'anta si riagganci in chiusura
+6MPorte e finestre apribili resistenti al fuocoC1.352Operazioni connesse al controllo periodico - Verifica dei dispositivi di ritegno (fermo in apertura), controllare
+che : l'ancora ed il magnete non siano ossidati6M
+Porte e finestre apribili resistenti al fuoco
+C1.3
+53Operazioni connesse alla manutenzione ordinaria: consiste in una serie di operazioni atte a eliminare le anomalie di modesta entità riscontrate nella porta tagliafuoco, tale operazione può essere effettuata anche
+durante la visita di controllo periodico
+SN
+Porte e finestre apribili resistenti al fuoco
+C1.3
+54Operazioni connesse alla manutenzione ordinaria: Successivamente il tecnico è chiamato a verificare la piena funzionalità dalla porta, sia in apertura sia in chiusura, per la qual cosa è necessario testare gli accessori specifici (cerniere, dispositivi di apertura, coordinatore della sequenza di chiusura, dispositivi di
+auto-chiusura, dispositivi di ritegno)
+SN
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+55
+Operazioni connesse alla manutenzione straordinaria: consiste in un intervento che non può essere eseguito in loco o che, pur essendo eseguito in loco, richieda mezzi di particolare importanza,o attrezzature o strumenti particolari, o che comporti sostituzioni di intere parti di impianto o la completa revisione e sostituzione di apparecchi per i quali non sia possibile o conveniente la riparazione
+
+SN
+
+Porte e finestre apribili resistenti al fuoco
+
+C1.3
+
+56
+Altre manutenzioni e controlli: In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+Sistemi di rilevazione incendi
+C.1.4
+1
+Operazioni connesse al controllo iniziale - Procedura per il controllo preliminare e verifica generale del sistema- la verfica prevede che : l' accertamento della rispondenza al progetto esecutivo
+NA
+Sistemi di rilevazione incendi
+C.1.4
+2Operazioni connesse al controllo iniziale - Procedura per il controllo preliminare e verifica generale del
+sistema- la verfica prevede che : il controllo che la posa in opera sia stata eseguita in conformità alla CEI 64- 8 per le parti applicabili
+NASistemi di rilevazione incendiC.1.43Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : le
+cassette e i percorsi siano chiaramentevisibiliNASistemi di rilevazione incendiC.1.44Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : i percorsi
+dei cavi siano esenti da influenze ambientaliNASistemi di rilevazione incendiC.1.45Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : le curve
+e le giunte siano state eseguite a regola d'arteNASistemi di rilevazione incendiC.1.46Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : i supporti
+meccanici dell'impianto siano regolari e stabiliNASistemi di rilevazione incendiC.1.47Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : il
+bloccaggio e la tenuta meccanica dei tubi in prossimità dei raccordi e delle cassetteNASistemi di rilevazione incendiC.1.48Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : gli
+ingressi nelle cassette siano collegati a regola d'arteNASistemi di rilevazione incendiC.1.49Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : i
+collegamenti di messa a terraNA
+Sistemi di rilevazione incendi
+C.1.4
+10Operazioni connesse al controllo iniziale - l' esame visivo del sistema per controllare prevede che : la messa a terra dello schermo sia in un solo punto o comunque secondo le indicazioni del costrutture delle
+apparecchiature
+NA
+Sistemi di rilevazione incendi
+C.1.4
+11
+Operazioni connesse al controllo iniziale - Deve essere effettuata l'apertura delle cassette di giunzione e ispezione dei punti nascosti per verificare: la stabilità dei collegamenti e fissaggio dei morsetti
+NA
+Sistemi di rilevazione incendi
+C.1.4
+12Operazioni connesse al controllo iniziale - Deve essere effettuata l'apertura delle cassette di giunzione e ispezione dei punti nascosti per verificare: l'impiego di capicorda su tutti i collegamenti nei quali siano
+previsti
+NA
+Sistemi di rilevazione incendi
+C.1.4
+13Operazioni connesse al controllo iniziale - Deve essere effettuata l'apertura delle cassette di giunzione e ispezione dei punti nascosti per verificare: la continuità del collegamento dello schermo e suo isolamento
+rispetto agli altri conduttori
+NA
+Sistemi di rilevazione incendi
+C.1.4
+14
+Operazioni connesse al controllo iniziale - Deve essere effettuata l'apertura delle cassette di giunzione e ispezione dei punti nascosti per verificare: che il grado di riempimento dei tubi sia regola d'arte
+NA
+Sistemi di rilevazione incendi
+C.1.4
+15
+Operazioni connesse al controllo iniziale - Deve essere effettuata l'apertura delle cassette di giunzione e ispezione dei punti nascosti per verificare: una chiara identificazione dei cavi e dei moresetti
+NA
+Sistemi di rilevazione incendi
+C.1.4
+16
+Operazioni connesse al controllo iniziale - Procedura per il controllo funzionale: Eseguire tutte le medesime operazioni di controllo funzionale relative alla successiva fase riguardante il controllo periodico
+NA
+
+
+Sistemi di rilevazione incendi
+
+C.1.4
+
+17Procedura per il controllo funzionale, operazioni connesse al controllo periodico: Durante le operazioni di controllo periodico, deve essere eseguito il controllo funzionale sul sistema, del 50% (nel caso di 2 visite) di tutti i dispositivi e azionamenti presenti nel sistema (all'interno di ciascuna zona), dovendo raggiungere nell'arco dei dodici mesi il 100%
+Nel caso i sistemi siano di tipo convenzionale i dispositivi e gli azionamenti devono essere sottoposti a prova
+al 100% ad ogni visita.
+Sistemi di rilevazione incendi
+C.1.4
+18Operazioni connesse al controllo periodico - Verifica dello stato e delle indicazioni della centrale: Effettuare
+un'operazione di comando tramite chiave meccanica o elettronica, oazionando la tastiera e verificare che la centrale cambi stato
+6MSistemi di rilevazione incendiC.1.419Operazioni connesse al controllo periodico - Verifica della efficacia dei sistemi di segnalazione locali,
+controllare: la capacità della centrale di attivare i mezzi di allarme6M
+Sistemi di rilevazione incendi
+C.1.4
+20
+Operazioni connesse al controllo periodico - Verifica della efficacia dei sistemi di segnalazione locali, controllare: la capacità di ricezione degli allarmi provenienti dai dispositivi automatici e di allarme
+6M
+Sistemi di rilevazione incendi
+C.1.4
+21
+Operazioni connesse al controllo periodico - Verifica della efficacia dei sistemi di segnalazione locali, controllare: l'efficienza di tutte le segnalazioni ottiche e acustiche di cui la centrale è provvista
+6MSistemi di rilevazione incendiC.1.422Operazioni connesse al controllo periodico - Verifica della efficacia dei sistemi di segnalazione locali,
+controllare: l'assorbimento dell'impianto ad essa collegato6MSistemi di rilevazione incendiC.1.423Operazioni connesse al controllo periodico - Verifica della efficacia dei sistemi di segnalazione locali,
+controllare: l'efficienza dell'alimentatore e delle batterie e verificarne l'autonomia6M
+
+Sistemi di rilevazione incendi
+C.1.4
+24Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare: l'accensione del
+led sullo zoccolo o sul rilevatore
+6M
+Sistemi di rilevazione incendi
+C.1.4
+25Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun
+rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare: la segnalazione congruente dello stato di allarme sulla centrale
+6M
+Sistemi di rilevazione incendi
+C.1.4
+26Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme- Ciascun rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare:l'attivazione delle
+segnalazioni ottico acustiche nell'impianto
+6M
+Sistemi di rilevazione incendi
+C.1.4
+27Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun
+rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare:l'attivazione di tutti i comandi incendio previsti dal piano di gestione
+6M
+Sistemi di rilevazione incendi
+C.1.4
+28Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare: l'attuazione dei
+comandi previsti dalla logica
+6M
+Sistemi di rilevazione incendi
+C.1.4
+29Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun
+rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare: l'attivazione delle segnalazioni di trasmissione remota dell'allarme
+6M
+Sistemi di rilevazione incendi
+C.1.4
+30Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare: la segnalazione
+congruente sul sistema grafico
+6M
+Sistemi di rilevazione incendi
+C.1.4
+31Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun
+rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare: la segnalazione sul ripetitore
+6M
+Sistemi di rilevazione incendi
+C.1.4
+32Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni d'allarme-Ciascun
+rilevatore di fumo, fiamma, temperatura o pulsante, è mandato in allarme per verificare: la registrazione dell'evento
+6MSistemi di rilevazione incendiC.1.433Operazioni connesse al controllo periodico - verificare che il componente mandato in allarme corrisponda
+in termini di nome, indirizzo, zona, posizione a quanto previsto dal progetto6M
+Sistemi di rilevazione incendi
+C.1.4
+34Operazioni connesse al controllo periodico - verificare che le segnalazioni acustiche siano udite distintamente, in qualsiasi punto dell'ambiente protetto, anche nelle condizioni di massima condizione di
+rumorosità di fondo ambiente
+6M
+Sistemi di rilevazione incendi
+C.1.4
+35Operazioni connesse al controllo periodico - verificare che nel caso di sistemi che prevedano comandi su azioni combinate o temporizzate degli ingressi, è necessario provocare queste condizioni per verificarne
+l'efficacia.
+6MSistemi di rilevazione incendiC.1.436Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni di guasto, si deve
+verificare : la segnalazione conseguente dello stato di anomalia sulla centrale6MSistemi di rilevazione incendiC.1.437Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni di guasto, si deve
+verificare : l'attuazione dei comandi previsti dalla logica6MSistemi di rilevazione incendiC.1.438Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni di guasto, si deve
+verificare : l'attivazione della segnalazione di trasmissione remota del guasto6M
+Sistemi di rilevazione incendi
+C.1.4
+39Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni di guasto, si deve verificare , se presenti sistemi di visualizzazione grafica, ripetizione e stampa: la segnalazione congrunete sul
+sistema grafico;
+6M
+Sistemi di rilevazione incendi
+C.1.4
+40
+Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni di guasto, si deve verificare , se presenti sistemi di visualizzazione grafica, ripetizione e stampa: la segnalazione sul ripetitore;
+6M
+Sistemi di rilevazione incendi
+C.1.4
+41Operazioni connesse al controllo periodico - Verifica delle condizioni e delle segnalazioni di guasto, si deve verificare , se presenti sistemi di visualizzazione grafica, ripetizione e stampa: la stampa dell'evento (ove
+prevista)
+6M
+
+Sistemi di rilevazione incendi
+
+C.1.4
+
+42
+Operazioni connesse al controllo periodico - Linea di rilevazione con rivelatori convenzionali - a seguito delle seguenti condizioni prodotte sulla linea: 1)rimozione di alcuni rilevatori a campione sulla linea tra i quali l'ultimo,2)creazione di un corto circuito in linea e 3)interruzione della linea, si deve verificare :la
+segnalazione congruente dello stato di anomalia di zona sulla centrale
+
+6MSistemi di rilevazione incendiC.1.443Operazioni connesse al controllo periodico - A seguito delle condizioni sulla linea sopra indicate deve essere
+eseguita la verifica di efficacia delle eventuali segnalazioni associate6M
+Sistemi di rilevazione incendi
+C.1.4
+44Operazioni connesse al controllo periodico - Una linea di di comando monitorata è tipica delle linee di segnalazione con controllo di linea degli avvisatori ottici/acustici di allarme.
+Interrompendo il collegamento della linea con il dispositivo controllato si deve avere: la segnalazione
+congruente dello stato di anomalia sulla centrale;
+6M
+Sistemi di rilevazione incendi
+C.1.4
+45Operazioni connesse al controllo periodico - Una linea di di comando monitorata è tipica delle linee di segnalazione con controllo di linea degli avvisatori ottici/acustici di allarme.
+Interrompendo il collegamento della linea con il dispositivo controllato si deve avere: la verifica di efficacia
+delle eventuali segnalazioni associate.
+6M
+Sistemi di rilevazione incendi
+C.1.4
+46Operazioni connesse al controllo periodico - Per le Apparecchiature del sistema utilizzanti il coolegamento
+radio, si deve effettuare: il controllo della funzionalità di tutti i translatori e delle eventuali apparecchiature di espansione remota;
+6M
+Sistemi di rilevazione incendi
+C.1.4
+47Operazioni connesse al controllo periodico - Per le Apparecchiature del sistema utilizzanti il coolegamento radio, si deve effettuare:la rimozione a campione dei rilevatori e di tutte le altre apparecchiature presenti
+(pulsanti, sirene, ecc.) verificando:
+6M
+Sistemi di rilevazione incendi
+C.1.4
+48
+Operazioni connesse al controllo periodico - Per le Apparecchiature del sistema utilizzanti il coolegamento radio, si deve effettuare: la segnalazione congruente dello stato di anomalia della zona sulla centrale;
+6M
+Sistemi di rilevazione incendi
+C.1.4
+49
+Operazioni connesse al controllo periodico - Per le Apparecchiature del sistema utilizzanti il coolegamento radio, si deve effettuare: la verifica di efficazcia delle eventuali segnalazioni associate;
+6M
+
+
+Sistemi di rilevazione incendi
+
+C.1.4
+
+50
+Operazioni connesse al controllo periodico - Per le Apparecchiature del sistema utilizzanti il coolegamento radio, si deve effettuare: la rimozione a campuione delle batterie nel caso di apparecchiature aventi "segnalazione di bassa batteria" ed intervento di quella di back-up oppure rimozione totale nel caso di apparecchiature non dotate delle caratteristiche sopra descritte. In oltre effettuare il controllo dei contatti
+delle stesse e del sucessivo ripristino della comunicazione radio;
+
+6M
+Sistemi di rilevazione incendi
+C.1.4
+51Operazioni connesse al controllo periodico - Per le Apparecchiature del sistema utilizzanti il coolegamento radio, si deve effettuare: la verifica con apposito strumento della capacità di ricezione radio da parte di tutti
+i punti.
+6M
+
+
+Sistemi di rilevazione incendi
+
+C.1.4
+
+52Operazioni connesse al controllo periodico - Verifica dello stato delle fonti di alimentazione- Effettuare la simulazione della mancanza della alimentazione primaria togliendo alimentazione di rete e verificare l'efficacia del sistema di commutazione.
+Si deve verificare che: la centrale e l'impianto devono continuare ad operare in modo regolare almeno per un tempo utile a dimostrare la reale efficienza dell'impianto e la sua capacità di operare in assenza di
+alimentazione primaria;
+
+6M
+
+Sistemi di rilevazione incendi
+
+C.1.4
+
+53Operazioni connesse al controllo periodico - Verifica dello stato delle fonti di alimentazione- Effettuare la simulazione della mancanza della alimentazione primaria togliendo alimentazione di rete e verificare l'efficacia del sistema di commutazione.
+Si deve verificare che: la mancanza dell'alimentazione primaria e/o secondaria deve essere segnalata sulla
+centrale;
+
+6M
+
+Sistemi di rilevazione incendi
+
+C.1.4
+
+54Operazioni connesse al controllo periodico - Verifica dello stato delle fonti di alimentazione- Effettuare la simulazione della mancanza della alimentazione primaria togliendo alimentazione di rete e verificare l'efficacia del sistema di commutazione.
+Si deve verificare che: l'intervento dell'alimentazione secondaria in caso di mancanza dell'alimentazione
+primaria
+
+6M
+Sistemi di rilevazione incendi
+C.1.4
+55Operazioni connesse al controllo periodico - Altri sistemi di segnalazione e comando: Per il controllo funzionale di sistemi diversi da quelli indicati nei punti precedenti o di apparecchiature da sottoporre a prova singolarmente, deve essere applicato il metodo di verifica più appropriato e secondo le indicazioni del
+costruttore
+6M
+Sistemi di rilevazione incendi
+C.1.4
+56
+Operazioni connesse al controllo periodico - Verifica generale del sistema: Controllare la disponibilità di parti di ricambio identiche o compatibili. In caso di mancata risposta affermativa considerare non più mantenibile il sistema in caso di successivo guasto, segnalalando la situazione al responsabile del sistema.
+6M
+Sistemi di rilevazione incendi
+C.1.4
+57
+Operazioni connesse al controllo periodico - Verifica generale del sistema: Controllare se sosno stati effettuati cambiamenti o modifiche che comportino la riprogettazione dell'impianto
+6M
+
+
+Sistemi di rilevazione incendi
+
+C.1.4
+
+58
+Altre manutenzioni e controlli -In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SNSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+1OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo, verificare: l'efficienza e commutazione delle alimentazioni, con rimozione
+alimentazione primaria
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+2
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo, verificare: il valore della tensione di alimentazione e lo stato della batteria
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+3OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo, verificare: l'efficienza di lampade, LED, e segnalazioni ottiche e digitali del
+visualizzatore;
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+4
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo, verificare: che le soglie siano programmate secondo le richieste del committente
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+5
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo sul sistema di ripetizione, verificare: l'efficienza dei segnali di rinvio degli stati di allarme e guasto su ripetitori, modem, combinatori (se esistenti)
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+6
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo sul sistema di ripetizione, verificare: l'efficienza del sistema di visualizzazione grafica e possibilità di inviare e ricevere comandi (se esistenti);
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating
+Smoke Detectors)C.1.57OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo della rete di aspirazione, verificare: ispezione
+visiva dei tratti di tubo per rilevare eventuali ostruzioni o danneggimantiNASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating
+Smoke Detectors)C.1.58OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo della rete di aspirazione, verificare: con
+vacuometro le depressioni su ciascun foro (solo durante il controllo iniziale)NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+9
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo della rete di aspirazione, verificare: segnalazione guasto su ostruzione del sistema aspirante ottenuta tappando gli ingressi del sensore
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating
+Smoke Detectors)C.1.510OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Per ASD a commutazione effettuare il Controllo di
+commutazione e corrispondenza tra segnalazioni e zone di origineNASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+11
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo segnalazioni conformi alle soglie impostate, verificare: l' intervento delle soglie di allarme e guasto (almeno un punto di aspirazione per ciascun ramo)
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+12
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo segnalazioni conformi alle soglie impostate, verificare: l'esito delle logiche funzionali dei comandi e delle temporizzazioni (se esistente)
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+13
+OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo segnalazioni conformi alle soglie impostate, verificare: le congruenze delle segnalazioni su programma di visualizzazione e stampante (se esistente)
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+14OPERAZIONI CONNESSE AL CONTROLLO INIZIALE-Controllo funzionale del sistema-Controllo del tempo massimo di risposta sul punto di aspirazione più remoto con fumo o sistema di simulazione per ciascun
+ramo
+NASistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+15Operazioni connesse al controllo periodico - Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo- verifcare : l'efficienza e commutazione delle alimentazioni, con rimozione
+alimentazione primaria;
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+16
+Operazioni connesse al controllo periodico - Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo- verifcare : il valore della tensione di alimentazione e lo stato della batteria;
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+17Operazioni connesse al controllo periodico - Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo- verifcare : l'efficienza di lampade, LED, e segnalazioni ottiche e digitali del
+visualizzatore;
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+18
+Operazioni connesse al controllo periodico- Controllo sugli analizzatori ASD se autonomi o contenuti nella centrale di controllo- verifcare : che le soglie siano programmate secondo le richieste del committente;
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+19
+Operazioni connesse al controllo periodico-Controllo sul sistema di ripetizione, verificare: l'efficienza dei segnali di rinvio degli stati di allarme e guasto su ripetitori, modem, combinatori (se esistenti);
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+20
+Operazioni connesse al controllo periodico-Controllo sul sistema di ripetizione, verificare: l'efficienza del sistema di visualizzazione grafica e possibilità di inviare e ricevere comandi (se esistenti);
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating
+Smoke Detectors)C.1.521Operazioni connesse al controllo periodico-Per il Controllo della rete di aspirazione: ispezione visiva dei
+tratti di tubo per rilevare eventuali ostruzioni o danneggimanti;6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating
+Smoke Detectors)C.1.522Operazioni connesse al controllo periodico-Per il Controllo della rete di aspirazione verificare: con
+vacuometro le depressioni su ciascun foro (solo durante il controllo iniziale);6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+23
+Operazioni connesse al controllo periodico-Per il Controllo della rete di aspirazione: segnalazione guasto su ostruzione del sistema aspirante ottenuta tappando gli ingressi del sensore;
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating
+Smoke Detectors)C.1.524Operazioni connesse al controllo periodico-Per ASD a commutazione: Controllo di commutazione e
+corrispondenza tra segnalazioni e zone di origine;6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+25
+Operazioni connesse al controllo periodico-Controllo segnalazioni conformi alle soglie impostate, verificare: l' intervento delle soglie di allarme e guasto (almeno un punto di aspirazione per ciascun ramo)
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+26
+Operazioni connesse al controllo periodico-Controllo segnalazioni conformi alle soglie impostate, verificare: l'esito delle logiche funzionali dei comandi e delle temporizzazioni (se esistente)
+6MSistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+27
+Operazioni connesse al controllo periodico-Controllo segnalazioni conformi alle soglie impostate, verificare: le congruenze delle segnalazioni su programma di visualizzazione e stampante (se esistente)
+6M
+Sistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+C.1.5
+28
+Operazioni connesse al controllo periodico-Controllo segnalazioni conformi alle soglie impostate, verificare: Controllo funzionale del sistema: Controllo del tempo massimo di risposta sul punto di aspirazione più remoto con fumo o sistema di simulazione per ciascun ramo.
+6M
+Sistemi di Rilevazione incendi- Controlli addizionali su sistemi ASD(Aspirating Smoke Detectors)
+
+C.1.5
+
+29
+Operazioni connesse al controllo periodico-ALTRE MANUTENZIONI E CONTROLLI: In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SN
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+1Operazioni connesse con la messa in carico - Con la presa in carico dei sistemi automatici a sprinkler, che può coincidere con la prima operazione di manutenzione, è necessario: eseguire una prima verifica di
+massima sullo stato dei suddetti componenti
+NA
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+2
+Operazioni connesse con la messa in carico - Con la presa in carico dei sistemi automatici a sprinkler, che può coincidere con la prima operazione di manutenzione, è necessario: richiedere al committente, se necessario, la documentazione storica relativa ai pregressi interventi di controllo e manutenzione
+NA
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+3
+Operazioni connesse con la messa in carico-Con la presa in carico dei sistemi automatici a sprinkler, che può coincidere con la prima operazione di manutenzione, è necessario: richiedere il libretto d'uso e
+manutenzione dei componenti oltre all'eventuale ulteriore documentazione a corredo
+NA
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+4
+Operazioni connesse al controllo periodico - controllare e registrare: tutte le letture di pressione dei manometri dell'acqua e dell'aria sugli impianti, condotte principali e serbatoi a pressione
+S
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+5Operazioni connesse al controllo periodico- Impianti di riscaldamento localizzati e cavi elettroscaldanti Devono essere controllati gli impianti di riscaldamento atti ad evitare il congelamento nell'impianto
+sprinkler per verificarne il corretto funzionamento
+S
+
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+
+C.1.6
+
+6
+Controllo periodico trimestrale- Revisione del livello di pericolo: Al fine di eseguire le appropriate modifiche necessarie, si deve identificare l'effetto sulla classificazione del pericolo o sul progetto dell'impianto di qualsiasi modifica intervenuta sulla struttura, sul contenuto, sulla modalità di deposito, sul riscaldamento, sull'illuminazione o sul posizionamento delle apparecchiature, ecc.
+
+3MSistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)C.1.67Controllo periodico trimestrale: Gli sprinkler, le valvole a controllo termico e gli ugelli spray interessati da
+incrostazioni (diverse dalla vernice) devono essere accuratamente puliti3MSistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)C.1.68Controllo periodico trimestrale:Gli erogatori sprinkler, le valvole a controllo termico e gli ugelli spray
+verniciati o deformati devono essere sostituiti3M
+
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+9Controllo periodico trimestrale: Si deve controllare l'eventuale rivestimento in cera. Dove necessario i rivestimenti esistenti devono essere rimossi e gli sprinkler, le valvole a controllo termico e gli ugelli spray devono essere rivestiti due volte con cera (in caso di sprinkler con bulbo di vetro solamente sul corpo e sui
+bracci dello sprinkler)
+3MSistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)C.1.610Controllo periodico trimestrale: Le tubazioni ed i sostegni devono essere controllati per verificarne
+l'eventuale corrosione e dove necessario devono essere verniciati3M
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+11
+Controllo periodico trimestrale: Le tubazioni verniciate con vernici a base di bitume, comprese le parti terminali filettate delle tubazioni zincate ed i relativi sostegni, devono essere ripristinate dove necessario
+3MSistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)C.1.612
+Controllo periodico trimestrale: Se necessario deve essere riparato il nastro avvolto sulle tubazioni3M
+
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+
+C.1.6
+
+13
+Controllo periodico trimestrale: Le tubazioni devono essere controllate per quanto concerne gli eventuali collegamenti elettrici di messa a terra. Le tubazioni degli sprinkler non devono essere utilizzate per la messa a terra delle apparecchiature elettriche e si deve rimuovere qualsiasi collegamento di messa a terra eventualmente presente, predisponendo delle alternative
+
+3M
+
+
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+
+C.1.6
+
+14
+Controllo periodico trimestrale delle Valvole di intercettazione : Tutte le valvole di intercettazione che
+controllano il flusso dell'acqua agli sprinkler devono essere manovrate per assicurare che siano operative e devono essere di nuovo bloccate nella posizione normale. Questa operazione deve riguardare le valvole di intercettazione su tutte le alimentazioni idriche, sulla/e valvola/e di controllo e allarme e su tutte le valvole di intercettazione di zona oppure ausiliarie
+
+3MSistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)C.1.615Controllo periodico trimestrale, Flussostato: I flussostati devono essere controllati per verificarne il corretto
+funzionamento3MSistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)C.1.616Controllo periodico trimestrale, ricambi: Deve essere controllata la quantità e le condizioni delle parti di
+ricambio disponibili3M
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+C.1.6
+17Controllo periodico semestrale, Valvole di allarme a secco: Le parti mobili delle valvole di allarme a secco, e qualsiasi acceleratore o esaustore, negli impianti a secco e nelle estensioni sussidiarie devono essere fatte
+funzionare in conformità alle istruzioni del fornitore
+6MSistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)C.1.618Controllo periodico semestrale- Collegamento di riporto allarmi con la stazione dei Vigili del Fuoco e con la
+centrale di supervisione : Il sistema deve essere verificato.6M
+
+Sistemi Automatici a Sprinkler (Esclusi gruppi di pompaggio e riserve idriche)
+
+C.1.6
+
+19
+Altre manutenzioni e controlli eseguiti a intervalli non maggiori di tre anni - In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SN
+Sistemi estinguenti ad aerosol condensato
+C.1.7
+1Operazioni Connesse alla presa in carico- Con la presa in carico dei sistemi estinguenti ad aerosol condensato, che può coincidere con la prima operazione di manutenzione, è necessario: eseguire una prima
+verifica di massima sullo stato dei suddetti componenti
+NA
+Sistemi estinguenti ad aerosol condensato
+C.1.7
+2Operazioni Connesse alla presa in carico- Con la presa in carico dei sistemi estinguenti ad aerosol condensato, che può coincidere con la prima operazione di manutenzione, è necessario: richiedere al committente, se necessario, la documentazione storica relativa ai pregressi interventi di controllo e
+manutenzione
+NA
+Sistemi estinguenti ad aerosol condensato
+C.1.7
+3
+Operazioni Connesse alla presa in carico- Con la presa in carico dei sistemi estinguenti ad aerosol condensato, che può coincidere con la prima operazione di manutenzione, è necessario: richiedere il libretto d'uso e manutenzione dei componenti oltre all'eventuale ulteriore documentazione a corredo
+NA
+
+
+
+Sistemi estinguenti ad aerosol condensato
+
+
+
+C.1.7
+
+
+
+4Operazioni preliminari connesse alle visite periodiche - Da effettuarsi sempre prima di ogni operazione sull'impianto:
+• informare il personale di riferimento dell'utente (guardiania, RSPP, etc..) dell'inizio attività;
+• disinserire gli allarmi acustici o segnalazione di allarme (escluso per operazioni settimanali);
+• esporre cartello "Impianto in manutenzione" (escluso per operazioni settimanali);
+• prima di effettuare qualsiasi manovra registrare le condizioni di stato di tutti gli indicatori presenti sui pannelli di controllo e comando.
+• prima di effettuare qualsiasi manovra effettuare lettura e registrazione di tutti gli indicatori presenti sui
+pannelli di controllo e comando.Sistemi estinguenti ad aerosol condensatoC.1.75Controllo periodico settimanale - Controllare il corretto posizionamento degli erogatori ed il loro
+collegamento alle linee di comando.SSistemi estinguenti ad aerosol condensatoC.1.76Controllo periodico settimanale - Controllare che eventuali chiavi selettore siano posizionate nella maniera
+stabilita dalla procedura di impianto.SSistemi estinguenti ad aerosol condensatoC.1.77
+Controllo periodico settimanale - Controllare che non vi siano accese spie di allarme o di guasto.SSistemi estinguenti ad aerosol condensatoC.1.78Controllo periodico semestrale- Verifica che lo stato attuale sia conforme al progetto originale6MSistemi estinguenti ad aerosol condensatoC.1.79Controllo periodico semestrale- Controllo dei sistemi di staffaggio dei generatori aerosol6MSistemi estinguenti ad aerosol condensatoC.1.710
+Controllo periodico semestrale- Controllo del collegamento alle linee di comando dei generatori aerosol6M
+Sistemi estinguenti ad aerosol condensato
+C.1.7
+11
+Controllo periodico semestrale- Controllare le date di scadenza degli erogatori secondo quanto dichiarato dal produttore e riportato in etichetta e procedere alla loro sostituzione se sono scaduti i termini
+6MSistemi estinguenti ad aerosol condensatoC.1.712Controllo periodico semestrale- Controllare che le eventuali chiavi selettore siano posizionate nella maniera
+stabilita dalla procedura di impianto6MSistemi estinguenti ad aerosol condensatoC.1.713Controllo periodico semestrale- Controllare che non vi siano accese spie di allarme o di guasto.6MSistemi estinguenti ad aerosol condensatoC.1.714Controllo periodico semestrale- Controllare l'efficienza di eventuali alimentatori.6MSistemi estinguenti ad aerosol condensatoC.1.715
+Controllo periodico annuale - Eseguire tutte le operazioni previste nel controllo periodico semestraleASistemi estinguenti ad aerosol condensatoC.1.716Controllo periodico annuale - Controllare lo stato di carica di eventuali batterie tampone, con sostituzione
+ogni due anni di servizio con batterie di pari caratteristicheASistemi estinguenti ad aerosol condensatoC.1.717Controllo periodico annuale - Controllare lo stato di efficienza degli attuatori di ciascun erogatore, seguendo
+le procedure indicate dal produttoreA
+
+
+
+
+
+
+
+
+
+
+
+Sistemi estinguenti ad aerosol condensato
+
+
+
+
+
+
+
+
+
+
+
+C.1.7
+
+
+
+
+
+
+
+
+
+
+
+18
+
+
+Controllo periodico annuale - Effettuare le prove in bianco del sistema per verificarne il corretto funzionamento ed al termine della prova, ripristinare le condizioni di esercizio.
+Modalità di esecuzione della prova, ovvero secondo le istruzioni del costrutture:
+• scollegare le linee di collegamento di ciascun generatore aerosol in modo che l'attivazione del circuito di rilascio non attivi il/i generatore/i;
+• ricollegare il circuito di rilascio con un dispositivo funzionale (lampade idonee, LED, ecc) che possa simulare il funzionamento del meccanismo di rilascio di ciascun generatore aerosol;
+• controllare che i circuiti soggetti a sorveglianza, se scollegati, forniscano una segnalazione di guasto;
+• azionare i rilevatori antincendio e verificare che si attivino le funzioni della centrale di spegnimento (pre- allarme, allarme e ritardo) e che si attivino i dispositivi di simulazione di rilascio dell'agente estinguente;
+• azionare il dispositivo di rilascio manuale, se presente, verificare che si attivino le funzioni della centrale di spegnimento e che si attivino i dispositivi di simulazione di rilascio dell'agente estinguente;
+• azionare il dispositivo di blocco della scarica, se presente, e verificare che venga impedito il rilascio dell'agente estinguente;
+• scollegare l'alimentazione principale e ripetere le azioni di attivazione del sistema di spegnimento sopra descritte in alimentazione di emergenza (da batteria);
+• una volta completate tutte le prove funzionali ricollegare ciascun generatore aerosol in modo che il
+circuito di rilascio si pronto per rilasciare l'agente estinguente e riportare il sistema alla sua condizione di piena operatività
+
+
+
+
+
+
+
+
+
+
+
+A
+Sistemi estinguenti ad aerosol condensato
+C.1.7
+19Controllo periodico annuale - Assicurarsi che non siano state apportate modifiche ai locali protetti rispetto alla configurazione originaria che possano pregiudicare il corretto funzionamento dell'impianto, annotarle e
+comunicarle con urgenza all'utente.
+
+Sistemi estinguenti ad aerosol condensato
+
+C.1.7
+
+20
+Altre manutenzioni e controlli - In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SNSistemi di estinzione incendi ad estinguenti gassosiC.1.81Operazioni connesse alla presa in carico, controllo preliminare- sistema di rilevazione: Controllo iniziale
+secondo la modalità prescritta nella UNI 11224NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+2Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: Verifica della presenza di tutta la documentazione di sistema prevista dai punti A.2 e A.3 della UNI EN 15004-1,
+verificando che siano presenti ed indicati:
+NA
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+3
+Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: i disegni, nella scala indicata del sistema di distribuzione dell'agente estinguente, compresi i contenitori, le tubazioni e gli ugelli, le valvole e i dispositivi di riduzione della pressione e la spaziatura delle staffe delle tubazioni
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.84Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: il nome del
+proprietario e dell'occupanteNASistemi di estinzione incendi ad estinguenti gassosiC.1.85Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: l'ubicazione
+dell'edificio in cui è situato il pericoloNASistemi di estinzione incendi ad estinguenti gassosiC.1.86Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: l'ubicazione e la
+costruzione delle pareti e delle partizioni del volume protettoNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+7Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la rappresentazione in sezione trasversale del volume, a tutta altezza o in diagramma schematico, compreso il pavimento di
+accesso sopraelevato e il soffitto sospeso
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.88Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: il tipo di agente
+estinguente che è utilizzatoNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+9
+Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la concentrazione di spegnimento o di inertizzazione, la concentrazione di progetto e la concentrazione di massima
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.810Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la descrizione degli
+occupanti e i pericoli da cui sono protettiNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+11
+Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la specifica dei contenitori utilizzati, comprese la capacità, la pressione di stoccaggio e la massa incluso l'agente estinguente
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+12Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la descrizione del(degli) ugello(i) utilizzato(i), comprese la dimensione dell'attacco, la configurazione della porta dell'orifizio e la dimensione/codice dell'orifizio, nonché la dimensione dell'orifizio dei dispositivi di riduzione
+della pressione, se applicabile
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+13Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la descrizione dei tubi, delle valvole e dei raccordi utilizzati, comprese le specifiche dei materiali, la qualità e i dati nominali
+della pressione
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+14
+Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la tabella dell'apparecchiatura o la distinta dei materiali per ciascuna apparecchiatura o dispositivo, indicante il nome del dispositivo, il fabbricante, il modello o il numero di parte, la quantità e una descrizione
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+15
+Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la vista isometrica del sistema di distribuzione dell'agente estinguente indicante la lunghezza e il diametro di ciascun segmento di tubo e i numeri di riferimento dei nodi relativi ai calcoli di portata
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.816Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: i calcoli della
+pressurizzazione e dei sistemi di sfiato del volumeNASistemi di estinzione incendi ad estinguenti gassosiC.1.817Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: la descrizione dei
+sistemi di rivelazione d'incendio, azionamento e controlloNASistemi di estinzione incendi ad estinguenti gassosiC.1.818Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: le informazioni e i
+calcoli sulla quantità di agente estinguenteNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+19
+Operazioni connesse alla presa in carico, controllo preliminare- Impianto di estinzione: accertamento della rispondenza del sistema al progetto esecutivo e/o agli schemi dell'impianto (elettrico e meccanico) con il controllo e la verifica della documentazione relativa all'impianto prevista dalla legislazione vigente1
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+20Operazioni connesse alla presa in carico, controllo preliminare - Controllo dell'esistenza del certificato di collaudo iniziale dell'impianto rilasciato dall'installatore al momento dell'avviamento del sistema e del certificato di prova attestante l'integrità del locale come da
+UNI EN 15004-1:2008 punto 7.8.2
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.821Operazioni connesse alla presa in carico, controllo preliminare - Controllo che i volumi dichiarati in progetto
+siano quelli dello stato di fatto dell'impiantoNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+22
+Operazioni connesse alla presa in carico, controllo preliminare - Controllo che siano disponibili i certificati di collaudo delle bombole validi ed aggiornati, il registro delle attrezzature, il libretto d'uso e manutenzione
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+23
+Operazioni connesse alla presa in carico, controllo preliminare - Controllo che i componenti siano conformi alle parti pertinenti della serie UNI EN 54 e UNI EN 12094, in relazione alla rispettiva data di installazione
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+24Operazioni connesse alla presa in carico, controllo preliminare - Controllo che la percentuale di saturazione dell'estinguente di progetto sia conforme alle norme applicabili al momento del collaudo iniziale segnalando
+eventuali difformità rispetto alle norme attualmente in vigore
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.825Operazioni connesse alla presa in carico, controllo preliminare - Verificare che l'area abbia mantenuto la
+stessa destinazione e livello di rischio stabilite dal progetto inizialeNASistemi di estinzione incendi ad estinguenti gassosiC.1.826Operazioni connesse alla presa in carico, controllo preliminare - Controllo funzionale di tutte le
+apparecchiature elettriche e meccaniche (se applicabile)NASistemi di estinzione incendi ad estinguenti gassosiC.1.827Operazioni connesse alla presa in carico, controllo preliminare - Verificare che le logiche richieste dal cliente
+siano compatibili con quanto previsto dai documenti di progettoNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+28Operazioni connesse alla presa in carico, controllo preliminare- Verificare l'efficacia dei comandi che
+interagiscono con le alimentazione, la ventilazione e i comandi di tutte le macchine e le segnalazioni che possono influenzare l'efficacia del sistema
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.829Operazioni connesse al controllo periodico, controllo funzionale - sistema di rilevazione: Fare riferimento
+alla modalità di controllo iniziale prescritta nella UNI 11224NASistemi di estinzione incendi ad estinguenti gassosiC.1.830Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verifica che le
+dimensioni del locale protetto non siano variate rispetto al progettoNASistemi di estinzione incendi ad estinguenti gassosiC.1.831Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verifica integrità
+del locale protetto mediante la prova con ventilatore sulla portaNASistemi di estinzione incendi ad estinguenti gassosiC.1.832Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verifica del
+corretto funzionamento delle serrande e relativi dispositivi di chiusuraNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+33
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verifica che le porte e le finestre siano chiuse o che le stesse siano dotate di sistemi automatici di chiusura
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+34Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verificare che i sistemi di condizionamento possano essere disattivati al momento dell'attivazione del sistema di
+spegnimento in relazione ai requisiti di progetto
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+35
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verifica che lo stato attuale dell'impianto (rete di distribuzione e ugelli di erogazione) sia conforme al progetto originale
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+36
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verifica visivamente Io stato delle tubazioni, dei raccordi, degli ugelli e verifica che non vi siano segni di corrosione
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.837Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verificare
+visivamente il fissaggio delle tubazioni e dei raccordiNA
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+C.1.8
+
+38
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verificare che gli ugelli erogatori siano liberi da ostacoli o ostruiti da materiali che possono ridurre la corretta distribuzione dell'agente estinguente e ostacolare le attività di manutenzione. Controllare che le dimensioni e le forature, debitamente stampigliate sull'ugello, siano conformi al progetto originale
+
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+39Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verificare la conformità al progetto originale del numero e capacità delle bombole installate, nonché i valori di
+pressione, tipo e quantità dell'agente estinguente
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.840Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Verificare il
+corretto staffaggio delle bombole alla rastrelliera e del collettore di mandataNA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+41Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Richiedere al responsabile dell'impianto se la temperatura del locale di stoccaggio delle bombole si mantiene entro i limiti
+indicati nel manuale del fabbricante
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.842Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Controllare la data
+di collaudo punzonata sulle bomboleNA
+
+
+
+
+
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+
+
+
+
+C.1.8
+
+
+
+
+
+43
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione : Controllo del contenuto delle bombole come segue:
+Gas liquefatti: Per le sostanze estinguenti a base di alogenati, se una bombola mostra una perdita di una quantità di sostanza estinguente maggiore del 5% o una perdita di pressione (compensata per la temperatura) maggiore del 10% deve essere nuovamente riempita o sostituita. I manometri eventualmente usati a questo scopo devono essere confrontati almeno una volta all'anno con un dispositivo campione dotato di certificato di taratura valido;
+Gas non liquefatti: Se una bombola contenente sostanze estinguenti a base di gas inerte mostra una perdita di pressione (compensata per la temperatura) maggiore del 10% deve essere nuovamente riempita o sostituita. I manometri eventualmente usati a questo scopo devono essere confrontati almeno una volta
+all'anno con un dispositivo campione dotato di certificato di taratura valido.
+
+
+
+
+
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+44Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Controllo per i sistemi ad HFC > 300 kg del dispositivo automatico di rivelazione delle perdite (manometro elettrico e/o sistema di pesatura e/o pressostato di minima rivelazione) e che non ci siano vincoli che inficino il corretto
+funzionamento del sistema di pesatura
+NA
+
+
+
+
+
+
+
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+
+
+
+
+
+
+
+C.1.8
+
+
+
+
+
+
+
+
+45
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Prova in bianco per impianti di spegnimento automatici.
+La prova ha lo scopo di verificare il buono stato di funzionamento degli automatismi del sistema senza provocare la scarica dell'estinguente.
+
+Modalità di esecuzione della prova (di carattere generale; per ottemperare correttamente è necessario seguire le istruzioni operative del costruttore):
+• Disattivare o togliere ogni meccanismo di rilascio dalle valvole delle bombole pilota, in modo che l'attivazione del circuito di rilascio non liberi la sostanza estinguente;
+• Provocare l'attivazione del sistema, mediante pulsante di attivazione o intervento della centrale, e verificare il corretto funzionamento del meccanismo di rilascio. Nel caso in cui non sia possibile disattivare o togliere il meccanismo di rilascio dalle valvole, può essere utile ricorrere ad apparecchi elettronici di simulazione da collegare in prossimità e/o in sostituzione temporanea del dispositivo di attuazione del quale devono possedere caratteristiche elettriche analoghe;
+• Attuare manualmente, quando possibile, il pressostato di linea e verificare la segnalazione di impianto intervenuto sulla centrale di comando;
+• Ripristinare le condizioni iniziali.
+
+
+
+
+
+
+
+
+NA
+
+
+
+
+
+
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+
+
+
+
+
+
+C.1.8
+
+
+
+
+
+
+
+46
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Prova in bianco per impianti di spegnimento manuali
+La prova ha lo scopo di verificare il buono stato di funzionamento degli automatismi del sistema senza provocare la scarica dell'estinguente.
+
+Modalità di esecuzione della prova (di carattere generale; per ottemperare correttamente è necessario seguire le istruzioni operative del costruttore):
+• Disattivare o togliere ogni meccanismo di rilascio dalle valvole delle bombole pilota, in modo che l'attivazione meccanica del circuito di rilascio non liberi la sostanza estinguente;
+• Azionare le leve di comando e verificare il corretto funzionamento del meccanismo di rilascio;
+• Verificare lo stato di usura degli azionamenti meccanici e lubrificare se necessario;
+• Attuare manualmente il pressostato di linea e verificare la segnalazione di impianto intervenuto sulla centrale di comando;
+• Ripristinare le condizioni iniziali.
+
+
+
+
+
+
+
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+47Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Prova del circuito pneumatico di attuazione del sistema, verificando l'assenza di perdite in tutto il circuito. Deve essere effettuata una prova di pressurizzazione del circuito di attuazione delle bombole seguendo le istruzioni del
+fabbricante
+NA
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+48
+Operazioni connesse al controllo periodico, controllo funzionale - Impianto di estinzione: Prova di apertura valvola direzionale verificacando l'apertura e la corretta logica di funzionamento: elettrico, pneumatico e manuale. Le prove devono essere eseguite seguendo le istruzioni del fabbricante.
+NASistemi di estinzione incendi ad estinguenti gassosiC.1.849
+Sorveglianza del sistema di rilevazione secondo le modalità di controllo iniziale prescritta nella UNI 11224M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+50Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Verifica dei valori di pressione indicati dai manometri (ove applicabile), posti sulle valvole delle bombole, mediante il confronto dei valori rilevati con quelli indicati sul libretto di uso e manutenzione dell'impianto (detti valori devono
+tenere conto della temperatura ambientale).
+M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+51Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Per gli impianti a CO2 (biossido di carbonio) ed HFC 23 (trifluorometano), con sistema di pesatura in automatico, verifica di assenza di segnalazioni di guasto o anomalia sulla centrale di rivelazione e che non ci siano vincoli che
+inficino il corretto funzionamento del sistema di pesatura.
+M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+52Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Per impianti provvisti di dispositivi elettrici di bassa pressione, verifica di assenza di segnalazioni di guasto o anomalia sulla centrale
+di rivelazione
+M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+53Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Verifica che dispositivi di sicurezza presenti sui comandi di attivazione manuale siano inseriti ed opportunamente sigillati oppure
+sorvegliati mediante dispositivi a distanza
+MSistemi di estinzione incendi ad estinguenti gassosiC.1.854Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Verifica che il cartellino di
+manutenzione sia presente sull'impianto e sia correttamente compilatoM
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+55Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Verifica che l'etichetta 5) identificativa della bombola sia presente e correttamente compilata come previsto al punto 6.2.4.3 della
+UNI EN 15004-1:2008;
+M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+56Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Verifica che non siano
+presenti anomalie quali ugelli ostruiti, perdite, tracce di corrosione, sconnessioni o incrinature dei tubi flessibili ecc. e che le componenti meccaniche siano accessibili;
+MSistemi di estinzione incendi ad estinguenti gassosiC.1.857Operazioni connesse al controllo periodico - Sorveglianza impianto di estinzione: Verifica che sia esente da
+danni alle strutture di supporto e tutti gli staffaggi risultino ben fissatiMSistemi di estinzione incendi ad estinguenti gassosiC.1.858Controllo Periodico(Ispezione)-Sistema di rilevazione: Fare riferimento alla modalità di controllo iniziale
+prescritta nella UNI 112246MSistemi di estinzione incendi ad estinguenti gassosiC.1.859Controllo Periodico(Ispezione) - Impianto di estinzione: Verifica che le dimensioni del locale protetto non
+siano variate rispetto al progetto6MSistemi di estinzione incendi ad estinguenti gassosiC.1.860Controllo Periodico(Ispezione) - Impianto di estinzione: Verifica integrità del locale protetto mediante la
+prova con ventilatore sulla porta6MSistemi di estinzione incendi ad estinguenti gassosiC.1.861Controllo Periodico(Ispezione) - Impianto di estinzione: Verifica del corretto funzionamento delle serrande e
+relativi dispositivi di chiusura6MSistemi di estinzione incendi ad estinguenti gassosiC.1.862Controllo Periodico(Ispezione) - Impianto di estinzione: Verifica che le porte e le finestre siano chiuse o che
+le stesse siano dotate di sistemi automatici di chiusura6M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+63
+Controllo Periodico(Ispezione) - Impianto di estinzione: Verificare che i sistemi di condizionamento possano essere disattivati al momento dell'attivazione del sistema di spegnimento in relazione ai requisiti di progetto
+6MSistemi di estinzione incendi ad estinguenti gassosiC.1.864Controllo Periodico(Ispezione) - Impianto di estinzione: Verifica che lo stato attuale dell'impianto (rete di
+distribuzione e ugelli di erogazione) sia conforme al progetto originale6MSistemi di estinzione incendi ad estinguenti gassosiC.1.865Controllo Periodico(Ispezione) - Impianto di estinzione: Verifica visivamente Io stato delle tubazioni, dei
+raccordi, degli ugelli e verifica che non vi siano segni di corrosione6MSistemi di estinzione incendi ad estinguenti gassosiC.1.866Controllo Periodico(Ispezione) - Impianto di estinzione: Verificare visivamente il fissaggio delle tubazioni e
+dei raccordi6M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+67Controllo Periodico(Ispezione) - Impianto di estinzione: Verificare che gli ugelli erogatori siano liberi da ostacoli o ostruiti da materiali che possono ridurre la corretta distribuzione dell'agente estinguente e ostacolare le attività di manutenzione. Controllare che le dimensioni e le forature, debitamente stampigliate
+sull'ugello, siano conformi al progetto originale
+6M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+68Controllo Periodico(Ispezione) - Impianto di estinzione: Verificare la conformità al progetto originale del numero e capacità delle bombole installate, nonché i valori di pressione, tipo e quantità dell'agente
+estinguente
+6MSistemi di estinzione incendi ad estinguenti gassosiC.1.869Controllo Periodico(Ispezione) - Impianto di estinzione: Verificare il corretto staffaggio delle bombole alla
+rastrelliera e del collettore di mandata6M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+70Controllo Periodico(Ispezione) - Impianto di estinzione: Richiedere al responsabile dell'impianto se la temperatura del locale di stoccaggio delle bombole si mantiene entro i limiti indicati nel manuale del
+fabbricante
+6M
+Sistemi di estinzione incendi ad estinguenti gassosiC.1.871Controllo Periodico(Ispezione) - Impianto di estinzione: Controllare la data di collaudo punzonata sulle
+bombole6M
+
+
+
+
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+
+
+
+
+C.1.8
+
+
+
+
+
+72
+
+Controllo Periodico(Ispezione) - Impianto di estinzione - Controllo del contenuto delle bombole come segue: Gas liquefatti: Per le sostanze estinguenti a base di alogenati, se una bombola mostra una perdita di una quantità di sostanza estinguente maggiore del 5% o una perdita di pressione (compensata per la temperatura) maggiore del 10% deve essere nuovamente riempita o sostituita. I manometri eventualmente usati a questo scopo devono essere confrontati almeno una volta all'anno con un dispositivo campione dotato di certificato di taratura valido;
+Gas non liquefatti: Se una bombola contenente sostanze estinguenti a base di gas inerte mostra una perdita di pressione (compensata per la temperatura) maggiore del 10% deve essere nuovamente riempita o sostituita. I manometri eventualmente usati a questo scopo devono essere confrontati almeno una volta
+all'anno con un dispositivo campione dotato di certificato di taratura valido.
+
+
+
+
+
+6M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+73Controllo Periodico(Ispezione) - Impianto di estinzione: Controllo per i sistemi ad HFC > 300 kg del dispositivo automatico di rivelazione delle perdite (manometro elettrico e/o sistema di pesatura e/o pressostato di minima rivelazione) e che non ci siano vincoli che inficino il corretto funzionamento del
+sistema di pesatura
+6M
+
+
+
+
+
+
+
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+
+
+
+
+
+
+
+C.1.8
+
+
+
+
+
+
+
+
+74
+Controllo Periodico(Ispezione) - Impianto di estinzione: Prova in bianco per impianti di spegnimento automatici.
+La prova ha lo scopo di verificare il buono stato di funzionamento degli automatismi del sistema senza provocare la scarica dell'estinguente.
+
+Modalità di esecuzione della prova (di carattere generale; per ottemperare correttamente è necessario seguire le istruzioni operative del costruttore):
+• Disattivare o togliere ogni meccanismo di rilascio dalle valvole delle bombole pilota, in modo che l'attivazione del circuito di rilascio non liberi la sostanza estinguente;
+• Provocare l'attivazione del sistema, mediante pulsante di attivazione o intervento della centrale, e verificare il corretto funzionamento del meccanismo di rilascio. Nel caso in cui non sia possibile disattivare o togliere il meccanismo di rilascio dalle valvole, può essere utile ricorrere ad apparecchi elettronici di simulazione da collegare in prossimità e/o in sostituzione temporanea del dispositivo di attuazione del quale devono possedere caratteristiche elettriche analoghe;
+• Attuare manualmente, quando possibile, il pressostato di linea e verificare la segnalazione di impianto intervenuto sulla centrale di comando;
+• Ripristinare le condizioni iniziali.
+
+
+
+
+
+
+
+
+6M
+
+
+
+
+
+
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+
+
+
+
+
+
+C.1.8
+
+
+
+
+
+
+
+75
+Controllo Periodico(Ispezione) - Impianto di estinzione: Prova in bianco per impianti di spegnimento manuali La prova ha lo scopo di verificare il buono stato di funzionamento degli automatismi del sistema senza provocare la scarica dell'estinguente.
+
+Modalità di esecuzione della prova (di carattere generale; per ottemperare correttamente è necessario seguire le istruzioni operative del costruttore):
+- Disattivare o togliere ogni meccanismo di rilascio dalle valvole delle bombole pilota, in modo che l'attivazione meccanica del circuito di rilascio non liberi la sostanza estinguente;
+- Azionare le leve di comando e verificare il corretto funzionamento del meccanismo di rilascio;
+- Verificare lo stato di usura degli azionamenti meccanici e lubrificare se necessario;
+- Attuare manualmente il pressostato di linea e verificare la segnalazione di impianto intervenuto sulla centrale di comando;
+- Ripristinare le condizioni iniziali.
+
+
+
+
+
+
+
+6M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+76
+Controllo Periodico(Ispezione) - Impianto di estinzione: Prova del circuito pneumatico di attuazione del sistema, verificando l'assenza di perdite in tutto il circuito. Deve essere effettuata una prova di pressurizzazione del circuito di attuazione delle bombole seguendo le istruzioni del fabbricante
+6M
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+77Controllo Periodico(Ispezione) - Impianto di estinzione: Prova di apertura valvola direzionale verificacando
+l'apertura e la corretta logica di funzionamento: elettrico, pneumatico e manuale. Le prove devono essere eseguite seguendo le istruzioni del fabbricante.
+6MSistemi di estinzione incendi ad estinguenti gassosiC.1.878Revisione Programmata dell'impianto di estinzione: Esecuzione di tutte le verifiche previste nelle fasi di
+sorveglianza e controllo10ASistemi di estinzione incendi ad estinguenti gassosiC.1.879Revisione Programmata dell'impianto di estinzione: Pulizia interna della tubazioni mediante soffiatura con
+gas compresso e smontaggio degli ugelli10ASistemi di estinzione incendi ad estinguenti gassosiC.1.880Revisione Programmata dell'impianto di estinzione: Smontaggio delle bombole e dei connettori di
+collegamento al collettore10ASistemi di estinzione incendi ad estinguenti gassosiC.1.881Revisione Programmata dell'impianto di estinzione: Smontaggio dei connettori della linea pneumatica di
+attuazione10ASistemi di estinzione incendi ad estinguenti gassosiC.1.882Revisione Programmata dell'impianto di estinzione: Smontaggio del collettore di raccolta gas contenuto
+nelle bombole10ASistemi di estinzione incendi ad estinguenti gassosiC.1.883Revisione Programmata dell'impianto di estinzione: Smontaggio delle valvole di non ritorno e delle valvole
+di ritegno10ASistemi di estinzione incendi ad estinguenti gassosiC.1.884
+Revisione Programmata dell'impianto di estinzione: Smontaggio delle valvole direzionali e loro attuatori10ASistemi di estinzione incendi ad estinguenti gassosiC.1.885Revisione Programmata dell'impianto di estinzione: Smontaggio dalle bombole delle valvole di scarica e loro
+attuatori10ASistemi di estinzione incendi ad estinguenti gassosiC.1.886Revisione Programmata dell'impianto di estinzione: Pressatura idraulica delle valvole di scarica ed attuatori
+a 1,5 volte la pressione di esercizio o loro sostituzione10ASistemi di estinzione incendi ad estinguenti gassosiC.1.887Revisione Programmata dell'impianto di estinzione: Ricollaudo idraulico delle bombole secondo la
+legislazione vigente da parte del Centro di ricarica e/o collaudo qualificato10A
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+88Revisione Programmata dell'impianto di estinzione: Pressatura idraulica dei connettori (tubazione flessibile e/o rigida di scarica, attuazione o servocomando), delle valvole di non ritorno e ritegno a 1,5 volte la
+pressione di esercizio o loro sostituzione.
+10ASistemi di estinzione incendi ad estinguenti gassosiC.1.889Revisione Programmata dell'impianto di estinzione: Pressatura idraulica del collettore di raccolta gas
+contenuto nelle bombole o sostituzione10ASistemi di estinzione incendi ad estinguenti gassosiC.1.890
+Revisione Programmata dell'impianto di estinzione: Sostituzione delle guarnizioni di tenuta (ove applicabile)10A
+Sistemi di estinzione incendi ad estinguenti gassosi
+C.1.8
+91Revisione Programmata dell'impianto di estinzione: Controllo della funzionalità e leggibilità degli indicatori di pressione e della loro precisione con strumento tarato avente le caratteristiche in accordo alla UNI EN
+837-1 e dotato di certificato di taratura valido.
+10ASistemi di estinzione incendi ad estinguenti gassosiC.1.892Revisione Programmata dell'impianto di estinzione: Verifica del grado di tenuta del locale mediante
+esecuzione di prova con ventilatore sulla porta10ASistemi di estinzione incendi ad estinguenti gassosiC.1.893Revisione Programmata dell'impianto di estinzione: Sostituzione e ricarica dell'agente estinguente da parte
+del Centro di ricarica e/o collaudo qualificato.10ASistemi di estinzione incendi ad estinguenti gassosiC.1.894Revisione Programmata dell'impianto di estinzione: Ripristino delle condizioni iniziali10A
+
+Sistemi di estinzione incendi ad estinguenti gassosi
+
+C.1.8
+
+95
+Altre manutenzioni e controlli - In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+1Operazioni connesse alla presa in carico - Con la presa in carico dei sistemi per il controllo di fumo e calore, che può coincidere con la prima operazione di manutenzione, è necessario: eseguire una prima verifi ca di
+massima sullo stato dei suddetti componenti;
+NA
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+2
+Operazioni connesse alla presa in carico - Con la presa in carico dei sistemi per il controllo di fumo e calore, che può coincidere con la prima operazione di manutenzione, è necessario: richiedere al committente la documentazione storica relativa ai pregressi interventi di controllo e manutenzione;
+NA
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+3
+Operazioni connesse alla presa in carico - Con la presa in carico dei sistemi per il controllo di fumo e calore, che può coincidere con la prima operazione di manutenzione, è necessario: richiedere il libretto d'uso e
+manutenzione dei componenti oltre all'eventuale ulteriore documentazione a corredo.
+NASistemi evaquatori fumo e calore (SEFC)C.1.94Operazioni connesse al controllo periodico - ispezione di ogni singolo evacuatore di fumo: Rimozione di
+eventuali ostruzioni esterne (foglie, piccoli rami)6MSistemi evaquatori fumo e calore (SEFC)C.1.95Operazioni connesse al controllo periodico - ispezione di ogni singolo evacuatore di fumo: Controllo
+dell'assenza di segni di corrosione sui meccanismi6MSistemi evaquatori fumo e calore (SEFC)C.1.96Operazioni connesse al controllo periodico - ispezione di ogni singolo evacuatore di fumo: Controllo
+dell'integrità delle parti che compongono l'apparecchio6M
+
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+7
+Operazioni connesse al controllo periodico - Controllo del gruppo di scatto termico di ogni singolo
+evacuatore di fumo: Verifica dell'integrità dell'ampolla termosensibile e della sua posizione corretta
+6MSistemi evaquatori fumo e calore (SEFC)C.1.98Operazioni connesse al controllo periodico - Controllo del gruppo di scatto termico di ogni singolo
+evacuatore di fumo: Controllo dell'integrità della cartuccia di CO²6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+9Operazioni connesse al controllo periodico - Controllo del gruppo di scatto termico di ogni singolo evacuatore di fumo: Controllo del peso della cartuccia di CO². Non deve risultare inferiore del 10% rispetto
+a quello stampato sul corpo della bombola
+6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+10
+Operazioni connesse al controllo periodico - Controllo del gruppo di scatto termico di ogni singolo evacuatore di fumo: Controllo dello stato della valvola termica (spillo e molla non devono presentare tracce di ruggine e lo spillo deve risultare affilato, in caso contrario sostituire)
+6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+11Operazioni connesse al controllo periodico - Controllo del gruppo di scatto termico di ogni singolo evacuatore di fumo: Apertura di ogni singolo ENFC (evaquatore naturale di fumo e calore) controllando il
+corretto funzionamento di tutti gli organi che si espandono e ruotano
+6MSistemi evaquatori fumo e calore (SEFC)C.1.912Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di
+impianto di tipo pneumatico: Controllo dell'integrità della bombola di CO²6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+13Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di impianto di tipo pneumatico: Controllo del peso della bombola di CO². Non deve risultare inferiore del 10%
+rispetto a quello stampato sul corpo della bombola stessa
+6MSistemi evaquatori fumo e calore (SEFC)C.1.914Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di
+impianto di tipo pneumatico: Controllo dei congegni d'apertura manuale6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+15
+Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di impianto di tipo pneumatico: Messa in pressionedell'impianto e prova di tenuta ad almeno 6 bar
+6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+16
+Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di impianto di tipo pneumatico: Messa in pressione dell'impianto e prova di tenuta ad almeno 12 bar
+A
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+17
+Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di impianto di tipo elettrico con attuatori: Controllo degli attuatori elettrici (data di scadenza per i detonatori)
+6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+18Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di
+impianto di tipo elettrico con attuatori: Attivazione di una percentuale di attuatori per il controllo statistico del sistema
+6MSistemi evaquatori fumo e calore (SEFC)C.1.919Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di
+impianto di tipo elettrico con attuatori: Verifica impianto elettrico di attivazioneASistemi evaquatori fumo e calore (SEFC)C.1.920Operazioni connesse al controllo periodico - Controllo del gruppo comando centralizzato in presenza di
+impianto di tipo elettrico con attuatori: Attivazione dell'intero impianto3A
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+21
+Operazioni connesse al controllo periodico -verifica apertura evacuatori di fumo:Apertura di ogni singolo evacuatore di fumo controllando il corretto funzionamento di tutti gli organi che si espandono e ruotano
+6MSistemi evaquatori fumo e calore (SEFC)C.1.922Operazioni connesse al controllo periodico - Controllo sulle barriere al fumo (se presenti): Controllo della
+stazione di comando di ogni singola barriera6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+23Operazioni connesse al controllo periodico - Controllo sulle barriere al fumo (se presenti)- Svolgimento e
+riavvolgimento di ogni singola barriera controllando il corretto funzionamento di tutti gli organi che si espandono e ruotano
+6MSistemi evaquatori fumo e calore (SEFC)C.1.924Operazioni connesse al controllo periodico -Controllo sulle barriere al fumo (se presenti)-Verifica tempi di
+discesa e risalita della barriera6MSistemi evaquatori fumo e calore (SEFC)C.1.925Operazioni connesse al controllo periodico-Controllo sulle barriere al fumo (se presenti)-Verifica
+dell'integrità del telo (presenza di fori)6MSistemi evaquatori fumo e calore (SEFC)C.1.926Operazioni connesse al controllo periodico-Controllo sulle barriere al fumo (se presenti)-Controllo del
+mantenimento omogeneo del colore su tutto il telo6MSistemi evaquatori fumo e calore (SEFC)C.1.927Operazioni connesse al controllo periodico-Controllo sulle barriere al fumo (se presenti)-Ispezione delle
+guide laterali6MSistemi evaquatori fumo e calore (SEFC)C.1.928Operazioni connesse al controllo periodico- Controllo sulle barriere al fumo (se presenti)-Controllo visivo
+delle culle di sostegno dei rulli presenti nel cassonettoA
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+29
+Operazioni connesse al controllo periodico- Controllo sull'emissione dell'aria (se presente)-Verifica presenza segnalazione componente SENFC (sistema naturale evaquazione fumo e calore)
+6MSistemi evaquatori fumo e calore (SEFC)C.1.930Operazioni connesse al controllo periodico- Controllo sull'emissione dell'aria (se presente)- Rimozione di
+eventuali ostruzioni esterne (foglie, piccoli rami)6MSistemi evaquatori fumo e calore (SEFC)C.1.931Operazioni connesse al controllo periodico- Controllo sull'emissione dell'aria (se presente)- Controllo
+dell'assenza di segni di corrosione sui meccanismi6MSistemi evaquatori fumo e calore (SEFC)C.1.932Operazioni connesse al controllo periodico- Controllo sull'emissione dell'aria (se presente)- Controllo
+dell'integrità delle parti che compongono l'apparecchio6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.9
+33
+In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+SNSistemi evaquatori fumo e calore (SEFC)C.1.101OPERAZIONI CONNESSE ALLA PRESA IN CARICO : eseguire una prima verifi ca di massima sullo stato dei
+suddetti componentiNASistemi evaquatori fumo e calore (SEFC)C.1.102OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere al committente la documentazione storica
+relativa ai pregressi interventi di controllo e manutenzioneNASistemi evaquatori fumo e calore (SEFC)C.1.103OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere il libretto d'uso e manutenzione dei componenti
+oltre all'eventuale ulteriore documentazione a corredoNASistemi evaquatori fumo e calore (SEFC)C.1.104Controllo periodico settimanale: controllare tutte le letture di pressione dei manometri dell'acqua e dell'aria
+sugli impianti, condotte principali e serbatoi a pressioneS
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+5controllo periodico settimanale: controllare tutti i livelli dell'acqua nei bacini di accumulo privati
+sopraelevati, fiumi, canali, laghi, serbatoi d'accumulo (compresi i serbatoi di adescamento della pompa e i serbatoi a pressione)
+SSistemi evaquatori fumo e calore (SEFC)C.1.106controllo periodico settimanale: controllare la posizione corretta di tutte le valvole principali di
+intercettazioneSSistemi evaquatori fumo e calore (SEFC)C.1.107controllo periodico settimanale, Prova di allarme : Ogni campana idraulica deve essere fatta suonare per
+non meno di 30 sSSistemi evaquatori fumo e calore (SEFC)C.1.108Controllo periodico settimanale delle pompe automatiche: si devono controllare i livelli di carburante e di
+olio lubrificante dei motori dieselS
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+9
+Controllo periodico settimanale delle pompe automatiche: si deve ridurre la pressione dell'acqua sul dispositivo di avviamento, simulando in questo modo la condizione di avviamento automatico
+SSistemi evaquatori fumo e calore (SEFC)C.1.1010Controllo periodico settimanale delle pompe automatiche: quando la pompa si avvia, la pressione di
+avviamento deve essere controllata e registrataS
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+11Controllo periodico settimanale delle pompe automatiche: si deve controllare la pressione dell'olio sulle
+motopompe diesel, come anche il flusso dell'acqua attraverso gli impianti di raffreddamento a circuito aperto
+S
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+12Immediatamente dopo la prova di avviamento della pompa di cui al punto precedente, i motori diesel devono essere collaudati come segue: il motore deve essere fatto funzionare per 20 min, oppure per il tempo raccomandato dal fornitore. Il motore deve essere successivamente fermato e immediatamente
+riavviato utilizzando il pulsante di prova dell'avviamento manuale
+S
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+13Immediatamente dopo la prova di avviamento della pompa di cui al punto precedente, i motori diesel devono essere collaudati come segue: deve essere controllato il livello dell'acqua nel circuito primario
+dell'impianto di raffreddamento a circuito chiuso
+S
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+14Impianti di riscaldamento localizzati e cavi elettroscaldanti: Devono essere controllati gli impianti di riscaldamento atti ad evitare il congelamento nell'impianto sprinkler per verificarne il corretto
+funzionamento
+S
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+15Controllo periodico mensile: Controllareil livello e la densità dell'elettrolito di tutte le celle degli
+accumulatori al piombo (comprese le batterie di avviamento del motore diesel e quelle per l'alimentazione del quadro di controllo elettrico)
+M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+16Controllo periodico annuale, Prova di portata della pompa automatica: Ciascuna pompa di alimentazione deve essere sottoposta a prova nella condizione di pieno carico (mediante il collegamento della linea di prova collegata alla mandata della pompa a valle della valvola di non ritorno) e deve fornire i valori di
+pressione/portata indicati sulla targa della pompa.
+A
+
+
+Sistemi evaquatori fumo e calore (SEFC)
+
+C.1.10
+
+17
+Controllo periodico annuale,L'allarme di mancato avviamento deve essere sottoposto a prova verificando che: La sequenza di avviamento automatico deve eseguire sei tentativi di avviamento del motore, ognuno della durata da 5 s a 10 s, con una pausa massima di 10 s tra ogni singolo tentativo. Il dispositivo di avviamento deve ripristinarsi automaticamente. Il sistema deve funzionare indipendentemente
+dall'alimentazione della linea elettrica di potenza
+
+A
+
+
+Sistemi evaquatori fumo e calore (SEFC)
+
+C.1.10
+
+18
+Controllo periodico annuale,L'allarme di mancato avviamento deve essere sottoposto a prova verificando che: Il sistema deve commutare automaticamente sull'altra batteria dopo ogni tentativo di avviamento. La tensione del circuito di controllo deve essere prelevata da entrambe le batterie simultaneamente. Devono essere previsti dei dispositivi per evitare che una batteria abbia un effetto negativo sull'altra
+
+A
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+19Controllo periodico annuale,L'allarme di mancato avviamento deve essere sottoposto a prova verificando che: Immediatamente dopo questa verifica il motore deve essere avviato utilizzando il sistema di
+avviamento manuale
+ASistemi evaquatori fumo e calore (SEFC)C.1.1020Controllo periodico annuale: Le valvole a galleggiante nei serbatoi di accumulo devono essere controllate
+per assicurarne il corretto funzionamento.A
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+21Camere di aspirazione e filtri per la pompa: I filtri sull'aspirazione delle pompe e le camere di sedimentazione con relative paratie filtranti devono essere ispezionati almeno annualmente e puliti se
+necessario.
+A
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+22Serbatoi di accumulo e a pressione: Tutti i serbatoi devono essere esaminati esternamente per verificare
+l'eventuale presenza di corrosione. Devono essere svuotati, puliti se necessario ed esaminati internamente per verificare la presenza di un'eventuale corrosione
+3ASistemi evaquatori fumo e calore (SEFC)C.1.1023Serbatoi di accumulo e a pressione: Dove necessario tutti i serbatoi devono essere riverniciati e/o deve
+essere ripristinata la protezione contro la corrosione3A
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+24Valvole di intercettazione dell'alimentazione idrica, valvole di allarme e valvole di non ritorno: Tutte le valvole di intercettazione dell'alimentazione idrica, le valvole di allarme e di non ritorno devono essere
+esaminate e sostituite o revisionate se necessario.
+3ASistemi evaquatori fumo e calore (SEFC)C.1.1025Controllo periodico decennale: Ad intervalli non maggiori di 10 anni, tutte le riserve idriche devono essere
+pulite ed esaminate internamente e l'impermeabilizzazione controllata.10A
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+26OPERAZIONI CONNESSE AL CONTROLLO PERIODICO SECONDO UNI 10779: Ciascuna alimentazione idrica deve essere verificata su ogni stazione di controllo presente nel sistema. Le pompe devono avviarsi automaticamente e i valori di pressione e portata misurati, non devono essere minori di quelli nominali,
+registrando ogni cambiamento
+3M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+27
+OPERAZIONI CONNESSE AL CONTROLLO PERIODICO SECONDO UNI 10779: Qualsiasi alimentazione elettrica secondaria derivante dai generatori diesel deve essere controllata per verificarne il corretto funzionamento
+3MSistemi evaquatori fumo e calore (SEFC)C.1.1028OPERAZIONI CONNESSE ALLA MANUTEZIONE ORDINARIA: Consiste in una serie di operazioni atte a
+eliminare le anomalie di modesta entità riscontrate nei componenti delle reti idranti6MSistemi evaquatori fumo e calore (SEFC)C.1.1029OPERAZIONI CONNESSE ALLA MANUTEZIONE ORDINARIA: Terminata la manutenzione, il tecnico è tenuto
+alla compilazione del rapporto di intervento6M
+Sistemi evaquatori fumo e calore (SEFC)
+C.1.10
+30
+OPERAZIONI CONNESSE ALLA MANUTEZIONE STRAORDINARIA: Consiste in un intervento che richiede attrezzature o strumentazioni particolari o che comporti ad esempio la sostituzione degli accessori o
+dell'idrante a muro, naspo o la completa sostituzione di idranti a colonna o attacchi per gruppi autopompa
+6M
+
+Sistemi evaquatori fumo e calore (SEFC)
+
+C.1.10
+
+31
+ALTRE MANUTENZIONI E CONTROLLI: In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SNArmadi AntincendioC.1.111Operazioni connesse alla presa in carico : eseguire una prima verifi ca di massima sullo stato dei suddetti
+componentiNAArmadi AntincendioC.1.112Operazioni connesse alla presa in carico : richiedere al committente la documentazione storica relativa ai
+pregressi interventi di controllo e manutenzioneNAArmadi AntincendioC.1.113Operazioni connesse alla presa in carico : richiedere il libretto d'uso e manutenzione dei componenti oltre
+all'eventuale ulteriore documentazione a corredoNAArmadi AntincendioC.1.114OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- controllare e registrare: pressione bombole, miscela
+d'aria compressaSArmadi AntincendioC.1.115OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verifica della presenza di tutti
+materiali ed attrezzature facenti parte della dotazione originaleMArmadi AntincendioC.1.116OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verificare la perfetta accessibilità
+agli armadiArmadi AntincendioC.1.117OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verificare l'integrità della cassetta
+porta chiaviMArmadi AntincendioC.1.118OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verificare il funzionamento delle
+torce con eventuale sostituzione delle pileMArmadi AntincendioC.1.119
+OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verifica della integrità del sigilloMArmadi AntincendioC.1.1110OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verifica perfetta integrtà dei
+dispositivi connessiM
+Armadi Antincendio
+C.1.11
+11OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verifica perfetto funzionamento maschera e respiratore, con eventuale sostituzione componenti danneggiate o non perfettamente
+funzionanti.
+6M
+Armadi Antincendio
+C.1.11
+12OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Prove e verifiche: Verificare lo stato generale dell'armadio, e porre eventuali rimedi (verniciature lubrificazione cernire verifica funzionale del sisema di
+chiusura).
+A
+Armadi Antincendio
+C.1.11
+13OPERAZIONI CONNESSE AL CONTROLLO PERIODICO- Verifica adeguamento attrezzature: Verifica dispositivi
+con eventuale adeguamento, come da decreto vigente o eventuali successive modifiche, in considerazione delle date dalla presa in consegna.
+SN
+
+Armadi Antincendio
+
+C.1.11
+
+14
+ALTRE MANUTENZIONI E CONTROLLI-In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SNSistema di evaquazione forzata di fumo e calore(SEFFC)C.1.121OPERAZIONI CONNESSE ALLA PRESA IN CARICO : eseguire una prima verifi ca di massima sullo stato dei
+suddetti componentiNASistema di evaquazione forzata di fumo e calore(SEFFC)C.1.122OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere al committente la documentazione storica
+relativa ai pregressi interventi di controllo e manutenzioneNASistema di evaquazione forzata di fumo e calore(SEFFC)C.1.123OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere il libretto d'uso e manutenzione dei componenti
+oltre all'eventuale ulteriore documentazione a corredoNA
+Sistema di evaquazione forzata di fumo e calore(SEFFC)
+C.1.12
+4OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Verificare che la girante del ventilatore ruoti liberamente e non urti o strisci contro la cassa a spirale i altri eventuali oggetti, che il senso di rotazione sia corretto.
+Pulizia della girante
+3MSistema di evaquazione forzata di fumo e calore(SEFFC)C.1.125OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Controllo della temperatura e rumorosità dei
+cuscinetti e loro eventuale lubrificazione3M
+Sistema di evaquazione forzata di fumo e calore(SEFFC)
+C.1.12
+6OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Revisione generale previo smontaggio del ventilatore controllo dello stato della girante provvedendo alla pulizia e lubrificazione dei cuscinetti ed alla eventuale
+loro sostituzione
+3MSistema di evaquazione forzata di fumo e calore(SEFFC)C.1.127
+OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Verifica della stabilità dei sostegni nei tratti a vista3M
+Sistema di evaquazione forzata di fumo e calore(SEFFC)
+C.1.12
+8OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Controllo di eventuali fughe d'aria denunciate da
+annerimenti delle pareti in prossimità delle fughe stesse nei tratti a vista. Ripristino ermeticità mediante sigillanti
+3M
+Sistema di evaquazione forzata di fumo e calore(SEFFC)
+C.1.12
+9
+OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Verifica della rispondenza della posizione degli evacuatori di fumo al progetto e della presenza e corretta archiviazione dei certificati di omologazione
+3M
+Sistema di evaquazione forzata di fumo e calore(SEFFC)
+C.1.12
+10OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Verifica dello stato degli evacuatori di fumo e del
+funzionamento degli automatismi di apertura mediante prova manuale o simulata.; lubrificazione di perni pistoni e levismi
+3M
+Sistema di evaquazione forzata di fumo e calore(SEFFC)
+C.1.12
+11
+OPERAZIONI CONNESSE AL CONTROLLO PERIODICO - Prova di simulazione per la verifica dell'efficienza degli attuatori in chiusura delle porte delle serrande e degli altri dispositivi di compartimentazione di tipo mobile
+3M
+
+Sistema di evaquazione forzata di fumo e calore(SEFFC)
+
+C.1.12
+
+12
+ALTRE MANUTENZIONI E CONTROLLI - In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SNVie D'esodoC.1.131OPERAZIONI CONNESSE ALLA PRESA IN CARICO : eseguire una prima verifi ca di massima sullo stato dei
+suddetti componentiNAVie D'esodoC.1.132OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere al committente la documentazione storica
+relativa ai pregressi interventi di controllo e manutenzioneNAVie D'esodoC.1.133OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere il libretto d'uso e manutenzione dei componenti
+oltre all'eventuale ulteriore documentazione a corredoNA
+
+
+Vie D'esodo
+C.1.13
+4
+OPERAZIONI CONNESSE AL CONTROLLO PERIODICO: Ogni trimestre si dovrà procedere all'esecuzione di tutti gli interventi relativi al mantenimento della segnalazione delle vie di esodo e delle uscite di sicurezza
+3M
+Vie D'esodo
+C.1.13
+5OPERAZIONI CONNESSE AL CONTROLLO PERIODICO: Illuminazione di sicurezza: revisione e/o sostituzione
+dei tubi fluorescenti, delle batterie statiche e delle componenti elettroniche alimentanti l'illuminazione di sicurezza
+3M
+
+Vie D'esodo
+
+C.1.13
+
+6
+ALTRE MANUTENZIONI E CONTROLLI: In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+NASistema di compartimentazione (Elementi fissi di compartimentazione)C.1.141OPERAZIONI CONNESSE ALLA PRESA IN CARICO : eseguire una prima verifi ca di massima sullo stato dei
+suddetti componentiNASistema di compartimentazione (Elementi fissi di compartimentazione)C.1.142OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere al committente la documentazione storica
+relativa ai pregressi interventi di controllo e manutenzioneNASistema di compartimentazione (Elementi fissi di compartimentazione)C.1.143OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere il libretto d'uso e manutenzione dei componenti
+oltre all'eventuale ulteriore documentazione a corredoNA
+Sistema di compartimentazione (Elementi fissi di compartimentazione)
+C.1.14
+4OPERAZIONI CONNESSE AL CONTROLLO PERIODICO: Controllo della rispondenza della posizione degli elementi fissi di compartimentazione (murature, vetri omologati, sigillanti passaggio cavi etc) e della
+presenza e corretta archiviazione dei certificati di omologazione
+ASistema di compartimentazione (Elementi fissi di compartimentazione)C.1.145OPERAZIONI CONNESSE AL CONTROLLO PERIODICO: Verifica stato di conservazione ed esecuzione di
+eventuali ripristini, riparazioni e ritocchi qualora necessarioA
+
+Sistema di compartimentazione (Elementi fissi di compartimentazione)
+
+C.1.14
+
+6
+Altre manutenzioni e controlli - In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SNSerrande TagliafuocoC.1.151OPERAZIONI CONNESSE ALLA PRESA IN CARICO : eseguire una prima verifi ca di massima sullo stato dei
+suddetti componenti;NASerrande TagliafuocoC.1.152OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere al committente la documentazione storica
+relativa ai pregressi interventi di controllo e manutenzione;NASerrande TagliafuocoC.1.153OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere il libretto d'uso e manutenzione dei
+componenti oltre all'eventuale ulteriore documentazione a corredo.NASerrande TagliafuocoC.1.154OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo generale della serranda (ancoraggio telaio,
+deterioramenti, ecc.).6MSerrande TagliafuocoC.1.155
+OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo dello stato di apertura della serranda.6MSerrande TagliafuocoC.1.156OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo della corrispondenza dello stato sul sistema
+di supervisione (ove presente).6MSerrande TagliafuocoC.1.157OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo della presenza di eventuali ostacoli alla
+completa chiusura della serranda.6MSerrande TagliafuocoC.1.158OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo della funzionalità ed efficienza dei
+manovellismi.6MSerrande TagliafuocoC.1.159OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo e serraggio di tutti gli accoppiamenti
+meccanici accessibili.6MSerrande TagliafuocoC.1.1510OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo dello stato del fusibile termostatico
+(disgiuntore).6MSerrande TagliafuocoC.1.1511OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo della funzionalità del microinterruttore di
+fine corsa.6MSerrande TagliafuocoC.1.1512OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Prova di sgancio e controllo relativa segnalazione in
+supervisione (ove presente).6MSerrande TagliafuocoC.1.1513OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo arresto impianto di ventilazione a seguito
+chiusura serranda.6M
+
+Serrande Tagliafuoco
+
+C.1.15
+
+14
+ALTRE MANUTENZIONI E CONTROLLI : In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SNSistemi di diffusione sonora per l'evaquazioneC.1.161
+OPERAZIONI CONNESSE ALLA PRESA IN CARICO : l' accertamento della rispondenza al progetto esecutivo;NASistemi di diffusione sonora per l'evaquazioneC.1.162OPERAZIONI CONNESSE ALLA PRESA IN CARICO : eseguire una prima verifi ca di massima sullo stato dei
+suddetti componenti;NASistemi di diffusione sonora per l'evaquazioneC.1.163OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere al committente la documentazione storica
+relativa ai pregressi interventi di controllo e manutenzione;NASistemi di diffusione sonora per l'evaquazioneC.1.164OPERAZIONI CONNESSE ALLA PRESA IN CARICO : richiedere il libretto d'uso e manutenzione dei componenti
+oltre all'eventuale ulteriore documentazione a corredo.NA
+Sistemi di diffusione sonora per l'evaquazione
+C.1.16
+5OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Verificare l'efficienza del sistema di autodiagnosi permanentee delle linee di diffusori che, in caso di amalia, deve dare un allarme immediato. (Simulare una
+anomalia su ogni linea di diffusori)
+MSistemi di diffusione sonora per l'evaquazioneC.1.166OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllare lo stato di eventuali batterie (controllare il
+livello e la densità dell'elettrolito di tutte le celle degli accumulatori al piombo).MSistemi di diffusione sonora per l'evaquazioneC.1.167OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo della protezione all'accesso al locale dove
+sono installate le apparecchiature6MSistemi di diffusione sonora per l'evaquazioneC.1.168OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo che l'accesso alle apparecchiature non sia
+ostruito da ostacoli6MSistemi di diffusione sonora per l'evaquazioneC.1.169OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo che le indicazioni ottiche sullo stato del
+sistema siano visibili in luce ambientale6MSistemi di diffusione sonora per l'evaquazioneC.1.1610OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Controllo che siano disponibili le istruzioni operative
+del sistema6MSistemi di diffusione sonora per l'evaquazioneC.1.1611OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Misura del tempo di intervento del sistema audio in
+presenza di un comando manuale o automatico di allarme6MSistemi di diffusione sonora per l'evaquazioneC.1.1612OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Verifica che il sistema sia in grado di diffondere
+messaggi di emergenza in ogni singola zona e in tutte le zone simultaneamente6MSistemi di diffusione sonora per l'evaquazioneC.1.1613OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Misura del rumore ambientale in prossimità della
+postazione del microfono di emergenza6MSistemi di diffusione sonora per l'evaquazioneC.1.1614OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Verifica che l'interruzione della connessione tra il
+sistema di rivelazione allarmi ed il sistema audio sia segnalata come guasto6MSistemi di diffusione sonora per l'evaquazioneC.1.1615OPERAZIONI CONNESSE AL CONTROLLO PERIODICO : Verifica che sono rispettati i requisiti di intelligibilità
+del parlatoA
+
+Sistemi di diffusione sonora per l'evaquazione
+
+C.1.16
+
+16
+ALTRE MANUTENZIONI E CONTROLLI - In agginta ed integrazione a tutte le operazioni sopra descritte, sono da eseguirsi:
+• tutte le verifiche e manutenzioni secondo quanto riportato sul manuale del costruttore, ecc.;
+• tutte le verifiche e manutenzioni introdotte dalla specifica normativa tecnica tempo per tempo vigente
+
+SN

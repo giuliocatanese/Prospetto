@@ -1,0 +1,3131 @@
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+FRONTESPIZIO DELIBERAZIONE
+REGISTRO:
+ Deliberazione
+NUMERO:
+ 0000658
+DATA:
+ 16/09/2025 09:58
+OGGETTO:
+ Procedura aperta telematica per l'affidamento della Gestione dei Vettori
+Energetici delle Aziende Sanitarie della Regione del Veneto (G.V.E.).
+Aggiudicazione.
+SOTTOSCRITTO DIGITALMENTE DA:
+Il presente provvedimento è stato firmato digitalmente da Toniolo Roberto in qualità di Direttore
+Generale
+Con il parere favorevole di Kusstatscher Stefano - Direttore Sanitario
+Con il parere favorevole di Zuzzi Sandra - Direttore Amministrativo
+CLASSIFICAZIONI:
+[08]
+DESTINATARI:
+Collegio sindacale
+DOCUMENTI:
+File
+DELI0000658_2025_delibera_firmata.pdf
+DELI0000658_2025_Allegato1.pdf:
+DELI0000658_2025_Allegato2.pdf:
+Firmato digitalmente da
+Kusstatscher Stefano; Toniolo Roberto;
+Zuzzi Sandra
+Zuzzi Sandra; Kusstatscher Stefano;
+Toniolo Roberto
+Zuzzi Sandra; Kusstatscher Stefano;
+Toniolo Roberto
+Hash
+7648293A0A0636B9CDF7A7E66B20A7CF
+F6856E31971AB55517F26DAA365558DC
+77EFF2971921E9F3E2C1FC4F12B64066C
+85CFFB85DCD93C69770CF2BD5EBA460
+F171CD797E941D21A1C8270F4D40732F9
+F5E559CE77D278727F8C87F44B184DC
+L'originale del presente documento, redatto in formato elettronico e firmato digitalmente e' conservato a cura dell'ente produttore secondo normativa vigente.
+Ai sensi dell'art. 3bis c4-bis Dlgs 82/2005 e s.m.i., in assenza del domicilio digitale le amministrazioni possono predisporre le comunicazioni ai cittadini come documenti
+informatici sottoscritti con firma digitale o firma elettronica avanzata ed inviare ai cittadini stessi copia analogica di tali documenti sottoscritti con firma autografa sostituita a
+mezzo stampa predisposta secondo le disposizioni di cui all'articolo 3 del Dlgs 39/1993.
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+DELIBERAZIONE
+OGGETTO:
+Procedura aperta telematica per l'affidamento della Gestione dei Vettori Energetici delle
+Aziende Sanitarie della Regione del Veneto (G.V.E.). Aggiudicazione.
+IL DIRETTORE GENERALE
+Richiamato quanto relazionato dal Direttore dell’UOC CRAV, Dott.ssa Sandra Zuzzi, responsabile del
+procedimento, che ha riferito quanto segue ed attestato la regolare istruttoria della pratica anche in
+relazione alla sua compatibilità con la vigente legislazione statale e regionale in materia.
+La L.R. n. 19 del 25/10/2016, “ Istituzione dell’ente di governance della sanità regionale veneta denominato
+“Azienda per il governo della sanità della Regione del Veneto - Azienda Zero. Disposizioni per la
+individuazione dei nuovi ambiti territoriali delle Aziende ULSS”, ha istituito l’Azienda per la
+razionalizzazione, l’integrazione e l’efficientamento dei servizi sanitari, socio-sanitari e tecnico-
+amministrativi del Servizio Sanitario Regionale (SSR), denominata “ Azienda Zero ”, la cui effettiva
+operatività è stata garantita con successiva Deliberazione della Giunta della Regione del Veneto (in
+seguito “ DGRV”) n. 1771 del 2/11/2016.
+Con successiva DGRV n. 733 del 29/05/2017 è stata disposta l’attribuzione ad Azienda Zero delle funzioni
+di cui all'articolo 2, comma 1, della summenzionata legge regionale, tra cui sono annoverati, alla lett. g),
+punto 1), “ gli acquisti centralizzati nel rispetto della qualità, della economicità e della specificità clinica,
+previa valutazione della Commissione Regionale per l’Investimento in Tecnologia ed Edilizia (CRITE) ”,
+contestualmente disponendo il trasferimento dalla Regione del Veneto ad Azienda Zero della Centrale
+Regionale Acquisti per la Regione Veneto (CRAV), soggetto aggregatore ai sensi dell'articolo 9, comma 1,
+Decreto Legge n. 66 del 24/04/2014 , convertito con Legge n. 89 del 23/06/2014.
+Con DGRV n. 1940 del 27/11/2017, è stato approvato il Regolamento regionale n. 5 del 6/12/2017, “
+Regolamento per la gestione degli acquisti centralizzati di Azienda Zero in attuazione dell'articolo 2,
+comma 1, lettera g), punto 1, della legge regionale 25 ottobre 2016, n. 19”, che ha previsto il definitivo
+trasferimento ad Azienda Zero, a far data dal 1/01/2018 , dei rapporti giuridici facenti capo alla Regione del
+Veneto in dipendenza di procedure in corso, contratti o convenzioni e contenziosi relativi ad acquisti
+centralizzati posti in essere dalla UO Acquisti Centralizzati SSR - CRAV.
+Con Deliberazione del Direttore Generale n. 730 del 28/11/2023 è stata indetta la procedura aperta ai
+sensi degli artt. 70 e 71, del D.Lgs. n. 36/2023 volta all'affidamento della Gestione dei Vettori Energetici
+pag.1
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+delle Aziende Sanitarie della Regione del Veneto (G.V.E.), suddivisa in 6 lotti, per la durata di 3 anni e
+opzione di proroga per ulteriori 12 mesi, da espletarsi in modalità telematica mediante ricorso alla
+piattaforma telematica Sintel, di ARIA S.p.A. ai sensi dell’art. 25 del medesimo decreto.
+Con Deliberazioni del Direttore Generale n. 104 dell' 1/03/2024 e n. 299 del 22/05/2024 si è ritenuto di
+procedere alla rettifica di parte degli atti di gara, così come riportati nella suddetta Deliberazione, e per
+effetto delle rettifiche menzionate, il valore complessivo della procedura risulta essere pari ad €
+768.650.495,13 (IVA esclusa).
+In data 30/05/2024 si è quindi proceduto a pubblicare il bando di gara sulla G.U.U.E. n. 320162-2024, sul
+profilo del committente e sugli ulteriori mezzi di pubblicità previsti dalla normativa vigente, fissando quale
+termine per la presentazione delle offerte le ore 15:00 del giorno 24/06/2024.
+Entro il termine sopra citato è pervenuta regolarmente l’offerta telematica di n. 17 operatori economici, di
+seguito indicati:
+Denominazione
+1 A2A Calore & Servizi S.r.l.
+A.B.P. Nocivelli S.p.A.
+2 Cns - Consorzio Nazionale Servizi Società Cooperativa
+Meit Multiservice S.r.l.
+3 Comat S.p.A.
+Santa Teresa Energy S.r.l.
+Tepor S.p.A.
+4 Consorzio Innova Societa’ Cooperativa
+Alfredo Cecchini S.r.l.
+I.F.M. Italiana Facility Management S.p.A.
+5 Consorzio Stabile Cmf
+Consorziata Esecutrice Rekeep S.p.A. A Socio Unico
+6 Coopservice S. Coop.P.A.
+Carbotermo S.p.A.
+7 Cpl Concordia Soc. Coop.
+8 Edison Next Government S.r.l.
+9 Engie Servizi S.p.A.
+Alperia Green Future S.r.l.
+10 Gemmo S.p.A.
+11 Getec Italia S.p.A.
+12 Guerrato S.p.A.
+Forma
+RTI
+RTI
+RTI
+RTI
+Consorzio
+RTI
+Singola
+Singola
+RTI
+Singola
+Singola
+Singola
+pag.2
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+13 Omnia Servitia S.r.l.
+ Singola
+14 Axioma_Energy_Services_S.r.l.
+ RTI
+Consorzio Leonardo Servizi E Lavori Societa' Cooperativa Consortile
+Stabile,
+C.P.M. Gestioni Termiche S.p.A.,
+15 Renovit Public Solutions S.p.A.
+ Singola
+16 Società Per Azioni Commercio Combustibili Industria Riscaldamento S.A. RTI
+C.C.I.R.
+Cogeco 7 S.r.l.
+Energia 2020 S.r.l.
+17 Siram S.p.A.
+ Singola
+Nel corso della seduta del 27/06/2024, di cui al relativo verbale conservato agli atti, il Seggio di Gara ha
+provveduto all’apertura dei plichi telematici pervenuti, alla successiva apertura delle buste contenenti la
+documentazione amministrativa ed alla verifica della sua regolarità e completezza, ammettendo tutti i
+partecipanti al prosieguo della procedura, con l’eccezione dei concorrenti Axioma Energy Services S.r.l.;
+Guerrato S.p.A.; Getec italia S.p.A.; Gemmo S.p.A., Cpl Concordia Soc. Coop; Cns - Consorzio Nazionale
+Servizi Società Cooperativa; Omnia Servitia S.r.l.; Comat S.p.A.; Consorzio Innova Societa’ Cooperativa
+ed Engie Servizi S.p.A ammessi con riserva.
+Alla luce dell’intervenuta regolarizzazione dell’offerta da parte dei citati concorrenti entro i termini a tal fine
+concessi ai sensi dell’art. 101 del D.Lgs. n. 36/2023, come risulta dal relativo verbale del 22/08/2024
+conservato agli atti, la stazione appaltante ha sciolto la riserva ed ha ammesso gli offerenti alla fase
+successiva della procedura.
+Con la Deliberazione del Direttore Generale n. 585 del 17/09/2024 è stata nominata, ai sensi dell’art. 93
+del D.Lgs. n. 36/2023 la Commissione Giudicatrice con la seguente composizione:
+Presidente:
+Ing. Luca Avesani, Dirigente dell’UOC Servizi Tecnici e Patrimoniali della Azienda ULSS n. 9
+Scaligera.
+Componenti:
+Ing. Giorgio Franceschi, Dirigente presso l’UOC Servizi Tecnici e Patrimoniali della Azienda
+Ospedale-Università Padova;
+Perito industriale Matteo Bragantini, in servizio presso l’UOC Direzione Servizi Tecnici e
+Patrimoniali della Azienda Ospedaliera Universitaria Integrata di Verona.
+pag.3
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+I nominati componenti della Commissione Giudicatrice, al momento dell’accettazione dell’incarico, hanno
+reso apposita dichiarazione sostitutiva, agli atti, attestante l’inesistenza delle cause di incompatibilità e di
+astensione di cui all’art. 93 del D.Lgs. n. 36/2023 .
+Si dà atto che in data 13/09/2024 e 30/01/2025 sono pervenute, con note conservate agli atti, le
+comunicazioni con cui gli operatori economici Polygon S.r.l. e Consorzio Stabile CMF hanno informato in
+merito rispettivamente a:
+la modifica della denominazione sociale di Polygon S.r.l. in Axioma Energy Services S.r.l.;
+la scissione parziale proporzionale del ramo d’azienda di proprietà di Consorzio Stabile CMF,
+avente ad oggetto le attività relative ai c.d. servizi energia in favore di Rekeep Rail S.r.l. e della
+trasformazione di quest’ultima dapprima in Teckal S.r.l. e poi in Teckal S.p.A.
+Nei giorni 25/09/2024; 8/10/2024; 10/10/2024; 15/10/2024; 22/10/2024; 5/11/2024; 12/11/2024; 19/11/2024
+; 3/12/2024; 10/12/2024; 17/12/2024; 16/01/2025 ; 28/01/2025; 18/02/2025; 6/03/2025; 11/03/2025;
+13/03/2025; 18/03/2025; 20/03/2025; 1/04/2025; 8/04/2025; 17/04/2025 ; 6/05/2025; 15/05/2025;
+27/05/2025; 5/06/2025 e 11/06/2025 si sono tenute le sedute riservate della Commissione Giudicatrice,
+come da verbali agli atti della UOC CRAV, nel corso delle quali la medesima Commissione ha proceduto
+alla valutazione delle offerte tecniche presentate dagli operatori economici ammessi ed alla successiva
+attribuzione del relativo punteggio.
+Si dà atto che le offerte presentate dai sotto riportati concorrenti (per i quali si riporta la sola mandataria nel
+caso di raggruppamento di imprese), nei lotti specificati nella relativa comunicazione di esclusione, non
+sono state ammesse alla successiva fase di apertura delle offerte economiche, a seguito dell’esclusione
+disposta dal RUP in data 5/06/2025 , come da verbale conservato agli atti, non avendo raggiunto la soglia
+minima di sbarramento qualitativo prevista e pari a 40 punti:
+A2A Calore & Servizi S.r.l.;
+Axioma_Energy_Services_S.r.l.;
+Cns - Consorzio Nazionale Servizi Società Cooperativa;
+Comat S.p.A.;
+Consorzio Innova Societa’ Cooperativa;
+Cpl Concordia Soc. Coop.;
+Guerrato S.p.A.;
+Omnia Servitia S.r.l.;
+Società Per Azioni Commercio Combustibili Industria Riscaldamento S.A.C.C.I.R.
+In data 5/06/2025 la Commissione Giudicatrice ha proceduto, per i soli operatori economici ammessi all’
+inserimento nella piattaforma Sintel dei punteggi qualitativi finali. Successivamente, nella medesima data,
+dopo idonea comunicazione nel portale Sintel si è proceduto al download e all’apertura telematica delle
+pag.4
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+offerte economiche delle ditte ammesse. Nel corso di tale seduta, come previsto dal Disciplinare di gara, la
+Commissione Giudicatrice ha proceduto all’apertura telematica delle offerte economiche degli operatori
+ammessi, alla verifica della loro regolarità formale e sostanziale.
+Si dà atto che, come da verbale del RUP del 9/06/2025, le offerte presentate dal concorrente Getec Italia S.
+p.A., nei lotti nn. 3 e 6, sono state ritenute inammissibili con conseguente esclusione del suddetto
+operatore nei citati lotti.
+In data 11/06/2025, come da verbale agli atti dell’UOC CRAV, si è tenuta la seduta riservata della
+Commissione Giudicatrice di valutazione delle offerte economiche ammesse per ciascun lotto di gara nel
+corso della quale si è proceduto all’attribuzione dei punti relativi all’elemento prezzo, off line rispetto alla
+piattaforma Sintel, come da previsione del Disciplinare di Gara con conseguente presa d’atto delle
+graduatorie provvisorie di aggiudicazione.
+Il RUP in data 16/06/2025, ha dato avvio al procedimento finalizzato all’aggiudicazione dei lotti tenendo
+conto del vincolo di aggiudicazione previsto dagli atti di gara. All’esito delle operazioni svolte, come risulta
+dal verbale del 20/06/2025, sono state formulate le graduatorie finali per ciascuno dei 6 lotti di gara nei
+termini precisati nell’Allegato 1 al presente.
+Si riportano di seguito gli operatori economici aggiudicatari per ciascun lotto:
+Lotto n.
+ Operatore Economico
+1-
+ Azienda Ospedale – Università Renovit Public Solutions S.p.A.
+Padova e Istituto Oncologico Veneto
+2-
+ Azienda
+ Ospedaliera
+ Universitaria RTI Costituendo Engie Service S.p.A. e
+Integrata di Verona
+ Alperia Green Future S.r.l.
+3 - Azienda ULSS n. 6 Euganea ed Siram S.p.A.
+Azienda Zero
+4 - Azienda ULSS n. 7 Pedemontana
+ Getec Italia S.p.A.
+5 - Azienda ULSS n. 8 Berica
+ Edison Next Government S.r.l.
+6 - Azienda ULSS n. 9 Scaligera
+ Teckal S.p.A. (già Consorzio Stabile CMF)
+Con note prot. nn. 17518; 17519; 17520; 17524; 17527; 17540; 17541 e 17546 del 30/06/2025, il RUP, nel
+rispetto di quanto previsto dall’art. 24 del Disciplinare di gara ha richiesto agli operatori collocatisi primi e
+secondi in graduatoria le giustificazioni dell’offerta economica ai fini della verifica di cui all’art. 110 del D.
+Lgs. n. 36/2023.
+pag.5
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+Con note pervenute tramite la piattaforma Sintel e conservate agli atti gli operatori economici interpellati
+hanno inviato riscontro alla richiesta predetta, deducendo le relative giustificazioni. Il RUP, esaminate le
+giustificazioni ricevute, ha ritenuto l’offerta presentata dagli operatori economico nei lotti oggetto di richiesta
+complessivamente congrua, come risulta dal verbale della seduta riservata del 9/09/2025 conservato agli
+atti.
+Si dà atto che sono state effettuate le verifiche inerenti il possesso, in capo ai concorrenti collocati
+utilmente in ciascuna graduatoria di aggiudicazione, dei requisiti generali e speciali richiesti dal Disciplinare
+di gara per l’accesso alla procedura e che i controlli hanno avuto esito positivo come attestato dal RUP con
+propri verbali del 31/07/2025 e del 9/09/2025 entrambi conservati agli atti.
+Ciò premesso, si ritiene opportuno e necessario provvedere all’aggiudicazione della fornitura del servizio in
+parola, suddivisa in n. 6 lotti, alle condizioni ed ai termini dettagliati, per ciascun lotto, nell’Allegato 2 al
+presente provvedimento quale sua parte integrante e sostanziale.
+Per l’effetto si propone altresì di autorizzare la stipula con gli aggiudicatari di ciascun lotto di apposita
+convenzione-quadro ai sensi e per gli effetti dell'art. 59 del D.Lgs. n. 36/2023 che sarà eseguita mediante
+stipula da parte degli Enti beneficiari della stessa di contratti applicativi.
+Ai sensi dell’art. 17, comma 5, del D.Lgs. n. 36/2023, l’aggiudicazione è disposta dall’organo competente
+ed è immediatamente efficace.
+L’aggiudicazione non equivale ad accettazione dell’offerta.
+La UOC CRAV provvederà alle pubblicazioni ed alle comunicazioni conseguenti all’aggiudicazione sui
+mezzi e con le modalità previsti dalla normativa vigente. L’esito della procedura sarà oggetto di pubblicità
+ai sensi dell’art. 111 del D.Lgs. n. 36/2023.
+Si demanda a successivo provvedimento la definizione delle modalità di riconoscimento previsto dall'art.
+45 del D.Lgs. n. 36/2023 al personale incaricato delle funzioni tecniche.
+Si rinvia a successivo provvedimento l’adesione di Azienda Zero alla convenzione-quadro per la parte di
+competenza del lotto n. 3 di afferenza mediante stipula del relativo contratto attuativo tra la medesima e l’
+operatore economico primo in graduatoria di aggiudicazione, la cui esecuzione sarà gestita dall’UOC
+Logistica.
+pag.6
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+Si propone pertanto, a tal fine, la nomina dell’Ing. Emanuele Mognon, Direttore della summenzionata UOC,
+in qualità di RUP della fase esecutiva ai sensi dell’art. 15, comma 9, del D.Lgs. n. 36/2023, demandando
+allo stesso l’individuazione del Direttore dell’Esecuzione del Contratto (DEC) ai sensi dell’art. 114 del D.
+Lgs. n. 36/2023 e dell’art. 32, commi 2 e 3 dell’Allegato II.14 al medesimo decreto.
+Si rappresenta che il presente provvedimento non comporta spese a carico del bilancio di Azienda Zero.
+VISTI:
+il D.Lgs. n. 36/2023;
+la Legge Regionale n. 19 del 25/10/2016;
+le DGRV n. 1771 del 2/11/2016, n. 733 del 29/05/2017 e n. 1940 del 27/11/2017.
+Ritenuto di dover adottare in merito i provvedimenti necessari.
+Acquisiti i pareri favorevoli del Direttore Amministrativo e del Direttore Sanitario per quanto di rispettiva
+competenza ed in base ai poteri conferitegli con Decreto del Presidente della Giunta Regionale n. 18 del
+26/02/2024;
+DELIBERA
+1) di prendere atto di quanto espresso in premessa che costituisce parte integrante del presente
+provvedimento;
+2) di approvare le risultanze della procedura aperta telematica, suddivisa in n. 6 lotti, per l’aggiudicazione
+del servizio della Gestione dei Vettori Energetici delle Aziende Sanitarie della Regione del Veneto (G.V.E.).
+come illustrate in premessa;
+3) di aggiudicare, per l’effetto, la fornitura in argomento agli operatori economici come indicato nell’Allegato
+1 al presente provvedimento, alle condizioni di dettaglio di cui all’ Allegato 2 che formano parte integrante
+del presente provvedimento;
+4) di dare atto che l’aggiudicazione è immediatamente efficace e non equivale ad accettazione dell’offerta;
+5) di incaricare la UOC CRAV di provvedere alle pubblicazioni ed alle comunicazioni previste per legge
+conseguenti all’aggiudicazione;
+6) di procedere alla stipula delle relative convenzioni quadro;
+pag.7
+Passaggio Luigi Gaudenzio, 1 35131 Padova - Tel. 049 877.8173
+Codice Fiscale/Partita IVA n. 05018720283 - Codice Univoco Ufficio: UF2ZJD - Codice iPA: azero
+PEC protocollo.azero@pecveneto.it - www.azero.veneto.it
+7) di demandare a successivo provvedimento l’adesione di Azienda Zero alla convenzione-quadro relativa
+al lotto 3 mediante stipula del relativo contratto attuativo tra Azienda Zero e l’operatore economico primo in
+graduatoria di aggiudicazione, la cui esecuzione sarà gestita dall’ UOC Logistica nominando l’Ing.
+Emanuele Mognon, Direttore della UOC, quale RUP della fase esecutiva ai sensi dell’art. 15, comma 9, del
+D.Lgs. n. 36/2023;
+8) di dare atto che il presente provvedimento non comporta spese a carico del bilancio di Azienda Zero;
+9) di demandare a successivo provvedimento la definizione delle modalità di riconoscimento previsto
+dall'art. 45 del D.Lgs. n. 36/2023 al personale incaricato delle funzioni tecniche;
+10) di prendere atto che il presente provvedimento è soggetto a pubblicazione ai sensi dell’art. 23 del D.
+Lgs. 33/2013 e s.m.i.;
+11) di incaricare l’UOC Affari Generali di pubblicare il presente provvedimento nell’Albo online di Azienda
+Zero.
+pag.8
+Allegato 1
+LOTTO 1
+Operatore Economico
+ Punteggio tecnico
+ Punteggio economico PT (PC + PL)
+ Punteggio totale
+ Posizione in graduatoria
+RENOVIT PUBLIC SOLUTIONS S.P.A.
+ 68,96
+ 24,98
+ 93,94
+ 1
+COOPSERVICE S. COOP.P.A.
+ 64,24
+ 22,44
+ 86,68
+ 2
+LOTTO 2
+Operatore Economico
+ Punteggio tecnico
+ Punteggio economico PT (PC + PL)
+ Punteggio totale
+ Posizione in graduatoria
+RTI COSTITUENDO ENGIE SERVIZI S.P.A. e
+ALPERIA GREEN FUTURE S.R.L.
+ 69,64
+ 24,47
+ 94,11
+ 1
+COOPSERVICE S. COOP.P.A.
+ 62,24
+ 23,89
+ 86,13
+ 2
+GEMMO S.P.A.
+ 56,87
+ 28,71
+ 85,58
+ 3
+LOTTO 3
+Operatore Economico
+ Punteggio tecnico
+ Punteggio economico PT (PC + PL)
+ Punteggio totale
+ Posizione in graduatoria
+SIRAM S.P.A.
+ 68,21
+ 22,70
+ 90,91
+ 1
+COOPSERVICE S. COOP.P.A.
+ 62,24
+ 19,54
+ 81,78
+ 2
+GEMMO S.P.A.
+ 56,87
+ 23,91
+ 80,78
+ 3
+LOTTO 4
+Operatore Economico
+GETEC ITALIA S.P.A
+GEMMO S.P.A.
+Punteggio tecnico
+ Punteggio economico PT (PC + PL)
+ Punteggio totale
+ Posizione in graduatoria
+63,61
+ 30,00
+ 93,61
+ 1
+56,87
+ 25,64
+ 82,51
+ 2
+LOTTO 5
+Operatore Economico
+ Punteggio tecnico
+ Punteggio economico PT (PC + PL)
+ Punteggio totale
+ Posizione in graduatoria
+EDISON NEXT GOVERNMENT S.R.L.
+ 70,00
+ 23,38
+ 93,38
+ 1
+COOPSERVICE S. COOP.P.A.
+ 61,77
+ 24,24
+ 86,01
+ 2
+GEMMO S.P.A.
+ 53,77
+ 28,73
+ 82,50
+ 3
+LOTTO 6
+Operatore Economico
+ Punteggio tecnico
+ Punteggio economico PT (PC + PL)
+ Punteggio totale
+ Posizione in graduatoria
+TECKAL S.P.A. ( già CONSORZIO STABILE CMF)
+ 65,52
+ 26,84
+ 92,36
+ 1
+GEMMO S.P.A.
+ 56,49
+ 29,93
+ 86,42
+ 2
+Offerta economica Lotto 1
+Aggiudicatario Renovit Public Solution Spa
+1 Prezzi dei servizi e canone annuo convenzionale
+Px
+ Elemento di prezzo
+ Prezzo unitario a base d'asta
+ Prezzo unitario offerto
+ Q.tà
+ Q.tà
+A
+ Servizio di climatizzazione invernale
+PA1
+ Riscaldamento invernale
+ 0,00108
+ €/(m3
+∙GG)
+ 0,00108
+ €/(m3
+∙GG)
+ 611.274,15
+ m
+ 3
+ 2.383
+PA2
+ Condizionamento invernale
+ 0,00265
+ €/(m3
+∙GG)
+ 0,00265
+ €/(m3
+∙GG)
+ 364.288,25
+ m
+ 3
+ 2.383
+B
+ Servizio di climatizzazione estiva
+Condizionamento estivo senza presenza di
+PB1
+ 0,01332
+ €/(m3
+∙gg)
+ 0,01332
+ €/(m3
+∙gg)
+ 559.856,60
+ m
+ 3
+ 183
+impianti di ricambio dell’aria
+Condizionamento estivo senza presenza di
+ 3 3 3
+PB1
+ 0,01332
+ €/(m ∙gg)
+ 0,01332
+ €/(m ∙gg)
+ 19.906,00
+ m 130
+impianti di ricambio dell’aria
+Condizionamento estivo con impianti di ricambio
+PB2
+ 0,02541
+ €/(m3∙gg)
+ 0,02541
+ €/(m3∙gg)
+ 332.777,25
+ m 3
+ 183
+dell’aria
+Condizionamento estivo con impianti di ricambio
+ 3 3 3
+PB2
+ 0,02541
+ €/(m ∙gg)
+ 0,02541
+ €/(m ∙gg)
+ 31.511,53
+ m 150
+dell’aria
+C
+ Altri servizi termici
+Impianto di acqua calda sanitaria e da altre
+ 2
+ 2
+ 2
+PC1
+ 0,99658
+ €/m 0,99657
+ €/m 258.528,20
+ mutenze termiche
+Servizio di gestione degli impianti idrico
+D
+sanitari e reti fognarie
+Impianti idrico-sanitari e di trattamento dell’acqua
+PD1
+ e impianti di trattamento e smaltimento reflui e
+ 3,06101
+ €/m2
+ 3,06098
+ €/m2
+ 264.838,20
+ m 2
+reti fognari
+PD2
+ Impianti di smaltimento delle acque meteoriche
+ 0,29539
+ €/m
+2
+ 0,29539
+ €/m
+2
+ 1.686.434,30
+ m
+ 2
+Punti di erogazione acqua potabile calda e
+ 2
+PD3
+ 150,00000
+ €/Cad.
+ 149,99850
+ €/Cad
+ 720,00
+ mfredda CON filtro 0,2 micron (antilegionella)
+E
+ Servizio energia impianti elettrici
+Impianto elettrico nelle strutture ad alta intensità
+ 2
+ 2
+ 2
+PE1
+ 24,01798
+ €/m 23,05726
+ €/m 265.201,00
+ mdi cura
+Impianto elettrico nelle strutture a media e bassa
+PE2
+ 11,18536
+ €/m
+2
+ 10,73795
+ €/m
+2
+ 58.663,00
+ m
+ 2
+intensità di cura e in altre strutture
+PE3
+ Impianti di illuminazione esterna
+ 0,61108
+ €/m
+2
+ 0,58663
+ €/m
+2
+ 115.604,00
+ m
+ 2
+Apparecchiature per la rigenerazione dei pasti in
+PE4
+ 1.920,61312
+ €/cad.
+ 1.843,78859
+ €/cad.
+ 121,00
+ cad.
+sistemi cook and chill
+PE5
+ Apparecchiature diagnostiche e per terapia fisse
+ 2,56422
+ €/cad.
+ 2,46165
+ €/cad.
+ 110.015,00
+ cad.
+Servizio di gestione degli impianti speciali di
+F
+sicurezza e di comunicazione
+PF1
+ Impianti speciali di sicurezza e di comunicazione
+ 1,45058
+ €/m
+2
+ 1,30552
+ €/m
+2
+ 273.941,00
+ m
+ 2
+PF2
+ Impianti televisivi a circuito chiuso
+ 196,41392
+ €/cad.
+ 176,77253
+ €/cad.
+ 401,00
+ cad.
+Servizio di gestione di impianti e sistemi
+G
+antincendio
+PG1
+ Impianti e sistemi di protezione antincendio
+ 0,46946
+ €/m
+2
+ 0,46946
+ €/m
+2
+ 265.715,18
+ m
+ 2
+PG2
+ Impianti di spegnimento automatico
+ 5,63880
+ €/m
+2
+ 5,63875
+ €/m
+2
+ 24.624,00
+ m
+ 2
+Servizio di gestione di impianti elevatori e di
+H
+trasporto verticale e orizzontale
+PH1
+ Impianti elevatori (fino a 5 fermate)
+ 851,68084
+ €/cad.
+ 809,09680
+ €/cad.
+ 79,00
+ cad.
+PH2
+ Impianti elevatori (oltre 5 fermate)
+ 1.237,05533
+ €/cad.
+ 1.175,20256
+ €/cad.
+ 96,00
+ cad.
+PH3
+ Servoscala e montascale
+ 341,99949
+ €/cad.
+ 324,89951
+ €/cad.
+ 2,00
+ cad.
+PH4
+ Scale mobili e maciapiedi mobili
+ 1.091,74933
+ €/cad.
+ 1.037,16186
+ €/cad.
+ 0,00
+ cad.
+Servizio di gestione di altri impianti
+J
+tecnologici
+Porte automatiche, sbarre e cancelli
+PJ1
+ 370,78428
+ €/cad.
+ 348,90801
+ €/cad.
+ 1.154,00
+ cad.
+automatizzati
+PJ2
+ Sistemi di prevenzione della legionellosi
+ 0,44309
+ €/m2
+ 0,41694
+ €/m2
+ 258.715,20
+ m 2
+PJ4
+ Impianti di irrigazione
+ 0,69628
+ €/m2
+ 0,65520
+ €/m2
+ 21.330,00
+ m 2
+PJ5
+ Pozzi di prelievo acqua di falda
+ 158,69354
+ €/cad.
+ 149,33062
+ €/cad.
+ 7,00
+ cad.
+PJ6
+ Elisuperfici
+ 5.744,72734
+ €/cad.
+ 5.405,78842
+ €/cad.
+ 1,00
+ cad.
+PJ7
+ Impianti SOV (Sorveglianza Ostacoli al Volo)
+ 170,98919
+ €/cad.
+ 160,90083
+ €/cad.
+ 7,00
+ cad.
+PJ8
+ Vasche terapeutiche
+ 1.136,72788
+ €/cad.
+ 1.069,66094
+ €/cad.
+ 2,00
+ cad.
+Frigoriferi, frigocongelatori, frigoemoteche, celle
+PJ9
+ 114,34797
+ €/cad.
+ 107,60144
+ €/cad.
+ 1.233,00
+ cad.
+frigorifere
+PJ10
+ Cappe chimiche, biologiche e a flusso laminare
+ 361,84871
+ €/cad.
+ 340,49963
+ €/cad.
+ 271,00
+ cad.
+PJ11
+ Impianti di posta pneumatica
+ 1.682,93750
+ €/cad.
+ 1.583,64419
+ €/cad.
+ 52,00
+ cad.
+PJ12
+ Lavapadelle
+ 411,55352
+ €/cad.
+ 387,27186
+ €/cad.
+ 187,00
+ cad.
+PJ13
+ Elettrodomestici vari
+ 31,22705
+ €/cad.
+ 29,38465
+ €/cad.
+ 482,00
+ cad.
+L
+ Personale aggiuntivo e squadra antincendio
+PL1
+ Servizio di presidio giornaliero specializzato
+ 66.768,11953
+ n°
+ 6.676,81195
+ n°
+ 6,00
+ n°
+PL2
+ Squadra di pronto intervento antincendio
+ 107.787,58411
+ n°
+ 10.778,75841
+ n°
+ 6,00
+ n°
+GG
+GG
+gg
+gg
+gg
+gg
+Totale
+1.569.210,49
+2.303.373,14
+1.364.906,55
+34.474,85
+1.547.152,19
+120.085,09
+257.641,80
+810.664,92
+498.152,54
+107.998,92
+6.114.807,50
+629.920,24
+67.817,21
+223.098,42
+270.818,26
+357.636,21
+70.885,78
+124.741,59
+138.848,50
+63.918,65
+112.819,45
+649,80
+-
+402.639,84
+107.869,85
+13.975,38
+1.045,31
+5.405,79
+1.126,31
+2.139,32
+132.672,57
+92.275,40
+82.349,50
+72.419,84
+14.163,40
+40.060,87
+64.672,55
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+Nota: tutti i prezzisi intendono IVA esclusa
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+RIBASSO (RP)
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+19.184.703,34
+17.822.438,02
+7,10079
+12,82000
+€
+€
+%
+%
+Allegato 2
+ Pag. 1/6
+Modello offerta economica Lotto 2
+Aggiudicatario RTI Engie Servizi Spa e Alperia Green Future Srl
+1 Prezzi dei servizi e canone annuo convenzionale
+Px
+ Elemento di prezzo
+ Prezzo unitario a base d'asta
+ Prezzo unitario offerto
+ Q.tà
+Q.tà
+Totale
+A
+ Servizio di climatizzazione invernale
+PA1
+ Riscaldamento invernale
+ 0,00108
+ €/(m3
+∙GG)
+ 0,00096
+ €/(m3
+∙GG)
+ 442.623,00
+ m
+ 3
+ 2.468
+PA2
+ Condizionamento invernale
+ 0,00265
+ €/(m3∙GG)
+ 0,00237
+ €/(m3∙GG)
+ 1.213.788,00
+ m 3
+ 2.468
+B
+ Servizio di climatizzazione estiva
+Condizionamento estivo senza presenza di
+ 3 3 3
+PB1
+ 0,01332
+ €/(m ∙gg)
+ 0,01191
+ €/(m ∙gg)
+ 129.397,50
+ m 130
+impianti di ricambio dell’aria
+Condizionamento estivo con impianti di ricambio
+PB2
+ 0,02541
+ €/(m3∙gg)
+ 0,02272
+ €/(m3∙gg)
+ 1.162.290,19
+ m 3
+ 150
+dell’aria
+C
+ Altri servizi termici
+Impianto di acqua calda sanitaria e da altre
+PC1
+ 0,99658
+ €/m2
+ 0,89121
+ €/m2
+ 444.492,00
+ m 2
+utenze termiche
+Servizio di gestione degli impianti idrico
+D
+sanitari e reti fognarie
+Impianti idrico-sanitari e di trattamento dell’acqua
+PD1
+ e impianti di trattamento e smaltimento reflui e
+ 3,06101
+ €/m
+2
+ 2,73737
+ €/m
+2
+ 444.492,00
+ m
+ 2
+reti fognari
+PD2
+ Impianti di smaltimento delle acque meteoriche
+ 0,29539
+ €/m2
+ 0,26416
+ €/m2
+ 117.315,00
+ m 2
+Punti di erogazione acqua potabile calda e
+PD3
+ 150,00000
+ €/Cad
+ 134,14050
+ €/Cad
+ 6.500,00
+ m 2
+fredda CON filtro 0,2 micron (antilegionella)
+E
+ Servizio energia impianti elettrici
+Impianto elettrico nelle strutture ad alta intensità
+PE1
+ 24,01798
+ €/m
+2
+ 21,47856
+ €/m
+2
+ 444.492,00
+ m
+ 2
+di cura
+Impianto elettrico nelle strutture a media e bassa
+ 2
+ 2
+ 2
+PE2
+ 11,18536
+ €/m
+ 10,00273
+ €/m
+ 63.370,00
+ m
+intensità di cura e in altre strutture
+PE3
+ Impianti di illuminazione esterna
+ 0,61108
+ €/m
+2
+ 0,54647
+ €/m
+2
+ 182.315,00
+ m
+ 2
+Apparecchiature per la rigenerazione dei pasti in
+PE4
+ 1.920,61312
+ €/cad.
+ 1.900,54669
+ €/cad.
+ cad.
+sistemi cook and chill
+PE5
+ Apparecchiature diagnostiche e per terapia fisse
+ 2,56422
+ €/cad.
+ 2,49310
+ €/cad.
+ cad.
+Servizio di gestione degli impianti speciali di
+F
+sicurezza e di comunicazione
+PF1
+ Impianti speciali di sicurezza e di comunicazione
+ 1,45058
+ €/m
+2
+ 1,29721
+ €/m
+2
+ 381.122,00
+ m
+ 2
+PF2
+ Impianti televisivi a circuito chiuso
+ 196,41392
+ €/cad.
+ 175,64708
+ €/cad.
+ 512,00
+ cad.
+Servizio di gestione di impianti e sistemi
+G
+antincendio
+PG1
+ Impianti e sistemi di protezione antincendio
+ 0,46946
+ €/m
+2
+ 0,41982
+ €/m
+2
+ 449.725,00
+ m
+ 2
+PG2
+ Impianti di spegnimento automatico
+ 5,63880
+ €/m
+2
+ 5,04261
+ €/m
+2
+ 15.344,00
+ m
+ 2
+Servizio di gestione di impianti elevatori e di
+H
+trasporto verticale e orizzontale
+PH1
+ Impianti elevatori (fino a 5 fermate)
+ 851,68084
+ €/cad.
+ 636,06709
+ €/cad.
+ 100,00
+ cad.
+PH2
+ Impianti elevatori (oltre 5 fermate)
+ 1.237,05533
+ €/cad.
+ 923,87917
+ €/cad.
+ 75,00
+ cad.
+PH3
+ Servoscala e montascale
+ 341,99949
+ €/cad.
+ 255,41800
+ €/cad.
+ 1,00
+ cad.
+PH4
+ Scale mobili e maciapiedi mobili
+ 1.091,74933
+ €/cad.
+ 1.080,35921
+ €/cad.
+ 0,00
+ cad.
+Servizio di gestione di altri impianti
+J
+tecnologici
+Porte automatiche, sbarre e cancelli
+PJ1
+ 370,78428
+ €/cad.
+ 276,91556
+ €/cad.
+ 464,00
+ cad.
+automatizzati
+PJ2
+ Sistemi di prevenzione della legionellosi
+ 0,44309
+ €/m2
+ 0,33091
+ €/m2
+ 164.370,00
+ m 2
+PJ4
+ Impianti di irrigazione
+ 0,69628
+ €/m2
+ 0,52001
+ €/m2
+ 6,00
+ m 2
+PJ5
+ Pozzi di prelievo acqua di falda
+ 158,69354
+ €/cad.
+ 150,51827
+ €/cad.
+ 0,00
+ cad.
+PJ6
+ Elisuperfici
+ 5.744,72734
+ €/cad.
+ 4.290,37714
+ €/cad.
+ 2,00
+ cad.
+PJ7
+ Impianti SOV (Sorveglianza Ostacoli al Volo)
+ 170,98919
+ €/cad.
+ 127,70112
+ €/cad.
+ 11,00
+ cad.
+PJ8
+ Vasche terapeutiche
+ 1.136,72788
+ €/cad.
+ 1.130,95088
+ €/cad.
+ cad.
+Frigoriferi, frigocongelatori, frigoemoteche, celle
+PJ9
+ 114,34797
+ €/cad.
+ 110,39934
+ €/cad.
+ cad.
+frigorifere
+PJ10
+ Cappe chimiche, biologiche e a flusso laminare
+ 361,84871
+ €/cad.
+ 360,24214
+ €/cad.
+ cad.
+PJ11
+ Impianti di posta pneumatica
+ 1.682,93750
+ €/cad.
+ 1.256,88064
+ €/cad.
+ 132,00
+ cad.
+PJ12
+ Lavapadelle
+ 411,55352
+ €/cad.
+ 410,36355
+ €/cad.
+ cad.
+PJ13
+ Elettrodomestici vari
+ 31,22705
+ €/cad.
+ 30,32153
+ €/cad.
+ cad.
+L
+ Personale aggiuntivo e squadra antincendio
+PL1
+ Servizio di presidio giornaliero specializzato
+ 66.768,11953
+ n°
+ 59.490,39450
+ n°
+ 1,00
+ n°
+PL2
+ Squadra di pronto intervento antincendio
+ 107.787,58411
+ n°
+ 96.038,73744
+ n°
+ 6,00
+ n°
+GG
+GG
+gg
+gg
+1.052.381,65
+7.108.141,98
+200.409,02
+3.961.021,11
+396.136,95
+1.216.739,78
+30.989,85
+871.913,25
+9.547.045,88
+633.873,26
+99.629,25
+-
+-
+494.395,62
+89.931,30
+188.805,63
+77.373,85
+63.606,71
+69.290,94
+255,42
+-
+128.488,82
+54.392,26
+3,12
+-
+8.580,75
+1.404,71
+-
+-
+-
+165.908,24
+-
+-
+59.490,39
+576.232,42
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+Nota: tutti i prezzisi intendono IVA esclusa
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+RIBASSO (RP)
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+30.411.270,68
+27.096.442,18
+10,90000
+15,23000
+€
+€
+%
+%
+Allegato 2
+ Pag. 2/6
+Modello offerta economica Lotto 3
+Aggiudicatario Siram Spa
+1 Prezzi dei servizi e canone annuo convenzionale
+Px
+ Elemento di prezzo
+ Prezzo unitario a base d'asta
+ Prezzo unitario offerto
+ Q.tà
+Q.tà
+ Totale
+A
+ Servizio di climatizzazione invernale
+PA1
+ Riscaldamento invernale
+ 0,00108
+ €/(m3∙GG)
+ 0,00101
+ €/(m3∙GG)
+ 434.360,00
+ m 3
+ 2.383
+PA2
+ Condizionamento invernale
+ 0,00265
+ €/(m3∙GG)
+ 0,00265
+ €/(m3∙GG)
+ 327.473,00
+ m 3
+ 2.383
+B
+ Servizio di climatizzazione estiva
+Condizionamento estivo senza presenza di
+PB1
+ 0,01332
+ €/(m3∙gg)
+ 0,01330
+ €/(m3∙gg)
+ 434.360,30
+ m 3
+ 183
+impianti di ricambio dell’aria
+Condizionamento estivo con impianti di ricambio
+ 3 3 3
+PB2
+ 0,02541
+ €/(m ∙gg)
+ 0,02535
+ €/(m ∙gg)
+ 327.472,70
+ m 183
+dell’aria
+C
+ Altri servizi termici
+Impianto di acqua calda sanitaria e da altre
+ 2
+ 2
+ 2
+PC1
+ 0,99658
+ €/m 0,98672
+ €/m 226.671,00
+ mutenze termiche
+Servizio di gestione degli impianti idrico
+D
+sanitari e reti fognarie
+Impianti idrico-sanitari e di trattamento dell’acqua
+PD1
+ e impianti di trattamento e smaltimento reflui e
+ 3,06101
+ €/m2
+ 3,00071
+ €/m2
+ 229.405,00
+ m 2
+reti fognari
+PD2
+ Impianti di smaltimento delle acque meteoriche
+ 0,29539
+ €/m2
+ 0,27793
+ €/m2
+ 143.815,20
+ m 2
+Punti di erogazione acqua potabile calda e
+ 2
+PD3
+ 150,00000
+ €/cad.
+ 149,85000
+ €/Cad
+ mfredda CON filtro 0,2 micron (antilegionella)
+E
+ Servizio energia impianti elettrici
+Impianto elettrico nelle strutture ad alta intensità
+ 2
+ 2
+ 2
+PE1
+ 24,01798
+ €/m
+ 23,96994
+ €/m
+ 18.376,80
+ m
+di cura
+Impianto elettrico nelle strutture a media e bassa
+PE2
+ 11,18536
+ €/m
+2
+ 10,52431
+ €/m
+2
+ 212.294,20
+ m
+ 2
+intensità di cura e in altre strutture
+PE3
+ Impianti di illuminazione esterna
+ 0,61108
+ €/m
+2
+ 0,59904
+ €/m
+2
+ 143.915,20
+ m
+ 2
+Apparecchiature per la rigenerazione dei pasti in
+PE4
+ 1.920,61312
+ €/cad.
+ 1.882,78000
+ €/cad.
+ 6,00
+ cad.
+sistemi cook and chill
+PE5
+ Apparecchiature diagnostiche e per terapia fisse
+ 2,56422
+ €/cad.
+ 2,56000
+ €/cad.
+ cad.
+Servizio di gestione degli impianti speciali di
+F
+sicurezza e di comunicazione
+PF1
+ Impianti speciali di sicurezza e di comunicazione
+ 1,45058
+ €/m2
+ 1,42200
+ €/m2
+ 208.331,30
+ m 2
+PF2
+ Impianti televisivi a circuito chiuso
+ 196,41392
+ €/cad.
+ 192,54000
+ €/cad.
+ 874,00
+ cad.
+Servizio di gestione di impianti e sistemi
+G
+antincendio
+PG1
+ Impianti e sistemi di protezione antincendio
+ 0,46946
+ €/m
+2
+ 0,46852
+ €/m
+2
+ 134.229,50
+ m
+ 2
+PG2
+ Impianti di spegnimento automatico
+ 5,63880
+ €/m
+2
+ 5,52772
+ €/m
+2
+ 200,00
+ m
+ 2
+Servizio di gestione di impianti elevatori e di
+H
+trasporto verticale e orizzontale
+PH1
+ Impianti elevatori (fino a 5 fermate)
+ 851,68084
+ €/cad.
+ 801,35000
+ €/cad.
+ 158,00
+ cad.
+PH2
+ Impianti elevatori (oltre 5 fermate)
+ 1.237,05533
+ €/cad.
+ 1.163,95000
+ €/cad.
+ 37,00
+ cad.
+PH3
+ Servoscala e montascale
+ 341,99949
+ €/cad.
+ 321,79000
+ €/cad.
+ 2,00
+ cad.
+PH4
+ Scale mobili e maciapiedi mobili
+ 1.091,74933
+ €/cad.
+ 1.090,66000
+ €/cad.
+ 0,00
+ cad.
+Servizio di gestione di altri impianti
+J
+tecnologici
+Porte automatiche, sbarre e cancelli
+PJ1
+ 370,78428
+ €/cad.
+ 348,87000
+ €/cad.
+ 209,00
+ cad.
+automatizzati
+PJ2
+ Sistemi di prevenzione della legionellosi
+ 0,44309
+ €/m2
+ 0,41690
+ €/m2
+ 112.921,00
+ m 2
+PJ4
+ Impianti di irrigazione
+ 0,69628
+ €/m2
+ 0,65513
+ €/m2
+ 773,50
+ m 2
+PJ5
+ Pozzi di prelievo acqua di falda
+ 158,69354
+ €/cad.
+ 158,53000
+ €/cad.
+ 0,00
+ cad.
+PJ6
+ Elisuperfici
+ 5.744,72734
+ €/cad.
+ 5.405,21000
+ €/cad.
+ 1,00
+ cad.
+PJ7
+ Impianti SOV (Sorveglianza Ostacoli al Volo)
+ 170,98919
+ €/cad.
+ 160,88000
+ €/cad.
+ 1,00
+ cad.
+PJ8
+ Vasche terapeutiche
+ 1.136,72788
+ €/cad.
+ 1.069,55015
+ €/cad.
+ 1,00
+ cad.
+Frigoriferi, frigocongelatori, frigoemoteche, celle
+PJ9
+ 114,34797
+ €/cad.
+ 107,59000
+ €/cad.
+ 326,00
+ cad.
+frigorifere
+PJ10
+ Cappe chimiche, biologiche e a flusso laminare
+ 361,84871
+ €/cad.
+ 340,46000
+ €/cad.
+ 27,00
+ cad.
+PJ11
+ Impianti di posta pneumatica
+ 1.682,93750
+ €/cad.
+ 1.583,48000
+ €/cad.
+ 3,00
+ cad.
+PJ12
+ Lavapadelle
+ 411,55352
+ €/cad.
+ 387,23000
+ €/cad.
+ 77,00
+ cad.
+PJ13
+ Elettrodomestici vari
+ 31,22705
+ €/cad.
+ 29,38000
+ €/cad.
+ cad.
+L
+ Personale aggiuntivo e squadra antincendio
+PL1
+ Servizio di presidio giornaliero specializzato
+ 66.768,11953
+ n°
+ 56.767,34528000
+ n°
+ 25,00
+ n°
+PL2
+ Squadra di pronto intervento antincendio
+ 107.787,58411
+ n°
+ 107.679,80000
+ n°
+ 0,00
+ n°
+GG
+GG
+gg
+gg
+1.045.430,68
+2.067.975,62
+1.057.189,53
+1.519.162,23
+223.660,81
+688.377,88
+39.970,56
+-
+440.490,79
+2.234.249,97
+86.210,96
+11.296,68
+-
+296.247,11
+168.279,96
+62.889,21
+1.105,54
+126.613,30
+43.066,15
+643,58
+-
+72.913,83
+47.076,76
+506,74
+-
+5.405,21
+160,88
+1.069,55
+35.074,34
+9.192,42
+4.750,44
+29.816,71
+-
+1.419.183,63
+-
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+Nota: tutti i prezzisi intendono IVA esclusa
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+RIBASSO (RP)
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+12.260.299,86
+11.738.011,08
+4,26000
+18,00000
+€
+€
+%
+%
+Allegato 2
+ Pag. 3/6
+Modello offerta economica Lotto 4
+Aggiudicatario Getec Italia Spa
+1 Prezzi dei servizi e canone annuo convenzionale
+Px
+ Elemento di prezzo
+ Prezzo unitario a base d'asta
+ Prezzo unitario offerto
+ Q.tà
+Q.tà
+ Totale
+A
+ Servizio di climatizzazione invernale
+PA1
+ Riscaldamento invernale
+ 0,00108
+ €/(m3
+∙GG)
+ 0,00077
+ €/(m3
+∙GG)
+ 175.185,00
+ m
+ 3
+ 2.473
+ GG
+PA1
+ Riscaldamento invernale
+ 0,00108
+ €/(m3∙GG)
+ 0,00077
+ €/(m3∙GG)
+ 62.417,00
+ m 3
+ 4.163
+ GG
+PA2
+ Condizionamento invernale
+ 0,00265
+ €/(m3∙GG)
+ 0,00190
+ €/(m3∙GG)
+ 381.976,00
+ m 3
+ 2.473
+ GG
+PA2
+ Condizionamento invernale
+ 0,00265
+ €/(m3∙GG)
+ 0,00190
+ €/(m3∙GG)
+ 63.904,00
+ m 3
+ 4.163
+ GG
+B
+ Servizio di climatizzazione estiva
+Condizionamento estivo senza presenza di
+ 3 3 3
+PB1
+ 0,01332
+ €/(m ∙gg)
+ 0,00953
+ €/(m ∙gg)
+ 60.814,00
+ m 130
+ gg
+impianti di ricambio dell’aria
+Condizionamento estivo con impianti di ricambio
+PB2
+ 0,02541
+ €/(m3∙gg)
+ 0,01817
+ €/(m3∙gg)
+ 408.470,00
+ m 3
+ 150
+ gg
+dell’aria
+C
+ Altri servizi termici
+Impianto di acqua calda sanitaria e da altre
+PC1
+ 0,99658
+ €/m
+2
+ 0,70000
+ €/m
+2
+ 213.276,00
+ m
+ 2
+utenze termiche
+Servizio di gestione degli impianti idrico
+D
+sanitari e reti fognarie
+Impianti idrico-sanitari e di trattamento dell’acqua
+PD1
+ e impianti di trattamento e smaltimento reflui e
+ 3,06101
+ €/m2
+ 2,14000
+ €/m2
+ 213.276,00
+ m 2
+reti fognari
+PD2
+ Impianti di smaltimento delle acque meteoriche
+ 0,29539
+ €/m2
+ 0,21000
+ €/m2
+ 163.776,00
+ m 2
+Punti di erogazione acqua potabile calda e
+2
+PD3
+ 150,00000
+ €/cad.
+ 105,00000
+ €/cad.
+ 12,00
+ m
+fredda CON filtro 0,2 micron (antilegionella)
+E
+ Servizio energia impianti elettrici
+Impianto elettrico nelle strutture ad alta intensità
+PE1
+ 24,01798
+ €/m
+2
+ 16,81000
+ €/m
+2
+ 114.473,00
+ m
+ 2
+di cura
+Impianto elettrico nelle strutture a media e bassa
+ 2
+ 2
+ 2
+PE2
+ 11,18536
+ €/m
+ 7,83000
+ €/m
+ 120.303,00
+ m
+intensità di cura e in altre strutture
+PE3
+ Impianti di illuminazione esterna
+ 0,61108
+ €/m
+2
+ 0,43000
+ €/m
+2
+ 54.000,00
+ m
+ 2
+Apparecchiature per la rigenerazione dei pasti in
+PE4
+ 1.920,61312
+ €/cad.
+ 1.920,61000
+ €/cad.
+ 0,00
+ cad.
+sistemi cook and chill
+PE5
+ Apparecchiature diagnostiche e per terapia fisse
+ 2,56422
+ €/cad.
+ 1,79000
+ €/cad.
+ 22,00
+ cad.
+Servizio di gestione degli impianti speciali di
+F
+sicurezza e di comunicazione
+2
+ 2
+ 2
+PF1
+ Impianti speciali di sicurezza e di comunicazione
+ 1,45058
+ €/m
+ 0,80000
+ €/m
+ 184.729,00
+ m
+PF2
+ Impianti televisivi a circuito chiuso
+ 196,41392
+ €/cad.
+ 108,03000
+ €/cad.
+ 290,00
+ cad.
+Servizio di gestione di impianti e sistemi
+G
+antincendio
+PG1
+ Impianti e sistemi di protezione antincendio
+ 0,46946
+ €/m
+2
+ 0,37000
+ €/m
+2
+ 228.776,00
+ m
+ 2
+PG2
+ Impianti spegnimento automatico
+ €/m
+2
+ €/m
+2
+ 16.930,00
+ m
+ 2
+di 5,63880
+ 3,95000
+Servizio di gestione di impianti elevatori e di
+H
+trasporto verticale e orizzontale
+PH1
+ Impianti elevatori (fino a 5 fermate)
+ 851,68084
+ €/cad.
+ 702,64000
+ €/cad.
+ 43,00
+ cad.
+PH2
+ Impianti elevatori (oltre 5 fermate)
+ 1.237,05533
+ €/cad.
+ 1.002,01000
+ €/cad.
+ 39,00
+ cad.
+PH3
+ Servoscala e montascale
+ 341,99949
+ €/cad.
+ 273,60000
+ €/cad.
+ 2,00
+ cad.
+PH4
+ Scale mobili e maciapiedi mobili
+ 1.091,74933
+ €/cad.
+ 1.091,74000
+ €/cad.
+ 0,00
+ cad.
+Servizio di gestione di altri impianti
+J
+tecnologici
+Porte automatiche, sbarre e cancelli
+PJ1
+ 370,78428
+ €/cad.
+ 304,04000
+ €/cad.
+ 89,00
+ cad.
+automatizzati
+PJ2
+ Sistemi di prevenzione della legionellosi
+ 0,44309
+ €/m2
+ 0,40000
+ €/m2
+ 67.553,00
+ m 2
+PJ4
+ Impianti di irrigazione
+ 0,69628
+ €/m2
+ 0,53000
+ €/m2
+ 500,00
+ m 2
+PJ5
+ Pozzi di prelievo acqua di falda
+ 158,69354
+ €/cad.
+ 158,69000
+ €/cad.
+ 0,00
+ cad.
+PJ6
+ Elisuperfici
+ 5.744,72734
+ €/cad.
+ 4.365,99000
+ €/cad.
+ 1,00
+ cad.
+PJ7
+ Impianti SOV (Sorveglianza Ostacoli al Volo)
+ 170,98919
+ €/cad.
+ 129,95000
+ €/cad.
+ 1,00
+ cad.
+PJ8
+ Vasche terapeutiche
+ 1.136,72788
+ €/cad.
+ 863,91000
+ €/cad.
+ 4,00
+ cad.
+Frigoriferi, frigocongelatori, frigoemoteche, celle
+PJ9
+ 114,34797
+ €/cad.
+ 86,90000
+ €/cad.
+ 475,00
+ cad.
+frigorifere
+PJ10
+ Cappe chimiche, biologiche e a flusso laminare
+ 361,84871
+ €/cad.
+ 275,01000
+ €/cad.
+ 17,00
+ cad.
+PJ11
+ Impianti di posta pneumatica
+ 1.682,93750
+ €/cad.
+ 1.279,03000
+ €/cad.
+ 1,00
+ cad.
+PJ12
+ Lavapadelle
+ 411,55352
+ €/cad.
+ 312,78000
+ €/cad.
+ 93,00
+ cad.
+PJ13
+ Elettrodomestici vari
+ 31,22705
+ €/cad.
+ 23,73000
+ €/cad.
+ 500,00
+ cad.
+L
+ Personale aggiuntivo e squadra antincendio
+PL1
+ Servizio di presidio giornaliero specializzato
+ 66.768,11953
+ n°
+ 42.063,92000
+ n°
+ 17,00
+ n°
+PL2
+ Squadra di pronto intervento antincendio
+ 107.787,58411
+ n°
+ 107.787,58000
+ n°
+ 0,00
+ n°
+333.589,03
+200.078,32
+1.794.790,63
+505.461,47
+-
+75.342,46
+1.113.284,99
+€
+€
+€
+€
+€
+€
+149.293,20
+-
+456.410,64
+34.392,96
+1.260,00
+-
+1.924.291,13
+941.972,49
+23.220,00
+-
+39,38
+-
+147.783,20
+31.328,70
+-
+84.647,12
+66.873,50
+-
+30.213,52
+39.078,39
+547,20
+-
+-
+27.059,56
+27.021,20
+265,00
+-
+4.365,99
+129,95
+3.455,64
+41.277,50
+4.675,17
+1.279,03
+29.088,54
+11.865,00
+-
+715.086,64
+-
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+Nota: tutti i prezzisi intendono IVA esclusa
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+RIBASSO (RP)
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+12.602.759,67
+8.819.467,55
+30,01955
+30,00000
+€
+€
+%
+%
+Allegato 2
+ Pag. 4/6
+Modello offerta economica Lotto 5
+Aggiudicatario Edison Next Governament Srl
+1 Prezzi dei servizi e canone annuo convenzionale
+Px
+ Elemento di prezzo
+ Prezzo unitario a base d'asta
+ Prezzo unitario offerto
+ Q.tà
+Q.tà
+ Totale
+A
+ Servizio di climatizzazione invernale
+PA1
+ Riscaldamento invernale
+ 0,00108
+ €/(m3∙GG)
+ 0,00099
+ €/(m3∙GG)
+ 1.121.342,00
+ m 3
+ 2.371
+ GG
+ 2.632.114,86318
+ €
+PA2
+ Condizionamento invernale
+ 0,00265
+ €/(m3∙GG)
+ 0,00245
+ €/(m3∙GG)
+ 663.879,00
+ m 3
+ 2.371
+ GG
+ 3.856.439,91705
+ €
+B
+ Servizio di climatizzazione estiva
+Condizionamento estivo senza presenza di
+PB1
+ 0,01332
+ €/(m3∙gg)
+ 0,01228
+ €/(m3∙gg)
+ 331.213,00
+ m 3
+ 130
+ gg
+ 528.748,43320
+ €
+impianti di ricambio dell’aria
+Condizionamento estivo con impianti di ricambio
+ 3 3 3
+PB2
+ 0,02541
+ €/(m ∙gg)
+ 0,02341
+ €/(m ∙gg)
+ 646.518,00
+ m 150
+ gg
+ 2.270.247,95700
+ €
+dell’aria
+C
+ Altri servizi termici
+Impianto di acqua calda sanitaria e da altre
+ 2
+ 2
+ 2
+PC1
+ 0,99658
+ €/m 0,92966
+ €/m 346.942,00
+ m 322.538,09972
+ €
+utenze termiche
+Servizio di gestione degli impianti idrico
+D
+sanitari e reti fognarie
+Impianti idrico-sanitari e di trattamento dell’acqua
+PD1
+ e impianti di trattamento e smaltimento reflui e
+ 3,06101
+ €/m2
+ 2,85824
+ €/m2
+ 330.350,00
+ m 2
+ 944.219,58400
+ €
+reti fognari
+PD2
+ Impianti di smaltimento delle acque meteoriche
+ 0,29539
+ €/m2
+ 0,22782
+ €/m2
+ 300.728,00
+ m 2
+ 68.511,85296
+ €
+Punti di erogazione acqua potabile calda e
+ 2
+PD3
+ 150,00000
+ €/Cad
+ 120,76612
+ €/Cad
+ 120,00
+ m 14.491,93440
+ €
+fredda CON filtro 0,2 micron (antilegionella)
+E
+ Servizio energia impianti elettrici
+Impianto elettrico nelle strutture ad alta intensità
+ 2
+ 2
+ 2
+PE1
+ 24,01798
+ €/m
+ 22,32194
+ €/m
+ 347.361,00
+ m
+ 7.753.771,40034
+ €
+di cura
+Impianto elettrico nelle strutture a media e bassa
+PE2
+ 11,18536
+ €/m
+2
+ 10,39551
+ €/m
+2
+ 180.311,00
+ m
+ 2
+ 1.874.424,80361
+ €
+intensità di cura e in altre strutture
+PE3
+ Impianti di illuminazione esterna
+ 0,61108
+ €/m
+2
+ 0,56793
+ €/m
+2
+ 300.728,00
+ m
+ 2
+ 170.792,45304
+ €
+Apparecchiature per la rigenerazione dei pasti in
+PE4
+ 1.920,61312
+ €/cad.
+ 1.723,90452
+ €/cad.
+ 96,00
+ cad.
+ 165.494,83392
+ €
+sistemi cook and chill
+PE5
+ Apparecchiature diagnostiche e per terapia fisse
+ 2,56422
+ €/cad.
+ 2,30159
+ €/cad.
+ 18,00
+ cad.
+ 41,42862
+ €
+Servizio di gestione degli impianti speciali di
+F
+sicurezza e di comunicazione
+PF1
+ Impianti speciali di sicurezza e di comunicazione
+ 1,45058
+ €/m2
+ 1,11874
+ €/m2
+ 165.273,00
+ m 2
+ 184.897,51602
+ €
+PF2
+ Impianti televisivi a circuito chiuso
+ 196,41392
+ €/cad.
+ 151,48166
+ €/cad.
+ 406,00
+ cad.
+ 61.501,55396
+ €
+Servizio di gestione di impianti e sistemi
+G
+antincendio
+PG1
+ Impianti e sistemi di protezione antincendio
+ 0,46946
+ €/m
+2
+ 0,36207
+ €/m
+2
+ 347.481,00
+ m
+ 2
+ 125.812,44567
+ €
+PG2
+ Impianti di spegnimento automatico
+ 5,63880
+ €/m
+2
+ 4,34885
+ €/m
+2
+ 4.215,00
+ m
+ 2
+ 18.330,40275
+ €
+Servizio di gestione di impianti elevatori e di
+H
+trasporto verticale e orizzontale
+PH1
+ Impianti elevatori (fino a 5 fermate)
+ 851,68084
+ €/cad.
+ 656,84770
+ €/cad.
+ 124,00
+ cad.
+ 81.449,11480
+ €
+PH2
+ Impianti elevatori (oltre 5 fermate)
+ 1.237,05533
+ €/cad.
+ 954,06273
+ €/cad.
+ 61,00
+ cad.
+ 58.197,82653
+ €
+PH3
+ Servoscala e montascale
+ 341,99949
+ €/cad.
+ 263,76263
+ €/cad.
+ 5,00
+ cad.
+ 1.318,81315
+ €
+PH4
+ Scale mobili e maciapiedi mobili
+ 1.091,74933
+ €/cad.
+ 841,99738
+ €/cad.
+ 3,00
+ cad.
+ 2.525,99214
+ €
+Servizio di gestione di altri impianti
+J
+tecnologici
+Porte automatiche, sbarre e cancelli
+PJ1
+ 370,78428
+ €/cad.
+ 300,03183
+ €/cad.
+ 425,00
+ cad.
+ 127.513,52775
+ €
+automatizzati
+PJ2
+ Sistemi di prevenzione della legionellosi
+ 0,44309
+ €/m2
+ 0,35316
+ €/m2
+ 213.343,00
+ m 2
+ 75.344,21388
+ €
+PJ4
+ Impianti di irrigazione
+ 0,69628
+ €/m2
+ 0,54328
+ €/m2
+ 7.463,00
+ m 2
+ 4.054,49864
+ €
+PJ5
+ Pozzi di prelievo acqua di falda
+ 158,69354
+ €/cad.
+ 122,39032
+ €/cad.
+ 2,00
+ cad.
+ 244,78064
+ €
+PJ6
+ Elisuperfici
+ 5.744,72734
+ €/cad.
+ 4.430,54575
+ €/cad.
+ 3,00
+ cad.
+ 13.291,63725
+ €
+PJ7
+ Impianti SOV (Sorveglianza Ostacoli al Volo)
+ 170,98919
+ €/cad.
+ 157,32084
+ €/cad.
+ 0,00
+ cad.
+ -
+ €
+PJ8
+ Vasche terapeutiche
+ 1.136,72788
+ €/cad.
+ 911,85976
+ €/cad.
+ 1,00
+ cad.
+ 911,85976
+ €
+Frigoriferi, frigocongelatori, frigoemoteche, celle
+PJ9
+ 114,34797
+ €/cad.
+ 91,70670
+ €/cad.
+ 278,00
+ cad.
+ 25.494,46260
+ €
+frigorifere
+PJ10
+ Cappe chimiche, biologiche e a flusso laminare
+ 361,84871
+ €/cad.
+ 279,07108
+ €/cad.
+ 27,00
+ cad.
+ 7.534,91916
+ €
+PJ11
+ Impianti di posta pneumatica
+ 1.682,93750
+ €/cad.
+ 1.297,94352
+ €/cad.
+ 94,00
+ cad.
+ 122.006,69088
+ €
+PJ12
+ Lavapadelle
+ 411,55352
+ €/cad.
+ 317,40526
+ €/cad.
+ 108,00
+ cad.
+ 34.279,76808
+ €
+PJ13
+ Elettrodomestici vari
+ 31,22705
+ €/cad.
+ 24,08345
+ €/cad.
+ 382,00
+ cad.
+ 9.199,87790
+ €
+L
+ Personale aggiuntivo e squadra antincendio
+PL1
+ Servizio di presidio giornaliero specializzato
+ 66.768,11953
+ n°
+ 63.858,54163
+ n°
+ 42,00
+ n°
+ 2.682.058,74846
+ €
+PL2
+ Squadra di pronto intervento antincendio
+ 107.787,58411
+ n°
+ 95.494,26668
+ n°
+ 11,00
+ n°
+ 1.050.436,93348
+ €
+Nota: tutti i prezzisi intendono IVA esclusa
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+RIBASSO (RP)
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+27.484.367,61024
+25.288.243,14454
+7,99045
+11,70000
+€
+€
+%
+%
+Allegato 2
+ Pag. 5/6
+Modello offerta economica Lotto 6
+Aggiudicatario Teckal Spa (già Consorzio Stabile CMF)
+1 Prezzi dei servizi e canone annuo convenzionale
+1
+ 2
+ 3
+ 4
+ 5
+Px
+ Elemento di prezzo
+ Prezzo unitario a base d'asta
+ Prezzo unitario offerto
+ Q.tà
+6
+Q.tà
+7
+Totale
+A
+ Servizio di climatizzazione invernale
+PA1
+ Riscaldamento invernale
+ 0,00108
+ €/(m3∙GG)
+ 0,00107
+ €/(m3∙GG)
+ 714.482,00
+ m 3
+ 2.468
+PA2
+ Condizionamento invernale
+ 0,00265
+ €/(m3∙GG)
+ 0,00263
+ €/(m3∙GG)
+ 596.907,00
+ m 3
+ 2.468
+B
+ Servizio di climatizzazione estiva
+Condizionamento estivo senza presenza di
+PB1
+ 0,01332
+ €/(m3∙gg)
+ 0,01319
+ €/(m3∙gg)
+ 270.624,00
+ m 3
+ 130
+impianti di ricambio dell’aria
+Condizionamento estivo con impianti di ricambio
+ 3 3 3
+PB2
+ 0,02541
+ €/(m ∙gg)
+ 0,02515
+ €/(m ∙gg)
+ 771.232,00
+ m 150
+dell’aria
+C
+ Altri servizi termici
+Impianto di acqua calda sanitaria e da altre
+ 2
+ 2
+ 2
+PC1
+ 0,99658
+ €/m 0,99000
+ €/m 312.388,00
+ mutenze termiche
+Servizio di gestione degli impianti idrico
+D
+sanitari e reti fognarie
+Impianti idrico-sanitari e di trattamento dell’acqua
+PD1
+ e impianti di trattamento e smaltimento reflui e
+ 3,06101
+ €/m2
+ 3,03000
+ €/m2
+ 318.450,00
+ m 2
+reti fognari
+PD2
+ Impianti di smaltimento delle acque meteoriche
+ 0,29539
+ €/m2
+ 0,29000
+ €/m2
+ 110.067,00
+ m 2
+Punti di erogazione acqua potabile calda e
+ 2
+PD3
+ 150,00000
+ €/Cad
+ 148,50000
+ €/Cad
+ 0,00
+ mfredda CON filtro 0,2 micron (antilegionella)
+E
+ Servizio energia impianti elettrici
+Impianto elettrico nelle strutture ad alta intensità
+ 2
+ 2
+ 2
+PE1
+ 24,01798
+ €/m
+ 23,78000
+ €/m
+ 153.650,00
+ m
+di cura
+Impianto elettrico nelle strutture a media e bassa
+PE2
+ 11,18536
+ €/m
+2
+ 11,07000
+ €/m
+2
+ 227.282,00
+ m
+ 2
+intensità di cura e in altre strutture
+PE3
+ Impianti di illuminazione esterna
+ 0,61108
+ €/m
+2
+ 0,60000
+ €/m
+2
+ 268.219,00
+ m
+ 2
+Apparecchiature per la rigenerazione dei pasti in
+PE4
+ 1.920,61312
+ €/cad.
+ 1.901,41000
+ €/cad.
+ 73,00
+ cad.
+sistemi cook and chill
+PE5
+ Apparecchiature diagnostiche e per terapia fisse
+ 2,56422
+ €/cad.
+ 2,54000
+ €/cad.
+ 65.299,00
+ cad.
+Servizio di gestione degli impianti speciali di
+F
+sicurezza e di comunicazione
+PF1
+ Impianti speciali di sicurezza e di comunicazione
+ 1,45058
+ €/m2
+ 1,09000
+ €/m2
+ 380.932,00
+ m 2
+PF2
+ Impianti televisivi a circuito chiuso
+ 196,41392
+ €/cad.
+ 147,31000
+ €/cad.
+ 349,00
+ cad.
+Servizio di gestione di impianti e sistemi
+G
+antincendio
+PG1
+ Impianti e sistemi di protezione antincendio
+ 0,46946
+ €/m
+2
+ 0,46000
+ €/m
+2
+ 0,00
+ m
+ 2
+PG2
+ Impianti di spegnimento automatico
+ 5,63880
+ €/m
+2
+ 5,58000
+ €/m
+2
+ 400,00
+ m
+ 2
+Servizio di gestione di impianti elevatori e di
+H
+trasporto verticale e orizzontale
+PH1
+ Impianti elevatori (fino a 5 fermate)
+ 851,68084
+ €/cad.
+ 843,16000
+ €/cad.
+ 110,00
+ cad.
+PH2
+ Impianti elevatori (oltre 5 fermate)
+ 1.237,05533
+ €/cad.
+ 1.224,68000
+ €/cad.
+ 60,00
+ cad.
+PH3
+ Servoscala e montascale
+ 341,99949
+ €/cad.
+ 338,58000
+ €/cad.
+ 1,00
+ cad.
+PH4
+ Scale mobili e maciapiedi mobili
+ 1.091,74933
+ €/cad.
+ 1.080,83000
+ €/cad.
+ 4,00
+ cad.
+Servizio di gestione di altri impianti
+J
+tecnologici
+Porte automatiche, sbarre e cancelli
+PJ1
+ 370,78428
+ €/cad.
+ 140,90000
+ €/cad.
+ 392,00
+ cad.
+automatizzati
+PJ2
+ Sistemi di prevenzione della legionellosi
+ 0,44309
+ €/m2
+ 0,20000
+ €/m2
+ 136.041,00
+ m 2
+PJ4
+ Impianti di irrigazione
+ 0,69628
+ €/m2
+ 0,15000
+ €/m2
+ 21.740,00
+ m 2
+PJ5
+ Pozzi di prelievo acqua di falda
+ 158,69354
+ €/cad.
+ 133,30000
+ €/cad.
+ 9,00
+ cad.
+PJ6
+ Elisuperfici
+ 5.744,72734
+ €/cad.
+ 2.010,65000
+ €/cad.
+ 5,00
+ cad.
+PJ7
+ Impianti SOV (Sorveglianza Ostacoli al Volo)
+ 170,98919
+ €/cad.
+ 59,85000
+ €/cad.
+ 3,00
+ cad.
+PJ8
+ Vasche terapeutiche
+ 1.136,72788
+ €/cad.
+ 1.125,36000
+ €/cad.
+ 3,00
+ cad.
+Frigoriferi, frigocongelatori, frigoemoteche, celle
+PJ9
+ 114,34797
+ €/cad.
+ 113,20000
+ €/cad.
+ 504,00
+ cad.
+frigorifere
+PJ10
+ Cappe chimiche, biologiche e a flusso laminare
+ 361,84871
+ €/cad.
+ 249,68000
+ €/cad.
+ 55,00
+ cad.
+PJ11
+ Impianti di posta pneumatica
+ 1.682,93750
+ €/cad.
+ 807,81000
+ €/cad.
+ 2,00
+ cad.
+PJ12
+ Lavapadelle
+ 411,55352
+ €/cad.
+ 201,66000
+ €/cad.
+ 106,00
+ cad.
+PJ13
+ Elettrodomestici vari
+ 31,22705
+ €/cad.
+ 30,91000
+ €/cad.
+ cad.
+L
+ Personale aggiuntivo e squadra antincendio
+PL1
+ Servizio di presidio giornaliero specializzato
+ 66.768,11953
+ n°
+ 53.414,50000
+ n°
+ 10,00
+ n°
+PL2
+ Squadra di pronto intervento antincendio
+ 107.787,58411
+ n°
+ 21.557,52000
+ n°
+ 20,00
+ n°
+GG
+GG
+gg
+gg
+1.886.775,49
+3.874.427,83
+464.038,97
+2.909.472,72
+309.264,12
+964.903,50
+31.919,43
+-
+3.653.797,00
+2.516.011,74
+160.931,40
+138.802,93
+165.859,46
+415.215,88
+51.411,19
+-
+2.232,00
+92.747,60
+73.480,80
+338,58
+4.323,32
+55.232,80
+27.208,20
+3.261,00
+1.199,70
+10.053,25
+179,55
+3.376,08
+57.052,80
+13.732,40
+1.615,62
+21.375,96
+-
+534.145,00
+431.150,40
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+Nota: tutti i prezzisi intendono IVA esclusa
+TOTALE CANONE ANNUO CONVENZIONALE A BASE D'ASTA
+TOTALE CANONE ANNUO CONVENZIONALE DI OFFERTA
+RIBASSO (RP)
+Ribasso sui prezzi dei Listini di riferimento per gli interventi di manutenzione e adeguamento normativo maggiore o uguale al 10%
+21.237.767,93
+18.875.536,72
+11,12278
+20,00000
+€
+€
+%
+%
+Allegato 2
+ Pag. 6/6

@@ -1,0 +1,28 @@
+Verbale di Presa in Consegna
+Inventario sommario dei principali impianti e delle principali apparecchiature presi in consegna e in gestione [1]
+
+Azienda SanitariaDenominazione sedeCodiceIndirizzoCAPProvinciaCittàNumero di edificiData di presa in consegna
+Tipologia di combustibile utilizzato dagli impianti termiciGiacenze di combustibile liquido nei serbatoi
+Volume [litri]
+Valore economico [€]GPLGasolioAltro ...Documentazione consegnata all'AppaltatoreLibretto d'impianto per la climatizzazioneManuali d'uso e manutenzione...Attestati di Prestazione Energetica
+Impianti di climatizzazione invernale e termici integrati alla climatizzazione invenalePunti di consegna del gas da rete pubblicaPunti di consegna teleriscaldamento...Centrale termica di produzione dell'acqua calda del riscaldamentoCentrale termica dell'acqua calda sanitariaQuadri elettrici e di controllo e regolazionePompe, valvole, regolazioni, serbatoi di accumuloApparecchiatura centralizzate per il trattamento dell'acqua
+
+Reti di adduzione del gas metano alle Centrali TermicheSerbatoi di stoccaggio dei combustibili liquidi e reti di adduzione degli
+stessi alle Centrali TermicheCentrali Termiche o, comunque ai punti di utilizzo di tali combustibiliSottocentrali Termiche/TecnologicheCentrali di pressurizzazione dell'acquaReti di distribuzione dell'acqua calda, surridacaldata, di
+teleriscaldamento, di acqua calda e fredda sino all'utilizzatore finale e dispositivi scaldantiCogeneratori/TrigeneratoriProduttori di vapore......Impianti di climatizzazione estiva e termici integrati alla climatizzazione estivaCentrali frigorifereQuadri elettrici e di controllo e regolazionePompe, valvole, regolazioni, serbatoi di accumuloGruppi frigoriferiTorri evaporative e di raffreddamentoPozzi di emulgimento acqua di faldaUnità di trattamento ariaVentilatori, termoventilatori, estrattoriSottocentrali Termiche/TecnologicheVentilconvettori, pannelli radianti, ecc.Unità autonome split, multi-split, VRV, ecc.Gruppi frigoriferi ad assorbiementoReti di distribuzione di acqua reffrigerata e di acqua fredda sino all'utilizzatore finale......Impianti di acqua sanitaria e reti fognarie e di scarico
+
+Punti di consegna acqua da acquedottoPunti di smaltimento acqua bianche e nereCentrali idrichePompe, valvole, regolazioni
+Reti di distribuzione di acqua sanitaria sino all'utilizzatore finaleSistemi di addolcimentoAutoclavi e serbatori di accumuloReti fognarieReti di smaltimento acque meteoricheImpianti di prima pioggia e similiCaditoie, pluvialiPozzetti e tombini......Impianti elettrici di consegna, trasformazione, distribuzione e utilizzoPunti di consegna in BTPunti di consegna in MTCabine elettriche di consegna/trasformazioneImpianti di messa a terraQuadri MTQuadri generali di BTQuadri di edificioQuadri di piano/zona/compartimento/...Quadri di rifasamentoQuadri servizi ausiliari/ecc..Reti di distribuzione in MTReti di distribuzione in BTTrasformatori MT/MT o MT/BT
+
+Gruppi elettrogeni di emergenzaGruppi statici di continuità assolutaSoccorritori e carica batterie......Impianti speciali di sicurezza di comunicazioneCentrali di diffusione sonoraDiffusori di suono, altoparlanti, ecc.Reti e utilizzatori impianti di diffusione sonoraCentrali antintrusione e controllo accessiRivelatori di presenzaRivelatori di effrazioneLettori di schede, badge, prossimità,...Reti e utilizzatori impianti antintrusione e controllo accessiOrologi elettriciImpianto pilota orologi elettriciReti e utilizzatori impianti orologi elettriciImpianti antenna TVSatellitiTelevisori e monitor, decoder...TelecamereImpianti e reti antenna TV e TVccImpianti citofonici e videocitofoniciEliminacodeImpianti di chiamata e retiSistemi interfonici......
+
+Impianti antincendioCentrali idriche antincendioSerbatori di accumuloGruppi di pompaggio antincendioQuadri elettrici e di controllo e regolazione...IdrantiManichette e cassetteNaspi...Estintori a polvereEstintori carrellati a polvereEstintori a gas, acqua, schiuma, CO2Trasformatori MT/MT o MT/BTImpianti di rivelazione incendio e fumoCentrale rivelazione fumiRivelatori ottici o combinatiRivelatori termici o combinatiRivelatori di gasArmadi d'emergenza di compartoPorte e serramenti antincendioEvaquatori di fumo e torriniFiltri a prova di fumo, ...Sistemi di compartimentazione......Altri impianti tecnologiciPorte automatiche
+
+SbarreCancelli auomatici...Impianti di irrigazionePozzi di emulgimento acqua di faldaElisuperfici...Figoriferi per farmaci telecontrollatiFrigocongelatori telecontrollatiFrigoemotecheFrigoriferi variCelle frigorifere...Cappe chimicheCappe biologiche e a flusso laminareTavoli aspirati...Reti impianti di posta pneumaticaStazioni posta pneumaticaLavapadelleVasche terapeutichePiscine terapeuticheFabbricatori di ghiaccioSterilizzatriciFrigoriferi domesticiForni a microndeForni domestici, fornelli, lavastoviglie, lavatrici, cappe da cucina, ...Impianti di irrigazione...
+
+......
+[1] L'elenco non è da considerarsi esaustivo e non solleva l'Appaltatore dalla gestione e manutenzione di tutte le apparecchiature, dei sistemi e sub-sistemi presenti nelle sedi aziendali al fine di conseguire gli obbiettivi dei servizi e della Convenzione secondo le modalità stabilite nel Capitolato tecnico e nel Piano di Manutenzione.Note
+
+
+
+
