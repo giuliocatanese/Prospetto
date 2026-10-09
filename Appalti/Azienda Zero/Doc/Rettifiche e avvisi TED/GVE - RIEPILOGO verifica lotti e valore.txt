@@ -1,0 +1,41 @@
+GVE AZIENDA ZERO — VERIFICA LOTTI E VALORE (ricerca del 23/09/2026)
+====================================================================
+
+FONTE: TED (Tenders Electronic Daily) — ricerca definitiva via API ufficiale.
+Identificativo procedura TED: 070f8b4b-9e19-4eb9-86f0-be9ddeb05718
+ID Sintel: 176837685 — Numero gara: 9436015 — RUP: dott.ssa Sandra Zuzzi (UOC CRAV).
+
+AVVISI UFFICIALI DELLA GARA (tutti su TED, scaricati in questa cartella):
+- 732370-2023 (03/01/2024, OJ S 2/2024) — BANDO originario
+- 104825-2024 (20/02/2024) — Rettifica I (proroga termini)
+- 168266-2024 (20/03/2024, OJ S 57/2024) — Rettifica II
+- 320162-2024 (30/05/2024) — Rettifica III (termine offerte 24/06/2024)
+
+ESITO DELLA VERIFICA — NUMERO LOTTI:
+Tutti e quattro gli avvisi (bando + le 3 rettifiche) riportano in modo coerente
+**6 LOTTI**. Le rettifiche cambiano solo i TERMINI, non la struttura in lotti.
+  Lotto 1 — AO Padova (AOP) + IOV .............. € 119.712.545
+  Lotto 2 — AOUI Verona ........................ € 189.766.329
+  Lotto 3 — ULSS 6 Euganea + Azienda Zero ...... €  68.003.017
+  Lotto 4 — ULSS 7 Pedemontana ................. €  70.238.337
+  Lotto 5 — ULSS 8 Berica ...................... € 171.502.454
+  Lotto 6 — ULSS 9 Scaligera ................... € 132.523.672  (CIG A02D9A71A2)
+  --------------------------------------------------------------
+  VALORE TOTALE STIMATO (IVA escl.) ............ € 751.746.353,41
+
+NOTA SUL "5 LOTTI":
+Nessun documento ufficiale reperibile riduce la gara a 5 lotti. L'unico "5 lotti"
+nei materiali è la VECCHIA gara GETIS (Delibera DG 282 del 12/6/2019, poi con
+esiti giurisdizionali), sostituita dalla GVE a 6 lotti.
+Se la gara è stata effettivamente aggiudicata su 5 lotti (es. un lotto andato
+deserto/non aggiudicato), ciò risulterebbe dall'AVVISO DI AGGIUDICAZIONE
+(aggiudicazione con Decreto DDG n. 658 del 16/09/2025), che NON è pubblicato su
+TED e i cui atti sono disponibili solo sulla piattaforma Sintel (accesso con
+SPID/CIE/CNS — non accessibile automaticamente). Da recuperare a mano per conferma.
+
+Valore su base 5 lotti (escluso il Lotto 6 ULSS 9): € 619.222.681,51.
+
+NOVITÀ COLLEGATA — NUOVA GARA GVE (fase 2):
+- 455567-2026 (02/07/2026, OJ S 125/2026) — AVVISO DI CONSULTAZIONE PRELIMINARE
+  DI MERCATO per la GVE delle Aziende ULSS 1, 2, 3, 4, 5 e ORAS del Veneto
+  (le aziende NON incluse nella prima GVE). È una nuova opportunità futura.
